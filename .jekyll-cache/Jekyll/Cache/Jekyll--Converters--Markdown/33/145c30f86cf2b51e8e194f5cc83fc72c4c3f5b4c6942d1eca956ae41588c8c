@@ -1,0 +1,17 @@
+I"l<p><strong>I designed data visualizations for the Algorithmic Bias project as they published their <a href="https://www.chicagobooth.edu/research/center-for-applied-artificial-intelligence/research/algorithmic-bias">Algorithmic Bias Playbook</a>. This work was conducted through the Center for Applied Artificial Intelligence (<a href="https://www.chicagobooth.edu/research/center-for-applied-artificial-intelligence">CAAI</a>) at the University of Chicago Booth School of Business.</strong></p>
+
+<p>Supervisor: Emily Joy Bembeneck</p>
+
+<p><strong>Description</strong>: 
+Algorithmic bias is everywhere and is difficult to spot. Work done by <a href="https://www.science.org/doi/10.1126/science.aax2342">Obermeyer et al</a> shows that bias exists in commercial algorithms in health care systems, leading to Black patients being unfairly deemed “healthier” than equally sick White patients. This leads to a difference in care and has huge impacts on the health of these patients.</p>
+
+<p><img src="../images/bias-load.png" alt="A line graph" /></p>
+
+<p>I created new versions of the line graphs published in the paper. These versions are static in the playbook, but are interactive in the web release (forthcoming).</p>
+
+<h3 id="repositorieswebsites">Repositories/Websites</h3>
+
+<p><a href="https://github.com/kawilliams/bias-visualizations">Visualization Repository</a>: the code for my visualizations.</p>
+
+<p><a href="https://www.chicagobooth.edu/research/center-for-applied-artificial-intelligence/research/algorithmic-bias">Algorithmic Bias headquarters</a>: the landing page for more information about the work on algorithmic bias.</p>
+:ET

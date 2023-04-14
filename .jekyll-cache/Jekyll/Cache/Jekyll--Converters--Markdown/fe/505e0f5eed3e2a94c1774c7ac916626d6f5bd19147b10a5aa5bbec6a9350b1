@@ -1,0 +1,24 @@
+I"�<p><img src="../images/jupyter-tree-overview.png" alt="A tree visualization in a Jupyter notebook" /></p>
+
+<p><strong>I built an <a href="https://hatchet.readthedocs.io/en/latest/user_guide.html#visualizing-the-data">interactive call tree visualization</a> to supplement the Hatchet library.</strong></p>
+
+<p><strong>Mentor:</strong> Stephanie Brink</p>
+
+<p><strong>Description</strong>: 
+High-performance computer scientists instrument their code at specific areas with <a href="https://github.com/LLNL/Caliper">Caliper</a> to gather performance data as their code runs, so that they can retroactively look at where slowdowns occurred. Then they open a Jupyter notebook and use the Python-based library called <a href="https://github.com/hatchet/hatchet">Hatchet</a> to index the dataframes of their performance data and graph data. The users also want to see a representation of the calling context tree of the program (shown here on the left), which is an output that shows how functions called other functions and how long each function took to execute. To supplement the current terminal-like tree visualization in Hatchet from the previous slide, I built an interactive tree that gives users a way to explore the call tree and extract subtrees from the visualization back into the Jupyter notebook cells using <a href="https://github.com/hdc-arizona/roundtrip">Roundtrip</a>.</p>
+
+<h3 id="papers">Papers</h3>
+<p>S. Brink, I. Lumsden, C. Scully-Allison, K. Williams, O. Pearce, T. Gamblin, M. Taufer, K. E. Isaacs, A. Bhatele, <a href="../papers/2020-brink-usability.pdf">“Usability and Performance Improvements in Hatchet”,</a> 2020 IEEE/ACM International Workshop on HPC User Support Tools (HUST) and Workshop on Programming and Performance Visualization Tools (ProTools), 2020, pp. 49-58, doi: 10.1109/HUSTProtools51951.2020.00013.</p>
+
+<!--C. Scully-Allison, I. Lumsden, K. Williams, J. Bartels, M. Taufer, S. Brink, A. Bhatele, O. Pearce, K. E. Isaacs, Katherine.  
+[Designing an Interactive, Notebook-Embedded, Tree Visualization to Support Exploratory Performance Analysis](https://arxiv.org/abs/2205.04557). Submitted to IEEE VIS 2022-->
+
+<h3 id="repositories">Repositories</h3>
+
+<p><a href="https://github.com/hatchet/hatchet">Hatchet</a>: Hatchet is a Python-based library that allows Pandas dataframes to be indexed by structured tree and graph data. It is intended for analyzing performance data that has a hierarchy (for example, serial or parallel profiles that represent calling context trees, call graphs, nested regions’ timers, etc.).</p>
+<ul>
+  <li><a href="https://github.com/kawilliams/hatchet">My forked version</a> that contains examples of the tree visualizations (under <code class="highlighter-rouge">Roundtrip_Examples/</code>).</li>
+</ul>
+
+<p><a href="https://github.com/hdc-arizona/roundtrip">Roundtrip</a>: An interface for loading Javascript (notably D3 visualizations) into Jupyter notebooks. Supports transferring data from Python Jupyter cells to Javascript – and back.</p>
+:ET

@@ -1,0 +1,891 @@
+{
+  "$schema": "https://vega.github.io/schema/vega/v5.json",
+  "autosize": "pad",
+  "padding": 5,
+  "data": [
+    {"name": "selector124_store"},
+    {"name": "selector122_store"},
+    {"name": "selector123_store"},
+    {
+      "name": "data-1d1d6ba4d725708d662ee24febec5944",
+      "values": [
+        {
+          "Race Portion": "0-15m",
+          "Swimmer & Meet": "2019 Worlds - Dressel",
+          "Velocity (m/s)": 3.19
+        },
+        {
+          "Race Portion": "15-25m",
+          "Swimmer & Meet": "2019 Worlds - Dressel",
+          "Velocity (m/s)": 2.08
+        },
+        {
+          "Race Portion": "25-35m",
+          "Swimmer & Meet": "2019 Worlds - Dressel",
+          "Velocity (m/s)": 2.08
+        },
+        {
+          "Race Portion": "35-50m",
+          "Swimmer & Meet": "2019 Worlds - Dressel",
+          "Velocity (m/s)": 1.88
+        },
+        {
+          "Race Portion": "50-65m",
+          "Swimmer & Meet": "2019 Worlds - Dressel",
+          "Velocity (m/s)": 2.42
+        },
+        {
+          "Race Portion": "65-75m",
+          "Swimmer & Meet": "2019 Worlds - Dressel",
+          "Velocity (m/s)": 1.96
+        },
+        {
+          "Race Portion": "75-85m",
+          "Swimmer & Meet": "2019 Worlds - Dressel",
+          "Velocity (m/s)": 1.89
+        },
+        {
+          "Race Portion": "85-100m",
+          "Swimmer & Meet": "2019 Worlds - Dressel",
+          "Velocity (m/s)": 1.86
+        },
+        {
+          "Race Portion": "0-15m",
+          "Swimmer & Meet": "2016 Olympics - Phelps (leg 2)",
+          "Velocity (m/s)": null
+        },
+        {
+          "Race Portion": "15-25m",
+          "Swimmer & Meet": "2016 Olympics - Phelps (leg 2)",
+          "Velocity (m/s)": null
+        },
+        {
+          "Race Portion": "25-35m",
+          "Swimmer & Meet": "2016 Olympics - Phelps (leg 2)",
+          "Velocity (m/s)": 2.13
+        },
+        {
+          "Race Portion": "35-50m",
+          "Swimmer & Meet": "2016 Olympics - Phelps (leg 2)",
+          "Velocity (m/s)": 1.81
+        },
+        {
+          "Race Portion": "50-65m",
+          "Swimmer & Meet": "2016 Olympics - Phelps (leg 2)",
+          "Velocity (m/s)": 2.56
+        },
+        {
+          "Race Portion": "65-75m",
+          "Swimmer & Meet": "2016 Olympics - Phelps (leg 2)",
+          "Velocity (m/s)": 2.08
+        },
+        {
+          "Race Portion": "75-85m",
+          "Swimmer & Meet": "2016 Olympics - Phelps (leg 2)",
+          "Velocity (m/s)": 1.82
+        },
+        {
+          "Race Portion": "85-100m",
+          "Swimmer & Meet": "2016 Olympics - Phelps (leg 2)",
+          "Velocity (m/s)": 1.83
+        },
+        {
+          "Race Portion": "0-15m",
+          "Swimmer & Meet": "2008 Olympics (Phelps - leadoff)",
+          "Velocity (m/s)": 2.78
+        },
+        {
+          "Race Portion": "15-25m",
+          "Swimmer & Meet": "2008 Olympics (Phelps - leadoff)",
+          "Velocity (m/s)": 2.08
+        },
+        {
+          "Race Portion": "25-35m",
+          "Swimmer & Meet": "2008 Olympics (Phelps - leadoff)",
+          "Velocity (m/s)": 2
+        },
+        {
+          "Race Portion": "35-50m",
+          "Swimmer & Meet": "2008 Olympics (Phelps - leadoff)",
+          "Velocity (m/s)": 1.83
+        },
+        {
+          "Race Portion": "50-65m",
+          "Swimmer & Meet": "2008 Olympics (Phelps - leadoff)",
+          "Velocity (m/s)": 2.42
+        },
+        {
+          "Race Portion": "65-75m",
+          "Swimmer & Meet": "2008 Olympics (Phelps - leadoff)",
+          "Velocity (m/s)": 2.04
+        },
+        {
+          "Race Portion": "75-85m",
+          "Swimmer & Meet": "2008 Olympics (Phelps - leadoff)",
+          "Velocity (m/s)": 2
+        },
+        {
+          "Race Portion": "85-100m",
+          "Swimmer & Meet": "2008 Olympics (Phelps - leadoff)",
+          "Velocity (m/s)": 1.87
+        },
+        {
+          "Race Portion": "0-15m",
+          "Swimmer & Meet": "2008 Olympics  (Bernard - leg 4)",
+          "Velocity (m/s)": null
+        },
+        {
+          "Race Portion": "15-25m",
+          "Swimmer & Meet": "2008 Olympics  (Bernard - leg 4)",
+          "Velocity (m/s)": 2.27
+        },
+        {
+          "Race Portion": "25-35m",
+          "Swimmer & Meet": "2008 Olympics  (Bernard - leg 4)",
+          "Velocity (m/s)": 2.33
+        },
+        {
+          "Race Portion": "35-50m",
+          "Swimmer & Meet": "2008 Olympics  (Bernard - leg 4)",
+          "Velocity (m/s)": 1.93
+        },
+        {
+          "Race Portion": "50-65m",
+          "Swimmer & Meet": "2008 Olympics  (Bernard - leg 4)",
+          "Velocity (m/s)": 2.37
+        },
+        {
+          "Race Portion": "65-75m",
+          "Swimmer & Meet": "2008 Olympics  (Bernard - leg 4)",
+          "Velocity (m/s)": 2
+        },
+        {
+          "Race Portion": "75-85m",
+          "Swimmer & Meet": "2008 Olympics  (Bernard - leg 4)",
+          "Velocity (m/s)": 1.82
+        },
+        {
+          "Race Portion": "85-100m",
+          "Swimmer & Meet": "2008 Olympics  (Bernard - leg 4)",
+          "Velocity (m/s)": 1.74
+        },
+        {
+          "Race Portion": "0-15m",
+          "Swimmer & Meet": "2008 Olympics  (Lezak - leg 4)",
+          "Velocity (m/s)": null
+        },
+        {
+          "Race Portion": "15-25m",
+          "Swimmer & Meet": "2008 Olympics  (Lezak - leg 4)",
+          "Velocity (m/s)": 2.17
+        },
+        {
+          "Race Portion": "25-35m",
+          "Swimmer & Meet": "2008 Olympics  (Lezak - leg 4)",
+          "Velocity (m/s)": 2.22
+        },
+        {
+          "Race Portion": "35-50m",
+          "Swimmer & Meet": "2008 Olympics  (Lezak - leg 4)",
+          "Velocity (m/s)": 1.94
+        },
+        {
+          "Race Portion": "50-65m",
+          "Swimmer & Meet": "2008 Olympics  (Lezak - leg 4)",
+          "Velocity (m/s)": 2.47
+        },
+        {
+          "Race Portion": "65-75m",
+          "Swimmer & Meet": "2008 Olympics  (Lezak - leg 4)",
+          "Velocity (m/s)": 1.96
+        },
+        {
+          "Race Portion": "75-85m",
+          "Swimmer & Meet": "2008 Olympics  (Lezak - leg 4)",
+          "Velocity (m/s)": 1.89
+        },
+        {
+          "Race Portion": "85-100m",
+          "Swimmer & Meet": "2008 Olympics  (Lezak - leg 4)",
+          "Velocity (m/s)": 1.87
+        },
+        {
+          "Race Portion": "0-15m",
+          "Swimmer & Meet": "2019 Worlds (Scott - MR)",
+          "Velocity (m/s)": null
+        },
+        {
+          "Race Portion": "15-25m",
+          "Swimmer & Meet": "2019 Worlds (Scott - MR)",
+          "Velocity (m/s)": null
+        },
+        {
+          "Race Portion": "25-35m",
+          "Swimmer & Meet": "2019 Worlds (Scott - MR)",
+          "Velocity (m/s)": null
+        },
+        {
+          "Race Portion": "35-50m",
+          "Swimmer & Meet": "2019 Worlds (Scott - MR)",
+          "Velocity (m/s)": null
+        },
+        {
+          "Race Portion": "50-65m",
+          "Swimmer & Meet": "2019 Worlds (Scott - MR)",
+          "Velocity (m/s)": 2.45
+        },
+        {
+          "Race Portion": "65-75m",
+          "Swimmer & Meet": "2019 Worlds (Scott - MR)",
+          "Velocity (m/s)": 2.04
+        },
+        {
+          "Race Portion": "75-85m",
+          "Swimmer & Meet": "2019 Worlds (Scott - MR)",
+          "Velocity (m/s)": 1.92
+        },
+        {
+          "Race Portion": "85-100m",
+          "Swimmer & Meet": "2019 Worlds (Scott - MR)",
+          "Velocity (m/s)": 1.85
+        }
+      ]
+    },
+    {
+      "name": "data_1",
+      "source": "data-1d1d6ba4d725708d662ee24febec5944",
+      "transform": [
+        {
+          "type": "filter",
+          "expr": "datum[\"Velocity (m/s)\"] !== null && !isNaN(datum[\"Velocity (m/s)\"])"
+        }
+      ]
+    },
+    {
+      "name": "data_2",
+      "source": "data-1d1d6ba4d725708d662ee24febec5944",
+      "transform": [
+        {
+          "type": "filter",
+          "expr": "datum[\"Velocity (m/s)\"] !== null && !isNaN(datum[\"Velocity (m/s)\"])"
+        }
+      ]
+    },
+    {
+      "name": "data_3",
+      "source": "data-1d1d6ba4d725708d662ee24febec5944",
+      "transform": [
+        {
+          "type": "filter",
+          "expr": "(vlSelectionTest(\"selector122_store\", datum))"
+        }
+      ]
+    },
+    {
+      "name": "data_4",
+      "source": "data-1d1d6ba4d725708d662ee24febec5944",
+      "transform": [
+        {
+          "type": "filter",
+          "expr": "datum[\"Velocity (m/s)\"] !== null && !isNaN(datum[\"Velocity (m/s)\"])"
+        }
+      ]
+    }
+  ],
+  "signals": [
+    {"name": "concat_0_width", "value": 500},
+    {"name": "concat_0_height", "value": 300},
+    {"name": "concat_1_width", "value": 20},
+    {"name": "concat_1_y_step", "value": 20},
+    {
+      "name": "concat_1_height",
+      "update": "bandspace(domain('concat_1_y').length, 1, 0.5) * concat_1_y_step"
+    },
+    {
+      "name": "unit",
+      "value": {},
+      "on": [
+        {"events": "mousemove", "update": "isTuple(group()) ? group() : unit"}
+      ]
+    },
+    {
+      "name": "selector124",
+      "update": "{\"Velocity (m/s)\": selector124_Velocity__m_s_}"
+    },
+    {"name": "selector124_Velocity__m_s_"},
+    {
+      "name": "selector122",
+      "update": "vlSelectionResolve(\"selector122_store\")"
+    },
+    {
+      "name": "selector123",
+      "update": "vlSelectionResolve(\"selector123_store\")"
+    }
+  ],
+  "layout": {"padding": 20, "bounds": "full", "align": "each"},
+  "marks": [
+    {
+      "type": "group",
+      "name": "concat_0_group",
+      "style": "cell",
+      "encode": {
+        "update": {
+          "width": {"signal": "concat_0_width"},
+          "height": {"signal": "concat_0_height"}
+        }
+      },
+      "signals": [
+        {
+          "name": "selector124_Race_Portion",
+          "on": [
+            {
+              "events": {"signal": "selector124_translate_delta"},
+              "update": "panLinear(selector124_translate_anchor.extent_x, -selector124_translate_delta.x / concat_0_width)"
+            },
+            {
+              "events": {"signal": "selector124_zoom_delta"},
+              "update": "zoomLinear(domain(\"concat_0_x\"), selector124_zoom_anchor.x, selector124_zoom_delta)"
+            },
+            {
+              "events": [{"source": "scope", "type": "dblclick"}],
+              "update": "null"
+            }
+          ]
+        },
+        {
+          "name": "selector124_Velocity__m_s_",
+          "on": [
+            {
+              "events": {"signal": "selector124_translate_delta"},
+              "update": "panLinear(selector124_translate_anchor.extent_y, selector124_translate_delta.y / concat_0_height)"
+            },
+            {
+              "events": {"signal": "selector124_zoom_delta"},
+              "update": "zoomLinear(domain(\"concat_0_y\"), selector124_zoom_anchor.y, selector124_zoom_delta)"
+            },
+            {
+              "events": [{"source": "scope", "type": "dblclick"}],
+              "update": "null"
+            }
+          ],
+          "push": "outer"
+        },
+        {
+          "name": "selector124_tuple",
+          "on": [
+            {
+              "events": [
+                {
+                  "signal": "selector124_Race_Portion || selector124_Velocity__m_s_"
+                }
+              ],
+              "update": "selector124_Race_Portion && selector124_Velocity__m_s_ ? {unit: \"concat_0_layer_0_layer_0\", fields: selector124_tuple_fields, values: [selector124_Race_Portion,selector124_Velocity__m_s_]} : null"
+            }
+          ]
+        },
+        {
+          "name": "selector124_tuple_fields",
+          "value": [
+            {"field": "Race Portion", "channel": "x", "type": "E"},
+            {"field": "Velocity (m/s)", "channel": "y", "type": "R"}
+          ]
+        },
+        {
+          "name": "selector124_translate_anchor",
+          "value": {},
+          "on": [
+            {
+              "events": [{"source": "scope", "type": "mousedown"}],
+              "update": "{x: x(unit), y: y(unit), extent_x: domain(\"concat_0_x\"), extent_y: domain(\"concat_0_y\")}"
+            }
+          ]
+        },
+        {
+          "name": "selector124_translate_delta",
+          "value": {},
+          "on": [
+            {
+              "events": [
+                {
+                  "source": "window",
+                  "type": "mousemove",
+                  "consume": true,
+                  "between": [
+                    {"source": "scope", "type": "mousedown"},
+                    {"source": "window", "type": "mouseup"}
+                  ]
+                }
+              ],
+              "update": "{x: selector124_translate_anchor.x - x(unit), y: selector124_translate_anchor.y - y(unit)}"
+            }
+          ]
+        },
+        {
+          "name": "selector124_zoom_anchor",
+          "on": [
+            {
+              "events": [{"source": "scope", "type": "wheel", "consume": true}],
+              "update": "{x: invert(\"concat_0_x\", x(unit)), y: invert(\"concat_0_y\", y(unit))}"
+            }
+          ]
+        },
+        {
+          "name": "selector124_zoom_delta",
+          "on": [
+            {
+              "events": [{"source": "scope", "type": "wheel", "consume": true}],
+              "force": true,
+              "update": "pow(1.001, event.deltaY * pow(16, event.deltaMode))"
+            }
+          ]
+        },
+        {
+          "name": "selector124_modify",
+          "update": "modify(\"selector124_store\", selector124_tuple, true)"
+        },
+        {
+          "name": "selector122_tuple",
+          "on": [
+            {
+              "events": [{"source": "scope", "type": "mouseover"}],
+              "update": "datum && item().mark.marktype !== 'group' ? {unit: \"concat_0_layer_1\", fields: selector122_tuple_fields, values: [(item().isVoronoi ? datum.datum : datum)[\"Race Portion\"]]} : null",
+              "force": true
+            },
+            {
+              "events": [{"source": "scope", "type": "dblclick"}],
+              "update": "null"
+            }
+          ]
+        },
+        {
+          "name": "selector122_tuple_fields",
+          "value": [{"type": "E", "field": "Race Portion"}]
+        },
+        {
+          "name": "selector122_modify",
+          "update": "modify(\"selector122_store\", selector122_tuple, true)"
+        }
+      ],
+      "marks": [
+        {
+          "name": "concat_0_layer_0_layer_0_pathgroup",
+          "type": "group",
+          "from": {
+            "facet": {
+              "name": "faceted_path_concat_0_layer_0_layer_0_main",
+              "data": "data-1d1d6ba4d725708d662ee24febec5944",
+              "groupby": ["Swimmer & Meet"]
+            }
+          },
+          "encode": {
+            "update": {
+              "width": {"field": {"group": "width"}},
+              "height": {"field": {"group": "height"}}
+            }
+          },
+          "marks": [
+            {
+              "name": "concat_0_layer_0_layer_0_marks",
+              "type": "line",
+              "clip": true,
+              "style": ["line"],
+              "sort": {
+                "field": "datum[\"Race Portion\"]",
+                "order": "descending"
+              },
+              "from": {"data": "faceted_path_concat_0_layer_0_layer_0_main"},
+              "encode": {
+                "update": {
+                  "stroke": [
+                    {
+                      "test": "!(length(data(\"selector123_store\"))) || (vlSelectionTest(\"selector123_store\", datum))",
+                      "scale": "color",
+                      "field": "Swimmer & Meet"
+                    },
+                    {"value": "lightgray"}
+                  ],
+                  "x": {
+                    "scale": "concat_0_x",
+                    "field": "Race Portion",
+                    "band": 0.5
+                  },
+                  "y": {"scale": "concat_0_y", "field": "Velocity (m/s)"},
+                  "defined": {
+                    "signal": "datum[\"Velocity (m/s)\"] !== null && !isNaN(datum[\"Velocity (m/s)\"])"
+                  }
+                }
+              }
+            }
+          ]
+        },
+        {
+          "name": "concat_0_layer_0_layer_1_marks",
+          "type": "symbol",
+          "clip": true,
+          "style": ["point"],
+          "from": {"data": "data_1"},
+          "encode": {
+            "update": {
+              "opacity": {"value": 1},
+              "fill": [
+                {
+                  "test": "!(length(data(\"selector123_store\"))) || (vlSelectionTest(\"selector123_store\", datum))",
+                  "scale": "color",
+                  "field": "Swimmer & Meet"
+                },
+                {"value": "lightgray"}
+              ],
+              "x": {
+                "scale": "concat_0_x",
+                "field": "Race Portion",
+                "band": 0.5
+              },
+              "y": {"scale": "concat_0_y", "field": "Velocity (m/s)"},
+              "shape": {"scale": "shape", "field": "Swimmer & Meet"}
+            }
+          }
+        },
+        {
+          "name": "concat_0_layer_1_marks",
+          "type": "symbol",
+          "clip": true,
+          "style": ["point"],
+          "from": {"data": "data-1d1d6ba4d725708d662ee24febec5944"},
+          "encode": {
+            "update": {
+              "opacity": {"value": 0},
+              "size": {"value": 50},
+              "fill": {"value": "transparent"},
+              "stroke": {"value": "#4c78a8"},
+              "x": {
+                "scale": "concat_0_x",
+                "field": "Race Portion",
+                "band": 0.5
+              },
+              "y": {"signal": "concat_0_height", "mult": 0.5}
+            }
+          }
+        },
+        {
+          "name": "concat_0_layer_1_voronoi",
+          "type": "path",
+          "from": {"data": "concat_0_layer_1_marks"},
+          "encode": {
+            "update": {
+              "fill": {"value": "transparent"},
+              "strokeWidth": {"value": 0.35},
+              "stroke": {"value": "transparent"},
+              "isVoronoi": {"value": true}
+            }
+          },
+          "transform": [
+            {
+              "type": "voronoi",
+              "x": {"expr": "datum.datum.x || 0"},
+              "y": {"expr": "datum.datum.y || 0"},
+              "size": [
+                {"signal": "concat_0_width"},
+                {"signal": "concat_0_height"}
+              ]
+            }
+          ]
+        },
+        {
+          "name": "concat_0_layer_2_marks",
+          "type": "symbol",
+          "clip": true,
+          "style": ["point"],
+          "from": {"data": "data_2"},
+          "encode": {
+            "update": {
+              "opacity": [
+                {
+                  "test": "(vlSelectionTest(\"selector122_store\", datum))",
+                  "value": 1
+                },
+                {"value": 0}
+              ],
+              "size": {"value": 50},
+              "fill": {"value": "transparent"},
+              "stroke": [
+                {
+                  "test": "!(length(data(\"selector123_store\"))) || (vlSelectionTest(\"selector123_store\", datum))",
+                  "scale": "color",
+                  "field": "Swimmer & Meet"
+                },
+                {"value": "lightgray"}
+              ],
+              "x": {
+                "scale": "concat_0_x",
+                "field": "Race Portion",
+                "band": 0.5
+              },
+              "y": {"scale": "concat_0_y", "field": "Velocity (m/s)"},
+              "shape": {"scale": "shape", "field": "Swimmer & Meet"}
+            }
+          }
+        },
+        {
+          "name": "concat_0_layer_3_marks",
+          "type": "rule",
+          "clip": true,
+          "style": ["rule"],
+          "from": {"data": "data_3"},
+          "encode": {
+            "update": {
+              "stroke": {"value": "gray"},
+              "x": {
+                "scale": "concat_0_x",
+                "field": "Race Portion",
+                "band": 0.5
+              },
+              "y": {"field": {"group": "height"}},
+              "y2": {"value": 0}
+            }
+          }
+        },
+        {
+          "name": "concat_0_layer_4_marks",
+          "type": "text",
+          "clip": true,
+          "style": ["text"],
+          "from": {"data": "data_4"},
+          "encode": {
+            "update": {
+              "align": {"value": "left"},
+              "dx": {"value": 5},
+              "dy": {"value": -5},
+              "fill": [
+                {
+                  "test": "!(length(data(\"selector123_store\"))) || (vlSelectionTest(\"selector123_store\", datum))",
+                  "scale": "color",
+                  "field": "Swimmer & Meet"
+                },
+                {"value": "lightgray"}
+              ],
+              "x": {
+                "scale": "concat_0_x",
+                "field": "Race Portion",
+                "band": 0.5
+              },
+              "y": {"scale": "concat_0_y", "field": "Velocity (m/s)"},
+              "text": [
+                {
+                  "test": "(vlSelectionTest(\"selector122_store\", datum))",
+                  "signal": "format(datum[\"Velocity (m/s)\"], \"\")"
+                },
+                {"value": " "}
+              ],
+              "baseline": {"value": "middle"}
+            }
+          }
+        }
+      ],
+      "axes": [
+        {
+          "scale": "concat_0_x",
+          "orient": "bottom",
+          "grid": false,
+          "title": "Race Portion",
+          "labelAlign": "right",
+          "labelAngle": 270,
+          "labelBaseline": "middle",
+          "labelOverlap": true,
+          "zindex": 1
+        },
+        {
+          "scale": "concat_0_y",
+          "orient": "left",
+          "grid": false,
+          "title": "Velocity (m/s)",
+          "labelOverlap": true,
+          "tickCount": {"signal": "ceil(concat_0_height/40)"},
+          "zindex": 1
+        },
+        {
+          "scale": "concat_0_y",
+          "orient": "left",
+          "gridScale": "concat_0_x",
+          "grid": true,
+          "tickCount": {"signal": "ceil(concat_0_height/40)"},
+          "domain": false,
+          "labels": false,
+          "maxExtent": 0,
+          "minExtent": 0,
+          "ticks": false,
+          "zindex": 0
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "name": "concat_1_group",
+      "style": "cell",
+      "encode": {
+        "update": {
+          "width": {"signal": "concat_1_width"},
+          "height": {"signal": "concat_1_height"}
+        }
+      },
+      "signals": [
+        {"name": "width", "update": "concat_1_width"},
+        {
+          "name": "selector123_tuple",
+          "on": [
+            {
+              "events": [{"source": "scope", "type": "click"}],
+              "update": "datum && item().mark.marktype !== 'group' ? {unit: \"concat_1\", fields: selector123_tuple_fields, values: [(item().isVoronoi ? datum.datum : datum)[\"Swimmer & Meet\"]]} : null",
+              "force": true
+            },
+            {
+              "events": [{"source": "scope", "type": "dblclick"}],
+              "update": "null"
+            }
+          ]
+        },
+        {
+          "name": "selector123_tuple_fields",
+          "value": [{"type": "E", "field": "Swimmer & Meet"}]
+        },
+        {
+          "name": "selector123_toggle",
+          "value": false,
+          "on": [
+            {
+              "events": [{"source": "scope", "type": "click"}],
+              "update": "event.shiftKey"
+            },
+            {
+              "events": [{"source": "scope", "type": "dblclick"}],
+              "update": "false"
+            }
+          ]
+        },
+        {
+          "name": "selector123_modify",
+          "update": "modify(\"selector123_store\", selector123_toggle ? null : selector123_tuple, selector123_toggle ? null : true, selector123_toggle ? selector123_tuple : null)"
+        }
+      ],
+      "marks": [
+        {
+          "name": "concat_1_marks",
+          "type": "symbol",
+          "style": ["point"],
+          "from": {"data": "data-1d1d6ba4d725708d662ee24febec5944"},
+          "encode": {
+            "update": {
+              "opacity": {"value": 0.7},
+              "size": {"value": 50},
+              "fill": {"value": "transparent"},
+              "stroke": [
+                {
+                  "test": "!(length(data(\"selector123_store\"))) || (vlSelectionTest(\"selector123_store\", datum))",
+                  "scale": "color",
+                  "field": "Swimmer & Meet"
+                },
+                {"value": "lightgray"}
+              ],
+              "x": {"signal": "concat_1_width", "mult": 0.5},
+              "y": {"scale": "concat_1_y", "field": "Swimmer & Meet"},
+              "shape": {"scale": "shape", "field": "Swimmer & Meet"}
+            }
+          }
+        }
+      ],
+      "axes": [
+        {
+          "scale": "concat_1_y",
+          "orient": "right",
+          "grid": false,
+          "title": "Swimmer & Meet",
+          "zindex": 1
+        }
+      ]
+    }
+  ],
+  "scales": [
+    {
+      "name": "color",
+      "type": "ordinal",
+      "domain": {
+        "fields": [
+          {
+            "data": "data-1d1d6ba4d725708d662ee24febec5944",
+            "field": "Swimmer & Meet"
+          },
+          {"data": "data_1", "field": "Swimmer & Meet"},
+          {"data": "data_2", "field": "Swimmer & Meet"},
+          {"data": "data_4", "field": "Swimmer & Meet"}
+        ],
+        "sort": true
+      },
+      "range": "category"
+    },
+    {
+      "name": "shape",
+      "type": "ordinal",
+      "domain": {
+        "fields": [
+          {"data": "data_1", "field": "Swimmer & Meet"},
+          {"data": "data_2", "field": "Swimmer & Meet"},
+          {
+            "data": "data-1d1d6ba4d725708d662ee24febec5944",
+            "field": "Swimmer & Meet"
+          }
+        ],
+        "sort": true
+      },
+      "range": "symbol"
+    },
+    {
+      "name": "concat_0_x",
+      "type": "band",
+      "domain": {
+        "fields": [
+          {
+            "data": "data-1d1d6ba4d725708d662ee24febec5944",
+            "field": "Race Portion"
+          },
+          {"data": "data_1", "field": "Race Portion"},
+          {"data": "data_2", "field": "Race Portion"},
+          {"data": "data_3", "field": "Race Portion"},
+          {"data": "data_4", "field": "Race Portion"}
+        ],
+        "sort": true
+      },
+      "range": [0, {"signal": "concat_0_width"}],
+      "paddingInner": 0,
+      "paddingOuter": 0
+    },
+    {
+      "name": "concat_0_y",
+      "type": "linear",
+      "domain": {
+        "fields": [
+          {
+            "data": "data-1d1d6ba4d725708d662ee24febec5944",
+            "field": "Velocity (m/s)"
+          },
+          {"data": "data_1", "field": "Velocity (m/s)"},
+          {"data": "data_2", "field": "Velocity (m/s)"},
+          {"data": "data_4", "field": "Velocity (m/s)"}
+        ]
+      },
+      "domainRaw": {"signal": "selector124[\"Velocity (m/s)\"]"},
+      "range": [{"signal": "concat_0_height"}, 0],
+      "nice": true,
+      "zero": true
+    },
+    {
+      "name": "concat_1_y",
+      "type": "point",
+      "domain": {
+        "data": "data-1d1d6ba4d725708d662ee24febec5944",
+        "field": "Swimmer & Meet",
+        "sort": true
+      },
+      "range": {"step": {"signal": "concat_1_y_step"}},
+      "padding": 0.5
+    }
+  ]
+}
