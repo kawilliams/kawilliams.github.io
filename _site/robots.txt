@@ -1,1 +1,1 @@
-Sitemap: https://kawilliams.github.io/people/kawilliams/sitemap.xml
+Sitemap: http://hdc.cs.arizona.edu/sitemap.xml

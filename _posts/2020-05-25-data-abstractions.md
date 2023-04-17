@@ -19,5 +19,5 @@ Many data abstraction types, such as networks or set relationships, remain unfam
 ### Papers
 
 A. Bigelow, K. Williams and K. E. Isaacs, 
-"[Guidelines For Pursuing and Revealing Data Abstractions](/people/kawilliams/papers/2020-bigelow-guidelines.pdf)"
+"[Guidelines For Pursuing and Revealing Data Abstractions](/papers/2020-bigelow-guidelines.pdf)"
  in IEEE Transactions on Visualization and Computer Graphics, vol. 27, no. 2, pp. 1503-1513, Feb. 2021, doi: 10.1109/TVCG.2020.3030355. [Presentation from VIS 2020](https://www.youtube.com/watch?v=DhPiHvtgtTI)

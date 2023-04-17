@@ -22,8 +22,8 @@ title: Katy Williams
 email: kawilliams at email dot arizona dot edu
 description: # >- # this means to ignore newlines until "baseurl:"
   Data vis, math, and swimming. Combinations of these are even better.
-baseurl: "/people/kawilliams" # the subpath of your site, e.g. /blog
-url: "https://kawilliams.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://hdc.cs.arizona.edu" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: KT_Williams22
 github_username:  kawilliams
 

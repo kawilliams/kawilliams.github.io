@@ -1,0 +1,110 @@
+### Overall Goals
+
+- Overarching: Make HPC / distributed tools available for Python scientists
+  - Solution involves distributed execution tree... therefore they need to understand that tree and how it relates to performance
+    - Parallelize tasks on execution time
+    - Rebalance tasks on execution time
+    - Understand dependencies in execution time
+    - Where are overheads coming from (Phylanx meeting 3/22/18)
+    - How to choose between direct and indirect execution (Phylanx meeting 3/22/18)
+      - possibly automatically or understand automatic algortihm (20190118-PhylanxPerformanceCall.md)
+
+### Tasks
+
+- overview
+  - 20180420-A1Notes-PhylanxKickOff.md (add a minimap suggestion)
+  - Phylanx skype 3/23/18 (someone will eventually want a timeline, but unintelligible at start)
+
+- find hot path
+  - 20180420-A1Notes-PhylanxKickOff.md
+
+- find hot spots
+  - 20180420-PhylanxKickoffTreeFeedback.md
+
+- understand inclusive / exclusive time (broader goal: understand timing information)
+  - 20180420-A1Notes-PhylanxKickOff.md
+  - 20180420-PhylanxKickoffTreeFeedback.md
+  - 20180727-PhylanxSmallCall.md (R1 notes timing is primary purpose)
+  - Phylanx meeting 2/8/18 (perf counters)
+
+- understand recursion (but no data yet exists)
+  - 20180420-A1Notes-PhylanxKickOff.md
+
+- view details
+  - 20180420-A1Notes-PhylanxKickOff.md
+  - 20180614-PhylWeeklyCall.md
+  - Phylanx meeting 2/8/18 (primitive values on each node, perf counters)
+  - 20190118-PhylanxPerformanceCall.md (on drilling down, R1 & P1)
+
+- want to understand utilization
+  - 20180323-PhylWeeklyCall.md
+  - Phylanx meeting 2/8/18 (perf counters)
+
+- follow dependencies
+  - 20180323-PhylWeeklyCall.md (to find out why there is poorly used time)
+  - 20180420-PhylanxKickoffTreeFeedback.md (to get the critica path after finding the hot spot)
+
+- debug
+    - 20180727-PhylanxSmallCall.md (P1 suggests finding all uses of a variable for scoping debugging)
+    - Phylanx meeting 2/8/18 (want to see values of primitives on each node)
+
+- export / save
+  - 20180420-PhylanxKickoffTreeFeedback.md (R2 & R7)
+  - 20181115-SC18MeetingWithLSU.md (R7)
+
+- relate to code
+  - 20180420-PhylanxKickoffTreeFeedback.md (R2 & R7)
+  - 20180629-PhylanxSmallMeeting.md
+  - 20181115-SC18MeetingWithLSU.md (they don't want original code though or C++ because too much going on, though R3 might want Python)
+
+- find subset
+  - 20180420-PhylanxKickoffTreeFeedback.md (R7 mentions filtering top of tree, zooming, finding particular function)
+  - 20180621-PhylWeeklyCall.md (filter on locality, size of subtree, thread creator type)
+
+- execution tree versus ast??
+  - 20180420-PhylanxKickoffTreeFeedback.md (R7 “one is the crime scene investigation” and “one is the philosopher’s point of view”)
+
+- compare two runs
+  - indirect to direct time runs (Phylanx meeting 3/22/18)
+    - also 20181115-SC18MeetingWithLSU.md
+  - 20190118-PhylanxPerformanceCall.md (R1 notes 2 is sufficient)
+
+- identify primitives of the same type
+  - "bubbles of the same type" 20190118-PhylanxPerformanceCall.md (R1)
+  - identify different types of task 20190201-PhylanxPerformanceWeekly.md (P1 when talking about Gantt)
+
+
+### Visualization-Centric Observations:
+
+- manage size of tree
+  - 20180420-A1Notes-PhylanxKickOff.md (minimap, aggregation)
+  - 20180420-PhylanxKickoffTreeFeedback.md (R7 & P2 debate tree collapsing)
+
+- orientation (figuring out what entire thing means... this was done before code view)
+  - 20180420-PhylanxKickoffTreeFeedback.md (How R7 initially interacts)
+
+- identify common subtrees
+  - Responses to my graph demos (not directly related to a task so this may be for de-clutter?)
+
+- code highlighting
+  - Phylanx meeting 7/19/18
+
+
+### Non-Task feature reqeusts:
+
+- Node aggregation
+  - 20180420-A1Notes-PhylanxKickOff.md
+- Handle recursive calls specially
+  - 20180420-A1Notes-PhylanxKickOff.md
+- Add a minimap
+  - 20180420-A1Notes-PhylanxKickOff.md
+- interact with other detail view
+  - 20180420-A1Notes-PhylanxKickOff.md
+- Juypter integration
+  - 20180323-PhylWeeklyCall.md "they note this moves it from “some ... university project” to “oh, people can actually use this.”"
+  - 20180420-A1Notes-PhylanxKickOff.md
+  - 20181115-SC18MeetingWithLSU.md
+  - Also github integration?
+    - 20180420-PhylanxKickoffTreeFeedback.md
+- Integration with MIL systems
+  - 20190207-PhylanxWeekly.md
