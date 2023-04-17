@@ -1,0 +1,102 @@
+{
+  "config": {"view": {"width": 400, "height": 300}, "mark": {"tooltip": null}},
+  "data": {"name": "data-12d77a2fcea7791b98017b01bc5e3deb"},
+  "mark": "line",
+  "encoding": {
+    "color": {
+      "condition": {
+        "type": "nominal",
+        "field": "Meet",
+        "selection": "selector051"
+      },
+      "value": "lightgray"
+    },
+    "opacity": {
+      "condition": {"value": 1, "selection": "selector051"},
+      "value": 0.6
+    },
+    "shape": {"type": "nominal", "field": "Meet"},
+    "tooltip": [
+      {"type": "nominal", "field": "Meet"},
+      {"type": "quantitative", "field": "Velocity (m/s)"}
+    ],
+    "x": {"type": "ordinal", "field": "Race Portion"},
+    "y": {"type": "quantitative", "field": "Velocity (m/s)"}
+  },
+  "height": 300,
+  "selection": {
+    "selector051": {
+      "type": "single",
+      "on": "mouseover",
+      "fields": ["Meet"],
+      "nearest": true
+    },
+    "selector052": {
+      "type": "interval",
+      "bind": "scales",
+      "encodings": ["x", "y"]
+    }
+  },
+  "width": 600,
+  "$schema": "https://vega.github.io/schema/vega-lite/v3.4.0.json",
+  "datasets": {
+    "data-12d77a2fcea7791b98017b01bc5e3deb": [
+      {
+        "Race Portion": "0-15m",
+        "Meet": "2016 Olympics",
+        "Velocity (m/s)": 3.13
+      },
+      {
+        "Race Portion": "15-35m",
+        "Meet": "2016 Olympics",
+        "Velocity (m/s)": 2.13
+      },
+      {"Race Portion": "25-35m", "Meet": "2016 Olympics", "Velocity (m/s)": 2},
+      {
+        "Race Portion": "35-50m",
+        "Meet": "2016 Olympics",
+        "Velocity (m/s)": 1.8
+      },
+      {
+        "Race Portion": "50-65m",
+        "Meet": "2016 Olympics",
+        "Velocity (m/s)": 2.32
+      },
+      {
+        "Race Portion": "65-75m",
+        "Meet": "2016 Olympics",
+        "Velocity (m/s)": 2.04
+      },
+      {
+        "Race Portion": "75-85m",
+        "Meet": "2016 Olympics",
+        "Velocity (m/s)": 1.96
+      },
+      {
+        "Race Portion": "85-100m",
+        "Meet": "2016 Olympics",
+        "Velocity (m/s)": 1.72
+      },
+      {"Race Portion": "0-15m", "Meet": "2017 Worlds", "Velocity (m/s)": 3.13},
+      {"Race Portion": "15-35m", "Meet": "2017 Worlds", "Velocity (m/s)": 2.13},
+      {"Race Portion": "25-35m", "Meet": "2017 Worlds", "Velocity (m/s)": 2.13},
+      {"Race Portion": "35-50m", "Meet": "2017 Worlds", "Velocity (m/s)": 1.85},
+      {"Race Portion": "50-65m", "Meet": "2017 Worlds", "Velocity (m/s)": 2.42},
+      {"Race Portion": "65-75m", "Meet": "2017 Worlds", "Velocity (m/s)": 1.92},
+      {"Race Portion": "75-85m", "Meet": "2017 Worlds", "Velocity (m/s)": 1.89},
+      {
+        "Race Portion": "85-100m",
+        "Meet": "2017 Worlds",
+        "Velocity (m/s)": 1.84
+      },
+      {"Race Portion": "0-15m", "Meet": "2019 Worlds", "Velocity (m/s)": 3.19},
+      {"Race Portion": "15-35m", "Meet": "2019 Worlds", "Velocity (m/s)": 2.08},
+      {"Race Portion": "25-35m", "Meet": "2019 Worlds", "Velocity (m/s)": 2.08},
+      {"Race Portion": "35-50m", "Meet": "2019 Worlds", "Velocity (m/s)": 1.88},
+      {"Race Portion": "50-65m", "Meet": "2019 Worlds", "Velocity (m/s)": 2.42},
+      {"Race Portion": "65-75m", "Meet": "2019 Worlds", "Velocity (m/s)": 1.96},
+      {"Race Portion": "75-85m", "Meet": "2019 Worlds", "Velocity (m/s)": 1.89},
+      {"Race Portion": "85-100m", "Meet": "2019 Worlds", "Velocity (m/s)": 1.86}
+    ]
+  }
+}
