@@ -1,1 +1,1 @@
-Sitemap: http://hdc.cs.arizona.edu/people/kawilliams/sitemap.xml
+Sitemap: http://localhost:4000/people/kawilliams/sitemap.xml
