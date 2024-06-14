@@ -6,7 +6,7 @@ permalink: about
 
 
 
-![Dr. Katy Williams](./img/Katy%20Williams_0001.jpg)
+![Dr. Katy Williams](./img/Katy_Williams_0001.jpg)
 # Katy Williams
 I’m an Assistant Professor of Computer Science at [Davidson College](https://www.davidson.edu/people/katy-williams). I received my Ph.D. in Computer Science from the University of Arizona in May 2023. I previously worked in the HDC lab with [Kate Isaacs](https://kisaacs.github.io/) and [Alex Bigelow](https://alex-r-bigelow.github.io/). My research is in data visualization, a creative side of computer science where I can learn about interesting datasets while also building beautiful charts and graphs to aid understanding of the data. As part of my research, I have built visualizations for technical, high-performance computing data and have also published work on people’s sketches of data and how they think about a dataset. My research involves thinking about how people think about data. I like questions such as “What if instead of imagining your data as abstraction X, you tried abstraction Y?” and “In your opinion, what is the most interesting part of the data?”
 
