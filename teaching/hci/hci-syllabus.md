@@ -3,14 +3,28 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: default
-title: CSC 362 Human Computer Interaction
-permalink: teaching/hci
+title: Syllabus: CSC 362
+description: Human Computer Interaction
+permalink: teaching/hci/syllabus
 ---
 
 # CSC 362 Syllabus 
 The field of Human Computer Interaction (HCI) encompasses the design, implementation, and evaluation of interactive computing systems. This course will provide a survey of HCI theory and will provide web-based implementation practice of these theories. The course will address the presentation of information and the design of interaction from a practical, human-centered perspective. Through a combination of technical topics in interface and interaction design, students will explore the capabilities and limits of both humans and computers.
 
 Human-computer interaction combines computer science, psychology, sociology, design, and art into one discipline. In this course, we will explore how to center the human experience in all kinds of computing, including designing for all humans (not just one kind of user). Though computers are relatively new, there is a rich history of the interactions between computers and humans, so I plan to delve into both the inspiring and inadvertently troubling. We will connect these historical lessons to practice, as students will engage in a deliberate design process as they create interfaces. This reflexive design approach will help students develop and apply humane instincts to the field of computer science.
+
+## Instructor
+Dr. Katy Williams, Assistant Professor of Computer Science
+kawilliams@davidson.edu
+Watson 232
+
+## Office Hours
+TBD
+
+## Tech and Textbooks
+* **Moodle**: Course grades will be displayed on Moodle
+* **Required textbooks**: None. All readings will be posted to this website
+
 
 **Prerequisite: CSC 221**
 
@@ -26,6 +40,15 @@ Human-computer interaction combines computer science, psychology, sociology, des
 - Students will create and conduct a simple usability test for an existing software application
 - Students will collaboratively create a simple application with help and documentation that supports a graphical user interface.
 - Students will conduct a quantitative evaluation and discuss/report the results
+
+
+## Course Schedule and Major Deadlines
+See our course schedule here:
+* There are no exams in this course
+* The most significant deadlines are the group project deadlines
+
+
+
 
 ## Evaluation (course breakdown)
 Scheduled Research Reflections (blog posts) – 20%
