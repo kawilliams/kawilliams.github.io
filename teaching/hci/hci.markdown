@@ -8,7 +8,7 @@ description: Human Computer Interaction
 permalink: teaching/hci
 ---
 
-# [Syllabus](./syllabi/hci-syllabus.md)
+# [Syllabus](./hci-syllabus)
 
 # About this course 
 The field of Human Computer Interaction (HCI) encompasses the design, implementation, and evaluation of interactive computing systems. This course will provide a survey of HCI theory and will provide web-based implementation practice of these theories. The course will address the presentation of information and the design of interaction from a practical, human-centered perspective. Through a combination of technical topics in interface and interaction design, students will explore the capabilities and limits of both humans and computers.
