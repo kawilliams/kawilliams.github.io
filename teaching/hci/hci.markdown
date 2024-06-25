@@ -47,7 +47,7 @@ You will be individually responsible for some homework assignments, participatio
 | Objective | Weight | Description                     |
 |-----------|--------|---------------------------------|
 |           | 20%    | [Individual homework assignments](/teaching/hci/assignments/homework) |
-|           | 5%     | Engagement and critique         |
+|           | 5%     | [Engagement and critique](/teaching/hci/engagement)         |
 |           | 40%    | Group design activities         |
 |           | 20%    | Final project                   |
 |           | 15%    | Oral exam                       |

@@ -20,6 +20,6 @@ sprints.
 | Title | Topic | Who | Weight | Due | 
 |-------|-------|-----|--------|-----|
 | 1. [Good/Bad Design](./good-bad-design.md) | Human-Centered Design Process | You | 10% | 8/30 | 
-| 2. Needfinding for Health Design | Needfinding | You | 30% | 9/6 | 
-| 3. Health Design | Paper Prototyping | You | 40% | 9/13 | 
-| 4. Campus Accessibility | Accessible Design | You | 20% | 10/16 | 
+| 2. [Needfinding for Health Design](./needfinding.md) | Needfinding | You | 30% | 9/6 | 
+| 3. [Health Design](./healthdesign.md) | Paper Prototyping | You | 40% | 9/13 | 
+| 4. [Campus Accessibility](./accessibility.md) | Accessible Design | You | 20% | 10/16 | 
