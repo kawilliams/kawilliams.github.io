@@ -1,0 +1,109 @@
+
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <script src="https://cdn.jsdelivr.net/npm/vega@5"></script>
+  <script src="https://cdn.jsdelivr.net/npm/vega-embed@5"></script>
+  <title>Caeleb Dressel's acceleration</title>
+  <style>
+    h2, h3 {
+      font-family: Arial;
+    }
+    p {
+      font-family: Arial;
+    }
+    div {
+      max-width: 1000px;
+    }
+  </style>
+</head>
+<body>
+  <h2>Plotting Dressel's Acceleration</h2>
+  <p>By <a href="http://hdc.cs.arizona.edu/people/kawilliams/">Katy Williams</a></p>
+  <div>
+    <p>Thanks to some serious <a href="https://swimswam.com/does-caeleb-dressel-accelerate-a-statistical-video-based-look/">YouTube stopwatching voodoo by Charge Schmerker</a>,
+  I plotted Caeleb Dressel's velocities at the different sections of his races. I reiterated much of his analysis here, to help tell the story of the graphs, but added my own take to some of them. In all of these graphs, higher is better (faster).</p>
+    <p>Hover over the graph to see the exact velocities and to single out a single race. Zoom in by scrolling on a graph to rescale the axes. Note: graph works in Chrome, Firefox, and Safari.</p>
+  </div>
+  <div>
+    <h3>100 Free and 100 Fly</h3>
+    <p>Below left is a plot of Dressel's 100 Free velocities at the 2016 Olympics, 2017 World Champs, and 2019 World Champs. Below right is a plot of Dressel's 100 Fly velocities at 2017 & 2019 World Champs.</p>
+  </div>
+  <div id="view"></div>
+  <div>
+    <p>Schmerker points out the consistency in Dressel's speed in the last 35m (65-100m) in both his 2017 and 2019 100 Free races, as compared to the 2016 Olympics when he slows in the 85-100m segment. He keeps this consistency in the 100 Fly in 2017 and 2019, although there's some slowdown in 2019 during the last 25m since he took it out significantly faster than in 2017.</p>
+    <p>For all you novice flipturners out there, the steepness of the spike in the 100 Free at the 50-65m mark compared to the 100 Fly provide strong evidence why flipturns are faster than touch turns. Dressel is able to carry his momentum through his flip much easier than when he two-hand touches the wall. The difference? 2.4 m/s compared to 2.1 m/s, which means his flipturn is about 15% faster than his open turn.</p>
+  </div>
+  <br />
+  <div>
+    <h3>Dressel's 50 Free and 50 Fly</h3>
+    <p>This is a fun one. Below is a comparison of Dressel's 50 Free from 2017 and 2019 Worlds and his 50 Fly from 2019 Worlds thrown in for fun.</p>
+    <div id="view-50"></div>
+    <p>I say "fun" because he starts out his 50 Fly with more speed than his 2017 Worlds 50 Free, which probably has to do with his phenomenal underwater dolphin kick. My guess is when you look at the video, Dressel is staying underwater longer for his 50 fly and that gave him a 0.06 speed advantage. Or it's a result of human timing... but that's less fun to hypothesize about. </p>
+    <p>Schmerker notes that Dressel doesn't accelerate at all during his 50's, which makes sense because there's not a ton of time or room to hold back at all. Dressel does a better job maintaining his speed in fly than free</p>
+  </div>
+  <br />
+  <div>
+    <h3>Dressel vs. Chalmers (2019), Dressel vs. Adrian/Metella (2017)</h3>
+    <p>Now Schmerker compares Dressel to Kyle Chalmers, in their 2019 100 Free race, and to Nathan Adrian and France's Mehdy Metella in their 2017 100 Free race.</p>
+    <div id="chalmers"></div>
+    <p>The graph of Chalmers and Dressel clearly shows both of their strengths: Dressel's amazing start and Chalmers ability to power through a finish. Other than the start and finish, these two swimmers keep consistent speed and swim nearly identical races.</p>
+    <p>The graph of Dressel/Adrian/Metella again highlights Dressel's start. As Schmerker points out, Metella and Adrian close the gap over 35-50m, Adrian loses a bit on his turn, and the three are generally consistent over the last 35m except Metella falling off a little in the 85-100m portion.</p>
+  </div>
+  <br />
+  <div>
+    <h3>Dressel vs. The 100 Free Best</h3>
+    <p>Here we compare Dressel to Cesar Cielo, Cameron McEvoy, and James Magnussen. Click on the icons on the legend to only see one swimmer at a time, or shift+click to compare a subset of swimmers.</p>
+    <div id="FrBest"></div>
+    <p>To me, the variability in the first 35m tells an interesting story. Cielo has a more consistent front half, likely because supersuits were still legal and helped maintain speed. But this effect is lost by the 25m mark, when Dressel essentially matches him. On the backhalf, McEvoy and Magnussen have great rates 65-85m but Cielo and Dressel are better able to maintain their speed in the last 15m.</p>
+  </div>
+  <br />
+  <div>
+    <h3>Dressel vs. The 100 Fly Best</h3>
+    <p>Below we compare Dressel to Michael Phelps, Milorad Cavic, Kristof Milak, and Joseph Schooling. Click on the icons on the legend to only see one swimmer at a time, or shift+click on an icon to compare a subset of swimmers.</p>
+    <div id="FlyBest"></div>
+    <p>If you select the Cavic or Schooling icons, you can see how painful an all-out 100 fly can be. Schooling has a better turn but pays for it soon after in the 65-75m region. Comparing Phelps and Milak shows a similar race plan -- it would be cool to compare Phelps' 200 fly old WR swim to Milak's world record swim at 2019 worlds. Milak has the best closing speed, followed closely by Dressel and Phelps.</p>
+  </div>
+  <br />
+  <div>
+    <h3>Historical 100 Freestyle Swims</h3>
+    <p>Below is the comparison across history: Michael Phelps, Jason Lezak, Alain Bernard, Scott, and Dressel in the 100 LCM free. Some of these swims are relay legs when noted, and so Schmerker didn't count the first 15m (since a relay start provides an advantage). Click on the icons on the legend to only see one swimmer at a time, or shift+click on the icons to compare a subset of swimmers.</p>
+  </div>
+  <div id="view-history"></div>
+  <script type='text/javascript'>
+    /* Thanks to Mike Bostock https://bl.ocks.org/domoritz/cd636b15fa0e187b51b73fc60b4d3014 */
+    const spec = "dressel.vg.json";
+    vegaEmbed("#view", spec)
+      .then(result => console.log(result))
+      .catch(console.warn);
+
+
+    const spec50 = "dressel-50.vg.json";
+    vegaEmbed("#view-50", spec50)
+      .then(result50 => console.log("50: ", result50))
+      .catch(console.warn);
+
+    const specChalmers = "dressel-chalmers.vg.json";
+    vegaEmbed("#chalmers", specChalmers)
+      .then(resultChalmers => console.log("Chalmers: ", resultChalmers))
+      .catch(console.warn);
+
+    const specFrBest = "dressel-100fr-best.vg.json";
+    vegaEmbed("#FrBest", specFrBest)
+      .then(resultFrBest=> console.log("FrBest: ", resultFrBest))
+      .catch(console.warn);
+
+    const specFlyBest = "dressel-100fly-best.vg.json";
+    vegaEmbed("#FlyBest", specFlyBest)
+      .then(resultFlyBest=> console.log("FrBest: ", resultFlyBest))
+      .catch(console.warn);
+
+      /* Thanks to https://altair-viz.github.io/gallery/multiline_tooltip.html*/
+    const specHist = "dressel-history.vg.json";
+    vegaEmbed("#view-history", specHist)
+      .then(resultHist => console.log("hist: ", resultHist))
+      .catch(console.warn);
+  </script>
+</body>
+</html>

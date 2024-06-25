@@ -12,6 +12,6 @@ I’m an Assistant Professor of Computer Science at [Davidson College](https://w
 
 I strive to make computer science an inclusive, welcoming environment by mentoring women+ in CS, hosting department-wide social events, and leading the Student Volunteers at the IEEE VIS Conference.
 
-Before attending the University of Arizona in the August 2017, I graduated from Davidson College in North Carolina with a B.S. in Computer Science and a Math minor. I was a Division I swimmer in college and swam at the 2016 Olympic Trials in the 100m and 200m breaststrokes. I like to make swim visualizations in my free time, like plotting Caeleb Dressel’s accelerations.
+Before attending the University of Arizona in the August 2017, I graduated from Davidson College in North Carolina with a B.S. in Computer Science and a Math minor. I was a Division I swimmer in college and swam at the 2016 Olympic Trials in the 100m and 200m breaststrokes. I like to make swim visualizations in my free time, like [plotting Caeleb Dressel’s accelerations](/swim/dressel-acceleration.html).
 
 ### Dissertation: It’s a Jungle Out There: Data Abstractions and Mental Models ([PDF](./resources/dissertation.pdf)) ([video](https://www.youtube.com/watch?v=8KCuzEXApMA))

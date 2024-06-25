@@ -1,0 +1,891 @@
+{
+  "$schema": "https://vega.github.io/schema/vega/v5.json",
+  "autosize": "pad",
+  "padding": 5,
+  "height": 180,
+  "data": [
+    {"name": "selector025_store"},
+    {"name": "selector027_store"},
+    {"name": "selector026_store"},
+    {"name": "selector028_store"},
+    {
+      "name": "data-0f0969573c146ee970006c47df36eb40",
+      "values": [
+        {"Race Portion": "0-15m", "Swimmer": "Dressel", "Velocity (m/s)": 3.19},
+        {
+          "Race Portion": "15-35m",
+          "Swimmer": "Dressel",
+          "Velocity (m/s)": 2.08
+        },
+        {
+          "Race Portion": "25-35m",
+          "Swimmer": "Dressel",
+          "Velocity (m/s)": 2.08
+        },
+        {
+          "Race Portion": "35-50m",
+          "Swimmer": "Dressel",
+          "Velocity (m/s)": 1.88
+        },
+        {
+          "Race Portion": "50-65m",
+          "Swimmer": "Dressel",
+          "Velocity (m/s)": 2.42
+        },
+        {
+          "Race Portion": "65-75m",
+          "Swimmer": "Dressel",
+          "Velocity (m/s)": 1.96
+        },
+        {
+          "Race Portion": "75-85m",
+          "Swimmer": "Dressel",
+          "Velocity (m/s)": 1.89
+        },
+        {
+          "Race Portion": "85-100m",
+          "Swimmer": "Dressel",
+          "Velocity (m/s)": 1.86
+        },
+        {
+          "Race Portion": "0-15m",
+          "Swimmer": "Chalmers",
+          "Velocity (m/s)": 2.88
+        },
+        {
+          "Race Portion": "15-35m",
+          "Swimmer": "Chalmers",
+          "Velocity (m/s)": 2.04
+        },
+        {
+          "Race Portion": "25-35m",
+          "Swimmer": "Chalmers",
+          "Velocity (m/s)": 2.13
+        },
+        {
+          "Race Portion": "35-50m",
+          "Swimmer": "Chalmers",
+          "Velocity (m/s)": 1.85
+        },
+        {
+          "Race Portion": "50-65m",
+          "Swimmer": "Chalmers",
+          "Velocity (m/s)": 2.41
+        },
+        {
+          "Race Portion": "65-75m",
+          "Swimmer": "Chalmers",
+          "Velocity (m/s)": 1.96
+        },
+        {
+          "Race Portion": "75-85m",
+          "Swimmer": "Chalmers",
+          "Velocity (m/s)": 1.92
+        },
+        {
+          "Race Portion": "85-100m",
+          "Swimmer": "Chalmers",
+          "Velocity (m/s)": 1.96
+        }
+      ]
+    },
+    {
+      "name": "data-29495aa2f630b630be74d1a8ff332367",
+      "values": [
+        {"Race Portion": "0-15m", "Swimmer": "Dressel", "Velocity (m/s)": 3.19},
+        {
+          "Race Portion": "15-35m",
+          "Swimmer": "Dressel",
+          "Velocity (m/s)": 2.13
+        },
+        {
+          "Race Portion": "25-35m",
+          "Swimmer": "Dressel",
+          "Velocity (m/s)": 2.08
+        },
+        {
+          "Race Portion": "35-50m",
+          "Swimmer": "Dressel",
+          "Velocity (m/s)": 1.85
+        },
+        {
+          "Race Portion": "50-65m",
+          "Swimmer": "Dressel",
+          "Velocity (m/s)": 2.46
+        },
+        {
+          "Race Portion": "65-75m",
+          "Swimmer": "Dressel",
+          "Velocity (m/s)": 1.92
+        },
+        {
+          "Race Portion": "75-85m",
+          "Swimmer": "Dressel",
+          "Velocity (m/s)": 1.85
+        },
+        {
+          "Race Portion": "85-100m",
+          "Swimmer": "Dressel",
+          "Velocity (m/s)": 1.84
+        },
+        {"Race Portion": "0-15m", "Swimmer": "Metella", "Velocity (m/s)": 2.94},
+        {
+          "Race Portion": "15-35m",
+          "Swimmer": "Metella",
+          "Velocity (m/s)": 2.13
+        },
+        {"Race Portion": "25-35m", "Swimmer": "Metella", "Velocity (m/s)": 2},
+        {
+          "Race Portion": "35-50m",
+          "Swimmer": "Metella",
+          "Velocity (m/s)": 1.92
+        },
+        {
+          "Race Portion": "50-65m",
+          "Swimmer": "Metella",
+          "Velocity (m/s)": 2.46
+        },
+        {
+          "Race Portion": "65-75m",
+          "Swimmer": "Metella",
+          "Velocity (m/s)": 1.92
+        },
+        {
+          "Race Portion": "75-85m",
+          "Swimmer": "Metella",
+          "Velocity (m/s)": 1.89
+        },
+        {
+          "Race Portion": "85-100m",
+          "Swimmer": "Metella",
+          "Velocity (m/s)": 1.73
+        },
+        {"Race Portion": "0-15m", "Swimmer": "Adrian", "Velocity (m/s)": 2.88},
+        {"Race Portion": "15-35m", "Swimmer": "Adrian", "Velocity (m/s)": 2.08},
+        {"Race Portion": "25-35m", "Swimmer": "Adrian", "Velocity (m/s)": 1.96},
+        {"Race Portion": "35-50m", "Swimmer": "Adrian", "Velocity (m/s)": 1.95},
+        {"Race Portion": "50-65m", "Swimmer": "Adrian", "Velocity (m/s)": 2.34},
+        {"Race Portion": "65-75m", "Swimmer": "Adrian", "Velocity (m/s)": 1.92},
+        {"Race Portion": "75-85m", "Swimmer": "Adrian", "Velocity (m/s)": 1.89},
+        {"Race Portion": "85-100m", "Swimmer": "Adrian", "Velocity (m/s)": 1.84}
+      ]
+    },
+    {
+      "name": "data_1",
+      "source": "data-0f0969573c146ee970006c47df36eb40",
+      "transform": [
+        {
+          "type": "filter",
+          "expr": "datum[\"Velocity (m/s)\"] !== null && !isNaN(datum[\"Velocity (m/s)\"])"
+        }
+      ]
+    },
+    {
+      "name": "data_3",
+      "source": "data-29495aa2f630b630be74d1a8ff332367",
+      "transform": [
+        {
+          "type": "filter",
+          "expr": "datum[\"Velocity (m/s)\"] !== null && !isNaN(datum[\"Velocity (m/s)\"])"
+        }
+      ]
+    }
+  ],
+  "signals": [
+    {"name": "concat_0_width", "value": 350},
+    {"name": "concat_1_width", "value": 350},
+    {
+      "name": "unit",
+      "value": {},
+      "on": [
+        {"events": "mousemove", "update": "isTuple(group()) ? group() : unit"}
+      ]
+    },
+    {
+      "name": "selector025",
+      "update": "vlSelectionResolve(\"selector025_store\")"
+    },
+    {
+      "name": "selector027",
+      "update": "{\"Velocity (m/s)\": selector027_Velocity__m_s_}"
+    },
+    {"name": "selector027_Velocity__m_s_"},
+    {
+      "name": "selector026",
+      "update": "vlSelectionResolve(\"selector026_store\")"
+    },
+    {
+      "name": "selector028",
+      "update": "{\"Velocity (m/s)\": selector028_Velocity__m_s_}"
+    },
+    {"name": "selector028_Velocity__m_s_"}
+  ],
+  "layout": {"padding": 20, "bounds": "full", "align": "each"},
+  "marks": [
+    {
+      "type": "group",
+      "name": "concat_0_group",
+      "title": {
+        "text": "Dressel vs. Chalmers @ 100 Free - 2019 Worlds",
+        "frame": "group"
+      },
+      "style": "cell",
+      "encode": {
+        "update": {
+          "width": {"signal": "concat_0_width"},
+          "height": {"signal": "height"}
+        }
+      },
+      "signals": [
+        {
+          "name": "selector025_tuple",
+          "on": [
+            {
+              "events": [{"source": "scope", "type": "mouseover"}],
+              "update": "datum && item().mark.marktype !== 'group' ? {unit: \"concat_0_layer_0\", fields: selector025_tuple_fields, values: [(item().isVoronoi ? datum.datum : datum)[\"Swimmer\"]]} : null",
+              "force": true
+            },
+            {
+              "events": [{"source": "scope", "type": "dblclick"}],
+              "update": "null"
+            }
+          ]
+        },
+        {
+          "name": "selector025_tuple_fields",
+          "value": [{"type": "E", "field": "Swimmer"}]
+        },
+        {
+          "name": "selector025_modify",
+          "update": "modify(\"selector025_store\", selector025_tuple, true)"
+        },
+        {
+          "name": "selector027_Race_Portion",
+          "on": [
+            {
+              "events": {"signal": "selector027_translate_delta"},
+              "update": "panLinear(selector027_translate_anchor.extent_x, -selector027_translate_delta.x / concat_0_width)"
+            },
+            {
+              "events": {"signal": "selector027_zoom_delta"},
+              "update": "zoomLinear(domain(\"concat_0_x\"), selector027_zoom_anchor.x, selector027_zoom_delta)"
+            },
+            {
+              "events": [{"source": "scope", "type": "dblclick"}],
+              "update": "null"
+            }
+          ]
+        },
+        {
+          "name": "selector027_Velocity__m_s_",
+          "on": [
+            {
+              "events": {"signal": "selector027_translate_delta"},
+              "update": "panLinear(selector027_translate_anchor.extent_y, selector027_translate_delta.y / height)"
+            },
+            {
+              "events": {"signal": "selector027_zoom_delta"},
+              "update": "zoomLinear(domain(\"concat_0_y\"), selector027_zoom_anchor.y, selector027_zoom_delta)"
+            },
+            {
+              "events": [{"source": "scope", "type": "dblclick"}],
+              "update": "null"
+            }
+          ],
+          "push": "outer"
+        },
+        {
+          "name": "selector027_tuple",
+          "on": [
+            {
+              "events": [
+                {
+                  "signal": "selector027_Race_Portion || selector027_Velocity__m_s_"
+                }
+              ],
+              "update": "selector027_Race_Portion && selector027_Velocity__m_s_ ? {unit: \"concat_0_layer_0\", fields: selector027_tuple_fields, values: [selector027_Race_Portion,selector027_Velocity__m_s_]} : null"
+            }
+          ]
+        },
+        {
+          "name": "selector027_tuple_fields",
+          "value": [
+            {"field": "Race Portion", "channel": "x", "type": "E"},
+            {"field": "Velocity (m/s)", "channel": "y", "type": "R"}
+          ]
+        },
+        {
+          "name": "selector027_translate_anchor",
+          "value": {},
+          "on": [
+            {
+              "events": [{"source": "scope", "type": "mousedown"}],
+              "update": "{x: x(unit), y: y(unit), extent_x: domain(\"concat_0_x\"), extent_y: domain(\"concat_0_y\")}"
+            }
+          ]
+        },
+        {
+          "name": "selector027_translate_delta",
+          "value": {},
+          "on": [
+            {
+              "events": [
+                {
+                  "source": "window",
+                  "type": "mousemove",
+                  "consume": true,
+                  "between": [
+                    {"source": "scope", "type": "mousedown"},
+                    {"source": "window", "type": "mouseup"}
+                  ]
+                }
+              ],
+              "update": "{x: selector027_translate_anchor.x - x(unit), y: selector027_translate_anchor.y - y(unit)}"
+            }
+          ]
+        },
+        {
+          "name": "selector027_zoom_anchor",
+          "on": [
+            {
+              "events": [{"source": "scope", "type": "wheel", "consume": true}],
+              "update": "{x: invert(\"concat_0_x\", x(unit)), y: invert(\"concat_0_y\", y(unit))}"
+            }
+          ]
+        },
+        {
+          "name": "selector027_zoom_delta",
+          "on": [
+            {
+              "events": [{"source": "scope", "type": "wheel", "consume": true}],
+              "force": true,
+              "update": "pow(1.001, event.deltaY * pow(16, event.deltaMode))"
+            }
+          ]
+        },
+        {
+          "name": "selector027_modify",
+          "update": "modify(\"selector027_store\", selector027_tuple, true)"
+        }
+      ],
+      "marks": [
+        {
+          "name": "concat_0_layer_0_pathgroup",
+          "type": "group",
+          "from": {
+            "facet": {
+              "name": "faceted_path_concat_0_layer_0_main",
+              "data": "data-0f0969573c146ee970006c47df36eb40",
+              "groupby": ["Swimmer"]
+            }
+          },
+          "encode": {
+            "update": {
+              "width": {"field": {"group": "width"}},
+              "height": {"field": {"group": "height"}}
+            }
+          },
+          "marks": [
+            {
+              "name": "concat_0_layer_0_marks",
+              "type": "line",
+              "clip": true,
+              "style": ["line"],
+              "sort": {
+                "field": "datum[\"Race Portion\"]",
+                "order": "descending"
+              },
+              "from": {"data": "faceted_path_concat_0_layer_0_main"},
+              "encode": {
+                "update": {
+                  "stroke": [
+                    {
+                      "test": "!(length(data(\"selector025_store\"))) || (vlSelectionTest(\"selector025_store\", datum))",
+                      "scale": "color",
+                      "field": "Swimmer"
+                    },
+                    {"value": "lightgray"}
+                  ],
+                  "opacity": [
+                    {
+                      "test": "!(length(data(\"selector025_store\"))) || (vlSelectionTest(\"selector025_store\", datum))",
+                      "value": 1
+                    },
+                    {"value": 0.6}
+                  ],
+                  "tooltip": {
+                    "signal": "{\"Swimmer\": ''+datum[\"Swimmer\"], \"Velocity (m/s)\": format(datum[\"Velocity (m/s)\"], \"\")}"
+                  },
+                  "x": {"scale": "concat_0_x", "field": "Race Portion"},
+                  "y": {"scale": "concat_0_y", "field": "Velocity (m/s)"},
+                  "defined": {
+                    "signal": "datum[\"Velocity (m/s)\"] !== null && !isNaN(datum[\"Velocity (m/s)\"])"
+                  }
+                }
+              }
+            }
+          ]
+        },
+        {
+          "name": "concat_0_layer_1_marks",
+          "type": "symbol",
+          "clip": true,
+          "style": ["point"],
+          "from": {"data": "data_1"},
+          "encode": {
+            "update": {
+              "opacity": [
+                {
+                  "test": "!(length(data(\"selector025_store\"))) || (vlSelectionTest(\"selector025_store\", datum))",
+                  "value": 1
+                },
+                {"value": 0.6}
+              ],
+              "fill": [
+                {
+                  "test": "!(length(data(\"selector025_store\"))) || (vlSelectionTest(\"selector025_store\", datum))",
+                  "scale": "color",
+                  "field": "Swimmer"
+                },
+                {"value": "lightgray"}
+              ],
+              "tooltip": {
+                "signal": "{\"Swimmer\": ''+datum[\"Swimmer\"], \"Velocity (m/s)\": format(datum[\"Velocity (m/s)\"], \"\")}"
+              },
+              "x": {"scale": "concat_0_x", "field": "Race Portion"},
+              "y": {"scale": "concat_0_y", "field": "Velocity (m/s)"},
+              "shape": {"scale": "shape", "field": "Swimmer"}
+            }
+          }
+        }
+      ],
+      "axes": [
+        {
+          "scale": "concat_0_x",
+          "orient": "bottom",
+          "grid": false,
+          "title": "Race Portion",
+          "labelAlign": "right",
+          "labelAngle": 270,
+          "labelBaseline": "middle",
+          "labelOverlap": true,
+          "zindex": 1
+        },
+        {
+          "scale": "concat_0_y",
+          "orient": "left",
+          "grid": false,
+          "title": "Velocity (m/s)",
+          "labelOverlap": true,
+          "tickCount": {"signal": "ceil(height/40)"},
+          "zindex": 1
+        },
+        {
+          "scale": "concat_0_y",
+          "orient": "left",
+          "gridScale": "concat_0_x",
+          "grid": true,
+          "tickCount": {"signal": "ceil(height/40)"},
+          "domain": false,
+          "labels": false,
+          "maxExtent": 0,
+          "minExtent": 0,
+          "ticks": false,
+          "zindex": 0
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "name": "concat_1_group",
+      "title": {
+        "text": "Dressel vs. Adrian vs. Metella @ 100 Free - 2017 Worlds",
+        "frame": "group"
+      },
+      "style": "cell",
+      "encode": {
+        "update": {
+          "width": {"signal": "concat_1_width"},
+          "height": {"signal": "height"}
+        }
+      },
+      "signals": [
+        {
+          "name": "selector026_tuple",
+          "on": [
+            {
+              "events": [{"source": "scope", "type": "mouseover"}],
+              "update": "datum && item().mark.marktype !== 'group' ? {unit: \"concat_1_layer_0\", fields: selector026_tuple_fields, values: [(item().isVoronoi ? datum.datum : datum)[\"Swimmer\"]]} : null",
+              "force": true
+            },
+            {
+              "events": [{"source": "scope", "type": "dblclick"}],
+              "update": "null"
+            }
+          ]
+        },
+        {
+          "name": "selector026_tuple_fields",
+          "value": [{"type": "E", "field": "Swimmer"}]
+        },
+        {
+          "name": "selector026_modify",
+          "update": "modify(\"selector026_store\", selector026_tuple, true)"
+        },
+        {
+          "name": "selector028_Race_Portion",
+          "on": [
+            {
+              "events": {"signal": "selector028_translate_delta"},
+              "update": "panLinear(selector028_translate_anchor.extent_x, -selector028_translate_delta.x / concat_1_width)"
+            },
+            {
+              "events": {"signal": "selector028_zoom_delta"},
+              "update": "zoomLinear(domain(\"concat_1_x\"), selector028_zoom_anchor.x, selector028_zoom_delta)"
+            },
+            {
+              "events": [{"source": "scope", "type": "dblclick"}],
+              "update": "null"
+            }
+          ]
+        },
+        {
+          "name": "selector028_Velocity__m_s_",
+          "on": [
+            {
+              "events": {"signal": "selector028_translate_delta"},
+              "update": "panLinear(selector028_translate_anchor.extent_y, selector028_translate_delta.y / height)"
+            },
+            {
+              "events": {"signal": "selector028_zoom_delta"},
+              "update": "zoomLinear(domain(\"concat_1_y\"), selector028_zoom_anchor.y, selector028_zoom_delta)"
+            },
+            {
+              "events": [{"source": "scope", "type": "dblclick"}],
+              "update": "null"
+            }
+          ],
+          "push": "outer"
+        },
+        {
+          "name": "selector028_tuple",
+          "on": [
+            {
+              "events": [
+                {
+                  "signal": "selector028_Race_Portion || selector028_Velocity__m_s_"
+                }
+              ],
+              "update": "selector028_Race_Portion && selector028_Velocity__m_s_ ? {unit: \"concat_1_layer_0\", fields: selector028_tuple_fields, values: [selector028_Race_Portion,selector028_Velocity__m_s_]} : null"
+            }
+          ]
+        },
+        {
+          "name": "selector028_tuple_fields",
+          "value": [
+            {"field": "Race Portion", "channel": "x", "type": "E"},
+            {"field": "Velocity (m/s)", "channel": "y", "type": "R"}
+          ]
+        },
+        {
+          "name": "selector028_translate_anchor",
+          "value": {},
+          "on": [
+            {
+              "events": [{"source": "scope", "type": "mousedown"}],
+              "update": "{x: x(unit), y: y(unit), extent_x: domain(\"concat_1_x\"), extent_y: domain(\"concat_1_y\")}"
+            }
+          ]
+        },
+        {
+          "name": "selector028_translate_delta",
+          "value": {},
+          "on": [
+            {
+              "events": [
+                {
+                  "source": "window",
+                  "type": "mousemove",
+                  "consume": true,
+                  "between": [
+                    {"source": "scope", "type": "mousedown"},
+                    {"source": "window", "type": "mouseup"}
+                  ]
+                }
+              ],
+              "update": "{x: selector028_translate_anchor.x - x(unit), y: selector028_translate_anchor.y - y(unit)}"
+            }
+          ]
+        },
+        {
+          "name": "selector028_zoom_anchor",
+          "on": [
+            {
+              "events": [{"source": "scope", "type": "wheel", "consume": true}],
+              "update": "{x: invert(\"concat_1_x\", x(unit)), y: invert(\"concat_1_y\", y(unit))}"
+            }
+          ]
+        },
+        {
+          "name": "selector028_zoom_delta",
+          "on": [
+            {
+              "events": [{"source": "scope", "type": "wheel", "consume": true}],
+              "force": true,
+              "update": "pow(1.001, event.deltaY * pow(16, event.deltaMode))"
+            }
+          ]
+        },
+        {
+          "name": "selector028_modify",
+          "update": "modify(\"selector028_store\", selector028_tuple, true)"
+        }
+      ],
+      "marks": [
+        {
+          "name": "concat_1_layer_0_pathgroup",
+          "type": "group",
+          "from": {
+            "facet": {
+              "name": "faceted_path_concat_1_layer_0_main",
+              "data": "data-29495aa2f630b630be74d1a8ff332367",
+              "groupby": ["Swimmer"]
+            }
+          },
+          "encode": {
+            "update": {
+              "width": {"field": {"group": "width"}},
+              "height": {"field": {"group": "height"}}
+            }
+          },
+          "marks": [
+            {
+              "name": "concat_1_layer_0_marks",
+              "type": "line",
+              "clip": true,
+              "style": ["line"],
+              "sort": {
+                "field": "datum[\"Race Portion\"]",
+                "order": "descending"
+              },
+              "from": {"data": "faceted_path_concat_1_layer_0_main"},
+              "encode": {
+                "update": {
+                  "stroke": [
+                    {
+                      "test": "!(length(data(\"selector026_store\"))) || (vlSelectionTest(\"selector026_store\", datum))",
+                      "scale": "color",
+                      "field": "Swimmer"
+                    },
+                    {"value": "lightgray"}
+                  ],
+                  "opacity": [
+                    {
+                      "test": "!(length(data(\"selector026_store\"))) || (vlSelectionTest(\"selector026_store\", datum))",
+                      "value": 1
+                    },
+                    {"value": 0.6}
+                  ],
+                  "tooltip": {
+                    "signal": "{\"Swimmer\": ''+datum[\"Swimmer\"], \"Velocity (m/s)\": format(datum[\"Velocity (m/s)\"], \"\")}"
+                  },
+                  "x": {"scale": "concat_1_x", "field": "Race Portion"},
+                  "y": {"scale": "concat_1_y", "field": "Velocity (m/s)"},
+                  "defined": {
+                    "signal": "datum[\"Velocity (m/s)\"] !== null && !isNaN(datum[\"Velocity (m/s)\"])"
+                  }
+                }
+              }
+            }
+          ]
+        },
+        {
+          "name": "concat_1_layer_1_marks",
+          "type": "symbol",
+          "clip": true,
+          "style": ["point"],
+          "from": {"data": "data_3"},
+          "encode": {
+            "update": {
+              "opacity": [
+                {
+                  "test": "!(length(data(\"selector026_store\"))) || (vlSelectionTest(\"selector026_store\", datum))",
+                  "value": 1
+                },
+                {"value": 0.6}
+              ],
+              "fill": [
+                {
+                  "test": "!(length(data(\"selector026_store\"))) || (vlSelectionTest(\"selector026_store\", datum))",
+                  "scale": "color",
+                  "field": "Swimmer"
+                },
+                {"value": "lightgray"}
+              ],
+              "tooltip": {
+                "signal": "{\"Swimmer\": ''+datum[\"Swimmer\"], \"Velocity (m/s)\": format(datum[\"Velocity (m/s)\"], \"\")}"
+              },
+              "x": {"scale": "concat_1_x", "field": "Race Portion"},
+              "y": {"scale": "concat_1_y", "field": "Velocity (m/s)"},
+              "shape": {"scale": "shape", "field": "Swimmer"}
+            }
+          }
+        }
+      ],
+      "axes": [
+        {
+          "scale": "concat_1_x",
+          "orient": "bottom",
+          "grid": false,
+          "title": "Race Portion",
+          "labelAlign": "right",
+          "labelAngle": 270,
+          "labelBaseline": "middle",
+          "labelOverlap": true,
+          "zindex": 1
+        },
+        {
+          "scale": "concat_1_y",
+          "orient": "left",
+          "grid": false,
+          "title": "Velocity (m/s)",
+          "labelOverlap": true,
+          "tickCount": {"signal": "ceil(height/40)"},
+          "zindex": 1
+        },
+        {
+          "scale": "concat_1_y",
+          "orient": "left",
+          "gridScale": "concat_1_x",
+          "grid": true,
+          "tickCount": {"signal": "ceil(height/40)"},
+          "domain": false,
+          "labels": false,
+          "maxExtent": 0,
+          "minExtent": 0,
+          "ticks": false,
+          "zindex": 0
+        }
+      ]
+    }
+  ],
+  "scales": [
+    {
+      "name": "color",
+      "type": "ordinal",
+      "domain": {
+        "fields": [
+          {"data": "data-0f0969573c146ee970006c47df36eb40", "field": "Swimmer"},
+          {"data": "data_1", "field": "Swimmer"},
+          {"data": "data-29495aa2f630b630be74d1a8ff332367", "field": "Swimmer"},
+          {"data": "data_3", "field": "Swimmer"}
+        ],
+        "sort": true
+      },
+      "range": "category"
+    },
+    {
+      "name": "shape",
+      "type": "ordinal",
+      "domain": {
+        "fields": [
+          {"data": "data_1", "field": "Swimmer"},
+          {"data": "data_3", "field": "Swimmer"}
+        ],
+        "sort": true
+      },
+      "range": "symbol"
+    },
+    {
+      "name": "concat_0_x",
+      "type": "point",
+      "domain": {
+        "fields": [
+          {
+            "data": "data-0f0969573c146ee970006c47df36eb40",
+            "field": "Race Portion"
+          },
+          {"data": "data_1", "field": "Race Portion"}
+        ],
+        "sort": true
+      },
+      "range": [0, {"signal": "concat_0_width"}],
+      "padding": 0.5
+    },
+    {
+      "name": "concat_0_y",
+      "type": "linear",
+      "domain": {
+        "fields": [
+          {
+            "data": "data-0f0969573c146ee970006c47df36eb40",
+            "field": "Velocity (m/s)"
+          },
+          {"data": "data_1", "field": "Velocity (m/s)"}
+        ]
+      },
+      "domainRaw": {"signal": "selector027[\"Velocity (m/s)\"]"},
+      "range": [{"signal": "height"}, 0],
+      "nice": true,
+      "zero": true
+    },
+    {
+      "name": "concat_1_x",
+      "type": "point",
+      "domain": {
+        "fields": [
+          {
+            "data": "data-29495aa2f630b630be74d1a8ff332367",
+            "field": "Race Portion"
+          },
+          {"data": "data_3", "field": "Race Portion"}
+        ],
+        "sort": true
+      },
+      "range": [0, {"signal": "concat_1_width"}],
+      "padding": 0.5
+    },
+    {
+      "name": "concat_1_y",
+      "type": "linear",
+      "domain": {
+        "fields": [
+          {
+            "data": "data-29495aa2f630b630be74d1a8ff332367",
+            "field": "Velocity (m/s)"
+          },
+          {"data": "data_3", "field": "Velocity (m/s)"}
+        ]
+      },
+      "domainRaw": {"signal": "selector028[\"Velocity (m/s)\"]"},
+      "range": [{"signal": "height"}, 0],
+      "nice": true,
+      "zero": true
+    }
+  ],
+  "legends": [
+    {
+      "stroke": "color",
+      "gradientLength": {"signal": "clamp(height, 64, 200)"},
+      "symbolType": "circle",
+      "title": "Swimmer",
+      "encode": {"symbols": {"update": {"opacity": {"value": 1}}}},
+      "fill": "color"
+    },
+    {
+      "shape": "shape",
+      "gradientLength": {"signal": "clamp(height, 64, 200)"},
+      "symbolType": "circle",
+      "title": "Swimmer",
+      "encode": {
+        "symbols": {
+          "update": {
+            "fill": {"value": "lightgray"},
+            "opacity": {"value": 1},
+            "stroke": {"value": "transparent"}
+          }
+        }
+      }
+    }
+  ]
+}
