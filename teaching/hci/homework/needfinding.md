@@ -59,4 +59,4 @@ In this assignment, you will choose an existing aspect of the user experience re
 * Interview results and analysis. Pictures and quotes. Empathy map with highlighted components of what you found important/interesting. Discuss tensions, contradictions, surprises in the interview. Inferences, conclusions, or questions you might have about your results. Initial assessment of “needs” and “insights”. You should *not* include complete transcripts of the interviews.
 
 ### Grading
-Grading will be based on a *variation* of the [design rubric]().
+Grading will be based on a *variation* of the [design rubric](https://docs.google.com/spreadsheets/d/1aI9LcmVZmh_977G__U4Guz_rPRCwWZs26J_yHXbhSyY/edit?usp=sharing).

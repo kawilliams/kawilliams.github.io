@@ -19,7 +19,7 @@ My most recent publication was [Data Abstraction Elephants: The Initial Diversit
 
 For Fall 2024, I am teaching:
 * CSC 121 B: Programming and Problem Solving (MWF 9:30-10:20)
-* [CSC 363: Human Computer Interaction (HCI)](./teaching/hci.markdown) (MW 2:30-3:45)
+* [CSC 363: Human Computer Interaction (HCI)](./teaching/hci/) (MW 2:30-3:45)
 
 More information can be found under [Teaching](./teaching/index.markdown).
 

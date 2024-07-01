@@ -51,4 +51,4 @@ This should *build* on what you discovered in your [needfinding](./needfinding.m
     6. a description of a more complete evaluation plan
 
 ### Grading
-Grading will be based on the [design rubric]().
+Grading will be based on the [design rubric](https://docs.google.com/spreadsheets/d/1aI9LcmVZmh_977G__U4Guz_rPRCwWZs26J_yHXbhSyY/edit?usp=sharing).

@@ -5,7 +5,7 @@
 layout: default
 title: CSC 121
 description: Programming & Problem Solving
-permalink: teaching/csc121
+permalink: teaching/csc121/
 ---
 
 # [Syllabus]

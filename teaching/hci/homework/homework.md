@@ -5,7 +5,7 @@
 layout: default
 title: Homework
 description: for CSC 362 - Human Computer Interaction
-permalink: /teaching/hci/assignments/homework
+permalink: /teaching/hci/assignments/homework/
 ---
 
 # Individual Homework
@@ -13,7 +13,7 @@ permalink: /teaching/hci/assignments/homework
 ## Overview 
 You will complete 4 individual homework assignments during the semester. Assignments
 2 and 3 are designed to build up your individual skillsets to contribute to group design
-sprints.
+sprints. Most homework assignments will be evaluated using the [design rubric](https://docs.google.com/spreadsheets/d/1aI9LcmVZmh_977G__U4Guz_rPRCwWZs26J_yHXbhSyY/edit?usp=sharing) (or similar).
 
 ### Homework Assignments
 

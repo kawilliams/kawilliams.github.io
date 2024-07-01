@@ -5,7 +5,7 @@
 layout: default
 title: CSC 362 HCI
 description: Human Computer Interaction
-permalink: teaching/hci
+permalink: teaching/hci/
 ---
 
 # [Syllabus](./hci-syllabus)
@@ -46,22 +46,24 @@ You will be individually responsible for some homework assignments, participatio
 
 | Objective | Weight | Description                     |
 |-----------|--------|---------------------------------|
-|           | 20%    | [Individual homework assignments](/teaching/hci/assignments/homework) |
-|           | 5%     | [Engagement and critique](/teaching/hci/engagement)         |
-|           | 40%    | Group design activities         |
+|           | 20%    | [Individual homework assignments](/teaching/hci/homework/homework/) |
+|           | 5%     | [Engagement and critique](/teaching/hci/engagement/)         |
+|           | 40%    | [Group design sprints](/teaching/hci/design-sprints/design-sprints/)         |
 |           | 20%    | Final project                   |
 |           | 15%    | Oral exam                       |
 
 
 # Schedule
 
-<table><thead>
+<table>
+<thead>
   <tr>
     <th>Week</th>
     <th>Date</th>
     <th>Topic</th>
     <th>Reading</th>
-  </tr></thead>
+  </tr>
+  </thead>
 <tbody>
   <tr>
     <td rowspan="2">1</td>

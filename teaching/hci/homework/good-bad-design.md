@@ -28,4 +28,4 @@ Create a new slide in this [shared slide deck](https://docs.google.com/presentat
 1. Submit your good and bad design using this slide deck. You will add one slide for your submission.
 
 ### Grading
-Grading will be based on a *variation* of the design rubric.
+Grading will be based on a *variation* of the [design rubric](https://docs.google.com/spreadsheets/d/1aI9LcmVZmh_977G__U4Guz_rPRCwWZs26J_yHXbhSyY/edit?usp=sharing).
