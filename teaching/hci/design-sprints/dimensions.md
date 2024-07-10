@@ -1,9 +1,9 @@
 ---
 
 layout: default
-title: Design Sprint \#1
+title: Design Sprint 1
 description: Design for Dimensions
-permalink: /teaching/hci/design-sprints/design-for-dimensions
+permalink: /teaching/hci/design-sprints/dimensions
 ---
 
 # Design for Dimensions
@@ -77,11 +77,11 @@ Figma is fantastic, but it isn’t magic. You’re still going to need to create
 ## Deliverables
 * **Demo (in-class):** You should have Figma links handy and ready to present in class on the day of your demo. Plan to spend approximately 8 minutes presenting (~6 minutes talking through your design + ~2 minutes for questions). Your classmates will critique your work (using the *I like, I wish, What if* framework) and also try to guess your target demographic… despite having no previous knowledge.
 
-* **Final deliverable (due at 11:55 PM):** The output from this assignment should be the [design document](../design-doc.md) (one per group). Post the link of your design document post along with your group members' names on our Slack channel for `#group_design_projects` and submit the link on Moodle (only one group member needs to submit). As with all design documents, it should include evidence of your design process. **You do NOT need to create a demo video for this design sprint**, although depending on the complexity of your interaction design, it may still be a good idea to communicate your design. For this assignment, I would expect a minimum of the following:
+* **Final deliverable (due at 11:55 PM):** The output from this assignment should be the [design document](../design-doc.md) (one per group). Post the link of your design document post along with your group members' names on our Slack channel for `#group_design_projects` and submit the link on Moodle (only one group member needs to submit). As with all design documents, it should include evidence of your design process. **You do NOT need to create a demo video for this design sprint**, although depending on the complexity of your interaction design, it may still be a good idea to communicate your design. For this assignment, I would expect a *minimum* of the following:
     * pictures of your various sketches for all three devices
     * a picture of your moodboard
     * pictures of your final product for all three devices (more broadly, the evolution of your design should be clear)
     * links to your Figma prototypes
 
 **Grading:** Grading will be based on the [design rubric](https://docs.google.com/spreadsheets/d/1aI9LcmVZmh_977G__U4Guz_rPRCwWZs26J_yHXbhSyY/edit?usp=sharing). Be sure to complete the peer feedback forms linked
-at the enf of the design document guide, which will be a large part of your grade. 
+at the enf of the [design document guide](/teaching/hci/design-doc), which will be a large part of your grade. 

@@ -17,8 +17,8 @@ The core of the work in this class will fall under the broad category of group d
 
 | Title | Topic | Tech | Who | Weight | Start | Due | 
 |-------|-------|------|-----|--------|-------|-----|
-| 1. [Design for Dimensions](./dimensions.md) | Visual Design + Sketching | Paper, prototyping software ([Figma](https://www.figma.com/)), HTML/CSS [(crash course here)](https://www.codecademy.com/) | Group | 10% | 8/30 | 8/30 |
-| 2. [Design for Understanding](./needfinding.md) | Data Visualization + Communications | [d3js](https://d3js.org/), [Vega (Web)](https://vega.github.io/) or [Vega-Lite](https://vega.github.io/vega-lite/), [Chart.js](https://www.chartjs.org/), [P5js](https://p5js.org/), [Tableau (free student license)](https://www.tableau.com/) | Group | 30% | 9/6 | 9/6 |
-| 3. [Design for Another World](./healthdesign.md) | Virtual Reality | [Unity](https://unity.com/) or [A-Frame](https://aframe.io/) + [VR Viewers](https://arvr.google.com/cardboard/) | Group | 30% | 9/6 | 9/6 | 
+| 1. [Design for Dimensions](/teaching/hci/design-sprints/dimensions) | Visual Design + Sketching | Paper, prototyping software ([Figma](https://www.figma.com/)), HTML/CSS [(crash course here)](https://www.codecademy.com/) | Group | 10% | 8/30 | 8/30 |
+| 2. [Design for Understanding](/teaching/hci/design-sprints/understanding) | Data Visualization + Communications | [d3js](https://d3js.org/), [Vega (Web)](https://vega.github.io/) or [Vega-Lite](https://vega.github.io/vega-lite/), [Chart.js](https://www.chartjs.org/), [P5js](https://p5js.org/), [Tableau (free student license)](https://www.tableau.com/) | Group | 30% | 9/6 | 9/6 |
+| 3. [Design for Another World](/teaching/hci/design-sprints/another-world) | Virtual Reality | [Unity](https://unity.com/) or [A-Frame](https://aframe.io/) + [VR Viewers](https://arvr.google.com/cardboard/) | Group | 30% | 9/6 | 9/6 | 
 | 4. [Re-design and Extend](./accessibility.md) | Evaluation + Iteration | Physical prototyping (e.g., foam, cardboard) | Group | 20% | 10/16 | 10/16 | 
 | 5. [Debate](./accessibility.md) | Engage in Research | Research publications, slide decks, public speaking | Group | 20% | 10/16 | 0/16 | 
