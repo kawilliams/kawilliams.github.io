@@ -1,6 +1,8 @@
 ---
 
-layout: default
+layout: course
+course: CSC 363 HCI
+course-url: /teaching/hci
 title: Homework 2
 description: Needfinding
 permalink: /teaching/hci/assignments/hw2

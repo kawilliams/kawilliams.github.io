@@ -1,6 +1,8 @@
 ---
 
-layout: default
+layout: course
+course: CSC 363 HCI
+course-url: /teaching/hci
 title: Design Sprint 2
 description: Design for Understanding
 permalink: /teaching/hci/design-sprints/understanding

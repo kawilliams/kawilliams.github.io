@@ -1,9 +1,11 @@
 ---
 
-layout: default
+layout: course
 title: Documenting Your Design Process
-description: for CSC 362 - Human Computer Interaction
+course: CSC 363 HCI
+description: for CSC 363 - Human Computer Interaction
 permalink: /teaching/hci/design-doc
+course-url: /teaching/hci
 ---
 # Building the Content of a Design Doc
 

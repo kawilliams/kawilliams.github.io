@@ -1,7 +1,9 @@
 ---
 
-layout: default
+layout: course
 title: Homework 4
+course: CSC 363 HCI
+course-url: /teaching/hci
 description: Design for Accessibility
 permalink: /teaching/hci/assignments/hw4
 ---

@@ -1,6 +1,8 @@
 ---
 
-layout: default
+layout: course
+course: CSC 363 HCI
+course-url: /teaching/hci
 title: Homework 1
 description: Good Design, Bad Design
 permalink: /teaching/hci/assignments/hw1

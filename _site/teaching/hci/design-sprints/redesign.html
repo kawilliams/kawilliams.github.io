@@ -4,20 +4,20 @@
     <meta charset="UTF-8">
 
 <!-- Begin Jekyll SEO tag v2.8.0 -->
-<title>Design Sprint 3 | Dr. Katy Williams</title>
+<title>Design Sprint 4 | Dr. Katy Williams</title>
 <meta name="generator" content="Jekyll v3.9.5" />
-<meta property="og:title" content="Design Sprint 3" />
+<meta property="og:title" content="Design Sprint 4" />
 <meta property="og:locale" content="en_US" />
-<meta name="description" content="Design for Another World" />
-<meta property="og:description" content="Design for Another World" />
-<link rel="canonical" href="http://localhost:4000/teaching/hci/design-sprints/another-world" />
-<meta property="og:url" content="http://localhost:4000/teaching/hci/design-sprints/another-world" />
+<meta name="description" content="Re-design and Extend" />
+<meta property="og:description" content="Re-design and Extend" />
+<link rel="canonical" href="http://localhost:4000/teaching/hci/design-sprints/redesign" />
+<meta property="og:url" content="http://localhost:4000/teaching/hci/design-sprints/redesign" />
 <meta property="og:site_name" content="Dr. Katy Williams" />
 <meta property="og:type" content="website" />
 <meta name="twitter:card" content="summary" />
-<meta property="twitter:title" content="Design Sprint 3" />
+<meta property="twitter:title" content="Design Sprint 4" />
 <script type="application/ld+json">
-{"@context":"https://schema.org","@type":"WebPage","description":"Design for Another World","headline":"Design Sprint 3","url":"http://localhost:4000/teaching/hci/design-sprints/another-world"}</script>
+{"@context":"https://schema.org","@type":"WebPage","description":"Re-design and Extend","headline":"Design Sprint 4","url":"http://localhost:4000/teaching/hci/design-sprints/redesign"}</script>
 <!-- End Jekyll SEO tag -->
 
     <link rel="preconnect" href="https://fonts.gstatic.com">
@@ -42,8 +42,8 @@
     <a id="skip-to-content" href="#content">Skip to the content.</a>
 
     <header class="page-header" role="banner">
-      <h1 class="project-name">Design Sprint 3</h1>
-      <h2 class="project-tagline">Design for Another World</h2>
+      <h1 class="project-name">Design Sprint 4</h1>
+      <h2 class="project-tagline">Re-design and Extend</h2>
        <a href="/teaching/hci" class="btn">CSC 363 HCI Home</a>
        <a href="/teaching/hci/syllabus" class="btn">Syllabus</a>
        <a href="/teaching/hci/assignments" class="btn">Assignments</a>
@@ -54,7 +54,7 @@
     </header>
 
     <main id="content" class="main-content" role="main">
-      <h1 id="design-for-another-world">Design for Another World</h1>
+      <h1 id="re-design-and-extend">Re-design and Extend</h1>
 
 <ul>
   <li>Group size: Teams of 3-4</li>
@@ -64,36 +64,48 @@
 
 <h2 id="overview">Overview</h2>
 
-<p>In this design sprint, we will be <strong>exploring virtual reality to consider what it will be like when computation can transport us to another place</strong>. Transport someone to a real location, inside a game, among abstract art… whatever you think would be interesting, immersive, and compelling!</p>
+<p>In this design sprint, we will revisit one of the previous design sprints. Which project we revisit will be determined by students voting in a survey. This page will be updated once the votes are in. This project will involve a few components.</p>
 
-<p>That’s it. Keep in mind that the lack of parameters in this project does not mean that the design your project should not be appropriately scoped. It is your job to define the parameters of your project. You pick your objective, you decide how to design for it, you decide what to build. Be sure that you communicate all of these assumptions in your blog post.</p>
+<h3 id="evaluate">Evaluate</h3>
 
-<p>A couple of quick pointers before you start:</p>
-<ul>
-  <li><strong>Be sure to articulate your design goal EARLY.</strong> Without an objective for your design, much of your process will be unguided. When I look at your output, I will consider them <em>within the context of your design goal</em>. If your goal is to provide a sense of awe or provoke reflection or make someone feel like they are truly in another physical place… any of that is fine. The key is that you articulate your goal and make design decisions that align with that objective. The execution of your project will be evaluated against those goals.</li>
-  <li><strong>Consider what will make your design feel immersive.</strong> This is your primary challenge, and it’s worth thinking beyond visual channels. How could audio enhance your design?</li>
-  <li><strong>Careful with interaction.</strong> Because of time and hardware limitations (you’ll likely be using <a href="https://aframe.io/">A-Frame</a> or <a href="https://unity.com/">Unity</a> + <a href="https://vr.google.com/cardboard/">Google cardboard</a> or a comparable VR viewer), consider what input mechanisms you may even have available to you before getting too deep into the development. If you have experience with it or want to dive in, you may prefer to use Unity, although A-Frame can be a bit easier to learn.</li>
-  <li><strong>Design ambitiously.</strong> Learning to develop with new technologies is hard – but rapid prototyping for design is important, so try your best. All of these cautions aside, I would <em>much</em> rather see a buggy implementation of an ambitious design than a fully operational implementation of a “safe” design. Take chances, and if the implementation doesn’t work out, <em>that’s ok</em>.</li>
-</ul>
+<p>You should begin by evaluating your previous design. You will first need to decide what your evaluation criteria are: what is important to assess about your design (learnability, accessibility, utility, …)? How can you operationalize the measurement of this criteria? Revisit our lecture resources for evaluation methodologies (cognitive walkthrough, heuristic evaluation, usability study, etc) and decide if one of these is fitting for your evaluation goals. A good framework for thinking about this can be found in <a href="http://faculty.washington.edu/wobbrock/pubs/interactions-16.pdf">Research Contributions in Human-Computer Interaction</a> by Jacob Wobbrock and Julie Kientz.</p>
 
-<h2 id="technology">Technology</h2>
+<p>Your evaluation likely involves human subjects. Feel free to reach out to friends and classmates or other potential users of your target audience. That means you should <em>make yourself available</em> to your classmates to participate in their evaluations. You will likely need them to participate in yours as well. Some of this can be achieved during our hack day. Some of it will likely need to take place outside of class.</p>
 
-<p><strong>VR Viewers:</strong> I have purchase several <a href="https://www.youtube.com/watch?v=SxAj2lyX4oU">Google Cardboard</a> viewers for us to use. If you haven’t used this before, you essentially can insert your phone into a low-cost VR viewer. It uses a binocular viewing port (two separate lenses) that can simulate depth in a virtual scene. Strapped to your face, the viewer uses your phone’s gyroscope to track your movements and allow you to move around a scene. To use it, visit your VR scene in the web browser on your phone, then insert your phone in the viewer. Check out some of the <a href="https://play.google.com/store/search?q=cardboard+apps&amp;c=apps&amp;hl=en_US&amp;pli=1">apps that have been developed for Google Cardboard</a> for some ideas of what is possible.</p>
+<p>By this point in the semester, your group should be able to make informed and carefully rationalized decisions about the task, target user group, number of participants, conditions, and other details of the experimental design. You will need to justify these choices in your blog posts.</p>
 
-<p><strong>Unity:</strong> <a href="https://unity.com/">Unity</a> is a development platform and game engine for AR and VR. It relies primarily on coding in C#. Find <a href="https://learn.unity.com/">resources</a> on the web to get started.</p>
+<p><strong>When in doubt, run your evaluation ideas by me.</strong></p>
 
-<p><strong>A-Frame:</strong> <a href="https://aframe.io/">A-Frame</a> is a simple, web-based design platform that uses HTML to create VR scenes. In addition, a companion website - <a href="https://glitch.com/">Glitch</a> - provides a fantastic web-based development environment that will allow you to see your code + output simultaneously. Although the building blocks of A-Frame are basic, don’t underestimate its powerful potential. This is a good option if you prefer a “coding-lite” approach. Before you start, check out all of the <a href="https://aframe.io/blog/">interesting work</a> people in the A-Frame community are up to. You need not use A-Frame. If your group is familiar with an alternative (Unity, etc.), feel free to use that instead.</p>
+<h3 id="iterate">Iterate</h3>
+
+<p>Next, reflect deeply on your evaluation results. How can you use what you learned to inform the next iteration of your design? You will want to describe this reflection in your blog post and go on to implement these changes in your design. That means you will have a new prototype that reflects these design changes.</p>
+
+<h3 id="extend">Extend</h3>
+
+<p>In the final part of this project, you will be expanding on your previous design using a new prototying modality: physical prototyping. You can find some examples <a href="https://stephaniebaione.com/work/physical-prototyping">here</a>.</p>
+
+<p>How you choose to extend your previous project can take many forms, entirely up to your group. Be sure to clearly state your goals. Depending on which project you are extending, some examples you might consider are re-designing a wearable biosensor to collect additional health data, an accessible <a href="http://yvonnejansen.me/dataphys">data physicalization</a> experience, a integrating tangible objects in a virtual reality art viewer, etc. You should show evidence of iteration in your physical prototying as well. Check out this <a href="https://www.smashingmagazine.com/2014/10/the-skeptics-guide-to-low-fidelity-prototyping/">article on low-fidelity prototyping</a> for guidance.</p>
+
+<h4 id="tools">Tools</h4>
+
+<p>For this project, you will have access to tools and materials through <a href="https://www.davidson.edu/academic-departments/digital-studies/facilities">Studio M</a> (in room B260 in the south basement of Chambers, by Wall). Studio M has 3D printers, laser engravers, VR simulators, vinyl cutters, shirt presses, and various other tools. You also can access the <a href="https://www.davidson.edu/offices-and-services/arts-creative-engagement/dace-studio">DACE Studio</a> (in the north basement of Chambers, by the flagpole). They have materials ranging from sewing machines, knitting machine, yarn and string, embroidery tools, paints, coloring utensils, paper, canvas, etc. You may also choose to use materials you find at home around the house (cardboard, plastic bottles, old tshirts, etc).</p>
+
+<h3 id="re-evaluate">Re-evaluate</h3>
+
+<p>Now, given your new physical prototype, your group should design and execute a preliminary evaluation of this extension. Refer back to slides on Experience Prototyping, Heuristic Evaluation, Usability Studies, etc. This evaluation will gather preliminary feedback, but it should include well-informed and justified experimental design decisions.</p>
 
 <h2 id="deliverables">Deliverables</h2>
 
 <ul>
   <li>As always: Your group’s design reflection as a blog post. <strong>You WILL need a demo video.</strong></li>
-  <li>Your VR experience should be publicly accessible so that others can visit it. <strong>Include this link in your design doc.</strong> It’s fine if this is a link from Glitch (which is probably the easiest place to develop your work).</li>
+  <li>Your VR experience should be publicly accessible so that others can visit it. <strong>Include this link in your design doc.</strong></li>
   <li>Post the link of each blog post along with the names of your group members on our Slack channel for <code class="language-plaintext highlighter-rouge">#group_design_projects</code> <strong>and</strong> one group member should submit the link on Moodle.</li>
 </ul>
 
-<p><strong>Grading:</strong> Grading will be based on the <a href="https://docs.google.com/spreadsheets/d/1aI9LcmVZmh_977G__U4Guz_rPRCwWZs26J_yHXbhSyY/edit?usp=sharing">design rubric</a>. Be sure to complete the peer feedback forms linked
-at the enf of the <a href="/teaching/hci/design-doc">design document guide</a>, which will be a large part of your grade.</p>
+<p><strong>Grading:</strong> Grading will be based on the <a href="https://docs.google.com/spreadsheets/d/1aI9LcmVZmh_977G__U4Guz_rPRCwWZs26J_yHXbhSyY/edit?usp=sharing">design rubric</a>.</p>
+<ul>
+  <li>Be sure to complete the peer feedback forms linked at the end of the <a href="/teaching/hci/design-doc">design document guide</a>, which will be a large part of your grade.</li>
+</ul>
 
 <hr />
 

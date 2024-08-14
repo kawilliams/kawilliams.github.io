@@ -2,9 +2,11 @@
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
-layout: default
+layout: course
+course-url: /teaching/hci
 title: Engagement and Critique
-description: for CSC 362 - Human Computer Interaction
+course: CSC 363 HCI
+description: for CSC 363 - Human Computer Interaction
 permalink: /teaching/hci/engagement/
 ---
 ## Overview 

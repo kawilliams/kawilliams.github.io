@@ -1,7 +1,9 @@
 ---
 
-layout: default
+layout: course
 title: Design Resources
+course: CSC 363 HCI
+course-url: /teaching/hci
 description: A compilation of resources for CSC 363 - HCI
 permalink: /teaching/hci/resources
 ---

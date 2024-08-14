@@ -2,13 +2,15 @@
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
-layout: default
-title: Syllabus: CSC 362
+layout: course
+title: CSC 363 Syllabus
+course: CSC 363 HCI
 description: Human Computer Interaction
+course-url: /teaching/hci
 permalink: teaching/hci/syllabus
 ---
 
-# CSC 362 Syllabus 
+# CSC 363 Syllabus 
 The field of Human Computer Interaction (HCI) encompasses the design, implementation, and evaluation of interactive computing systems. This course will provide a survey of HCI theory and will provide web-based implementation practice of these theories. The course will address the presentation of information and the design of interaction from a practical, human-centered perspective. Through a combination of technical topics in interface and interaction design, students will explore the capabilities and limits of both humans and computers.
 
 Human-computer interaction combines computer science, psychology, sociology, design, and art into one discipline. In this course, we will explore how to center the human experience in all kinds of computing, including designing for all humans (not just one kind of user). Though computers are relatively new, there is a rich history of the interactions between computers and humans, so I plan to delve into both the inspiring and inadvertently troubling. We will connect these historical lessons to practice, as students will engage in a deliberate design process as they create interfaces. This reflexive design approach will help students develop and apply humane instincts to the field of computer science.

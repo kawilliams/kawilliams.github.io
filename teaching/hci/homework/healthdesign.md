@@ -1,6 +1,8 @@
 ---
 
-layout: default
+layout: course
+course: CSC 363 HCI
+course-url: /teaching/hci
 title: Homework 3
 description: Health Design
 permalink: /teaching/hci/assignments/hw3

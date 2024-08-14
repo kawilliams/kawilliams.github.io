@@ -1,6 +1,8 @@
 ---
 
-layout: default
+layout: course
+course: CSC 363 HCI
+course-url: /teaching/hci
 title: Design Sprint 3
 description: Design for Another World
 permalink: /teaching/hci/design-sprints/another-world

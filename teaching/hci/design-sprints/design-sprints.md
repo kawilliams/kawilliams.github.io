@@ -1,9 +1,11 @@
 ---
 
-layout: default
+layout: course
 title: Group Design Sprints
-description: for CSC 362 - Human Computer Interaction
-permalink: /teaching/hci/design-sprints/design-sprints/
+course: CSC 363 HCI
+course-url: /teaching/hci
+description: for CSC 363 - Human Computer Interaction
+permalink: /teaching/hci/assignments/design-sprints
 ---
 
 # Group Design Sprints

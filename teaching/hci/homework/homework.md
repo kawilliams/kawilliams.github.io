@@ -2,10 +2,12 @@
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
-layout: default
+layout: course
 title: Homework
-description: for CSC 362 - Human Computer Interaction
-permalink: /teaching/hci/assignments/homework/
+course: CSC 363 HCI
+course-url: /teaching/hci
+description: for CSC 363 - Human Computer Interaction
+permalink: /teaching/hci/assignments/homework
 ---
 
 # Individual Homework

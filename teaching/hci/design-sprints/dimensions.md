@@ -1,6 +1,8 @@
 ---
 
-layout: default
+layout: course
+course: CSC 363 HCI
+course-url: /teaching/hci
 title: Design Sprint 1
 description: Design for Dimensions
 permalink: /teaching/hci/design-sprints/dimensions
