@@ -2,10 +2,12 @@
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
-layout: default
+layout: course
+course-url: /teaching/hci
 title: Engagement and Critique
-description: for CSC 362 - Human Computer Interaction
-permalink: /teaching/hci/engagement
+course: CSC 363 HCI
+description: for CSC 363 - Human Computer Interaction
+permalink: /teaching/hci/engagement/
 ---
 ## Overview 
 When the core content of a course involves *people*, engagement is absolutely critical. We will be doing design exercises in class, testing new software on each other, and providing critiques of each others’ work. This portion of your grade may be higher in HCI than some of your other courses for this very reason. Coffee up! It involves:
@@ -15,7 +17,7 @@ When the core content of a course involves *people*, engagement is absolutely cr
 * Submitting good questions for our visitors
 * Occasional reflection on class activities
 
-## Visitors 
+## Visitors and Field Trips
 HCI is a diverse field. It has computer scientists, psychologists, sociologists, historians, artists, and everything in between. Giving you one perspective (my perspective) would shed light on only a corner of an increasingly exciting field that is shaping how people engage with the world around them. As a result, we will often have an opportunity to chat with people across this broad spectrum in-person and virtually by Zoom. What you need to do:
 
 * Submit a question on Slack for our guest by 5pm the day before their visit.
@@ -26,6 +28,14 @@ HCI is a diverse field. It has computer scientists, psychologists, sociologists,
 We use Slack in this class for communication, both with me and with each other. You will use your 
 Davidson Domains to host your blogs. Communicating through the internet has its own set of norms,
 so I expect you to follow these guidelines:
+* I will send communication during my working hours (8:30 AM -5:30 PM on weekdays) and will not respond outside of those hours. Usually, I will respond within 24 business hours.
+* Likewise, I will respect your personal working hours and will expect a response within a similar, reasonable amount of time.
+* Treat each other with respect, and err on the side of being *too* courteous. It is too easy to be overly 
+casual on the internet and cause miscommunications or hurt feelings.
+* You may use this Slack to communicate with each other, via individual or group messages or channels. 
+* If you 
+
+
 
 
 ## Grading
