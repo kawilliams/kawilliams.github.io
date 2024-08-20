@@ -8,10 +8,10 @@ description: Programming & Problem Solving
 permalink: teaching/csc121/
 ---
 
-# [Syllabus]
-
 # CSC 121: Programming & Problem Solving
 
 This page describes how I have taught CSC 121 in the past. Students interested in the course may use this page to get an overview of what to expect. Current, up-to-date semester materials are posted on Moodle
-for current students. 
+for current students. An example syllabus is provided below.
+
+# [Syllabus](./CSC_121_Fall2024_syllabus.pdf)
 

@@ -10,7 +10,7 @@ description: Human Computer Interaction
 permalink: teaching/hci/
 ---
 
-<h4><img src="./images/arrow-down-long.svg" width="24" height="24"> Jump down to the <a href="#schedule">schedule</a></h4>
+<h4><img src="./images/arrow-down-long.svg" width="24" height="24"> Jump down to the <a href="#schedule">schedule</a>, <a href="#assignments-and-responsibilities">assignments</a>, or <a href="#policies">policies</a></h4>.
 
 # About this course 
 
@@ -24,6 +24,13 @@ Human-computer interaction combines computer science, psychology, sociology, des
 * Design Documentation: [here](/teaching/hci/design-doc)
 * Discussion/Questions: Slack (contact Dr. Williams if you have not received the Slack link)
 * Office Hours: Tuesday and Thursday from 9:00-11:00 AM and 1:00-3:00 PM, and by appointment.
+
+# Prerequisites and Major/Minor Requirements
+*Prerequisite*: CSC 221 - Data Structures. This course is **required** (no exceptions). 
+
+*Major/Minor requirements*
+* CSC -- satisfies the major and minor Applications elective requirement
+* DIG -- satisifies the major and minor Production, Methodology, Practice Courses elective requirement.
 
 # Learning Objectives
 *Adapted from Emily Wall (Emory).*
@@ -45,7 +52,7 @@ Human-computer interaction combines computer science, psychology, sociology, des
 
 
 
-# Assignments & Responsibilities
+# Assignments and Responsibilities
 You will be individually responsible for some homework assignments, participation and critique, oral exams, and your final project. In addition, there will be 4 design sprints throughout the semester, completed as gropu projects.
 
 | Objective | Weight | Description                     |
