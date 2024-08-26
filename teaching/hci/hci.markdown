@@ -10,7 +10,7 @@ description: Human Computer Interaction
 permalink: teaching/hci/
 ---
 
-<h4><img src="./images/arrow-down-long.svg" width="24" height="24"> Jump down to the <a href="#schedule">schedule</a>, <a href="#assignments-and-responsibilities">assignments</a>, or <a href="#policies">policies</a></h4>.
+<h4><img src="./images/arrow-down-long.svg" width="24" height="24"> Jump down to the <a href="#schedule">schedule</a>, <a href="#assignments-and-responsibilities">assignments</a>, or <a href="#policies">policies</a> (including my <a href="#ai-statement">AI policy</a>).</h4>
 
 # About this course 
 
@@ -83,10 +83,27 @@ For many of you, most CS assignments that you’ve had up until this point had c
 
 If there is an error in my original evaluation, I will correct it. However, do not ask for a regrade or a boost simply because you do not like your grade. If your request is based on a rationale of "what's the harm" or "it's worth a try," save your (and my) energy. Baseless requests for regrades devalue all of your classmates' hard work and waste everyone's time.
 
+## Academic honesty and AI
+
 **Academic Honesty**: The spirit of the Honor Code that each student pledges upon entering their first year helps engender an atmosphere of trust. Every signature helps sustain a climate of freedom and integrity. Upholding the Honor Code secures the commitment to academic honesty and social responsibility that characterizes a Davidson education. 
 
 Unless explicitly stated otherwise, you are expected to complete assignments on your own. It is appropriate to discuss your ideas with others to gain feedback and help with sticky problems. It is not appropriate to find an existing solution online or from your friends, modify them, and submit as your own work. If in doubt, confer with Dr. Williams. It is much easier to ask about these things than handle the consequences of a poor decision.
 
+### AI Policy
+**AI statement**: The purpose of this class is to learn how to articulate your ideas throughout the design process, while developing a breadth of technical skills for prototyping. The valuable **human** skill that you will gain in this class is the ability to think creatively throughout the design process and to write and articulate the decisions you made. I am less concerned with technical skills and indeed, generative AI is a valuable time-saver when creating boilerplate code. To that end, here is an incomplete list of acceptable and unacceptable uses of AI in my class. *If you have a question on whether a specific use of AI is allowed or not, you must message me on Slack and ask **before** you use AI.* Any unauthorized use of AI will be considered violations of academic integrity and will be brought before the Honor Council.
+
+**Allowed uses of AI**
+* To proofread your writing; to check grammar, rigor, and style (such as using Grammarly); to find alternative wording.
+* To generate boilerplate code; to debug error messages. You will learn a wide variety of tools in a short amount of time -- I don't expect you to become an expert on your own. You may use generative AI to assist with coding and to get you 80% of the way there on assignments. You *will* need to revise this code, since AI will produce buggy or inefficient code.
+* To verbally read articles (so you listen to the original text, rather than read it); to *summarize* articles for *your own understanding* (not for a grade) *after* you have already read the original text. 
+
+**You may NOT use AI:**
+* To generate outlines for blog posts. The [Design Doc](/teaching/hci/design-doc) serves as your starting point for blog posts and we will read plenty of examples of great blog posts. I expect the content of your writing, from outline to final product, to be solely written by you (see acceptable uses in proofreading above).
+* To summarize a text or video without you reading or watching the original. The authors and creators of these works have used deliberate language and have carefully crafted their position. You will likely receive an incorrect or incomplete summary if you rely only on AI summaries. 
+
+
+
+## Accessibility, Inclusion, and Resources for Students
 **Accessibility Services**:
 The college welcomes requests for accommodations related to disability and will 
 grant those that are determined to be reasonable and maintain the integrity of 
