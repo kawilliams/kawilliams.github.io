@@ -16,7 +16,7 @@ permalink: /teaching/hci/debate
 
 ## Overview 
 
-The goal of this assignment is for you to build knowledge about research in [human-computer interaction](human-computer interaction). In two teams of 2-3 people, you will be debating opposing viewpoints on a given topic. Importantly, **your argument should be supported by research!**
+The goal of this assignment is for you to build knowledge about research in [human-computer interaction](https://chi2024.acm.org/). In two teams of 2-3 people, you will be debating opposing viewpoints on a given topic. Importantly, **your argument should be supported by research!**
 
 
 ## Debate Structure
