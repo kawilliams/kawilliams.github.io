@@ -12,7 +12,7 @@ permalink: /teaching/hci/debate
 
 * Group size: Teams of 2-3
 * Due: Wednesday, August 30, in class.
-. 
+
 
 ## Overview 
 

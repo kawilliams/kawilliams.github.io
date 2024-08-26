@@ -12,7 +12,7 @@ permalink: /teaching/hci/design-sprints/another-world
 
 * Group size: Teams of 3-4
 * Design sprint starts: Wednesday, August 30, in class.
-* Design sprint ends: Wednesday, September 13, in class (demo). Design document due at *11:55 PM*. 
+* Design sprint ends: Wednesday, September 13, in class (demo). [Design document](/teaching/hci/design-doc) due at *11:55 PM*. 
 
 ## Overview 
 
@@ -37,7 +37,7 @@ A couple of quick pointers before you start:
 
 ## Deliverables
 
-* As always: Your group's design reflection as a blog post. **You WILL need a demo video.** 
+* As always: Your group's design reflection as a blog post on Medium. **You WILL need a demo video.** Follow the guidelines in the [Design Doc](/teaching/hci/design-doc) explanation
 * Your VR experience should be publicly accessible so that others can visit it. **Include this link in your design doc.** It’s fine if this is a link from Glitch (which is probably the easiest place to develop your work).
 * Post the link of each blog post along with the names of your group members on our Slack channel for `#group_design_projects` **and** one group member should submit the link on Moodle.
 
