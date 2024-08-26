@@ -154,7 +154,7 @@ All **reading** and **demos of design sprints** are due at 2:20 PM on the day of
     <th>Week</th>
     <th>Date</th>
     <th>Topic</th>
-    <th>Reading</th>
+    <th>Reading <br> (due before class unless noted)</th>
     <th>Assignments due</th>
   </tr>
   </thead>
@@ -164,8 +164,8 @@ All **reading** and **demos of design sprints** are due at 2:20 PM on the day of
     <td>8/26</td>
     <td>Intro to Human-Computer Interaction</td>
     <td> 
-    <img class="reading" src="./images/book-open.svg" height="16" width="16"><a href="https://www.interaction-design.org/literature/book/the-encyclopedia-of-human-computer-interaction-2nd-ed/contextual-design"> Contextual Design, Holtzblatt & Beyer.</a> <br /> 
-    <img class="reading" src="./images/book-open.svg" height="16" width="16"> <a href="https://ia.net/topics/learning-to-see">Learning to See.</a></td>
+    <img class="reading" src="./images/book-open.svg" height="16" width="16"><a href="https://www.interaction-design.org/literature/book/the-encyclopedia-of-human-computer-interaction-2nd-ed/contextual-design"> Contextual Design, Holtzblatt & Beyer.</a> <i>(reading due by Friday)</i><br /> 
+    <img class="reading" src="./images/book-open.svg" height="16" width="16"> <a href="https://ia.net/topics/learning-to-see">Learning to See.</a> (<i>(reading due by Friday)</i></td>
     <td><a href="https://forms.gle/45kUNJd1rAjJwgDR6">Complete the course survey</a>.</td>
   </tr>
   <tr>
