@@ -7,7 +7,7 @@ title: Homework
 course: CSC 363 HCI
 course-url: /teaching/hci
 description: for CSC 363 - Human Computer Interaction
-permalink: /teaching/hci/assignments/homework
+permalink: /teaching/hci/homework/homework
 ---
 
 # Individual Homework
