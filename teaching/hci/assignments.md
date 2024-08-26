@@ -28,7 +28,7 @@ You will be individually responsible for some homework assignments, participatio
 |-----------|--------|---------------------------------|
 |           | 20%    | [Individual homework assignments](/teaching/hci/assignments/homework/) |
 |           | 5%     | [Engagement and critique](/teaching/hci/engagement/)         |
-|           | 40%    | [Group design sprints](/teaching/hci/assignments/design-sprints/)         |
+|           | 40%    | [Group design sprints](/teaching/hci/design-sprints/design-sprints)         |
 |           | 20%    | [Final project](/teaching/hci/final-project)                   |
 |           | 15%    | Oral exam                       |
 

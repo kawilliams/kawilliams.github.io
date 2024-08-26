@@ -51,7 +51,7 @@ Now, given your new physical prototype, your group should design and execute a p
 
 ## Deliverables
 
-* As always: Your group's design reflection as a blog post. **You WILL need a demo video.** 
+* As always: Your group's design reflection as a blog post on Medium. **You WILL need a demo video.** 
 * Your VR experience should be publicly accessible so that others can visit it. **Include this link in your design doc.** 
 * Post the link of each blog post along with the names of your group members on our Slack channel for `#group_design_projects` **and** one group member should submit the link on Moodle.
 

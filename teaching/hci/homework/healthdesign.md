@@ -11,7 +11,8 @@ permalink: /teaching/hci/assignments/hw3
 # Health Design
 
 * Group size: **Individual**
-* Due: Friday, September 13
+* Assignment opens: Wednesday, September 4
+* Due: Wednesday, September 11 by 11:55 PM
 
 ## Overview 
 Before your first group design sprint, this individual assignment will introduce you to some aspects of the design process:
@@ -44,7 +45,7 @@ This should *build* on what you discovered in your [needfinding](./needfinding.m
 **Design a more complete evaluation plan.** Assume time and resources were not a problem. How would you assess if your design accomplished the goals you set out to achieve? Write a few paragraphs describing how you might conduct an evaluation accordingly. Again, don't fret too much on this part. We will learn more formal techniques in the coming weeks, so use this opportunity to be creative with your evaluation design -- but be systematic!
 
 ## Deliverables
-1. The output from this assignment should be the [design document](https://emilywall.github.io/hci/resources/design_docs.html). Submit the link of the Medium post along with your name on Canvas. As with all design documents, it should include evidence of your design process. **You do NOT need to create a demo video for this design module.** For this assignment, I would expect a minimum of the following:
+1. The output from this assignment should be the [design document](https://emilywall.github.io/hci/resources/design_docs.html). Submit the link of the Medium post along with your name on Moodle. As with all design documents, it should include evidence of your design process. **You do NOT need to create a demo video for this design module.** For this assignment, I would expect a minimum of the following:
     1. description of the problem to be solved, including POV and HMW statements
     2. pictures of your various sketches
     3. a cleaned up paper prototype (more broadly, the evolution of your design should be clear)

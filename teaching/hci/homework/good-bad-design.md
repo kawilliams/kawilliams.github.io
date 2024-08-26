@@ -11,8 +11,9 @@ permalink: /teaching/hci/assignments/hw1
 # Good Design, Bad Design
 
 * Group size: Individual
-* Due: Friday, August 30
-* Before you start this assignment, make sure that you have already read Learning to See.
+* Assignment opens: Wedneseday, August 28
+* Due: Monday, September 2 *before class (2:20 PM)*
+* Before you start this assignment, make sure that you have already read [Learning to See](https://ia.net/know-how/learning-to-see).
 
 ## Overview 
 In this assignment, your objective is pretty straightforward: start training yourself to think about the design of things around you. Think carefully about how people interact with the physical or digital world. 

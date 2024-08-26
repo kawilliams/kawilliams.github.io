@@ -10,8 +10,11 @@ permalink: teaching/
 # Resources for my courses
 
 ## Fall 2024
-* [CSC 121-B: Programming and Problem Solving](./csc121/) (see Moodle page for current course information)
+* [CSC 121-B: Programming and Problem Solving](./csc121/)
+    * Mon/Wed/Fri 9:30-10:20 AM in Watson 132
+    * See Moodle page for current course information
 * [CSC 363: Human Computer Interaction (HCI)](./hci/)
+    * Mon/Wed 2:30-3:45 PM in Watson 247
 
 ## Spring 2024
 * CSC 121-B: Programming and Problem Solving 
