@@ -209,7 +209,7 @@ All **reading** and **demos of design sprints** are due at 2:20 PM on the day of
 		<img class="reading" src="./images/book-open.svg" height="16" width="16"> <a href="http://faculty.washington.edu/ajko/books/design-methods/how-to-define-problems.html">How to Define Problems by Ko</a><br>
 	  Read <img class="reading" src="./images/book-open.svg" height="16" width="16"> or watch <img class="watch" src="./images/display.svg" height="16" width="16"> something else about problem definition
     </td>
-    <td><a href="/teaching/hci/homework/hw1">HW: Good/Bad Design</a> <b>(due BEFORE class at 2:20 PM)</b></td>
+    <td><a href="/teaching/hci/assignments/hw1">HW: Good/Bad Design</a> <b>(due BEFORE class at 2:20 PM)</b></td>
   </tr>
   <tr>
     <td>9/4</td>
