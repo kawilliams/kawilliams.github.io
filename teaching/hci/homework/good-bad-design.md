@@ -28,7 +28,8 @@ Create a new slide in this [shared slide deck](https://docs.google.com/presentat
 
 
 ## Deliverables
-1. Submit your good and bad design using this slide deck. You will add one slide for your submission.
+1. Add your good and bad design using this slide deck. You will add one slide for your submission.
+2. Submit a PDF of the *current status* of the slide deck to Moodle for assignment "HW 1: Good/Bad Design". This PDF should include *your* slide and a few other students, but may not include the entire class' submissions when you submit. 
 
 ### Grading
 Grading will be based on a *variation* of the [design rubric](https://docs.google.com/spreadsheets/d/1aI9LcmVZmh_977G__U4Guz_rPRCwWZs26J_yHXbhSyY/edit?usp=sharing).
