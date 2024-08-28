@@ -23,7 +23,8 @@ Human-computer interaction combines computer science, psychology, sociology, des
 * Lecture Slides and Recordings: [Google Drive](https://drive.google.com/drive/folders/1lYnsEq4Ze0jPzwLaxhLimXPT2xNRzn_F?usp=sharing) (use Davidson SSO)
 * Design Documentation: [here](/teaching/hci/design-doc)
 * Discussion/Questions: Slack (contact Dr. Williams if you have not received the Slack link)
-* Office Hours: TBD <!--Tuesday and Thursday from 9:00-11:00 AM and 1:00-3:00 PM, and by appointment.-->
+* Office Hours: Tuesday/Thursday: 10:00-11:00 AM and 1:00-2:30 PM
+  * I am also usually available for a few minutes after class
 
 # Prerequisites and Major/Minor Requirements
 *Prerequisite*: CSC 221 - Data Structures. This course is **required** (no exceptions). 
@@ -57,7 +58,7 @@ You will be individually responsible for some homework assignments, participatio
 
 | Objective | Weight | Description                     |
 |-----------|--------|---------------------------------|
-| <img src="./images/pencil.svg" width="20" height="20"><img src="./images/pen-to-square.svg" width="20" height="20"><img src="./images/book.svg" width="20" height="20">| 20%    | [Individual homework assignments](/teaching/hci/assignments/homework) |
+| <img src="./images/pencil.svg" width="20" height="20"><img src="./images/pen-to-square.svg" width="20" height="20"><img src="./images/book.svg" width="20" height="20">| 20%    | [Individual homework assignments](/teaching/hci/homework/homework) |
 |<img src="./images/hand.svg" width="20" height="20"><img src="./images/book.svg" width="20" height="20">| 5%     | [Engagement and critique](/teaching/hci/engagement/)|
 |<img src="./images/pencil.svg" width="20" height="20"><img src="./images/pen-to-square.svg" width="20" height="20"><img src="./images/book.svg" width="20" height="20">| 40%    | [Group design sprints](/teaching/hci/design-sprints/design-sprints)         |
 |<img src="./images/pencil.svg" width="20" height="20"><img src="./images/pen-to-square.svg" width="20" height="20"><img src="./images/book.svg" width="20" height="20">| 20%    | [Final project](/teaching/hci/final-project)                   |
@@ -208,7 +209,7 @@ All **reading** and **demos of design sprints** are due at 2:20 PM on the day of
 		<img class="reading" src="./images/book-open.svg" height="16" width="16"> <a href="http://faculty.washington.edu/ajko/books/design-methods/how-to-define-problems.html">How to Define Problems by Ko</a><br>
 	  Read <img class="reading" src="./images/book-open.svg" height="16" width="16"> or watch <img class="watch" src="./images/display.svg" height="16" width="16"> something else about problem definition
     </td>
-    <td><a href="/teaching/hci/assignments/hw1">HW: Good/Bad Design</a> <b>(due BEFORE class at 2:20 PM)</b></td>
+    <td><a href="/teaching/hci/homework/hw1">HW: Good/Bad Design</a> <b>(due BEFORE class at 2:20 PM)</b></td>
   </tr>
   <tr>
     <td>9/4</td>
