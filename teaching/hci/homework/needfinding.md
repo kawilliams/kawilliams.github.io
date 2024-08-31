@@ -11,8 +11,8 @@ permalink: /teaching/hci/assignments/hw2
 # Needfinding
 
 * Group size: Individual
-* Assignment opens: Wednesday, August 28
-* Due: Wednesday, September 4, *by 11:55 PM*. 
+* Assignment opens: Monday, September 2
+* Due: Monday, September 9, *by 11:55 PM*. 
 
 ## Overview 
 In this assignment you will plan, develop, and execute a round of needfinding. You will present your interview plan (methodology), data gathered from your initial interviews, and the key insights and inferences you have made in a Medium blog post. You will capture this analysis in an empathy map.
@@ -56,7 +56,7 @@ In this assignment, you will choose an existing aspect of the user experience re
 * Reddit. The subreddit [https://www.reddit.com/r/SampleSize/](https://www.reddit.com/r/SampleSize/) is dedicated to recruiting people for research studies or polls. This can be a good way to reach a more diverse group of people.
 
 ## Deliverables
-1. The output from this assignment should be the [design document](/teaching/hci/design-doc.md). Submit the link of the Medium post along with your name on Moodle. Also include signed consent forms in your Moodle submission (but **do not include these in the blog post!**). As with all design documents, it should include evidence of your design process. **You do NOT need to create a demo video for this design module.** For this assignment, I would expect a minimum of the following:
+1. The output from this assignment should be the [design document](/teaching/hci/design-doc). Submit the link of the Medium post along with your name on Moodle. Also include signed consent forms in your Moodle submission (but **do not include these in the blog post!**). As with all design documents, it should include evidence of your design process. **You do NOT need to create a demo video for this design module.** For this assignment, I would expect a minimum of the following:
 * Introduction/motivation for the problem context you chose.
 * Needfinding methodology (include images). Make sure you say who your participants were, why they were chosen, how they were recruited, and where they were interviewed (include images). What did you ask?
 * Interview results and analysis. Pictures and quotes. Empathy map with highlighted components of what you found important/interesting. Discuss tensions, contradictions, surprises in the interview. Inferences, conclusions, or questions you might have about your results. Initial assessment of “needs” and “insights”. You should *not* include complete transcripts of the interviews.

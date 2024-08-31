@@ -204,9 +204,9 @@ All **reading** and **demos of design sprints** are due at 2:20 PM on the day of
     <td rowspan="2">2</td>
     <td>9/2</td>
     <td>Define</td>
-    <td><img class="reading" src="./images/book-open.svg" height="16" width="16"> <a href="http://kowym.com/wp-content/uploads/2018/08/The-Design-of-Everyday-Things-Don-Norman.pdf#page=17">Ch. 1 from <i>The Design of Everyday Things</i></a><br>
-		<img class="reading" src="./images/book-open.svg" height="16" width="16"> <a href="http://faculty.washington.edu/ajko/books/design-methods/how-to-understand-problems.html">How to Understand Problems by Ko</a><br>
-		<img class="reading" src="./images/book-open.svg" height="16" width="16"> <a href="http://faculty.washington.edu/ajko/books/design-methods/how-to-define-problems.html">How to Define Problems by Ko</a><br>
+    <td><img class="reading" src="./images/book-open.svg" height="16" width="16"> <a href="https://drive.google.com/file/d/1nQvmNzbUI3KnNwkuFJlBy6Q8O51kJqxu/view?usp=sharing">Ch. 1 from <i>The Design of Everyday Things</i></a><br>
+		<img class="reading" src="./images/book-open.svg" height="16" width="16"> <a href="https://faculty.washington.edu/ajko/books/design-methods/understand">How to Understand Problems by Ko</a> (<a href="https://faculty.washington.edu/ajko/books/design-methods">homepage</a> for all of Ko's chapters)<br>
+		<img class="reading" src="./images/book-open.svg" height="16" width="16"> <a href="https://faculty.washington.edu/ajko/books/design-methods/problems">How to Define Problems by Ko</a><br>
 	  Read <img class="reading" src="./images/book-open.svg" height="16" width="16"> or watch <img class="watch" src="./images/display.svg" height="16" width="16"> something else about problem definition
     </td>
     <td><a href="/teaching/hci/assignments/hw1">HW: Good/Bad Design</a> <b>(due BEFORE class at 2:20 PM)</b></td>
@@ -215,7 +215,7 @@ All **reading** and **demos of design sprints** are due at 2:20 PM on the day of
     <td>9/4</td>
     <td>Ideation + Prototyping</td>
     <td>
-      <img class="reading" src="./images/book-open.svg" height="16" width="16"> <a href="http://faculty.washington.edu/ajko/books/design-methods/how-to-be-creative.html">How to be Creative by Ko</a><br>
+      <img class="reading" src="./images/book-open.svg" height="16" width="16"> <a href="https://faculty.washington.edu/ajko/books/design-methods/creative">How to be Creative by Ko</a><br>
 			<img class="reading" src="./images/book-open.svg" height="16" width="16"> <a href="https://kixlab.org/courses/cs374-spring-2017/classes/08-Ideation/">Ideation Overview </a>(don’t answer survey questions)<br>
       <img class="reading" src="./images/book-open.svg" height="16" width="16"> <a href="http://faculty.washington.edu/ajko/books/design-methods/how-to-prototype.html">How to Prototype by Ko</a><br>
       <img class="reading" src="./images/book-open.svg" height="16" width="16"> <b>Optional:</b> (9 min) <a href="https://medium.com/@rachelbinx/why-you-should-be-prototyping-e4f7d55a6848">Why you should be prototyping (Netflix)</a><br>
@@ -224,7 +224,6 @@ All **reading** and **demos of design sprints** are due at 2:20 PM on the day of
       <img class="reading" src="./images/book-open.svg" height="16" width="16"> Read or watch <img class="watch" src="./images/display.svg" height="16" width="16"> something else about prototying or ideation
     </td>
     <td>
-      <a href="homework/needfinding.md">HW: Needfinding Exercise</a>
     </td>
   </tr>
   <tr>
@@ -239,7 +238,9 @@ All **reading** and **demos of design sprints** are due at 2:20 PM on the day of
 		<img class="reading" src="./images/book-open.svg" height="16" width="16"> <b>Optional: </b> <look-this></look-this> <a href="http://ui-patterns.com">UI Design Patterns</a><br>
 		<img class="reading" src="./images/book-open.svg" height="16" width="16"> or <img class="watch" src="./images/display.svg" height="16" width="16"> something else about visual design
     </td>
-    <td></td>
+    <td>
+     <a href="/teaching/hci/assignments/hw2">HW: Needfinding Exercise</a>
+    </td>
   </tr>
   <tr>
     <td>9/11</td>
