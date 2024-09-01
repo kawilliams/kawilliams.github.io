@@ -11,8 +11,8 @@ permalink: /teaching/hci/assignments/hw3
 # Health Design
 
 * Group size: **Individual**
-* Assignment opens: Wednesday, September 4
-* Due: Wednesday, September 11 by 11:55 PM
+* Assignment opens: Monday, September 9
+* Due: Monday, September 16 by 11:55 PM
 
 ## Overview 
 Before your first group design sprint, this individual assignment will introduce you to some aspects of the design process:
