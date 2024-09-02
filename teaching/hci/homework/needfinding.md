@@ -15,7 +15,7 @@ permalink: /teaching/hci/assignments/hw2
 * Due: Monday, September 9, *by 11:55 PM*. 
 
 ## Overview 
-In this assignment you will plan, develop, and execute a round of needfinding. You will present your interview plan (methodology), data gathered from your initial interviews, and the key insights and inferences you have made in a Medium blog post. You will capture this analysis in an empathy map.
+In this assignment you will plan, develop, and execute a round of needfinding. You will present your interview plan (methodology), data gathered from your initial interviews, and the key insights and inferences you have made in a Medium blog post. You will capture this analysis in an [empathy map](https://www.nngroup.com/articles/empathy-mapping/).
 
 ## Choose Your Problem
 In this assignment, you will choose an existing aspect of the user experience related to personal health data and endeavour to understand the needs of users. This could include, e.g.:
@@ -46,7 +46,7 @@ In this assignment, you will choose an existing aspect of the user experience re
 * Remember these interviewing tips in the types of things to look for and how to ask. Get stories! Refer back to our lecture notes!
 * Remember, your questions are just a guide to get you comfortable starting. Veer & pull strings to get to interesting stories and emotions.
 
-4. Unpack the needfinding data by using the empathy map method and identify surprises, contradictions, and tensions. We recommend you have at minimum one empathy map for your most interesting interview. This will be valuable in the next assignment in making sense of your user’s point of view, brainstorming “how might we’s” and in building experience prototypes.
+4. Unpack the needfinding data by using the [empathy map method](https://www.nngroup.com/articles/empathy-mapping/) and identify surprises, contradictions, and tensions. We recommend you have at minimum one empathy map for your most interesting interview. This will be valuable in the next assignment in making sense of your user’s point of view, brainstorming “how might we’s” and in building experience prototypes.
 
 ## Finding Interview Participants
 * Cold calling. Don't underestimate how far your davidson.edu email/student status will get you!
@@ -56,6 +56,7 @@ In this assignment, you will choose an existing aspect of the user experience re
 * Reddit. The subreddit [https://www.reddit.com/r/SampleSize/](https://www.reddit.com/r/SampleSize/) is dedicated to recruiting people for research studies or polls. This can be a good way to reach a more diverse group of people.
 
 ## Deliverables
+An example from the Hall of Fame is [here](https://medium.com/@meideng06/needfinding-tracking-and-maintaining-fitness-goals-f7bb66f9158a).
 1. The output from this assignment should be the [design document](/teaching/hci/design-doc). Submit the link of the Medium post along with your name on Moodle. Also include signed consent forms in your Moodle submission (but **do not include these in the blog post!**). As with all design documents, it should include evidence of your design process. **You do NOT need to create a demo video for this design module.** For this assignment, I would expect a minimum of the following:
 * Introduction/motivation for the problem context you chose.
 * Needfinding methodology (include images). Make sure you say who your participants were, why they were chosen, how they were recruited, and where they were interviewed (include images). What did you ask?
