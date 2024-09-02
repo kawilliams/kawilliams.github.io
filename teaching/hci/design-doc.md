@@ -11,7 +11,7 @@ course-url: /teaching/hci
 
 At the conclusion of each design sprint, you and your team will construct a public facing document that presents your process and outcome. You will be assessed using the [Design Rubric](https://docs.google.com/spreadsheets/d/1aI9LcmVZmh_977G__U4Guz_rPRCwWZs26J_yHXbhSyY/edit?usp=sharing) (or a variation of it). This will consist of:
 
-1. A **post on your Davidson Domain**. With your permission, I am hoping to republish the 2 or 3 consensus favorite outcomes of 
+1. A **post on Medium**. With your permission, I am hoping to republish the 2 or 3 consensus favorite outcomes of 
 each assignment and make them public on the course homepage.
 2. Embedded in your post, a **demo video** that shows interaction with your techonology, highlighting the key design decisions
 that you made. This will likely require you uploading your video to a public service (e.g., YouTube). *Note: some of your assingments may NOT require a video. Read the instructions carefully.*
