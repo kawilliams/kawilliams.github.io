@@ -262,7 +262,7 @@ All **reading** and **demos of design sprints** are due at 2:20 PM on the day of
     <img class="reading" src="./images/book-open.svg" height="16" width="16"> <a href="https://emilywall.github.io/hci/resources/working_in_groups.html">Tips for Working Successfully in Groups by Pausch</a>
     </td>
     <td>
-    <a href="assignments/healthdesign.md" >HW: Health Design</a>  
+    <a href="/teaching/hci/assignments/hw3" >HW: Health Design</a>  
     </td>
   </tr>
   <tr>
