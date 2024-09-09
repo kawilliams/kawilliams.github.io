@@ -10,7 +10,7 @@ description: Human Computer Interaction
 permalink: teaching/hci/
 ---
 
-<h4><img src="./images/arrow-down-long.svg" width="24" height="24"> Jump down to the <a href="#schedule">schedule</a>, <a href="#assignments-and-responsibilities">assignments</a>, or <a href="#policies">policies</a> (including my <a href="#ai-statement">AI policy</a>).</h4>
+<h4><img src="./images/arrow-down-long.svg" width="24" height="24"> Jump down to the <a href="#this_week">schedule</a>, <a href="#assignments-and-responsibilities">assignments</a>, or <a href="#policies">policies</a> (including my <a href="#ai-statement">AI policy</a>).</h4>
 
 # About this course 
 
@@ -228,7 +228,7 @@ All **reading** and **demos of design sprints** are due at 2:20 PM on the day of
   </tr>
   <tr>
     <td rowspan="2">3</td>
-    <td>9/9</td>
+    <td id="this_week">9/9</td>
     <td>Visual Design + Design Patterns</td>
     <td>
      <img class="watch" src="./images/display.svg" height="16" width="16"> (7 min) <a href="https://www.youtube.com/watch?v=sTi5SNgxE3U">The Universal Arts of Graphic Design</a><br>
