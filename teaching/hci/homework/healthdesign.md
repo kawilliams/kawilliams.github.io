@@ -23,11 +23,11 @@ Before your first group design sprint, this individual assignment will introduce
 ## Choose Your Problem
 This should *build* on what you discovered in your [needfinding](./needfinding.md) exercise. Based on your empathy map from the previous assignment, you should now:
 
-* Create a "Point of View" -- remember the three key statements
-    * We Met ...
-    * We realized ...
-    * It would be game-changing to ...
-* Brainstorm "How Might We" statements
+* Create a ["Point of View" (POV)](https://public-media.interaction-design.org/pdf/Point-Of-View.pdf) -- remember the three key statements
+    * We met ...<the **user** from the empathy map>
+    * We realized ...<the user **needs** XYZ>
+    * It would be game-changing to ...<an **insight** from your synthesis of your data>
+* Brainstorm ["How Might We" (HMW) statements](https://www.nngroup.com/articles/how-might-we-questions/)
 * Narrow down to the problem you will solve...
 * Start sketching!
 
@@ -39,13 +39,15 @@ This should *build* on what you discovered in your [needfinding](./needfinding.m
 * [Top 10 Enduring Web-Design Mistakes](https://www.nngroup.com/articles/top-10-enduring/) posted by the Nielsen Norman Group
 
 **Output:** Use sketching as a tool to explore your designs. The goal here is to rapidly explore many different solutions with messy sketches. After you have thoroughly explored the design space (you should have at least 5 ideas each for 3 different screens or aspects of the experience), use paper to construct a cleaner paper prototype.
+* Your solution should have multiple screens or aspects to the experience. If you find that you're stuck with only one or two, re-evaluate how you're solving the problem. We need enough depth to ensure we're solving the problem in a satisfying way for the users.
+* 5+ ideas for 3+ screens/aspects of the experience means *at minimum* there should be 15 sketches. Remember that it's a sketch (so it should convey the idea without too much detail or effort).
 
 **You should test this paper prototype with other people in the class.** While they don’t necessarily represent your users (so this is typically bad practice), I want you to get in the habit of getting feedback on whatever you create. We’ll discuss user testing more in a week or two. Until then, do your best to get worthwhile feedback and change your prototype accordingly.
 
 **Design a more complete evaluation plan.** Assume time and resources were not a problem. How would you assess if your design accomplished the goals you set out to achieve? Write a few paragraphs describing how you might conduct an evaluation accordingly. Again, don't fret too much on this part. We will learn more formal techniques in the coming weeks, so use this opportunity to be creative with your evaluation design -- but be systematic!
 
 ## Deliverables
-1. The output from this assignment should be the [design document](https://emilywall.github.io/hci/resources/design_docs.html). Submit the link of the Medium post along with your name on Moodle. As with all design documents, it should include evidence of your design process. **You do NOT need to create a demo video for this design module.** For this assignment, I would expect a minimum of the following:
+1. The output from this assignment should be the [design document](https://kawilliams.github.io/teaching/hci/design-doc). Submit the link of the Medium post along with your name on Moodle. As with all design documents, it should include evidence of your design process. **You do NOT need to create a demo video for this design module.** For this assignment, I would expect a minimum of the following:
     1. description of the problem to be solved, including POV and HMW statements
     2. pictures of your various sketches
     3. a cleaned up paper prototype (more broadly, the evolution of your design should be clear)

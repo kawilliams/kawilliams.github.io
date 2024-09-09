@@ -22,7 +22,9 @@ permalink: teaching/hci/assignments
 
 ## Assignments
 
-You will be individually responsible for some homework assignments, participation and critique, oral exams, and your final project. In addition, there will be 4 design sprints throughout the semester, completed as gropu projects.
+You will be individually responsible for some homework assignments, participation and critique, oral exams, and your final project. In addition, there will be 4 design sprints throughout the semester, completed as group projects.
+
+Most of your assignments will culminate in a [design doc](https://kawilliams.github.io/teaching/hci/design-doc), a public-facing document that presents your process and outcome.
 
 | Objective | Weight | Description                     |
 |-----------|--------|---------------------------------|
@@ -30,5 +32,5 @@ You will be individually responsible for some homework assignments, participatio
 |           | 5%     | [Engagement and critique](/teaching/hci/engagement/)         |
 |           | 40%    | [Group design sprints](/teaching/hci/design-sprints/design-sprints)         |
 |           | 20%    | [Final project](/teaching/hci/final-project)                   |
-|           | 15%    | Oral exam                       |
+|           | 15%    | [Oral exam](teaching/hci/oral-exam)                       |
 
