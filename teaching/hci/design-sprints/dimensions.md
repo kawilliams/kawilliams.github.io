@@ -11,15 +11,15 @@ permalink: /teaching/hci/design-sprints/dimensions
 # Design for Dimensions
 
 * Group size: Teams of 3-4
-* Design sprint starts: Wednesday, August 30, in class.
-* Design sprint ends: Wednesday, September 13, in class (demo). Design document due at *11:55 PM*. 
+* Design sprint starts: Wednesday, September 11, in class.
+* Design sprint ends: Monday, September 23, in class (demo). [Design document](/teaching/hci/design-doc) due at *11:55 PM*. 
 
 ## Overview 
 
 **Before you begin**: Read this entire document and consider how you might want to split up work.
 
-It's time to begin the design process *as a team*. This first design spritn will build on the skills you developed
-during the Health Design assignment and force you to engage with three aspects of the design process:
+It's time to begin the design process *as a team*. This first design sprint will build on the *skills* you developed
+during the Health Design assignment and force you to engage with three aspects of the design process. In particular, you and your group will demonstrate understanding of:
 1. Visual design
 2. Sketching for ideation (using paper)
 3. Prototyping tools (using [Figma](https://www.figma.com/))
@@ -31,18 +31,18 @@ In this design sprint, you will take an existing website and redesign it for **t
 2. a laptop, and
 3. a large multi-touch display (think [Microsoft Surface Hub](https://www.microsoft.com/en-us/surface/business/surface-hub-3))
 
-**Here’s the catch**: you can't just shrink or expand content to fit a different screen size. You must consider the holistic user experience of the device. The input modalities are different for a smart watch than a laptop. For instance, an Apple Watch has a [digital crown](https://www.youtube.com/watch?v=kZEgup5ijd4), while a laptop does not (note that the digital crown features have changed slightly). A large wall-sized multi-touch display is often used in collaborative settings, sometimes with pen and touch, while a laptop is usually for an individual.
+**Here’s the catch**: you can't just shrink or expand content to fit a different screen size. You must consider the holistic user experience of the device. The input modalities are different for a smart watch than a laptop. For instance, an Apple Watch has a [digital crown](https://www.youtube.com/watch?v=aPN13ULL0k4), while a laptop does not. A large wall-sized multi-touch display is often used in collaborative settings, sometimes with pen and touch, while a laptop is usually for an individual.
 
 Furthermore, you shouldn’t just translate the existing design for these devices. Instead, imagine that you want to create the best experience for a *specific user group*. Your group should define who that user group is. Who are they? What do they need (differently from other users), and how can you cater your design to that group? For instance, the informational needs, the designs you'd choose, and the interactions you might support would likely be very different if you were designing for people who live in Cornelius in their 50s v. Davidson College students.
 
 <!-- The website: you will be re-designing something near and dear to all our hearts. In the past, I have assigned websites for Atlanta-based businesses and organizations, including Emory Computer Science department website, Dave's Cosmic Subs in Emory Village, or Atlanta's Fox Theatre. This semester, you will choose the website of a local Atlanta business. Pick an organization or business that you and your groupmates care about, but don't spend too long deciding! -->
 **The website:** you will be re-designing the [Knotty and Board](https://www.knottyandboard.com/) website, a local home furnishings company.
 
-While you will not redesign the entire website, you should redesign at least two pages on the website. One of those pages must be the homepage. The other/s must be accessible from the homepage.
+While you will not redesign the entire website, you should redesign at least two pages on the website. One of those pages must be the homepage. The other[s] must be accessible from the homepage.
 
 ## Information Design
 
-*Collect evidence along the way! Don't make your [design reflection](../design-doc.md) more difficult than it needs to be!*
+*Collect evidence along the way! Don't make writing your [design doc](/teaching/hci/design-doc) more difficult than it needs to be!*
 
 The first thing that you should do is establish which information should be emphasized to your specific user group. Don’t just rearrange the homepage - that was constructed for a general audience. Instead, consider which information across the entire website should be emphasized for your group. What do you think the goals of your users would be?
 
@@ -79,7 +79,7 @@ Figma is fantastic, but it isn’t magic. You’re still going to need to create
 ## Deliverables
 * **Demo (in-class):** You should have Figma links handy and ready to present in class on the day of your demo. Plan to spend approximately 8 minutes presenting (~6 minutes talking through your design + ~2 minutes for questions). Your classmates will critique your work (using the *I like, I wish, What if* framework) and also try to guess your target demographic… despite having no previous knowledge.
 
-* **Final deliverable (due at 11:55 PM):** The output from this assignment should be the [design document](/teaching/hci/design-doc) (one per group). Post the link of your design document post along with your group members' names on our Slack channel for `#group_design_projects` and submit the link on Moodle (only one group member needs to submit). As with all design documents, it should include evidence of your design process. **You do NOT need to create a demo video for this design sprint**, although depending on the complexity of your interaction design, it may still be a good idea to communicate your design. For this assignment, I would expect a *minimum* of the following:
+* **Final deliverable (due at 11:55 PM):** The output from this assignment should be the [design document](/teaching/hci/design-doc) (one per group). An example Medium post from an Emory student is [here](https://medium.com/@amart98/design-for-dimensions-emory-cs-department-website-makeover-6d8d7530442c) -- it's a solid enough example but I would not give it a 100%. Post the link of your design document post along with your group members' names on our Slack channel for `#group_design_projects` and submit the link on Moodle (only one group member needs to submit). As with all design documents, it should include evidence of your design process. **You do NOT need to create a demo video for this design sprint**, although depending on the complexity of your interaction design, it may still be a good idea to communicate your design. For this assignment, I would expect a *minimum* of the following:
     * pictures of your various sketches for all three devices
     * a picture of your moodboard
     * pictures of your final product for all three devices (more broadly, the evolution of your design should be clear)
