@@ -244,7 +244,7 @@ All **reading** and **demos of design sprints** are due at 2:20 PM on the day of
   </tr>
   <tr>
     <td>9/11</td>
-    <td><a href="design-sprints/dimensions.md" >Design for Dimensions Intro</a> + Figma Demo</td>
+    <td><a href="/teaching/hci/design-sprints/dimensions" >Design for Dimensions Intro</a> + Figma Demo</td>
     <td>
     <img class="reading" src="./images/book-open.svg" height="16" width="16"> <a href="https://www.figma.com/community/explore">Figma Resources</a><br>
 		<img class="watch" src="./images/display.svg" height="16" width="16"> (24 min) <a href="https://www.youtube.com/watch?v=FTFaQWZBqQ8">Figma UI Design Tutorial</a>
@@ -255,7 +255,7 @@ All **reading** and **demos of design sprints** are due at 2:20 PM on the day of
   <tr>
     <td rowspan="2">4</td>
     <td>9/16</td>
-    <td>Hack Day -- <a href="./design-sprints/dimensions.md">Design for Dimensions</a></td>
+    <td>Hack Day -- <a href="/teaching/hci/design-sprints/dimensions">Design for Dimensions</a></td>
     <td>	
     <img class="reading" src="./images/book-open.svg" height="16" width="16"> <a href="https://xd.adobe.com/ideas/process/user-research/putting-personas-to-work-in-ux-design/">Putting Personas to Work by Faller</a><br>
     <img class="reading" src="./images/book-open.svg" height="16" width="16"> <a href="https://www.aiga.org/resources/how-to-survive-a-critique-a-guide-to-giving-and-receiving-feedback">A Guide to Giving and Receiving Feedback by Cheng</a><br>
@@ -279,13 +279,13 @@ All **reading** and **demos of design sprints** are due at 2:20 PM on the day of
   <tr>
     <td rowspan="2">5</td>
     <td>9/23</td>
-    <td>Demo: <a href="./design-sprints/dimensions.md">Design for Dimensions</a></td>
+    <td>Demo: <a href="/teaching/hci/design-sprints/dimensions">Design for Dimensions</a></td>
     <td>No prep</td>
-    <td>DS: <a href="./design-sprints/dimensions.md">Design for Dimensions</a></td>
+    <td>DS: <a href="/teaching/hci/design-sprints/dimensions">Design for Dimensions</a></td>
   </tr>
   <tr>
     <td>9/25</td>
-    <td><a href="design-sprints/understanding.md">Design for Understanding</a> Intro + VIS Tool Demo</td>
+    <td><a href="/teaching/hci/design-sprints/understanding">Design for Understanding</a> Intro + VIS Tool Demo</td>
     <td>
     <img class="reading" src="./images/book-open.svg" height="16" width="16"> <a href="http://kowym.com/wp-content/uploads/2018/08/The-Design-of-Everyday-Things-Don-Norman.pdf#page=70">Ch. 3 from <i>The Design of Everyday Things</i></a><br>
 		<img class="reading" src="./images/book-open.svg" height="16" width="16"> <a href="http://vis.cs.brown.edu/docs/pdf/bib/value-of-infovis.pdf">The Value of Information Visualization by Fekete et al</a><br>
@@ -308,7 +308,7 @@ All **reading** and **demos of design sprints** are due at 2:20 PM on the day of
   </tr>
   <tr>
     <td>10/2</td>
-    <td>Evaluation Part 2 + Hack: Design for Understanding</td>
+    <td>Evaluation Part 2 + Hack: <a href="/teaching/hci/design-sprints/understanding">Design for Understanding</a></td>
     <td>
     <img class="reading" src="./images/book-open.svg" height="16" width="16">  <a href="https://www.nngroup.com/articles/usability-testing-101/">Usability Testing 101 by Moran</a><br>
 		<img class="reading" src="./images/book-open.svg" height="16" width="16">  <a href="https://www.nngroup.com/articles/how-to-conduct-a-heuristic-evaluation/">How to Conduct a Heuristic Evaluation by Nielsen</a><br> 
@@ -331,14 +331,14 @@ All **reading** and **demos of design sprints** are due at 2:20 PM on the day of
   </tr>
   <tr>
     <td>10/9</td>
-    <td>Demo: Design for Understanding <br> <i>(Fall break Thurs/Fri)</i></td>
+    <td><a href="/teaching/hci/design-sprints/understanding">Demo: Design for Understanding</a> <br> <i>(Fall break Thurs/Fri)</i></td>
     <td></td>
-    <td><a href="assignments/understanding.md">DS: Design for Understanding (demo)</a></td>
+    <td><a href="/teaching/hci/design-sprints/understanding">DS: Design for Understanding</a></td>
   </tr>
   <tr>
     <td rowspan="2">8</td>
     <td>10/14</td>
-    <td>Design for Another World Intro, Augmented + Virtual Reality (guest: Dr. Peck)</td>
+    <td><a href="/teaching/hci/design-sprints/another-world">Design for Another World</a> Intro, Augmented + Virtual Reality (guest: Dr. Peck)</td>
     <td>
     <img class="reading" src="./images/book-open.svg" height="16" width="16"> <a href="https://medium.com/googleplaydev/applying-human-centered-design-to-emerging-technologies-6ad7f39d8d30">Applying human-centered design to emerging technologies (IDEO)</a> <br>
 		<img class="reading" src="./images/book-open.svg" height="16" width="16">  <a href="http://lavalle.pl/vr/vrch1.pdf">Virtual Reality Introduction by Steven M. LaValle</a> <br>
@@ -350,7 +350,7 @@ All **reading** and **demos of design sprints** are due at 2:20 PM on the day of
   </tr>
   <tr>
     <td>10/16</td>
-    <td>VR Demo (Speaker: Tabitha Peck) + Hack: <a href="design-sprints/another-world.md">Design for Another World</a></td>
+    <td>VR Demo (Speaker: Tabitha Peck) + Hack: <a href="/teaching/hci/design-sprints/another-world">Design for Another World</a></td>
     <td>	
     <img class="reading" src="./images/book-open.svg" height="16" width="16"> <a href="http://kowym.com/wp-content/uploads/2018/08/The-Design-of-Everyday-Things-Don-Norman.pdf#page=97">Ch. 4 from <i>The Design of Everyday Things</i></a>
 		</td>
@@ -359,7 +359,7 @@ All **reading** and **demos of design sprints** are due at 2:20 PM on the day of
   <tr>
     <td rowspan="2">9</td>
     <td>10/21</td>
-    <td>Hack: <a href="design-sprints/another-world.md">Design for Another World</a></td>
+    <td>Hack: <a href="/teaching/hci/design-sprints/another-world">Design for Another World</a></td>
     <td>No prep
 		</td>
     <td></td>
@@ -382,9 +382,9 @@ All **reading** and **demos of design sprints** are due at 2:20 PM on the day of
   </tr>
   <tr>
     <td>10/30</td>
-    <td>Demo: <a href="./design-sprints/another-world.md">Design for Another World</a></td>
+    <td>Demo: <a href="/teaching/hci/design-sprints/another-world">Design for Another World</a></td>
     <td>No prep</td>
-    <td>DS: Design for Another World</td>
+    <td><a href="/teaching/hci/design-sprints/another-world">DS: Design for Another World</a></td>
   </tr>
   <tr>
     <td rowspan="2">11</td>
@@ -437,7 +437,7 @@ All **reading** and **demos of design sprints** are due at 2:20 PM on the day of
     <td>11/20</td>
     <td>Hack Day: <a href="/teaching/hci/design-sprints/redesign">Re-design and Extend</a></td>
     <td>No prep</td>
-    <td>DS: Re-design and Extend</td>
+    <td><a href="/teaching/hci/design-sprints/redesign">DS: Re-design and Extend</a></td>
   </tr>
   <tr>
   <td rowspan="2">14</td>
@@ -456,7 +456,7 @@ All **reading** and **demos of design sprints** are due at 2:20 PM on the day of
     <td rowspan="2">15</td>
     <td>12/2</td>
     <td>Demo Day: <a href="design-sprints/redesign.md">Re-design and Extend</a></td>
-    <td><a href="design-sprints/redesign.md">Re-design and Extend due</a></td>
+    <td><a href="d/teaching/hci/design-sprints/redesign">DS: Re-design and Extend due</a></td>
     <td></td>
   </tr>
   <tr>
