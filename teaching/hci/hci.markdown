@@ -259,7 +259,7 @@ All **reading** and **demos of design sprints** are due at 2:20 PM on the day of
     <td>	
     <img class="reading" src="./images/book-open.svg" height="16" width="16"> <a href="https://xd.adobe.com/ideas/process/user-research/putting-personas-to-work-in-ux-design/">Putting Personas to Work by Faller</a><br>
     <img class="reading" src="./images/book-open.svg" height="16" width="16"> <a href="https://www.aiga.org/resources/how-to-survive-a-critique-a-guide-to-giving-and-receiving-feedback">A Guide to Giving and Receiving Feedback by Cheng</a><br>
-    <img class="reading" src="./images/book-open.svg" height="16" width="16"> <a href="https://emilywall.github.io/hci/resources/working_in_groups.html">Tips for Working Successfully in Groups by Pausch</a>
+    <img class="reading" src="./images/book-open.svg" height="16" width="16"> <a href="/teaching/hci/groups">Tips for Working Successfully in Groups by Pausch</a>
     </td>
     <td>
     <a href="/teaching/hci/assignments/hw3" >HW: Health Design</a>  
