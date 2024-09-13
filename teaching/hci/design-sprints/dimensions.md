@@ -54,7 +54,7 @@ Helpful advice:
 * [9 Information Design Tips to Make You a Better Web Designer](https://design.tutsplus.com/articles/9-information-design-tips-to-make-you-a-better-web-designer--psd-1601)
 * [Top 10 Enduring Web-Design Mistakes](https://www.nngroup.com/articles/top-10-enduring/) posted by the Nielsen Norman Group
 
-**Output:** Use sketching as a tool to explore your designs. The goal here is to rapidly explore many different solutions with messy sketches. After you have thoroughly explored the design space (you should have at least 5 ideas for each screen), use paper to construct a cleaner paper prototype.
+**Output:** Use sketching as a tool to explore your designs. The goal here is to rapidly explore many different solutions with messy sketches. After you have thoroughly explored the design space (you should have at least 5 ideas for each screen), use paper to construct a cleaner paper prototype for that screen. You should have **3 paper prototypes (one for each screen: watch, desktop, and display)** that are the cleaned, culmination of your ideas.
 
 **You should test this paper prototype with other people in the class.** While they likely may not represent your users (so this is typically bad practice), I want you to get in the habit of getting feedback on whatever you create. We’ll discuss user testing more in a week or two. Until then, do your best to get worthwhile feedback and change your prototype accordingly. Don’t reveal who you designed this for! Ask your users afterwards what user group they think you designed it for... Were the right? Incorporate your findings into the next iteration of your design.
 
