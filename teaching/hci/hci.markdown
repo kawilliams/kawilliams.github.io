@@ -20,7 +20,7 @@ Human-computer interaction combines computer science, psychology, sociology, des
 
 * When: Monday and Wednesday 2:30-3:45 PM
 * Where: Watson 247
-* Lecture Slides and Recordings: [Google Drive](https://drive.google.com/drive/folders/1lYnsEq4Ze0jPzwLaxhLimXPT2xNRzn_F?usp=sharing) (use Davidson SSO)
+* Lecture Slides and Recordings: [Google Drive](https://drive.google.com/drive/folders/1lYnsEq4Ze0jPzwLaxhLimXPT2xNRzn_F?usp=sharing) (use Davidson SSO) 
 * Design Documentation: [here](/teaching/hci/design-doc)
 * Discussion/Questions: Slack (contact Dr. Williams if you have not received the Slack link)
 * Office Hours: Tuesday/Thursday: 10:00-11:00 AM and 1:00-2:30 PM
@@ -228,7 +228,7 @@ All **reading** and **demos of design sprints** are due at 2:20 PM on the day of
   </tr>
   <tr>
     <td rowspan="2">3</td>
-    <td id="this_week">9/9</td>
+    <td>9/9</td>
     <td>Visual Design + Design Patterns</td>
     <td>
      <img class="watch" src="./images/display.svg" height="16" width="16"> (7 min) <a href="https://www.youtube.com/watch?v=sTi5SNgxE3U">The Universal Arts of Graphic Design</a><br>
@@ -254,7 +254,7 @@ All **reading** and **demos of design sprints** are due at 2:20 PM on the day of
   </tr>
   <tr>
     <td rowspan="2">4</td>
-    <td>9/16</td>
+    <td  id="this_week">9/16</td>
     <td>Hack Day -- <a href="/teaching/hci/design-sprints/dimensions">Design for Dimensions</a></td>
     <td>	
     <img class="reading" src="./images/book-open.svg" height="16" width="16"> <a href="https://xd.adobe.com/ideas/process/user-research/putting-personas-to-work-in-ux-design/">Putting Personas to Work by Faller</a><br>
