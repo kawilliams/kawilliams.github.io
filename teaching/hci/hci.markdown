@@ -262,7 +262,7 @@ All **reading** and **demos of design sprints** are due at 2:20 PM on the day of
     <img class="reading" src="./images/book-open.svg" height="16" width="16"> <a href="/teaching/hci/groups">Tips for Working Successfully in Groups by Pausch</a>
     </td>
     <td>
-    <a href="/teaching/hci/assignments/hw3" >HW: Health Design</a>  
+    <a href="/teaching/hci/assignments/hw3" >HW: Health Design <b>due Tuesday, Sept 17 by 11:55 PM (24-hr extension)</b></a>  
     </td>
   </tr>
   <tr>

@@ -12,7 +12,7 @@ permalink: /teaching/hci/assignments/hw3
 
 * Group size: **Individual**
 * Assignment opens: Monday, September 9
-* Due: Monday, September 16 by 11:55 PM
+* Due: ~~Monday, September 16~~ Tuesday, September 17 by 11:55 PM
 
 ## Overview 
 Before your first group design sprint, this individual assignment will introduce you to some aspects of the design process:
