@@ -271,7 +271,7 @@ All **reading** and **demos of design sprints** are due at 2:20 PM on the day of
     <td>
     <img class="watch" src="./images/display.svg" height="16" width="16"> (8 min) <a href="https://www.youtube.com/watch?v=AdSZJzb-aX8">The Art of Data Visualization</a><br>
 		<img class="reading" src="./images/book-open.svg" height="16" width="16"> <a href="https://medium.com/@kennelliott/39-studies-about-human-perception-in-30-minutes-4728f9e31a73">39 studies about human perception in 30 minutes</a> (read the article <b>OR</b> watch the talk: <img class="watch" src="./images/display.svg" height="16" width="16"> <a href="https://www.youtube.com/watch?v=s0J6EDvlN30">Accompanying Talk</a><br>
-		<img class="reading" src="./images/book-open.svg" height="16" width="16"> <a href="/teaching/hci/papers/RobertsHeadleandRitsos-FiveDesignSheet.pdf">Five Design Sheet Methodology for Visualization</a> (Read the abstraction and Sections 1, 3, and 4.3)<br>
+		<img class="reading" src="./images/book-open.svg" height="16" width="16"> <a href="/teaching/hci/papers/RobertsHeadleandRitsos-FiveDesignSheet.pdf">Sketching Designs Using the Five Design-Sheet Methodology</a> (Read the abstraction and Sections 1, 3, and 4.3)<br>
     <img class="reading" src="./images/book-open.svg" height="16" width="16"> <b>Optional:</b> <a href="http://www.juiceanalytics.com/writing/data-storytelling-the-ultimate-collection-of-resources-ii">Data Storytelling: The Ultimate Collection of Resources</a>
     </td>
     <td></td>
