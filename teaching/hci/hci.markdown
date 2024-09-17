@@ -64,7 +64,7 @@ You will be individually responsible for some homework assignments, participatio
 |<img src="./images/pencil.svg" width="20" height="20"><img src="./images/pen-to-square.svg" width="20" height="20"><img src="./images/book.svg" width="20" height="20">| 20%    | [Final project](/teaching/hci/final-project)                   |
 |<img src="./images/book.svg" width="20" height="20">          | 15%    | [Oral exam](/teaching/hci/oral-exam)                       |
 
-Since this is the first semester of HCI at Davidson, you can look for stand-out examples in [Emory's HCI Hall of Fame](https://emilywall.github.io/hci/resources/hall_of_fame.html), courtesy of Dr. Emily Wall. 
+Since this is the first semester of HCI at Davidson (and we're building our own [Hall of Fame](/teaching/hci/hall-of-fame)), you can look for stand-out examples in [Emory's HCI Hall of Fame](https://emilywall.github.io/hci/resources/hall_of_fame.html), courtesy of Dr. Emily Wall. 
 
 
 # Policies

@@ -38,7 +38,10 @@ Furthermore, you shouldn’t just translate the existing design for these device
 <!-- The website: you will be re-designing something near and dear to all our hearts. In the past, I have assigned websites for Atlanta-based businesses and organizations, including Emory Computer Science department website, Dave's Cosmic Subs in Emory Village, or Atlanta's Fox Theatre. This semester, you will choose the website of a local Atlanta business. Pick an organization or business that you and your groupmates care about, but don't spend too long deciding! -->
 **The website:** you will be re-designing the [Knotty and Board](https://www.knottyandboard.com/) website, a local home furnishings company.
 
-While you will not redesign the entire website, you should redesign at least two pages on the website. One of those pages must be the homepage. The other[s] must be accessible from the homepage.
+While you will not redesign the entire website, you should redesign at least **two pages on the website**. One of those pages must be the homepage. The other[s] must be accessible from the homepage. **This means your prototypes should showcase *both* pages**. Since there are 3 screen sizes, you will have 3 different prototypes that have 2 pages per prototype (e.g., for the watch you'll show the landing page + another page, for the desktop you'll show the landing page + another page, and for the large display you'll show the landing page + another page).
+
+![Example of a webpage that has three webpages linked to it. The student has selected the homepage as one of their pages to revise, and selected "shop" as the second page to revise.](/teaching/hci/images/two-webpages.svg)
+*An example webpage, with additional pages linked to the homepage. The additional pages are "About Us", "Shop" and "Login". The students selected the homepage as one of their pages and "Shop" as their second page to revise.*
 
 ## Information Design
 
@@ -54,7 +57,12 @@ Helpful advice:
 * [9 Information Design Tips to Make You a Better Web Designer](https://design.tutsplus.com/articles/9-information-design-tips-to-make-you-a-better-web-designer--psd-1601)
 * [Top 10 Enduring Web-Design Mistakes](https://www.nngroup.com/articles/top-10-enduring/) posted by the Nielsen Norman Group
 
-**Output:** Use sketching as a tool to explore your designs. The goal here is to rapidly explore many different solutions with messy sketches. After you have thoroughly explored the design space (you should have at least 5 ideas for each screen), use paper to construct a cleaner paper prototype for that screen. You should have **3 paper prototypes (one for each screen: watch, desktop, and display)** that are the cleaned, culmination of your ideas.
+**Output:** Use sketching as a tool to explore your designs. The goal here is to rapidly explore many different solutions with messy sketches. After you have thoroughly explored the design space (you should have at least 5 ideas for each screen), use paper to construct a cleaner paper prototype for that screen. You should have **3 paper prototypes (one for each screen: watch, desktop, and display)** that are the cleaned, culmination of your ideas for the two webpages (knottyandboard.com homepage + another page linked to that homepage).
+* Doing some math: There are 3 screen sizes * 2 webpages (knottyandboard.com) = 6 paper prototype pages to create. 
+* Prior to making these 6 paper prototypes, you should have at least 5 *very quick and dirty* sketches for each page. 
+
+![You will need to come up with 30 different ideas/sketches. This breaks down to 3 screen dimensions * 2 pages per screen * 5 ideas per page.](/teaching/hci/images/how-many-sketches.svg)
+*You will need to come up with 30 different ideas/sketches. This breaks down to 3 screen dimensions * 2 pages per screen * 5 ideas per page.*
 
 **You should test this paper prototype with other people in the class.** While they likely may not represent your users (so this is typically bad practice), I want you to get in the habit of getting feedback on whatever you create. We’ll discuss user testing more in a week or two. Until then, do your best to get worthwhile feedback and change your prototype accordingly. Don’t reveal who you designed this for! Ask your users afterwards what user group they think you designed it for... Were the right? Incorporate your findings into the next iteration of your design.
 
@@ -76,10 +84,12 @@ Figma is fantastic, but it isn’t magic. You’re still going to need to create
 
 **Output:** The redesigned homepage + one or more other screens of your chosen website on Figma for each of the three devices.
 
-## Deliverables
-* **Demo (in-class):** You should have Figma links handy and ready to present in class on the day of your demo. Plan to spend approximately 8 minutes presenting (~6 minutes talking through your design + ~2 minutes for questions). Your classmates will critique your work (using the *I like, I wish, What if* framework) and also try to guess your target demographic… despite having no previous knowledge.
+![A representation of the materials needed for the demo. Your high-quality prototypes for each screen size should include a view of the homepage and a view of the other page you redesigned.](/teaching/hci/images/Demos.svg)
 
-* **Final deliverable (due at 11:55 PM):** The output from this assignment should be the [design document](/teaching/hci/design-doc) (one per group). An example Medium post from an Emory student is [here](https://medium.com/@amart98/design-for-dimensions-emory-cs-department-website-makeover-6d8d7530442c) -- it's a solid enough example but I would not give it a 100%. Post the link of your design document post along with your group members' names on our Slack channel for `#group_design_projects` and submit the link on Moodle (only one group member needs to submit). As with all design documents, it should include evidence of your design process. **You do NOT need to create a demo video for this design sprint**, although depending on the complexity of your interaction design, it may still be a good idea to communicate your design. For this assignment, I would expect a *minimum* of the following:
+## Deliverables
+* **Demo (in-class):** You should have Figma links handy and ready to present in class on the day of your demo (place your demo link [here](https://docs.google.com/document/d/1lMmdANulEzOzAnLde3e-CRgK5IxJpyahbI81wD6S5ec/edit?usp=drive_link)). Plan to spend approximately 7 minutes presenting (~3 minutes talking through your design + ~4 minutes for critique/questions). Your classmates will critique your work (using the *I like, I wish, What if* framework) and also try to guess your target demographic… despite having no previous knowledge.
+
+* **Final deliverable (due at 11:55 PM):** The output from this assignment should be the [design document](/teaching/hci/design-doc) (one per group). An example Medium post from an Emory student is [here](https://medium.com/@amart98/design-for-dimensions-emory-cs-department-website-makeover-6d8d7530442c) -- it's a solid enough example but I would not give it a 100%. Post the link of your design document post along with your group members' names on our Slack channel for `#group-design-projects`. This will signal to your group members that you are turning in the design document. Then submit the link to your Medium post on Moodle (only one group member needs to submit). As with all design documents, it should include evidence of your design process. **You do NOT need to create a demo video for this design sprint**, although depending on the complexity of your interaction design, it may still be a good idea to communicate your design. For this assignment, I would expect a *minimum* of the following:
     * pictures of your various sketches for all three devices
     * a picture of your moodboard
     * pictures of your final product for all three devices (more broadly, the evolution of your design should be clear)
