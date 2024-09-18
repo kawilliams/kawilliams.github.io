@@ -44,7 +44,7 @@ Both logical reasoning and persuasive storytelling are valuable perspectives for
 
 * [P5js](https://p5js.org/): p5js is an expressive, accessible Javascript library that enables pixel-level control. While it is more difficult to construct basic charts than Vega or Vega-Lite, it empowers more creative interpretations of data that are either more abstract or that incorporate sound.
 
-* [Tableau Public](https://docs.google.com/a/bucknell.edu/document/d/1JStkKuQePhXsmMWd1JR30zPG723nJMYpGtW5s8lJZzM/edit?usp=drive_web): heavily used in business intelligence, this is the free version that can connect to a spreadsheet/file to create data visualizations for the web.
+* [Tableau Public](https://public.tableau.com/app/discover): heavily used in business intelligence, this is the free version that can connect to a spreadsheet/file to create data visualizations for the web.
 
 ## Your Two Visualizations
 
