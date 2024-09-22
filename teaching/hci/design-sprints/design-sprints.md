@@ -13,7 +13,7 @@ permalink: /teaching/hci/design-sprints/design-sprints
 * Group size: Teams of 3-4
 
 ## Overview 
-The core of the work in this class will fall under the broad category of group design activities. Included below are a set of examples of what these design sprints might emphasize. The following list may change over the course of the semester. Your output for each of these design activities will consist of a [design document](/teaching/hci/design-doc). There will be approximately 4 group design sprints throughout the semester. Be sure to check out tips for working successfully in groups. These assignments will be graded using the [design rubric](https://docs.google.com/spreadsheets/d/1aI9LcmVZmh_977G__U4Guz_rPRCwWZs26J_yHXbhSyY/edit?usp=sharing).
+The core of the work in this class will fall under the broad category of group design activities. Included below are a set of examples of what these design sprints might emphasize. The following list may change over the course of the semester. Your output for each of these design activities will consist of a [design document](/teaching/hci/design-doc). There will be approximately 4 group design sprints throughout the semester. Be sure to check out tips for working successfully in groups. These assignments will be graded using the [design rubric](https://docs.google.com/spreadsheets/d/1aI9LcmVZmh_977G__U4Guz_rPRCwWZs26J_yHXbhSyY/edit?usp=sharing), including a portion based on your [peers' feedback](https://forms.gle/4TgYVtRABUdqjeZX7).
 
 ### Design Sprints
 

@@ -84,3 +84,16 @@ Decide whether you want to use music, capitons, narrative, or some kind of combi
 Below, you'll find some nice resources for music that you can include as a backdrop to your product.
 * [How to Create Your First Product Demo Video as a Total Newbie](https://www.process.st/product-demo-video/): You might not necessarily use the same tech in the article, but many of the principles remain.
 
+#### Good Examples:
+* Clear for iPhone
+* Orchestra unveils Mailbox
+* Facebook Messenger Chat with Bot Demo
+
+Somewhere in your design post, a demo video should be embedded that shows interaction with your final project. 
+
+# How will I be assessed?
+You will be assessed in 3 different ways:
+1. Most significantly, you will be assessed by me using the [design document rubric](https://docs.google.com/spreadsheets/d/1aI9LcmVZmh_977G__U4Guz_rPRCwWZs26J_yHXbhSyY/edit?usp=sharing). Please read through this carefully! Note that functionality is actually a small portion of your grade. *Documentation and reflection of your design process is weighted heavily*. You will receive feedback either through a variant of this rubric linked in Moodle, or we will discuss it in-person with your group during class.
+
+2. [Peer feedback](https://forms.gle/4TgYVtRABUdqjeZX7): In addition, a large part of your grade (typically 15-25%) will depend on [peer feedback](https://forms.gle/4TgYVtRABUdqjeZX7). That means if you let your team down and don't contribute your part, your grade will be affected.
+3. Finally, during the in-class demos, you will share feedback on the demos that the other groups present using the [I Like, I Wish, What If](https://www.thirdway.org/thinking-tool/i-like-i-wish-what-if) framework. I will note who participates during class.
