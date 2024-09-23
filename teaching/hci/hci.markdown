@@ -254,7 +254,7 @@ All **reading** and **demos of design sprints** are due at 2:20 PM on the day of
   </tr>
   <tr>
     <td rowspan="2">4</td>
-    <td  id="this_week">9/16</td>
+    <td>9/16</td>
     <td>Hack Day -- <a href="/teaching/hci/design-sprints/dimensions">Design for Dimensions</a></td>
     <td>	
     <img class="reading" src="./images/book-open.svg" height="16" width="16"> <a href="https://xd.adobe.com/ideas/process/user-research/putting-personas-to-work-in-ux-design/">Putting Personas to Work by Faller</a><br>
@@ -278,7 +278,7 @@ All **reading** and **demos of design sprints** are due at 2:20 PM on the day of
   </tr>
   <tr>
     <td rowspan="2">5</td>
-    <td>9/23</td>
+    <td id="this_week">9/23</td>
     <td>Demo: <a href="/teaching/hci/design-sprints/dimensions">Design for Dimensions</a></td>
     <td>No prep</td>
     <td>DS: <a href="/teaching/hci/design-sprints/dimensions">Design for Dimensions</a></td>
