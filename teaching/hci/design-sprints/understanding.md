@@ -11,8 +11,8 @@ permalink: /teaching/hci/design-sprints/understanding
 # Design for Understanding
 
 * Group size: Teams of 3-4
-* Design sprint starts: Wednesday, August 30, in class.
-* Design sprint ends: Wednesday, September 13, in class (demo). Design document due at *11:55 PM*. 
+* Design sprint starts: Wednesday, September 25, in class.
+* Design sprint ends: Wednesday, October 9, in class (demo). Design document due at *11:55 PM*. 
 
 ## Overview 
 
@@ -20,7 +20,11 @@ Mapping data to visual features is a powerful method for communicating informati
 * **Analysis, clear communication, and reasoning**: In this framing, you can assume that you have the user’s attention and that they do not need training in traditional charts. Use your knowledge of perception + data representation to construct a series of graphs that give an in-depth, unbiased, clear portrait of your data.
 * **Persuasive communication and storytelling:** In this framing, your goal is to represent the data (visually, through audio, through interaction) in the most *compelling* way possible. What will have the most long-lasting impact on users? What will they *remember*?
 
-Since you’ll be working in teams of four (4) for this project, I recommend that you split your team into pairs. However, depending on your design, you may choose to allocate your resources in the way you see best.
+Since you’ll be working in teams of four (4) for this project, I recommend that you split your team into pairs, with each pair tackling one lens (*analyze* versus *persuade*). However, depending on your design, you may choose to allocate your resources in the way you see best.
+
+**Examples:** Here are two example submissions from Emory's Hall of Fame:
+*  [Air Travel throughout COVID-19 Pandemic](https://medium.com/@nssokada/design-for-understanding-401876c07b2d)
+* [UX Design and Data Visualiztion: A UFO Case Study](https://medium.com/@bookworm7572/ux-design-and-data-visualisation-a-ufo-case-study-5d3d9fcaa531)
 
 
 ## Choose a Dataset
@@ -34,26 +38,31 @@ Before you begin, choose a dataset. While you may use any dataset, be aware that
 
 ## Your Technology
 
-Both logical reasoning and persuasive storytelling are valuable perspectives for communicating information, and there are tradeoffs. To help match your tools with your objectives, here are some possible tools.
+Both **logical reasoning** and **persuasive storytelling** are valuable perspectives for communicating information, and there are tradeoffs. To help match your tools with your objectives, here are some possible tools.
 
 * [d3js](https://d3js.org/): Probably the most popular data visualization library that is both powerful and flexible. However, it also has a steep learning curve - especially for people who are not comfortable with Javascript and web programming. Given the very short timelines of our projects, I would only go this route if you have someone very skilled in web development or who has taken Data Visualization on your team.
+    * Labs from CSC 362 Data Visualization to help with learning D3: 
+        * [Lab 1](https://docs.google.com/document/d/1ypWcNfwoN3D-5YWMBTEJUH4RmtAI77T54JW4poFa8pg/edit?usp=sharing), [Lab 2](https://docs.google.com/document/d/1y9_b5ST60LEp16HGnZouPXaSucEaOgR7TEjOssTe_GA/edit?usp=sharing), [Lab 3](https://docs.google.com/document/d/1v7c5CHiN7eOs5f-kho7FIhuRS6Vi7f00NPvylK-KM20/edit?usp=sharing), [Lab 4](https://docs.google.com/document/d/16JiwHOUa51tsDi-wZu3YMRkMLqZ0VEWwKhC33tiiLEo/edit?usp=sharing)
 
-* [Vega](https://vega.github.io/vega/) or [Vega-Lite](https://vega.github.io/vega-lite/): These are both templating tools that sit on top of the d3js visualization library. While they are less expressive than d3js, they will allow you to rapidly (hopefully) construct data visualizations. Vega will allow you to be a little more creative and integrate interaction (recommended).
+
+* [Vega](https://vega.github.io/vega/) or [Vega-Lite](https://vega.github.io/vega-lite/): These are both templating tools that sit on top of the d3js visualization library. While they are less expressive than d3js, they will allow you to rapidly (hopefully) construct data visualizations. Vega will allow you to be a little more creative and integrate interaction.
 
 * [Chart.js](https://www.chartjs.org/): a Javascript library that supports easy creation of basic chart types. This will limit your flexibility, but if you want to use basic charts, it’s a quick way to get rolling.
 
 * [P5js](https://p5js.org/): p5js is an expressive, accessible Javascript library that enables pixel-level control. While it is more difficult to construct basic charts than Vega or Vega-Lite, it empowers more creative interpretations of data that are either more abstract or that incorporate sound.
 
-* [Tableau Public](https://public.tableau.com/app/discover): heavily used in business intelligence, this is the free version that can connect to a spreadsheet/file to create data visualizations for the web.
+* [Tableau Public](https://public.tableau.com/app/discover): heavily used in business intelligence, there is a free version that can connect to a spreadsheet/file to create data visualizations for the web.
 
 ## Your Two Visualizations
 
-* **For Analysis:** You should construct a series of graphs that clearly and effectively communicate the data. The properties of the data should align with your chart choice. Together, your charts (AT LEAST 3) should explore the data from different perspectives. For example, [Airline on-time performance](http://square.github.io/crossfilter/). While you may not have the degree of interaction of this demo, note how it gives different perspectives of the same data.
+Each visualization should be sufficiently complex, whether that means including sophisticated storytelling techinques or by including several linked charts. See below for more details. 
 
-* **For Persuasion:** There are very few guidelines here. I would encourage you to be creative and optimize for impact. Your design here should include *AT LEAST 3* charts **OR** utilize more sophisiticated persuasion techniques (e.g., storytelling techniques). For example, here is a visual/audio interpretation of data created by [Evan Peck](https://evanpeck.github.io/) (note: you need audio): [15 Years of Mass Shootings in America](https://github.com/evanpeck/15-Years-of-Mass-Shootings-in-America).
+* **For Analysis:** You should construct a series of graphs that clearly and effectively communicate the data. The properties of the data should align with your chart choice. Together, your charts (AT LEAST 3) should explore the data from different perspectives. **For this analysis lens, your final "visualization" should really be more like a *dashboard* of three or more visualizations. **For example, [Airline on-time performance](http://square.github.io/crossfilter/) or the [UFO Sightings](https://public.tableau.com/app/profile/amya4869/viz/5-combination/Dashboard1) example. While you may not have the degree of interaction of this demo, note how it gives different perspectives of the same data.
+
+* **For Persuasion:** There are very few guidelines here. I would encourage you to be creative and optimize for impact. Your design here should include *AT LEAST 3* charts **OR** utilize more sophisiticated persuasion techniques (e.g., storytelling techniques). For example, here is a visual/audio interpretation of data created by [Evan Peck](https://evanpeck.github.io/) (note: you need audio, and you may find this upsetting): [15 Years of Mass Shootings in America](/teaching/hci/examples/15-Years-of-Mass-Shootings-in-America/index.html) [(GitHub with the code)](https://github.com/evanpeck/15-Years-of-Mass-Shootings-in-America).
 
 ## Your Design Process
-Before you got to this class, you should have read about the five design-sheet (FdS) approach for information visualization. You should walk through all five stages of FdS. Make sure to get feedback from other students in the class as part of your design process!
+Before you got to this class, you should have read about the [five design-sheet](/teaching/hci/papers/RobertsHeadleandRitsos-FiveDesignSheet.pdf) (FdS) approach for information visualization. You should walk through all five stages of FdS during your design process and you should write about this process in your Design Doc Medium post. Make sure to get feedback from other students in the class as part of your design process!
 
 >
 *Over the course of the semester, I am going to give fewer and fewer detailed instructions about how to run your design process. This is intentional! As we become more familiar with it, I expect you to be able to apply it yourself to any new technological domain.*
@@ -61,16 +70,16 @@ Before you got to this class, you should have read about the five design-sheet (
 
 ## Build it.
 
-Just build it. You may use AI (like ChatGPT, Claude, or Gemini) to assist with writing the code. Note that you may run into tensions between your imagined visualization and the one that you have time to create. That’s okay! Technical tradeoffs are a reality that any designer must encounter. Adjust your design (as needed), and be sure to discuss these tradeoffs in your design document.
+Just build it! You may use AI (like ChatGPT, Claude, or Gemini) to assist with writing the code. Note that you may run into tensions between your imagined visualization and the one that you have time to create. That’s okay! Technical tradeoffs are a reality that any designer must encounter. Adjust your design (as needed), and be sure to discuss these tradeoffs in your design document.
 
 ## Deliverables
 
-* As always: Your group's design reflection as a blog post. Be sure to discuss both portraits, including the full project context as well as the scope of your specific contributions. **You WILL need a demo video that captures the interactivity in the visualizations.** Be sure to reflect on the contrast between the two ways you have chosen to communicate your data. There are certainly tradeoffs between the two.
-* Both of your designs should be hosted on the web at publicly accessible links. That may be a standalone site that hosts your interactive visualization, or an Observable notebook link for example. Essentially, we should be able to click around and interact with your designs. These links should be clearly included into your design reflection.
-* Post the link of each blog post along with the names of your group members on our Slack channel for `#group_design_projects` **and** one group member should submit the link on Moodle.
+* As always: Your group's [design document](/teaching/hci/design-doc.md) as a Medium blog post. Be sure to discuss both portraits, including the full project context as well as the scope of your specific contributions. **You WILL need a demo video that captures the interactivity in the visualizations.** Be sure to reflect on the contrast between the two ways you have chosen to communicate your data. There are certainly tradeoffs between the two.
+* Both of your designs should be hosted on the web at publicly accessible links. That may be a standalone site that hosts your interactive visualization (like [GitHub pages](https://pages.github.com/) or [Davidson Domains](https://domains.davidson.edu/)), or an Observable notebook link for example. Essentially, we should be able to click around and interact with your designs. These links should be clearly included into your design reflection.
+* Post the link of each blog post along with the names of your group members on our Slack channel for `#group-design-projects` **and** one group member should submit the link on Moodle.
 
-**Grading:** Grading will be based on the [design rubric](https://docs.google.com/spreadsheets/d/1aI9LcmVZmh_977G__U4Guz_rPRCwWZs26J_yHXbhSyY/edit?usp=sharing). Be sure to complete the peer feedback forms linked
-at the enf of the [design document guide](/teaching/hci/design-doc), which will be a large part of your grade. 
+**Grading:** Grading will be based on the [design rubric](https://docs.google.com/spreadsheets/d/1aI9LcmVZmh_977G__U4Guz_rPRCwWZs26J_yHXbhSyY/edit?usp=sharing). Be sure to complete the [peer feedback forms](https://forms.gle/4TgYVtRABUdqjeZX7) linked
+at the end of the [design document guide](/teaching/hci/design-doc), which will be a large part of your grade. 
 
 <!-- ## Some Tech Tips
 

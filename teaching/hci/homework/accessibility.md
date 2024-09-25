@@ -11,7 +11,8 @@ permalink: /teaching/hci/assignments/hw4
 # Design for Accessibility
 
 * Group size: **Individual**
-* Due: Wednesday, October 16
+* Released: Monday, October 7
+* Due: Wednesday, October 16 by 11:55 PM to Moodle
 
 ## Overview 
 What [this video](https://www.youtube.com/watch?v=_GBLqZDXB_0) about a sidewalk accessibility project.

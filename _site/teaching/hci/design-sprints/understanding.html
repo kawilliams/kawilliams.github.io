@@ -25,7 +25,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="theme-color" content="#157878">
     <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
-    <link rel="stylesheet" href="/assets/css/style.css?v=4e972b3b605118576df620c2280f479e87ef0ae3">
+    <link rel="stylesheet" href="/assets/css/style.css?v=d05f78098253072a8eeaba45d15f9ded322e4f29">
     <!-- start custom head snippets, customize with your own _includes/head-custom.html file -->
 
 <!-- Setup Google Analytics -->
@@ -57,8 +57,8 @@
 
 <ul>
   <li>Group size: Teams of 3-4</li>
-  <li>Design sprint starts: Wednesday, August 30, in class.</li>
-  <li>Design sprint ends: Wednesday, September 13, in class (demo). Design document due at <em>11:55 PM</em>.</li>
+  <li>Design sprint starts: Wednesday, September 25, in class.</li>
+  <li>Design sprint ends: Wednesday, October 9, in class (demo). Design document due at <em>11:55 PM</em>.</li>
 </ul>
 
 <h2 id="overview">Overview</h2>
@@ -69,7 +69,13 @@
   <li><strong>Persuasive communication and storytelling:</strong> In this framing, your goal is to represent the data (visually, through audio, through interaction) in the most <em>compelling</em> way possible. What will have the most long-lasting impact on users? What will they <em>remember</em>?</li>
 </ul>
 
-<p>Since you’ll be working in teams of four (4) for this project, I recommend that you split your team into pairs. However, depending on your design, you may choose to allocate your resources in the way you see best.</p>
+<p>Since you’ll be working in teams of four (4) for this project, I recommend that you split your team into pairs, with each pair tackling one lens (<em>analyze</em> versus <em>persuade</em>). However, depending on your design, you may choose to allocate your resources in the way you see best.</p>
+
+<p><strong>Examples:</strong> Here are two example submissions from Emory’s Hall of Fame:</p>
+<ul>
+  <li><a href="https://medium.com/@nssokada/design-for-understanding-401876c07b2d">Air Travel throughout COVID-19 Pandemic</a></li>
+  <li><a href="https://medium.com/@bookworm7572/ux-design-and-data-visualisation-a-ufo-case-study-5d3d9fcaa531">UX Design and Data Visualiztion: A UFO Case Study</a></li>
+</ul>
 
 <h2 id="choose-a-dataset">Choose a Dataset</h2>
 
@@ -83,14 +89,20 @@
 
 <h2 id="your-technology">Your Technology</h2>
 
-<p>Both logical reasoning and persuasive storytelling are valuable perspectives for communicating information, and there are tradeoffs. To help match your tools with your objectives, here are some possible tools.</p>
+<p>Both <strong>logical reasoning</strong> and <strong>persuasive storytelling</strong> are valuable perspectives for communicating information, and there are tradeoffs. To help match your tools with your objectives, here are some possible tools.</p>
 
 <ul>
-  <li>
-    <p><a href="https://d3js.org/">d3js</a>: Probably the most popular data visualization library that is both powerful and flexible. However, it also has a steep learning curve - especially for people who are not comfortable with Javascript and web programming. Given the very short timelines of our projects, I would only go this route if you have someone very skilled in web development or who has taken Data Visualization on your team.</p>
+  <li><a href="https://d3js.org/">d3js</a>: Probably the most popular data visualization library that is both powerful and flexible. However, it also has a steep learning curve - especially for people who are not comfortable with Javascript and web programming. Given the very short timelines of our projects, I would only go this route if you have someone very skilled in web development or who has taken Data Visualization on your team.
+    <ul>
+      <li>Labs from CSC 362 Data Visualization to help with learning D3:
+        <ul>
+          <li><a href="https://docs.google.com/document/d/1ypWcNfwoN3D-5YWMBTEJUH4RmtAI77T54JW4poFa8pg/edit?usp=sharing">Lab 1</a>, <a href="https://docs.google.com/document/d/1y9_b5ST60LEp16HGnZouPXaSucEaOgR7TEjOssTe_GA/edit?usp=sharing">Lab 2</a>, <a href="https://docs.google.com/document/d/1v7c5CHiN7eOs5f-kho7FIhuRS6Vi7f00NPvylK-KM20/edit?usp=sharing">Lab 3</a>, <a href="https://docs.google.com/document/d/16JiwHOUa51tsDi-wZu3YMRkMLqZ0VEWwKhC33tiiLEo/edit?usp=sharing">Lab 4</a></li>
+        </ul>
+      </li>
+    </ul>
   </li>
   <li>
-    <p><a href="https://vega.github.io/vega/">Vega</a> or <a href="https://vega.github.io/vega-lite/">Vega-Lite</a>: These are both templating tools that sit on top of the d3js visualization library. While they are less expressive than d3js, they will allow you to rapidly (hopefully) construct data visualizations. Vega will allow you to be a little more creative and integrate interaction (recommended).</p>
+    <p><a href="https://vega.github.io/vega/">Vega</a> or <a href="https://vega.github.io/vega-lite/">Vega-Lite</a>: These are both templating tools that sit on top of the d3js visualization library. While they are less expressive than d3js, they will allow you to rapidly (hopefully) construct data visualizations. Vega will allow you to be a little more creative and integrate interaction.</p>
   </li>
   <li>
     <p><a href="https://www.chartjs.org/">Chart.js</a>: a Javascript library that supports easy creation of basic chart types. This will limit your flexibility, but if you want to use basic charts, it’s a quick way to get rolling.</p>
@@ -98,24 +110,24 @@
   <li>
     <p><a href="https://p5js.org/">P5js</a>: p5js is an expressive, accessible Javascript library that enables pixel-level control. While it is more difficult to construct basic charts than Vega or Vega-Lite, it empowers more creative interpretations of data that are either more abstract or that incorporate sound.</p>
   </li>
-  <li>
-    <p><a href="https://docs.google.com/a/bucknell.edu/document/d/1JStkKuQePhXsmMWd1JR30zPG723nJMYpGtW5s8lJZzM/edit?usp=drive_web">Tableau Public</a>: heavily used in business intelligence, this is the free version that can connect to a spreadsheet/file to create data visualizations for the web.</p>
-  </li>
+  <li><a href="https://public.tableau.com/app/discover">Tableau Public</a>: heavily used in business intelligence, there is a free version that can connect to a spreadsheet/file to create data visualizations for the web.</li>
 </ul>
 
 <h2 id="your-two-visualizations">Your Two Visualizations</h2>
 
+<p>Each visualization should be sufficiently complex, whether that means including sophisticated storytelling techinques or by including several linked charts. See below for more details.</p>
+
 <ul>
   <li>
-    <p><strong>For Analysis:</strong> You should construct a series of graphs that clearly and effectively communicate the data. The properties of the data should align with your chart choice. Together, your charts (AT LEAST 3) should explore the data from different perspectives. For example, <a href="http://square.github.io/crossfilter/">Airline on-time performance</a>. While you may not have the degree of interaction of this demo, note how it gives different perspectives of the same data.</p>
+    <p><strong>For Analysis:</strong> You should construct a series of graphs that clearly and effectively communicate the data. The properties of the data should align with your chart choice. Together, your charts (AT LEAST 3) should explore the data from different perspectives. <em>*For this analysis lens, your final “visualization” should really be more like a *dashboard</em> of three or more visualizations. **For example, <a href="http://square.github.io/crossfilter/">Airline on-time performance</a> or the <a href="https://public.tableau.com/app/profile/amya4869/viz/5-combination/Dashboard1">UFO Sightings</a> example. While you may not have the degree of interaction of this demo, note how it gives different perspectives of the same data.</p>
   </li>
   <li>
-    <p><strong>For Persuasion:</strong> There are very few guidelines here. I would encourage you to be creative and optimize for impact. Your design here should include <em>AT LEAST 3</em> charts <strong>OR</strong> utilize more sophisiticated persuasion techniques (e.g., storytelling techniques). For example, here is a visual/audio interpretation of data created by <a href="https://evanpeck.github.io/">Evan Peck</a> (note: you need audio): <a href="https://github.com/evanpeck/15-Years-of-Mass-Shootings-in-America">15 Years of Mass Shootings in America</a>.</p>
+    <p><strong>For Persuasion:</strong> There are very few guidelines here. I would encourage you to be creative and optimize for impact. Your design here should include <em>AT LEAST 3</em> charts <strong>OR</strong> utilize more sophisiticated persuasion techniques (e.g., storytelling techniques). For example, here is a visual/audio interpretation of data created by <a href="https://evanpeck.github.io/">Evan Peck</a> (note: you need audio, and you may find this upsetting): <a href="/teaching/hci/examples/15-Years-of-Mass-Shootings-in-America/index.html">15 Years of Mass Shootings in America</a> <a href="https://github.com/evanpeck/15-Years-of-Mass-Shootings-in-America">(GitHub with the code)</a>.</p>
   </li>
 </ul>
 
 <h2 id="your-design-process">Your Design Process</h2>
-<p>Before you got to this class, you should have read about the five design-sheet (FdS) approach for information visualization. You should walk through all five stages of FdS. Make sure to get feedback from other students in the class as part of your design process!</p>
+<p>Before you got to this class, you should have read about the <a href="/teaching/hci/papers/RobertsHeadleandRitsos-FiveDesignSheet.pdf">five design-sheet</a> (FdS) approach for information visualization. You should walk through all five stages of FdS during your design process and you should write about this process in your Design Doc Medium post. Make sure to get feedback from other students in the class as part of your design process!</p>
 
 <blockquote>
 
@@ -125,18 +137,18 @@
 
 <h2 id="build-it">Build it.</h2>
 
-<p>Just build it. You may use AI (like ChatGPT, Claude, or Gemini) to assist with writing the code. Note that you may run into tensions between your imagined visualization and the one that you have time to create. That’s okay! Technical tradeoffs are a reality that any designer must encounter. Adjust your design (as needed), and be sure to discuss these tradeoffs in your design document.</p>
+<p>Just build it! You may use AI (like ChatGPT, Claude, or Gemini) to assist with writing the code. Note that you may run into tensions between your imagined visualization and the one that you have time to create. That’s okay! Technical tradeoffs are a reality that any designer must encounter. Adjust your design (as needed), and be sure to discuss these tradeoffs in your design document.</p>
 
 <h2 id="deliverables">Deliverables</h2>
 
 <ul>
-  <li>As always: Your group’s design reflection as a blog post. Be sure to discuss both portraits, including the full project context as well as the scope of your specific contributions. <strong>You WILL need a demo video that captures the interactivity in the visualizations.</strong> Be sure to reflect on the contrast between the two ways you have chosen to communicate your data. There are certainly tradeoffs between the two.</li>
-  <li>Both of your designs should be hosted on the web at publicly accessible links. That may be a standalone site that hosts your interactive visualization, or an Observable notebook link for example. Essentially, we should be able to click around and interact with your designs. These links should be clearly included into your design reflection.</li>
-  <li>Post the link of each blog post along with the names of your group members on our Slack channel for <code class="language-plaintext highlighter-rouge">#group_design_projects</code> <strong>and</strong> one group member should submit the link on Moodle.</li>
+  <li>As always: Your group’s <a href="/teaching/hci/design-doc.md">design document</a> as a Medium blog post. Be sure to discuss both portraits, including the full project context as well as the scope of your specific contributions. <strong>You WILL need a demo video that captures the interactivity in the visualizations.</strong> Be sure to reflect on the contrast between the two ways you have chosen to communicate your data. There are certainly tradeoffs between the two.</li>
+  <li>Both of your designs should be hosted on the web at publicly accessible links. That may be a standalone site that hosts your interactive visualization (like <a href="https://pages.github.com/">GitHub pages</a> or <a href="https://domains.davidson.edu/">Davidson Domains</a>), or an Observable notebook link for example. Essentially, we should be able to click around and interact with your designs. These links should be clearly included into your design reflection.</li>
+  <li>Post the link of each blog post along with the names of your group members on our Slack channel for <code class="language-plaintext highlighter-rouge">#group-design-projects</code> <strong>and</strong> one group member should submit the link on Moodle.</li>
 </ul>
 
-<p><strong>Grading:</strong> Grading will be based on the <a href="https://docs.google.com/spreadsheets/d/1aI9LcmVZmh_977G__U4Guz_rPRCwWZs26J_yHXbhSyY/edit?usp=sharing">design rubric</a>. Be sure to complete the peer feedback forms linked
-at the enf of the <a href="/teaching/hci/design-doc">design document guide</a>, which will be a large part of your grade.</p>
+<p><strong>Grading:</strong> Grading will be based on the <a href="https://docs.google.com/spreadsheets/d/1aI9LcmVZmh_977G__U4Guz_rPRCwWZs26J_yHXbhSyY/edit?usp=sharing">design rubric</a>. Be sure to complete the <a href="https://forms.gle/4TgYVtRABUdqjeZX7">peer feedback forms</a> linked
+at the end of the <a href="/teaching/hci/design-doc">design document guide</a>, which will be a large part of your grade.</p>
 
 <!-- ## Some Tech Tips
 

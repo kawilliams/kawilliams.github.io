@@ -320,7 +320,7 @@ All **reading** and **demos of design sprints** are due at 2:20 PM on the day of
   <tr>
     <td rowspan="2">7</td>
     <td>10/7</td>
-    <td>Accessibility + Universal Design</td>
+    <td>Accessibility + Universal Design, release <a href="/teaching/hci/assignments/hw4">HW 4</a></td>
     <td>
     <img class="watch" src="./images/display.svg" height="16" width="16"> (7 min) <a href="https://www.youtube.com/watch?v=A88E4DH2asQ">Adventures in Universal Design</a><br>
 		<img class="reading" src="./images/book-open.svg" height="16" width="16">  <a href="http://www.cs.cmu.edu/~io/publications/10MankoffASSETS.pdf">Disability Studies as a Source of Critical Inquiry for Assistive Technology</a><br>
@@ -354,7 +354,7 @@ All **reading** and **demos of design sprints** are due at 2:20 PM on the day of
     <td>	
     <img class="reading" src="./images/book-open.svg" height="16" width="16"> <a href="/teaching/hci/papers/the-design-of-everyday-things-norman.pdf">Ch. 4 from <i>The Design of Everyday Things</i></a>
 		</td>
-    <td><a href="homework/accessibility.md">HW: Campus Accessibility</a></td>
+    <td><a href="/teaching/hci/assignments/hw4">HW: Campus Accessibility</a></td>
   </tr>
   <tr>
     <td rowspan="2">9</td>
