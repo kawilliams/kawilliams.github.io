@@ -30,7 +30,7 @@ Since you’ll be working in teams of four (4) for this project, I recommend tha
 ## Choose a Dataset
 
 Before you begin, choose a dataset. While you may use any dataset, be aware that cleaning the datasets into a usable format can be a major headache. You can use any dataset that you find online. Here are a few good starting points.
-* [CORGIS](https://think.cs.vt.edu/corgis/) (The Collection of Really Great, Interesting, Situated Datasets): cleaned, well-organized datasets that should be very simple to load into your program.
+* [CORGIS](https://corgis-edu.github.io/corgis/) (The Collection of Really Great, Interesting, Situated Datasets): cleaned, well-organized datasets that should be very simple to load into your program.
 * [Datasets underlying FiveThirtyEight stories](https://github.com/fivethirtyeight/data): Mostly cleaned, but may come in different formats.
 * [Data is Plural newsletter](https://docs.google.com/spreadsheets/d/1wZhPLMCHKJvwOkP4juclhjFgqIY8fQFMemwKL2c64vk/edit?gid=0#gid=0): fascinating datasets, but may not be cleaned/curated.
 * [Kaggle](https://www.kaggle.com/): geared toward machine learning use cases, but cleaned and usually well-tested.
