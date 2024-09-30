@@ -19,4 +19,9 @@ permalink: /teaching/hci/hall-of-fame
 ## HW 2: Needfinding
 * Fangyi Li, "[Needfinding: Cooking, Grocery Shopping, and More.](https://medium.com/@fali_9203/needfinding-cooking-grocery-shopping-and-more-7a15022e5aa0)" (Fall 2025)
 * Dmytro Kurdydyk, "[Needfinding: Navigating Healthcare as an International Student in the US](https://medium.com/@hci_enjoyer/needfinding-navigating-healthcare-as-an-international-student-in-the-us-95941d0f81a9)" (Fall 2025)
-<!--* Khai Nguyen, "[Needfinding: Meal Planning for Nutrition and Fitness Goals — Balancing Efficiency, Convenience and User Experience](https://medium.com/@khnguyen_23014/needfinding-meal-planning-for-nutrition-and-fitness-goals-balancing-efficiency-convenience-and-af9fd2e17dcb)" (Fall 2025)-->
+
+
+## HW 3: Health Design
+* Maddie Creed, "[Prototyping a nutrition tracking app](https://medium.com/@macreed/prototyping-a-nutrition-tracking-app-3a826f50c1a5)" (Fall 2025)
+* Augie Gallun, "[Health Design: Prototyping Process for Sleep Tracking/Habit Inducing Technology](https://medium.com/@augallun/health-design-prototyping-process-for-sleep-tracking-habit-inducing-technology-3d47d7991a32)" (Fall 2025)
+
