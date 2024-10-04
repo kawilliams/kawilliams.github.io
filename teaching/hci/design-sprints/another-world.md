@@ -11,8 +11,8 @@ permalink: /teaching/hci/design-sprints/another-world
 # Design for Another World
 
 * Group size: Teams of 3-4
-* Design sprint starts: Wednesday, August 30, in class.
-* Design sprint ends: Wednesday, September 13, in class (demo). [Design document](/teaching/hci/design-doc) due at *11:55 PM*. 
+* Design sprint starts: Monday, October 14, in class.
+* Design sprint ends: Wednesday, October 30, in class (demo). [Design document](/teaching/hci/design-doc) due at *11:55 PM*. 
 
 ## Overview 
 
@@ -25,6 +25,8 @@ A couple of quick pointers before you start:
 * **Consider what will make your design feel immersive.** This is your primary challenge, and it’s worth thinking beyond visual channels. How could audio enhance your design?
 * **Careful with interaction.** Because of time and hardware limitations (you’ll likely be using [A-Frame](https://aframe.io/) or [Unity](https://unity.com/) + [Google cardboard](https://vr.google.com/cardboard/) or a comparable VR viewer), consider what input mechanisms you may even have available to you before getting too deep into the development. If you have experience with it or want to dive in, you may prefer to use Unity, although A-Frame can be a bit easier to learn.
 * **Design ambitiously.** Learning to develop with new technologies is hard -- but rapid prototyping for design is important, so try your best. All of these cautions aside, I would *much* rather see a buggy implementation of an ambitious design than a fully operational implementation of a "safe" design. Take chances, and if the implementation doesn't work out, *that's ok*.
+
+You can view some previous Hall of Fame examples from Emory here: [Chinese New Year Story](https://medium.com/@kathy.ning7/design-for-another-world-vr-storytelling-2627da71af6f), [VR Art Gallery](https://medium.com/@yuton.hsu/walking-into-paintings-a-vr-gallery-c3f6a64eaca0). 
 
 ## Technology
 
