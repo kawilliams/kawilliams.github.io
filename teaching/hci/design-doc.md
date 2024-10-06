@@ -80,7 +80,7 @@ The interactions that you build will break over time, but demo videos last forev
 Good videos have good visuals and good sound. The advice is obvious, but inevitably there will be submissions every year with 
 blurry input and the soundscape of a wind tunnel. We are trying to avoid this.
 
-Decide whether you want to use music, capitons, narrative, or some kind of combination of them. Don't create a silent demo video. 
+Decide whether you want to use music, captions, narrative, or some kind of combination of them. Don't create a silent demo video. 
 Below, you'll find some nice resources for music that you can include as a backdrop to your product.
 * [How to Create Your First Product Demo Video as a Total Newbie](https://www.process.st/product-demo-video/): You might not necessarily use the same tech in the article, but many of the principles remain.
 
@@ -89,7 +89,7 @@ Below, you'll find some nice resources for music that you can include as a backd
 * [Orchestra unveils Mailbox](https://www.youtube.com/watch?v=_Us1Ws4i14c)
 * [Facebook Messenger Chat with Bot Demo](https://www.youtube.com/watch?v=_Kk3AbP3SI0)
 
-Somewhere in your design post, a demo video should be embedded that shows interaction with your final project. 
+Somewhere in your design post, a demo video should be embedded that shows interaction with your final project. You will likely need to upload your demo video to YouTube or Vimeo. 
 
 #### Multimedia for your videos
 Since our intention is to be able to broadly share these videos, it is important that we take into account copyright considerations. Fortunately, Davidson's Library has prepared guides that link to resources that should provide you with a vast library of sound, video, and images to accompany your videos and make them look as professional as possible.
