@@ -85,11 +85,33 @@ Below, you'll find some nice resources for music that you can include as a backd
 * [How to Create Your First Product Demo Video as a Total Newbie](https://www.process.st/product-demo-video/): You might not necessarily use the same tech in the article, but many of the principles remain.
 
 #### Good Examples:
-* Clear for iPhone
-* Orchestra unveils Mailbox
-* Facebook Messenger Chat with Bot Demo
+* [Clear for iPhone](https://www.youtube.com/watch?v=S00H-rz7fGo)
+* [Orchestra unveils Mailbox](https://www.youtube.com/watch?v=_Us1Ws4i14c)
+* [Facebook Messenger Chat with Bot Demo](https://www.youtube.com/watch?v=_Kk3AbP3SI0)
 
 Somewhere in your design post, a demo video should be embedded that shows interaction with your final project. 
+
+#### Multimedia for your videos
+Since our intention is to be able to broadly share these videos, it is important that we take into account copyright considerations. Fortunately, Davidson's Library has prepared guides that link to resources that should provide you with a vast library of sound, video, and images to accompany your videos and make them look as professional as possible.
+
+* [Public Domain usage and content](https://davidson.libguides.com/c.php?g=796909&p=5699936)
+* [Adding music](https://davidson.libanswers.com/copyright/faq/214851)
+* [Using video clips that aren't your own](https://davidson.libanswers.com/copyright/faq/214853)
+
+#### Recording your videos
+Your video should be as high quality as possible. For many of your screen-based products, you’ll want some kind of screen-capturing software.
+
+* On Mac: QuickTime has built-in screen capture software that will record any activity on the screen. The shortcut to start recording is to press Cmd (command) + Shift + 5 simultaneously.  There are other options, but this is likely the most simple.
+* On Windows: There are a number of free options on Windows - many of which can be explored in [this article](https://www.techradar.com/news/the-best-free-screen-recorder).
+* Davidson Digital Learning has additional ideas in [this article](https://digitallearning.davidson.edu/screencapture/).
+
+
+#### Video editors
+You’ll also need a decent video editor to put together sight and sound.
+
+* On Mac: iMovie is probably your best bet. It provides a very easy drag-and-drop interface to import music, videos, and images, as well as create basic annotations (titles). We have iMovie in labs and classrooms on campus (see [T&I article](https://support.ti.davidson.edu/hc/en-us/articles/1500007177241-iMovie)).
+* On Windows: Windows MovieMaker (Video Editor) is a popular choice that often comes pre-installed on Windows machines.
+
 
 # How will I be assessed?
 You will be assessed in 3 different ways:
