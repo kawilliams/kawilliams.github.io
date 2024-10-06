@@ -53,7 +53,7 @@ Should you choose to use A-Frame, here are some tips compiled from around the in
 
 There are a number of resources to get you up to speed - [A-Frame school](https://aframe.io/aframe-school/#/), and there are of course various other tutorials blog posts if you simply Google "A-Frame".
 
-* A helpful [Youtube playlist](https://www.youtube.com/playlist?list=PLP3KjR1TMw7ekqC4o5gy0rR4odw7Jga84) on the basics of A-Frame
+* A helpful [YouTube playlist](https://www.youtube.com/playlist?list=PLP3KjR1TMw7ekqC4o5gy0rR4odw7Jga84) on the basics of A-Frame
 * A-Frame documentation on [3D models](https://aframe.io/docs/1.6.0/introduction/)
 * A curated collection of [A-Frame components](https://aframe.io/aframe-registry/), so you don't need to code everything from scratch
 * A cool [speech command component](https://www.npmjs.com/package/aframe-speech-command-component) to make your VR experience more immersive

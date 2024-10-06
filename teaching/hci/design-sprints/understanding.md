@@ -74,7 +74,7 @@ Just build it! You may use AI (like ChatGPT, Claude, or Gemini) to assist with w
 
 ## Deliverables
 
-* As always: Your group's [design document](/teaching/hci/design-doc.md) as a Medium blog post. Be sure to discuss both portraits, including the full project context as well as the scope of your specific contributions. **You WILL need a demo video that captures the interactivity in the visualizations.** Be sure to reflect on the contrast between the two ways you have chosen to communicate your data. There are certainly tradeoffs between the two.
+* As always: Your group's [design document](/teaching/hci/design-doc) as a Medium blog post. Be sure to discuss both portraits, including the full project context as well as the scope of your specific contributions. **You WILL need a [demo video](https://kawilliams.github.io/teaching/hci/design-doc#demo-video) that captures the interactivity in the visualizations.** Be sure to reflect on the contrast between the two ways you have chosen to communicate your data. There are certainly tradeoffs between the two.
 * Both of your designs should be hosted on the web at publicly accessible links. That may be a standalone site that hosts your interactive visualization (like [GitHub pages](https://pages.github.com/) or [Davidson Domains](https://domains.davidson.edu/)), or an Observable notebook link for example. Essentially, we should be able to click around and interact with your designs. These links should be clearly included into your design reflection.
 * Post the link of each blog post along with the names of your group members on our Slack channel for `#group-design-projects` **and** one group member should submit the link on Moodle.
 
