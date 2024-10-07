@@ -24,4 +24,4 @@ sprints. Most homework assignments will be evaluated using the [design rubric](h
 | 1. [Good/Bad Design](./good-bad-design.md) | Human-Centered Design Process | You | 10% | 9/2 | 
 | 2. [Needfinding for Health Design](./needfinding.md) | Needfinding | You | 30% | ~~9/4~~ 9/9 | 
 | 3. [Health Design](./healthdesign.md) | Paper Prototyping | You | 40% | ~~9/16~~ 9/17 | 
-| 4. [Campus Accessibility](./accessibility.md) | Accessible Design | You | 20% | 10/14 | 
+| 4. [Campus Accessibility](./accessibility.md) | Accessible Design | You | 20% | 10/16 | 
