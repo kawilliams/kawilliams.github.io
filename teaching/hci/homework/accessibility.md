@@ -27,7 +27,9 @@ For each problem, create a marker with an appropriate symbol (include an image a
 
 
 ## Deliverables
-1. As always: Your reflections as a Medium blog post. **You do not need a demo video.** Include your annotated map as well as reflections on the accessible and inaccessible examples you found. Be sure to reflect on the differences in the accessible and inaccessible paths.
+1. As always: Your reflections as a Medium blog post. **You do not need a demo video.** Include your annotated map as well as reflections on the accessible and inaccessible examples you found (*including images of the problematic examples*). Be sure to reflect on the differences in the accessible and inaccessible paths.
+    * This blog post will be different from the other blog posts you have written.
+    * I still expect photographic evidence, explanatory sketches, and a genuine reflection of the experience (both positive, negative, and critical).
 
 ### Grading
 Grading will be based on a *variation* of the [design rubric](https://docs.google.com/spreadsheets/d/1aI9LcmVZmh_977G__U4Guz_rPRCwWZs26J_yHXbhSyY/edit?usp=sharing).
