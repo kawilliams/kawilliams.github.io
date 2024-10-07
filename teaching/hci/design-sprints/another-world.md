@@ -26,7 +26,7 @@ A couple of quick pointers before you start:
 * **Careful with interaction.** Because of time and hardware limitations (you’ll likely be using [A-Frame](https://aframe.io/) or [Unity](https://unity.com/) + [Google cardboard](https://vr.google.com/cardboard/) or a comparable VR viewer), consider what input mechanisms you may even have available to you before getting too deep into the development. If you have experience with it or want to dive in, you may prefer to use Unity, although A-Frame can be a bit easier to learn.
 * **Design ambitiously.** Learning to develop with new technologies is hard -- but rapid prototyping for design is important, so try your best. All of these cautions aside, I would *much* rather see a buggy implementation of an ambitious design than a fully operational implementation of a "safe" design. Take chances, and if the implementation doesn't work out, *that's ok*.
 
-You can view some previous Hall of Fame examples from Emory here: [Chinese New Year Story](https://medium.com/@kathy.ning7/design-for-another-world-vr-storytelling-2627da71af6f), [VR Art Gallery](https://medium.com/@yuton.hsu/walking-into-paintings-a-vr-gallery-c3f6a64eaca0). 
+You can view some previous Hall of Fame examples from Emory here: [Chinese New Year Story](https://medium.com/@kathy.ning7/design-for-another-world-vr-storytelling-2627da71af6f), [VR Art Gallery](https://medium.com/@yuton.hsu/walking-into-paintings-a-vr-gallery-c3f6a64eaca0). Here's another example from Bucknell: [Bucknell 2100](https://medium.com/bucknell-hci/bucknell-2100-design-for-another-world-d452e9f2df7f). 
 
 ## Technology
 
