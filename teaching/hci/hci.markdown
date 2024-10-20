@@ -297,7 +297,7 @@ All **reading** and **demos of design sprints** are due at 2:20 PM on the day of
   </tr>
   <tr>
     <td rowspan="2">6</td>
-    <td id="this_week">9/30</td>
+    <td >9/30</td>
     <td>Evaluation in HCI, Part 1</td>
     <td>
       <img class="reading" src="./images/book-open.svg" height="16" width="16">  <a href="https://people.cs.vt.edu/~gangwang/HCI.pdf#page=450">Research Ethics in HCI by Bruckman</a><br>
@@ -358,7 +358,7 @@ All **reading** and **demos of design sprints** are due at 2:20 PM on the day of
   </tr>
   <tr>
     <td rowspan="2">9</td>
-    <td>10/21</td>
+    <td id="this_week">10/21</td>
     <td>Hack: <a href="/teaching/hci/design-sprints/another-world">Design for Another World</a></td>
     <td>No prep
 		</td>
