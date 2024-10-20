@@ -12,7 +12,7 @@ permalink: teaching/hci/oral-exam
 
 # Oral Exam
 * Group size: Individual
-* Date: October 23, 2024
+* Date: October 23, 2024 and October 24, 2024
 
 ## Overview 
 The [learning objectives](./hci.markdown#learning-objectives) for the class center upon practical skills that will help you understand and execute a user-centered design process that we apply throughout the semester. Written assignments and demos for group design sprints can shed insight on what you've learned. The oral exam will fill in one more piece of the puzzle in assessing how well you can apply what you've learned. **Think of it like an interview** -- crucial practice for the many seniors in this class.
@@ -30,4 +30,4 @@ You will be graded on how well you are able to apply and articulate what you kno
 ## Preparation
 Each week, our course schedule will contain a set of content you are asked to consume. Often this will involve short readings, YouTube videos, podcasts, or slide decks. My goal is to transform the lecture section of the course into a design studio as much as possible (think of it as a hybrid "flipped" classroom). While there will be a lecture roughly once a week, talking through a million examples only gives you limited design capabilities. Iterating through, presenting, and critiquing each others’ designs is where you will really learn to build in a human-centered way.
 
-Weekly, you will be asked to fill out a short quiz based on that week’s content. The content may come from the readings or from the lecture. These are *optional* (as in, they will not affect your grade); however, you are encouraged to participate, as these questions will help you prepare for the types of things we might ask during the oral exam.
+Weekly, you will be asked to fill out a short quiz based on that week’s content. The content may come from the readings or from the lecture. These are *optional* (as in, they will not affect your grade); however, you are encouraged to participate, as these questions will help you prepare for the types of things we might ask during the oral exam. Note: these optional quizzes are closed -- if you completed the quiz when it was assigned, I graded it. I will not grade late submissions.

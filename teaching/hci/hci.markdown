@@ -54,7 +54,7 @@ Human-computer interaction combines computer science, psychology, sociology, des
 *Adapted from Emily Wall (Emory).*
 
 # Assignments and Responsibilities
-You will be individually responsible for some homework assignments, participation and critique, oral exam, and your final project. In addition, there will be 4 design sprints throughout the semester, completed as group projects.
+You will be individually responsible for some homework assignments, participation and critique, [oral exam](teaching/hci/oral-exam), and your final project. In addition, there will be 4 design sprints throughout the semester, completed as group projects.
 
 | Objective | Weight | Description                     |
 |-----------|--------|---------------------------------|
@@ -366,7 +366,7 @@ All **reading** and **demos of design sprints** are due at 2:20 PM on the day of
   </tr>
   <tr>
     <td>10/23</td>
-    <td>Oral Exam</td>
+    <td><a href="teaching/hci/oral-exam">Oral Exam</a></td>
     <td></td>
     <td></td>
   <tr>
