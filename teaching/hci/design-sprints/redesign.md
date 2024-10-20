@@ -11,7 +11,7 @@ permalink: /teaching/hci/design-sprints/redesign
 # Re-design and Extend
 
 * Group size: Teams of 3-4
-* Design sprint starts: Monday, November 4, in class. *Thanksgiving break is in this timeframe to don't be misled by the due date.*
+* Design sprint starts: Monday, November 4, in class. *Thanksgiving break is in this timeframe, don't be misled by the due date.*
 * Design sprint ends: Monday, December 2 in class (demo). Design document due at *11:55 PM*. 
 
 ## Overview 
