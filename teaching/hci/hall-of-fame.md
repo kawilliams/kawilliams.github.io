@@ -10,7 +10,9 @@ permalink: /teaching/hci/hall-of-fame
 * none yet!
 
 # Design Sprints (group)
-* none yet!
+## DS 1: Design for Dimensions
+* Dmytro Kurdydyk, Khai Nguyen, Tom Roff, "[Design Dimensions: Rethinking Design of Knotty and Board](https://medium.com/@hci_enjoyer/design-dimensions-rethinking-design-of-knotty-and-board-53d126b02b16)" (Fall 2025)
+* Alice Guth, Jeremy Kemp, James Novak, "[Group Design Sprint #1](https://medium.com/@janovak_41470/group-design-sprint-1-e0370732d15c)" (Fall 2025)
 
 # Homework (individual)
 ## HW 1: Good Design/Bad Design
