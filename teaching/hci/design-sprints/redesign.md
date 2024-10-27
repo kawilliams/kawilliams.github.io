@@ -16,7 +16,7 @@ permalink: /teaching/hci/design-sprints/redesign
 
 ## Overview 
 
-In this design sprint, we will revisit one of the previous design sprints. Which project we revisit will be determined by students voting in a survey. This page will be updated once the votes are in. This project will involve a few components and will involve several important in-class hack sessions.
+In this design sprint, we will revisit one of the previous design sprints. ~~Which project we revisit will be determined by students voting in a survey. This page will be updated once the votes are in.~~ We will be revisiting [Design Sprint #2: Design for Understanding](./understanding.md). This project will involve a few components and will involve several important in-class hack sessions.
 
 
 ### Evaluate
@@ -38,6 +38,9 @@ Next, reflect deeply on your evaluation results. How can you use what you learne
 In the final part of this project, you will be expanding on your previous design using a new prototying modality: physical prototyping. You can find some examples [here](https://stephaniebaione.com/work/physical-prototyping).
 
 How you choose to extend your previous project can take many forms, entirely up to your group. Be sure to clearly state your goals. Depending on which project you are extending, some examples you might consider are re-designing a wearable biosensor to collect additional health data, an accessible [data physicalization](http://yvonnejansen.me/dataphys) experience, a integrating tangible objects in a virtual reality art viewer, etc. You should show evidence of iteration in your physical prototying as well. Check out this [article on low-fidelity prototyping](https://www.smashingmagazine.com/2014/10/the-skeptics-guide-to-low-fidelity-prototyping/) for guidance.
+
+#### For Design Sprint 2
+You should create at least 2 data physicalizations: one for the analysis and one for persuasion. I do *not* want you to literally recreate your existing visualizations. Instead, think about what aspects of your visualization would translate well to a physical medium and which ones might need to be changed. For example, any interactivity on a screen will need to be reimagined in physical space. 
 
 
 #### Tools

@@ -358,7 +358,7 @@ All **reading** and **demos of design sprints** are due at 2:20 PM on the day of
   </tr>
   <tr>
     <td rowspan="2">9</td>
-    <td id="this_week">10/21</td>
+    <td>10/21</td>
     <td>Hack: <a href="/teaching/hci/design-sprints/another-world">Design for Another World</a></td>
     <td>No prep
 		</td>
@@ -371,7 +371,7 @@ All **reading** and **demos of design sprints** are due at 2:20 PM on the day of
     <td></td>
   <tr>
     <td rowspan="2">10</td>
-    <td>10/28</td>
+    <td id="this_week">10/28</td>
     <td>Tangible + Wearable Interfaces</td>
     <td>
     	<img class="reading" src="./images/book-open.svg" height="16" width="16"> <a href="https://www.interaction-design.org/literature/book/the-glossary-of-human-computer-interaction/tangible-interaction">Tangible Interaction by Hornecker</a><br>

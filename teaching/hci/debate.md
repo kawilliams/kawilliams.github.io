@@ -10,13 +10,13 @@ permalink: /teaching/hci/debate
 
 # Debate
 
-* Group size: Teams of 2-3
-* Due: Wednesday, August 30, in class.
+* Group size: Teams of 4
+* Due: Wednesday, December 4, in class (last day of this class)
 
 
 ## Overview 
 
-The goal of this assignment is for you to build knowledge about research in [human-computer interaction](https://chi2024.acm.org/). In two teams of 2-3 people, you will be debating opposing viewpoints on a given topic. Importantly, **your argument should be supported by research!**
+The goal of this assignment is for you to build knowledge about research in [human-computer interaction](https://chi2024.acm.org/). In two teams of 4 people, you will be debating opposing viewpoints on a given topic. Importantly, **your argument should be supported by research!**
 
 
 ## Debate Structure
@@ -45,15 +45,15 @@ You should be approximately following the debate structure identified [here](htt
 
 **Closing:**
 
-* Affirmative (A3): Closing (3 minutes)
-* Opposing (O3): Closing (3 minutes)
+* Affirmative (A3): Closing (2 minutes)
+* Opposing (O3): Closing (2 minutes)
 
-Total time is 36 minutes. The remaining class time will be used to determine a winner. The whole class gets to vote on the winner. I'll also try to get external CS professors to judge the debates.
+Total time is 34 minutes. We will debate one topic during the first half of class, then we will anonymously vote on the winner. We will debate the second topic during the second half and vote. The whole class gets to vote on the winners. I'll also try to get external CS professors to judge the debates.
 
 
 ## Debate How-Tos
 
-There is a lot of material online on how to debate well. For this class, the focus is not to train you to become a better debater. **The only requirement is for you to use publications as evidence for your arguments!** Use publications that are not too obscure (i.e. please use reputable conferences or journals). If you’re not sure if a reference is too obscure, contact me. Be prepared! Think of the evidence/publications that your opposing team could use and prepare for those arguments! Work together as a team!
+There is a lot of material online on how to debate well. For this class, the focus is not to train you to become a better debater. **The only requirement is for you to use publications as evidence for your arguments!** Use publications that are not too obscure (i.e. please use reputable conferences or journals -- if you see "IEEE", "TVCG", or "ACM", then it is likely fine). If you’re not sure if a reference is too obscure, contact me. Be prepared! Think of the evidence/publications that your opposing team could use and prepare for those arguments! Work together as a team!
 
 Unlike typical debates, you are welcome (and encouraged) to use slides.
 
