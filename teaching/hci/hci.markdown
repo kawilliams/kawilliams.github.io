@@ -371,7 +371,7 @@ All **reading** and **demos of design sprints** are due at 2:20 PM on the day of
     <td></td>
   <tr>
     <td rowspan="2">10</td>
-    <td id="this_week">10/28</td>
+    <td >10/28</td>
     <td>Tangible + Wearable Interfaces</td>
     <td>
     	<img class="reading" src="./images/book-open.svg" height="16" width="16"> <a href="https://www.interaction-design.org/literature/book/the-glossary-of-human-computer-interaction/tangible-interaction">Tangible Interaction by Hornecker</a><br>
@@ -388,7 +388,7 @@ All **reading** and **demos of design sprints** are due at 2:20 PM on the day of
   </tr>
   <tr>
     <td rowspan="2">11</td>
-    <td>11/4</td>
+    <td id="this_week">11/4</td>
     <td><a href="/teaching/hci/design-sprints/redesign">Re-design and Extend</a> Intro + Hack</td>
     <td>
     	<img class="watch" src="./images/display.svg" height="16" width="16"> (8 min) <a href="https://www.youtube.com/watch?v=d5_h1VuwD6g">Rapid Prototyping Google Glass</a><br>
