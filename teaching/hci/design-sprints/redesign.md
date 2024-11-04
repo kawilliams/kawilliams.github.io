@@ -16,14 +16,27 @@ permalink: /teaching/hci/design-sprints/redesign
 
 ## Overview 
 
-In this design sprint, we will revisit one of the previous design sprints. ~~Which project we revisit will be determined by students voting in a survey. This page will be updated once the votes are in.~~ We will be revisiting [Design Sprint #2: Design for Understanding](./understanding.md). This project will involve a few components and will involve several important in-class hack sessions.
+In this design sprint, we will revisit one of the previous design sprints. ~~Which project we revisit will be determined by students voting in a survey. This page will be updated once the votes are in.~~ We will be revisiting [Design Sprint #2: Design for Understanding](./understanding.md). This project will involve a few components and will involve several important in-class hack sessions. **You will need to use physical prototyping for this assignment.**
+
+Although it may seem odd to make a physical prototype of something digital, I encourage you to push the boundaries of your creativity! Here are some examples from Emory's Hall of Fame that show how you can transform the digital into something physical:
+* Redesigns for Design for Dimensions: 
+    * ["Re-Design and Extend: Evaluating, Iterating, and Physical Prototyping"](https://medium.com/@kathy.ning7/re-design-and-extend-evaluation-and-physical-prototyping-e3d5e62a8b52)
+    * ["Redesign & Extend: Emory University Computer Science Website Claw Machine"](https://medium.com/@meideng06/redesign-extend-emory-university-computer-science-website-claw-machine-83dd709debce)
+    * ["Physical Prototyping: Fox Theater Ticketing Kiosk"](https://medium.com/@amin.el.asery/re-design-extend-4a2a7030574e)
+
+* For ideas about how to specifically make *data physicalizations* (i.e., physical data visualizations), check out the [Viz For Social Good](https://www.vizforsocialgood.com/join-a-project/2023/physicalizing-data-for-a-better-world) website, where they also have examples linked (scroll to see the "Resources and inspiration" section).
+
 
 
 ### Evaluate
 
-You should begin by evaluating your previous design. You will first need to decide what your evaluation criteria are: what is important to assess about your design (learnability, accessibility, utility...)? How can you operationalize the measurement of this criteria? Revisit our lecture resources for evaluation methodologies (cognitive walkthrough, heuristic evaluation, usability study, etc) and decide if one of these is fitting for your evaluation goals. A good framework for thinking about this can be found in [Research Contributions in Human-Computer Interaction](http://faculty.washington.edu/wobbrock/pubs/interactions-16.pdf) by Jacob Wobbrock and Julie Kientz.
+You should begin by **evaluating your previous visualization designs**. *You are working with new people so the group needs to decide which datasets you all are going to work with.* After you pick a dataset and an existing set of visualizations, you and your team will need to decide what your evaluation criteria are: 
+* What is important to assess about your design (learnability, accessibility, utility...)? 
+* How can you operationalize the measurement of this criteria? (time, success completing the task, number of clicks, etc.)
 
-Your evaluation likely involves human subjects. Feel free to reach out to friends and classmates or other potential users of your target audience. That means you should *make yourself available* to your classmates to participate in their evaluations. You will likely need them to participate in yours as well. Some of this can be achieved during our hack day. Some of it will likely need to take place outside of class.
+Revisit our lecture resources for evaluation methodologies (cognitive walkthrough, heuristic evaluation, usability study, etc) and decide if one of these is fitting for your evaluation goals. A good framework for thinking about this can be found in [Research Contributions in Human-Computer Interaction](http://faculty.washington.edu/wobbrock/pubs/interactions-16.pdf) by Jacob Wobbrock and Julie Kientz.
+
+Your evaluation likely involves human subjects. Feel free to reach out to friends and classmates or other potential users of your target audience. That means you should *make yourself available* to your classmates to participate in their evaluations. You will likely need them to participate in yours as well. Some of this can be achieved during our hack day. Some of it will likely need to take place outside of class. 
 
 By this point in the semester, your group should be able to make informed and carefully rationalized decisions about the task, target user group, number of participants, conditions, and other details of the experimental design. You will need to justify these choices in your blog posts.
 
@@ -37,7 +50,7 @@ Next, reflect deeply on your evaluation results. How can you use what you learne
 
 In the final part of this project, you will be expanding on your previous design using a new prototying modality: physical prototyping. You can find some examples [here](https://stephaniebaione.com/work/physical-prototyping).
 
-How you choose to extend your previous project can take many forms, entirely up to your group. Be sure to clearly state your goals. Depending on which project you are extending, some examples you might consider are re-designing a wearable biosensor to collect additional health data, an accessible [data physicalization](http://yvonnejansen.me/dataphys) experience, a integrating tangible objects in a virtual reality art viewer, etc. You should show evidence of iteration in your physical prototying as well. Check out this [article on low-fidelity prototyping](https://www.smashingmagazine.com/2014/10/the-skeptics-guide-to-low-fidelity-prototyping/) for guidance.
+How you choose to extend your previous project can take many forms, entirely up to your group. Be sure to clearly state your goals. Depending on which project you are extending, some examples you might consider are re-designing a wearable biosensor to collect additional health data, **an accessible [data physicalization](http://yvonnejansen.me/dataphys) experience (Fall 2024)**, a integrating tangible objects in a virtual reality art viewer, etc. You should show evidence of iteration in your physical prototying as well. Check out this [article on low-fidelity prototyping](https://www.smashingmagazine.com/2014/10/the-skeptics-guide-to-low-fidelity-prototyping/) for guidance.
 
 #### For Design Sprint 2
 You should create at least 2 data physicalizations: one for the analysis and one for persuasion. I do *not* want you to literally recreate your existing visualizations. Instead, think about what aspects of your visualization would translate well to a physical medium and which ones might need to be changed. For example, any interactivity on a screen will need to be reimagined in physical space. 

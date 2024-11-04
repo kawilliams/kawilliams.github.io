@@ -437,7 +437,7 @@ All **reading** and **demos of design sprints** are due at 2:20 PM on the day of
     <td>11/20</td>
     <td>Hack Day: <a href="/teaching/hci/design-sprints/redesign">Re-design and Extend</a></td>
     <td>No prep</td>
-    <td><a href="/teaching/hci/design-sprints/redesign">DS: Re-design and Extend</a></td>
+    <td></td>
   </tr>
   <tr>
   <td rowspan="2">14</td>
@@ -456,8 +456,8 @@ All **reading** and **demos of design sprints** are due at 2:20 PM on the day of
     <td rowspan="2">15</td>
     <td>12/2</td>
     <td>Demo Day: <a href="design-sprints/redesign.md">Re-design and Extend</a></td>
-    <td><a href="d/teaching/hci/design-sprints/redesign">DS: Re-design and Extend due</a></td>
-    <td></td>
+    <td>No prep</td>
+    <td><a href="design-sprints/redesign.md">DS: Re-design and Extend due</a></td>
   </tr>
   <tr>
     <td>12/4</td>
