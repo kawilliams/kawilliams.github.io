@@ -12,6 +12,7 @@ permalink: /teaching/hci/design-sprints/redesign
 
 * Group size: Teams of 3-4
 * Design sprint starts: Monday, November 4, in class. *Thanksgiving break is in this timeframe, don't be misled by the due date.*
+* Desgin sprint checkpoint: Wednesday, November 13 by 11:55 PM (due to Moodle).
 * Design sprint ends: Monday, December 2 in class (demo). Design document due at *11:55 PM*. 
 
 ## Overview 
@@ -86,7 +87,7 @@ Now, given your new physical prototype, your group should design and execute a p
 ## Deliverables
 
 ### Checkpoint: Nov 13
-* **There will be a checkpoint for this assignment due on Wednesday, November 13.** At this checkpoint, you will need to submit a draft of your Medium blog post. This submission can be used as the basis of your final Medium blog post submission -- this checkpoint is not meant to be additional work. This post should contain:
+* **There will be a checkpoint for this assignment due on Wednesday, November 13, counting for 10% of the grade for Design Sprint #4** At this checkpoint, you will need to submit a draft of your Medium blog post on Moodle. This submission can be used as the basis of your final Medium blog post submission -- this checkpoint is not meant to be additional work. The 10% will be part of Columns B and C in the [Design Rubric](https://docs.google.com/spreadsheets/d/1aI9LcmVZmh_977G__U4Guz_rPRCwWZs26J_yHXbhSyY/edit?usp=sharing), since it is part of the design process and principles. This post (either submitted to Moodle as a Google Doc link or a Medium draft) should contain:
     * A description of your evaluation methodology used on your digital visualizations
     * An analysis of the results of the evaluation
     * Two sketches of your physical visualizations (one analytical, one persuasive)
