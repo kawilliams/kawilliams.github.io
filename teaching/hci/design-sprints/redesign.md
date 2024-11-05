@@ -12,7 +12,7 @@ permalink: /teaching/hci/design-sprints/redesign
 
 * Group size: Teams of 3-4
 * Design sprint starts: Monday, November 4, in class. *Thanksgiving break is in this timeframe, don't be misled by the due date.*
-* Desgin sprint checkpoint: Wednesday, November 13 by 11:55 PM (due to Moodle).
+* **Design sprint checkpoint: Wednesday, November 13 by 11:55 PM (due to Moodle)**.
 * Design sprint ends: Monday, December 2 in class (demo). Design document due at *11:55 PM*. 
 
 ## Overview 
