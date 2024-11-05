@@ -53,12 +53,30 @@ In the final part of this project, you will be expanding on your previous design
 How you choose to extend your previous project can take many forms, entirely up to your group. Be sure to clearly state your goals. Depending on which project you are extending, some examples you might consider are re-designing a wearable biosensor to collect additional health data, **an accessible [data physicalization](http://yvonnejansen.me/dataphys) experience (Fall 2024)**, a integrating tangible objects in a virtual reality art viewer, etc. You should show evidence of iteration in your physical prototying as well. Check out this [article on low-fidelity prototyping](https://www.smashingmagazine.com/2014/10/the-skeptics-guide-to-low-fidelity-prototyping/) for guidance.
 
 #### For Design Sprint 2
-You should create at least 2 data physicalizations: one for the analysis and one for persuasion. I do *not* want you to literally recreate your existing visualizations. Instead, think about what aspects of your visualization would translate well to a physical medium and which ones might need to be changed. For example, any interactivity on a screen will need to be reimagined in physical space. 
+You should create **at least 2 data physicalizations: one for the analysis and one for persuasion.** I do *not* want you to literally recreate your existing visualizations. Instead, think about what aspects of your visualization would translate well to a physical medium and which ones might need to be changed. For example, any interactivity on a screen will need to be reimagined in physical space. 
+
+Specifically, I am looking for:
+    * Physicalizations that engage a **wide variety of users** (variety based on personal interest and understanding of visualizations)
+    * An addition of **accessibility to your visualizations.** Think carefully about how you can craft the physical aspects of this visualization. What colors will you use? What materials? Will there be text-to-speech? How will the user interact with your visualization?
+
+I am *NOT looking for*:
+    * A dashboard / multiple visualizations. For this assignment, it might not make sense to have multiple physical versions. However, I still expect the dataset to be fully represented.
+        * You may make a horizontal prototype for this. For example, if you had a line graph with data from 50 states, I expect to see 5-10 lines representing the most interesting data from 5-10 states, and a (non-working) interface that would add additional lines for additional states.
+    * Like in the previous design sprints, I am not looking for perfect implementations. I would rather see ambitious design plans and representations of extra features, than a design that is boring and "safe."
 
 
 #### Tools
+For this project, you will have access to tools and materials through the [DACE Studio](https://www.davidson.edu/offices-and-services/arts-creative-engagement/dace-studio) (in the north basement of Chambers, by the flagpole). They have materials ranging from sewing machines, knitting machine, yarn and string, embroidery tools, paints, coloring utensils, paper, canvas, etc. You may also choose to use materials you find around your dorm/house (cardboard, plastic bottles, old tshirts, etc).
+<!-- For this project, you will have access to tools and materials through [Studio M](https://www.davidson.edu/academic-departments/digital-studies/facilities) (in room B260 in the south basement of Chambers, by Wall). Studio M has 3D printers, laser engravers, VR simulators, vinyl cutters, shirt presses, and various other tools. You also can access the [DACE Studio](https://www.davidson.edu/offices-and-services/arts-creative-engagement/dace-studio) (in the north basement of Chambers, by the flagpole). They have materials ranging from sewing machines, knitting machine, yarn and string, embroidery tools, paints, coloring utensils, paper, canvas, etc. You may also choose to use materials you find at home around the house (cardboard, plastic bottles, old tshirts, etc). -->
 
-For this project, you will have access to tools and materials through [Studio M](https://www.davidson.edu/academic-departments/digital-studies/facilities) (in room B260 in the south basement of Chambers, by Wall). Studio M has 3D printers, laser engravers, VR simulators, vinyl cutters, shirt presses, and various other tools. You also can access the [DACE Studio](https://www.davidson.edu/offices-and-services/arts-creative-engagement/dace-studio) (in the north basement of Chambers, by the flagpole). They have materials ranging from sewing machines, knitting machine, yarn and string, embroidery tools, paints, coloring utensils, paper, canvas, etc. You may also choose to use materials you find at home around the house (cardboard, plastic bottles, old tshirts, etc).
+### Sketching and Planning
+
+Before we go to the DACE Studio and work with physical materials, you must sketch out your proposed new design. As always when sketching, I encourage you to explore multiple options in your sketches. However,
+you only need to submit **1 annotated sketch per visualization** (so 2 total -- persuasive and analytical). You should annotate
+your sketch with the materials needed. For example, if you make a bar chart, you may choose to use pipe cleaners for the bars so 
+in your sketch, I should see the bars drawn as pipe cleaners and a label explaining the bars are pipe cleaners. Finally, write a list of the materials with explicit quantities.
+
+You should submit your sketches and supply list to this [Google Form](https://forms.gle/i8x5K63BTGamsNn47) by **12 PM on Friday, November 8.**
 
 ### Re-evaluate
 
@@ -67,8 +85,16 @@ Now, given your new physical prototype, your group should design and execute a p
 
 ## Deliverables
 
-* As always: Your group's design reflection as a blog post on Medium. **You WILL need a demo video.** 
-    * [If applicable] Your VR experience should be publicly accessible so that others can visit it. **Include this link in your design doc.** 
+### Checkpoint: Nov 13
+* **There will be a checkpoint for this assignment due on Wednesday, November 13.** At this checkpoint, you will need to submit a draft of your Medium blog post. This submission can be used as the basis of your final Medium blog post submission -- this checkpoint is not meant to be additional work. This post should contain:
+    * A description of your evaluation methodology used on your digital visualizations
+    * An analysis of the results of the evaluation
+    * Two sketches of your physical visualizations (one analytical, one persuasive)
+    * Evidence that construction has started on the physical visualizations
+
+### Final Deliverables
+* As always: Your group's design reflection as a blog post on Medium. **You WILL need a demo video that demonstrates how to interact with your physical visualizations (physicalizations). Specifically, you should point out any accessibility features that you included in your design.** 
+    <!-- * [If applicable] Your VR experience should be publicly accessible so that others can visit it. **Include this link in your design doc.**  -->
 * Post the link of each blog post along with the names of your group members on our Slack channel for `#group-design-projects` **and** one group member should submit the link on Moodle.
 
 **Grading:** Grading will be based on the [design rubric](https://docs.google.com/spreadsheets/d/1aI9LcmVZmh_977G__U4Guz_rPRCwWZs26J_yHXbhSyY/edit?usp=sharing). 
