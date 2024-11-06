@@ -53,17 +53,17 @@ In the final part of this project, you will be expanding on your previous design
 
 How you choose to extend your previous project can take many forms, entirely up to your group. Be sure to clearly state your goals. Depending on which project you are extending, some examples you might consider are re-designing a wearable biosensor to collect additional health data, **an accessible [data physicalization](http://yvonnejansen.me/dataphys) experience (Fall 2024)**, a integrating tangible objects in a virtual reality art viewer, etc. You should show evidence of iteration in your physical prototying as well. Check out this [article on low-fidelity prototyping](https://www.smashingmagazine.com/2014/10/the-skeptics-guide-to-low-fidelity-prototyping/) for guidance.
 
-#### For Design Sprint 2
+#### For Design Sprint #4
 You should create **at least 2 data physicalizations: one for the analysis and one for persuasion.** I do *not* want you to literally recreate your existing visualizations. Instead, think about what aspects of your visualization would translate well to a physical medium and which ones might need to be changed. For example, any interactivity on a screen will need to be reimagined in physical space. 
 
 Specifically, I am looking for:
-    * Physicalizations that engage a **wide variety of users** (variety based on personal interest and understanding of visualizations)
-    * An addition of **accessibility to your visualizations.** Think carefully about how you can craft the physical aspects of this visualization. What colors will you use? What materials? Will there be text-to-speech? How will the user interact with your visualization?
+* Physicalizations that engage a **wide variety of users** (variety based on personal interest and understanding of visualizations)
+* An addition of **accessibility to your visualizations.** Think carefully about how you can craft the physical aspects of this visualization. What colors will you use? What materials? Will there be text-to-speech? How will the user interact with your visualization?
 
 I am *NOT looking for*:
-    * A dashboard / multiple visualizations. For this assignment, it might not make sense to have multiple physical versions. However, I still expect the dataset to be fully represented.
-        * You may make a horizontal prototype for this. For example, if you had a line graph with data from 50 states, I expect to see 5-10 lines representing the most interesting data from 5-10 states, and a (non-working) interface that would add additional lines for additional states.
-    * Like in the previous design sprints, I am not looking for perfect implementations. I would rather see ambitious design plans and representations of extra features, than a design that is boring and "safe."
+* A dashboard / multiple visualizations. For this assignment, it might not make sense to have multiple physical versions. However, I still expect the dataset to be fully represented.
+    * You may make a horizontal prototype for this. For example, if you had a line graph with data from 50 states, I expect to see 5-10 lines representing the most interesting data from 5-10 states, and a (non-working) interface that would add additional lines for additional states.
+* Like in the previous design sprints, I am not looking for perfect implementations. I would rather see ambitious design plans and representations of extra features, than a design that is boring and "safe."
 
 
 #### Tools
