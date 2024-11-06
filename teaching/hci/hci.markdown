@@ -412,8 +412,8 @@ All **reading** and **demos of design sprints** are due at 2:20 PM on the day of
   <tr>
   <td rowspan="2">12</td>
     <td>11/11</td>
-    <td>Hack: <a href="/teaching/hci/design-sprints/redesign">Re-design and Extend</a> (at Studio M or DACE)</td>
-    <td>No prep</td>
+    <td>Hack: <a href="/teaching/hci/design-sprints/redesign">Re-design and Extend</a> (at DACE Studio -- north basement of Chambers (flagpole side))</td>
+    <td><img class="watch" src="./images/display.svg" height="16" width="16" ><a href="https://www.youtube.com/watch?v=JMjozqJS44M">(8 minutes) Rapid Prototyping: Sketching by Google for Startups</a></td>
     <td></td>
   </tr>
   <tr>
