@@ -388,7 +388,7 @@ All **reading** and **demos of design sprints** are due at 2:20 PM on the day of
   </tr>
   <tr>
     <td rowspan="2">11</td>
-    <td id="this_week">11/4</td>
+    <td>11/4</td>
     <td>Prototyping and <a href="/teaching/hci/design-sprints/redesign">Re-design and Extend</a> Intro + Hack</td>
     <td>
     	<img class="watch" src="./images/display.svg" height="16" width="16"> (8 min) <a href="https://www.youtube.com/watch?v=d5_h1VuwD6g">Rapid Prototyping Google Glass</a><br>
@@ -411,7 +411,7 @@ All **reading** and **demos of design sprints** are due at 2:20 PM on the day of
   </tr>
   <tr>
   <td rowspan="2">12</td>
-    <td>11/11</td>
+    <td id="this_week">11/11</td>
     <td>Hack: <a href="/teaching/hci/design-sprints/redesign">Re-design and Extend</a> (at DACE Studio -- north basement of Chambers (flagpole side))</td>
     <td><img class="watch" src="./images/display.svg" height="16" width="16" ><a href="https://www.youtube.com/watch?v=JMjozqJS44M">(8 minutes) Rapid Prototyping: Sketching by Google for Startups</a></td>
     <td></td>
