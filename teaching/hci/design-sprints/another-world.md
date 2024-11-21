@@ -41,6 +41,7 @@ You can view some previous Hall of Fame examples from Emory here: [Chinese New Y
 
 * As always: Your group's design reflection as a blog post on Medium. **You WILL need a demo video.** Follow the guidelines in the [Design Doc](/teaching/hci/design-doc) explanation
 * Your VR experience should be publicly accessible so that others can visit it. **Include this link in your design doc.** It’s fine if this is a link from Glitch (which is probably the easiest place to develop your work).
+    * The VR experience link may break over time or the libraries used may get out of date. **This is why we make a video: the video link should stay stable over time.** Also, it's more likely that a reader's browser would support a video than a graphics-intensive VR environment.
 * Post the link of each blog post along with the names of your group members on our Slack channel for `#group_design_projects` **and** one group member should submit the link on Moodle.
 
 **Grading:** Grading will be based on the [design rubric](https://docs.google.com/spreadsheets/d/1aI9LcmVZmh_977G__U4Guz_rPRCwWZs26J_yHXbhSyY/edit?usp=sharing). Be sure to complete the peer feedback forms linked
