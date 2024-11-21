@@ -59,7 +59,9 @@ I encourage you to make use of the AI tool [Elicit](https://elicit.com/). Elicit
 
 Unlike typical debates, **you are welcome (and encouraged) to use slides**.
 
-The two teams should schedule a meeting with me to go over the spirit of the debate. I will suggest possible papers or directions to pursue and answer any questions you might have. This should happen at least 1 week before the debate. You should have some ideas of the 3 key papers that you will use for your arguments.
+Given that each team is required to speak 5 times, **I expect every person in your team of 4 to speak at least once.** How you divide that up is up to your group.
+
+<!--The two teams should schedule a meeting with me to go over the spirit of the debate. I will suggest possible papers or directions to pursue and answer any questions you might have. This should happen at least 1 week before the debate. You should have some ideas of the 3 key papers that you will use for your arguments.-->
 
 
 ## Debate Topics
@@ -91,10 +93,10 @@ One of the below topics will go unused.
 
 Here is how you will be graded: 
 
-[10%] Selection and relevance of key papers
-[15%] Opening
-[15%] Statement
-[25%] Rebuttal
-[15%] Closing
-[20%] Group Evaluation (did you contribute to your team?)
-[+5%] To the winning team (which team presented the most convincing argument? -- based on audience vote)
+* [10%] Selection and relevance of key papers
+* [15%] Opening
+* [15%] Statement
+* [25%] Rebuttal
+* [15%] Closing
+* [20%] Group Evaluation (did you contribute to your team?)
+* [+5%] To the winning team (which team presented the most convincing argument? -- based on audience vote)
