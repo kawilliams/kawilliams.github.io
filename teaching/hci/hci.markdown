@@ -494,6 +494,6 @@ All **reading** and **demos of design sprints** are due at 2:20 PM on the day of
     <td>12/16</td>
     <td>Final Assessment Period <br /> <b>All work due by December 17.</b></td>
     <td></td>
-    <td><a href="final-project.md">Final Design Portfolio</a></td>
+    <td><a href="final-project">Final Design Portfolio</a></td>
   </tr>
 </tbody>
