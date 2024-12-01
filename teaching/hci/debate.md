@@ -57,6 +57,8 @@ There is a lot of material online on how to debate well. For this class, the foc
 
 I encourage you to make use of the AI tool [Elicit](https://elicit.com/). Elicit is a helpful and accurate research tool (endorsed by the Davidson Library). It does a great job of summarizing papers and connecting themes to *answer research questions*. Note that this purpose is different than a search engine: you need to input a **research question** and Elicit will search the literature to find evidence to answer this question. Start with this "[Building Your First Notebook](https://support.elicit.com/en/articles/1418881)" article to learn how to use Elicit.
 
+**However, like with all AI tools, you should fact-check any critical pieces of information. You don't want to make an inaccurate point and have the opposing team tear you apart!**
+
 Unlike typical debates, **you are welcome (and encouraged) to use slides**.
 
 Given that each team is required to speak 5 times, **I expect every person in your team of 4 to speak at least once.** How you divide that up is up to your group.
@@ -84,10 +86,10 @@ There are four possible debate topics to explore.
 
 ## Debate Assignments
 One of the below topics will go unused. 
-1. Affirmative: names. Opposition: names.
-2. Affirmative: names. Opposition: names.
-3. Affirmative: names. Opposition: names.
-4. Affirmative: names. Opposition: names.
+1. Affirmative: Patrick, Kyra, Tom, Arvin. Opposition: Alp, Dmytro, Khai, Lillian.
+2. Affirmative: Devon, James, Taylor, Yumna. Opposition: Alice, Ally, Daniel, Huy.
+3. Unused ~~Affirmative: names. Opposition: names.~~
+4. Affirmative: Seth, Saahil, Augie, Jeremy. Opposition: Maddie, Owen, Fangyi.
 
 ## Grading
 
@@ -98,5 +100,7 @@ Here is how you will be graded:
 * [15%] Statement
 * [25%] Rebuttal
 * [15%] Closing
-* [20%] Group Evaluation (did you contribute to your team?)
+* [20%] [Peer Feedback form](https://docs.google.com/forms/d/e/1FAIpQLSfia2jv6O7WEgkw-Ew_dNuK1k3SZag1qjz2E0zOVEGaGtEaIA/viewform?usp=sf_link) (did you contribute to your team?)
 * [+5%] To the winning team (which team presented the most convincing argument? -- based on audience vote)
+
+**Remember to complete your [Peer Feedback form](https://docs.google.com/forms/d/e/1FAIpQLSfia2jv6O7WEgkw-Ew_dNuK1k3SZag1qjz2E0zOVEGaGtEaIA/viewform?usp=sf_link)!**
