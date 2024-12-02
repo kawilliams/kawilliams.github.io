@@ -70,7 +70,7 @@ Given that each team is required to speak 5 times, **I expect every person in yo
 
 There are four possible debate topics to explore.
 
-1. **“Design guidelines considered harmful”**: HCI research has always had a strong aesthetic design component. As a result, a number of design guidelines have emerged over the years.
+1. **“Design guidelines are considered harmful”**: HCI research has always had a strong aesthetic design component. As a result, a number of design guidelines have emerged over the years.
     * Affirmative team: Design guidelines are necessary. They help practitioners know how to design effective user interfaces. They also serve as the foundation of HCI research.
     * Opposing team: Design guidelines are rigid and have caused a great deal of harm to the community. There is no “good” or “bad” design – designs are inherently contextual and task dependent.
 2. **“The humans are dead”**: This is the debate about automation versus human-user control. Data exploration, data analysis, and decision-making have increasingly become automated. Is a human-user still necessary?
