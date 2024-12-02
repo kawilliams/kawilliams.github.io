@@ -48,7 +48,7 @@ You should be approximately following the debate structure identified [here](htt
 * Affirmative (A3): Closing (1 minute)
 * Opposing (O3): Closing (1 minute)
 
-Total time is 25 minutes. We will debate one topic during the first third of class, then we will anonymously vote on the winner. We will debate the second topic during the second third and vote. We will debate the second topic during the final third and vote. The whole class gets to vote on the winners.
+Total time is 25 minutes. We will debate one topic during the first third of class, then we will anonymously vote on the winner. We will debate the second topic during the second third and vote. We will debate the third topic during the final third and vote. The whole class gets to vote on the winners.
 
 
 ## Debate How-Tos
@@ -70,7 +70,7 @@ Given that each team is required to speak 5 times, **I expect every person in yo
 
 There are four possible debate topics to explore.
 
-1. **“Design guidelines considered harmful”**: HCI research has always had a strong aesthetic design component. As a result, a number of design guidelines have emerged over the years.
+1. **“Design guidelines are considered harmful”**: HCI research has always had a strong aesthetic design component. As a result, a number of design guidelines have emerged over the years.
     * Affirmative team: Design guidelines are necessary. They help practitioners know how to design effective user interfaces. They also serve as the foundation of HCI research.
     * Opposing team: Design guidelines are rigid and have caused a great deal of harm to the community. There is no “good” or “bad” design – designs are inherently contextual and task dependent.
 2. **“The humans are dead”**: This is the debate about automation versus human-user control. Data exploration, data analysis, and decision-making have increasingly become automated. Is a human-user still necessary?
