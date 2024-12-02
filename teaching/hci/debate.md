@@ -45,8 +45,8 @@ You should be approximately following the debate structure identified [here](htt
 
 **Closing:**
 
-* Affirmative (A3): Closing (1 minutes)
-* Opposing (O3): Closing (1 minutes)
+* Affirmative (A3): Closing (1 minute)
+* Opposing (O3): Closing (1 minute)
 
 Total time is 25 minutes. We will debate one topic during the first third of class, then we will anonymously vote on the winner. We will debate the second topic during the second third and vote. We will debate the second topic during the final third and vote. The whole class gets to vote on the winners.
 
@@ -86,7 +86,7 @@ There are four possible debate topics to explore.
 
 ## Debate Assignments
 One of the below topics will go unused. 
-1. Affirmative: Patrick, Kyra, Tom, Arvin. Opposition: Alp, Dmytro, Khai, Lillian.
+1. Affirmative: Patrick, Kyra, Tom, Arvin. Opposition: Alp, Khai, Lillian.
 2. Affirmative: Devon, James, Taylor, Yumna. Opposition: Alice, Ally, Daniel, Huy.
 3. Unused ~~Affirmative: names. Opposition: names.~~
 4. Affirmative: Seth, Saahil, Augie, Jeremy. Opposition: Maddie, Owen, Fangyi.
