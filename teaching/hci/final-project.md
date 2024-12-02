@@ -16,6 +16,7 @@ permalink: teaching/hci/hidden-final-project
 * Final opens: Monday, December 9, 2024
 * Final due: Tuesday, December 17, 2024 at 5:00 PM
 * Office hours for intro to web development:
+    * If you avoided the web development earlier in this class, you may want to pop by for some guided help.
     * Monday (12/9): 1:30-3:30 PM
     * Tuesday (12/10): 9:00-11:00 AM
 
