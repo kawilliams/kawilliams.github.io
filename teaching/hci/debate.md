@@ -48,7 +48,7 @@ You should be approximately following the debate structure identified [here](htt
 * Affirmative (A3): Closing (1 minute)
 * Opposing (O3): Closing (1 minute)
 
-Total time is 25 minutes. We will debate one topic during the first third of class, then we will anonymously vote on the winner. We will debate the second topic during the second third and vote. We will debate the second topic during the final third and vote. The whole class gets to vote on the winners.
+Total time is 25 minutes. We will debate one topic during the first third of class, then we will anonymously vote on the winner. We will debate the second topic during the second third and vote. We will debate the third topic during the final third and vote. The whole class gets to vote on the winners.
 
 
 ## Debate How-Tos
