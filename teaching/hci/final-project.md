@@ -21,7 +21,7 @@ permalink: teaching/hci/hidden-final-project
     * Tuesday (12/10): 9:00-11:00 AM
 
 ## Overview
-For your final project, you will create a website that acts as your **final portfolio** and post that acts to synthesize and reflects on all of the work you have accomplished throughout the semester. This website will contain two primary elements:
+For your final project, you will create a website that acts as your **final portfolio** and post that acts to synthesize and reflects on all of the work you have accomplished throughout the semester. This type of portfolio demonstrates your skills in the design process -- a valuable tool for *you* to show future employers (my friend Noëlle who is working at Google reiterated this to me, she thinks this project is highly applicable). This website will contain two primary elements:
 
 * A portfolio display that visually shows your projects and links to your group Design Sprints.
 * A Design Manifesto (in the form of page on your website) which reflects on the semester as a whole and how it has impacted your design philosophy.
