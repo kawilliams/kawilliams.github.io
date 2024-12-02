@@ -13,7 +13,7 @@ permalink: teaching/hci/hidden-final-project
 # Final Project: Design Manifesto
 
 * Group size: Individual
-* Final opens: Wednesday, December 11, 2024
+* Final opens: Monday, December 9, 2024
 * Final due: Tuesday, December 17, 2024 at 5:00 PM
 * Office hours for intro to web development:
     * Monday (12/9): 1:30-3:30 PM
