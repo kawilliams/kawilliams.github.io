@@ -13,7 +13,7 @@ permalink: teaching/hci/hidden-final-project
 # Final Project: Design Manifesto
 
 * Group size: Individual
-* Final opens: Monday, December 9, 2024
+* Final opens: Sunday, December 8, 2024 at 12:00 PM (noon)
 * Final due: Tuesday, December 17, 2024 at 5:00 PM
 * Office hours for intro to web development:
     * If you avoided the web development earlier in this class, you may want to pop by for some guided help.
@@ -25,6 +25,8 @@ For your final project, you will create a website that acts as your **final port
 
 * A portfolio display that visually shows your projects and links to your group Design Sprints.
 * A Design Manifesto (in the form of page on your website) which reflects on the semester as a whole and how it has impacted your design philosophy.
+
+<img class="reading" src="./images/traffic-light.svg" height="20" width="20"> STOP and complete [this form](https://forms.gle/96XDcCwjddTpnYnt5) about whether or not you want written feedback on your final project. 
 
 ## Design Manifesto
 
