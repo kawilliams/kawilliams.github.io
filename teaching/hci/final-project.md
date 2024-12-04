@@ -68,8 +68,9 @@ At a minimum, the page must:
 
 ### On Web Design
 You are welcome to create your design page with any technology that you’d like. If you are not familiar with web design, I’d encourage you to look into [Wordpress](https://wordpress.com/), which is built into [Davidson Domains](https://domains.davidson.edu/). There are a number of other free templates you can find online, or you're welcome to build out your own fully custom design. 
+**You will need your website to be hosted on a server** (meaning anyone could access your website from anywhere), so if you host your website on somewhere besides Davidson Domains (free) or GitHub pages (free), check to make sure there aren't any costs ($) associated with it. You should only need the free tier of any hosting platform.
 
-For those with more web design experience, I recommend hosting on [Github Pages](https://pages.github.com/), which will handle hosting and version control.
+For those with more web design experience, I recommend hosting on [Github Pages](https://pages.github.com/), which will handle hosting on the server and version control.
 
 There are a number of design questions you need to answer:
 
@@ -78,7 +79,9 @@ There are a number of design questions you need to answer:
     * Do you want videos embedded on this site? Do you want images that link to Medium posts?
 * How much writing is on the page? Is it simple and clean, or is it longer and descriptive?
 
-Particularly for the context of a course like this, I think it is important that you don’t simply take the theme at face value, but modify it to fit your own goals.
+You are encouraged to create a beautiful, unique website that showcases your design personality. You *may use* existing templates, but particularly for the context of a course like this, I think it is important that you don’t simply take the theme at face value, but modify it to fit your own goals.
+* What you should NOT do: write your own HTML and CSS code from scratch.
+* What you SHOULD do: look through themes, find one that you like, adjust the colors and fonts and add images/icons that reflect your taste. 
 
 ## AI Policy
 To reiterate my [AI Policy](./hci.markdown#ai-policy) in the context of this assignment: you may use LLMs like ChatGPT to generate code to assist you in building the structure of your website, including to generate boilerplate code, to ask for help debugging, and to create CSS code for a desired style. **You may *not* use LLMs to generate textual content for your Design Manifesto.**
