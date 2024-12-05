@@ -19,7 +19,7 @@ permalink: /teaching/hci/hall-of-fame
 
 ## DS 3: Design for Another World
 * Kyra Dalbo, Saahil Khemka, Tom Roff, Ally Smith, "[Design for Another World: Skydiving VR](https://medium.com/@kydalbo/design-for-another-world-skydiving-vr-047113b53b06)" (Fall 2025)
-* Devon Diaco, Patrick Leary, Alp Niksarli, James Novak, "[](https://medium.com/@pleary03/design-sprint-design-for-another-world-a1330e58e521)" (Fall 2025)
+* Devon Diaco, Patrick Leary, Alp Niksarli, James Novak, "[Design Sprint: Design for Another World](https://medium.com/@pleary03/design-sprint-design-for-another-world-a1330e58e521)" (Fall 2025)
 
 # Homework (individual)
 ## HW 1: Good Design/Bad Design
