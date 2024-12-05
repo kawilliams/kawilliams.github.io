@@ -34,3 +34,8 @@ permalink: /teaching/hci/hall-of-fame
 * Maddie Creed, "[Prototyping a nutrition tracking app](https://medium.com/@macreed/prototyping-a-nutrition-tracking-app-3a826f50c1a5)" (Fall 2025)
 * Augie Gallun, "[Health Design: Prototyping Process for Sleep Tracking/Habit Inducing Technology](https://medium.com/@augallun/health-design-prototyping-process-for-sleep-tracking-habit-inducing-technology-3d47d7991a32)" (Fall 2025)
 
+
+## HW 4: Accessibility
+* Maddie Creed, "[Mapping accessible paths on Davidson’s campus](https://medium.com/@macreed/mapping-accessible-paths-on-davidsons-campus-bcce6fc73dc7)" (Fall 2025)
+* Saahil Khemka, "[Campus Accessibility: Davidson College Senior Apartments](https://medium.com/@sakhemka/campus-accessibility-davidson-college-senior-apartments-d2b003e35ba7)" (Fall 2025)
+* Fangyi Li, "[Mapping Campus Accessibility at Davidson College](https://medium.com/@fali_9203/mapping-campus-accessibility-at-davidson-college-1b014eaee558)" (Fall 2025)
