@@ -7,7 +7,7 @@ title: CSC 363 Final Project
 course: CSC 363 HCI
 description: Human Computer Interaction
 course-url: /teaching/hci
-permalink: teaching/hci/hidden-final-project
+permalink: teaching/hci/final-project
 ---
 
 # Final Project: Design Manifesto
