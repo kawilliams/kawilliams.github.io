@@ -21,6 +21,10 @@ permalink: /teaching/hci/hall-of-fame
 * Kyra Dalbo, Saahil Khemka, Tom Roff, Ally Smith, "[Design for Another World: Skydiving VR](https://medium.com/@kydalbo/design-for-another-world-skydiving-vr-047113b53b06)" (Fall 2025)
 * Devon Diaco, Patrick Leary, Alp Niksarli, James Novak, "[Design Sprint: Design for Another World](https://medium.com/@pleary03/design-sprint-design-for-another-world-a1330e58e521)" (Fall 2025)
 
+## DS 4: Re-design and Extend
+* Kyra Dalbo, Patrick Leary, Tom Roff, Arvin Zhang, "[Re-Design and Extend: U.S. Wildfires](https://medium.com/@kydalbo/re-design-and-extend-u-s-wildfires-c3a18a50d6ea)" (Fall 2025)
+* Maddie Creed, Fangyi Li, Owen Lekki, "[Physicalizing Race, Gender, and the Salary Gap of College Graduates](https://medium.com/@macreed/physicalizing-race-gender-and-the-salary-gap-of-college-graduates-a40fb457dd48)" (Fall 2025)
+
 # Homework (individual)
 ## HW 1: Good Design/Bad Design
 * none yet!
