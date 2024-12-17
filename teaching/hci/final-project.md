@@ -23,7 +23,7 @@ permalink: teaching/hci/final-project
 ## Overview
 For your final project, you will create a website that acts as your **final portfolio** and post that acts to synthesize and reflects on all of the work you have accomplished throughout the semester. This type of portfolio demonstrates your skills in the design process -- a valuable tool for *you* to show future employers (my friend Noëlle who is working at Google reiterated this to me, she thinks this project is highly applicable). This website will contain two primary elements:
 
-* A portfolio display that visually shows your projects and links to your group Design Sprints.
+* A portfolio display that visually shows your projects and links to your 4 group Design Sprints (#1-#4 only; do NOT include anything about the Debate).
 * A Design Manifesto (in the form of page on your website) which reflects on the semester as a whole and how it has impacted your design philosophy.
 
 <img class="reading" src="./images/traffic-light.svg" height="20" width="20"> STOP and complete [this form](https://forms.gle/96XDcCwjddTpnYnt5) about whether or not you want written feedback on your final project. 
@@ -59,15 +59,16 @@ You will create a homepage of some kind that demonstrates each of your projects.
 
 At a minimum, the page must:
 
-* Link to the 4 Medium posts from your Design Sprints this semester.
+* Link to the 4 Medium posts from your Design Sprints #1-#4 this semester.
     * You may optionally include links to your homework if you feel like some experience from the homework motivates your design manifesto. However, the homeworks were not as directly linked to the design process so I do not expect that it makes sense to include them.
-* Embed your design manifesto.
-* Include basic information about yourself.
+    * You should NOT include anything about the Debate. While the debate was fun, it does not apply to your Design Manifesto and so should not be written up or included in this Final Project.
+* Embed your design manifesto (either on the landing page of your website or as a linked page within your website).
+* Include basic information about yourself in an "About Me"-type section (you choose how you want to incorporate it.)
 
 **Note**: Because you are linking to Medium, you may want to consider how the design of your webpage compliments or clashes with the design of Medium as a platform. You may want to copy your article data into your website so that the user can stay in one place to view your work. It is encouraged but not required that you embed the content of your 4 Medium posts directly into your website for a more cohesive portfolio. I expect the 4 links at a bare minimum.
 
 ### On Web Design
-You are welcome to create your design page with any technology that you’d like. If you are not familiar with web design, I’d encourage you to look into [Wordpress](https://wordpress.com/), which is built into [Davidson Domains](https://domains.davidson.edu/). There are a number of other free templates you can find online, or you're welcome to build out your own fully custom design. 
+You are welcome to create your design page with any technology that you’d like. If you are not familiar with web design, I’d encourage you to look into using your [Davidson Domain](https://domains.davidson.edu/). From there, you can build a website using the [Wordpress](https://wordpress.com/) app inside of your Davidson Domain. There are a number of other free templates you can find online, or you're welcome to build out your own fully custom design. 
 **You will need your website to be hosted on a server** (meaning anyone could access your website from anywhere), so if you host your website on somewhere besides Davidson Domains (free) or GitHub pages (free), check to make sure there aren't any costs ($) associated with it. You should only need the free tier of any hosting platform.
 
 For those with more web design experience, I recommend hosting on [Github Pages](https://pages.github.com/), which will handle hosting on the server and version control.
