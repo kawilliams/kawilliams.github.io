@@ -7,7 +7,12 @@ description: The best of the best from assignments in Dr. Williams' CSC 363 clas
 permalink: /teaching/hci/hall-of-fame
 ---
 # Portfolios (individual)
-* none yet!
+* Kyra Dalbo. ["HCI Portfolio 2024"](https://kyradalbo.dcreate.domains/)
+    * Scraped version of the site: [Home](./examples/portfolios/kyra-home.html), [About](./examples/portfolios/kyra-about.html), [Design Manifesto](./examples/portfolios/kyra-manifesto.html), [Design Sprint #1](./examples/portfolios/kyra-DS1.html).
+* Lillian Milano. ["HCI Portfolio"](https://limilano.github.io/hci-final-portfolio/index.html)
+    * Scraped version of the site: [Home and About Me](./examples/portfolios/lillian-home.pdf), [Design Manifesto](./examples/portfolios/lillian-manifesto.pdf), [Design Sprint #1](./examples/portfolios/lillian-DS1.pdf)
+* Tom Roff. ["Tom Roff's HCI Final Project"](https://tomroff.dcreate.domains/csc363Final/website/index.html)
+    * Scraped version of the site: [Home](./examples/portfolios/tom-home.pdf), [About](./examples/portfolios/tom-about.pdf), [Design Manifesto](./examples/portfolios/tom-manifesto.pdf), design sprints are linked as Medium posts.
 
 # Design Sprints (group)
 ## DS 1: Design for Dimensions
