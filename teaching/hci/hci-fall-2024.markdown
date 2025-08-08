@@ -18,12 +18,12 @@ Human-computer interaction combines computer science, psychology, sociology, des
 
 # Course Logistics
 
-* When: Monday and Wednesday 8:05 - 9:20 AM
+* When: Monday and Wednesday 2:30-3:45 PM
 * Where: Watson 247
-* Lecture Slides and Recordings: [Google Drive](https://drive.google.com/drive/folders/175iQPGanzE0GRT879TlLbKNhSHkIk8XS?usp=sharing) (use Davidson SSO) 
+* Lecture Slides and Recordings: [Google Drive](https://drive.google.com/drive/folders/1lYnsEq4Ze0jPzwLaxhLimXPT2xNRzn_F?usp=sharing) (use Davidson SSO) 
 * Design Documentation: [here](/teaching/hci/design-doc)
 * Discussion/Questions: Slack (contact Dr. Williams if you have not received the Slack link)
-* Office Hours: Tuesday/Thursday, times TBA
+* Office Hours: Tuesday/Thursday: 10:00-11:00 AM and 1:00-2:30 PM
   * I am also usually available for a few minutes after class
 
 # Prerequisites and Major/Minor Requirements
@@ -51,7 +51,7 @@ Human-computer interaction combines computer science, psychology, sociology, des
 * Students should engage in discussions and activities in-class and online.
 
 
-*Course content adapted from Emily Wall (Emory).*
+*Adapted from Emily Wall (Emory).*
 
 # Assignments and Responsibilities
 You will be individually responsible for some homework assignments, participation and critique, [oral exam](teaching/hci/oral-exam), and your final project. In addition, there will be 4 design sprints throughout the semester, completed as group projects.
@@ -64,7 +64,7 @@ You will be individually responsible for some homework assignments, participatio
 |<img src="./images/pencil.svg" width="20" height="20"><img src="./images/pen-to-square.svg" width="20" height="20"><img src="./images/book.svg" width="20" height="20">| 20%    | [Final project](/teaching/hci/final-project)                   |
 |<img src="./images/book.svg" width="20" height="20">          | 15%    | [Oral exam](/teaching/hci/oral-exam)                       |
 
-Since this is only the second semester of HCI at Davidson (and we're building our own [Hall of Fame](/teaching/hci/hall-of-fame)), you can look for stand-out examples in both our [Hall of Fame](/teaching/hci/hall-of-fame) and in [Emory's HCI Hall of Fame](https://emilywall.github.io/hci/resources/hall_of_fame.html), courtesy of Dr. Emily Wall. 
+Since this is the first semester of HCI at Davidson (and we're building our own [Hall of Fame](/teaching/hci/hall-of-fame)), you can look for stand-out examples in [Emory's HCI Hall of Fame](https://emilywall.github.io/hci/resources/hall_of_fame.html), courtesy of Dr. Emily Wall. 
 
 
 # Policies
@@ -164,7 +164,7 @@ Student Counseling Center or via the Office of the Dean of Students.
 
 # Schedule
 
-All **reading** and **demos of design sprints** are due at 8:00 AM on the day of class. All **homework** and any **final deliverables for design sprints** (typically a Medium post) are due at 11:55 PM on the day listed, except when otherwise noted. For requests of extensions, please see my Timeliness policy above. 
+All **reading** and **demos of design sprints** are due at 2:20 PM on the day of class. All **homework** and any **final deliverables for design sprints** (typically a Medium post) are due at 11:55 PM on the day listed, except when otherwise noted. For requests of extensions, please see my Timeliness policy above. 
 
 <table>
   <thead>
@@ -179,7 +179,7 @@ All **reading** and **demos of design sprints** are due at 8:00 AM on the day of
 <tbody>
   <tr>
     <td rowspan="2">1</td>
-    <td>8/25</td>
+    <td>8/26</td>
     <td>Intro to Human-Computer Interaction</td>
     <td> 
     <img class="reading" src="./images/book-open.svg" height="16" width="16"><a href="https://www.interaction-design.org/literature/book/the-encyclopedia-of-human-computer-interaction-2nd-ed/contextual-design"> Contextual Design, Holtzblatt & Beyer.</a> <i>(reading due by Friday)</i><br /> 
@@ -187,7 +187,7 @@ All **reading** and **demos of design sprints** are due at 8:00 AM on the day of
     <td><a href="https://forms.gle/45kUNJd1rAjJwgDR6">Complete the course survey</a>.</td>
   </tr>
   <tr>
-    <td>8/27</td>
+    <td>8/28</td>
     <td>Needfinding</td>
     <td>
     <img class="reading" src="./images/book-open.svg" height="16" width="16"> <a href="https://hci.stanford.edu/courses/cs147/2021/wi/readings/FIELDGUIDE-Screen-DTBC-March-2015-V2.pdf">Empathy Fieldguide</a>
@@ -202,7 +202,7 @@ All **reading** and **demos of design sprints** are due at 8:00 AM on the day of
   </tr>
   <tr>
     <td rowspan="2">2</td>
-    <td>9/1</td>
+    <td>9/2</td>
     <td>Define</td>
     <td><img class="reading" src="./images/book-open.svg" height="16" width="16"> <a href="https://drive.google.com/file/d/1nQvmNzbUI3KnNwkuFJlBy6Q8O51kJqxu/view?usp=sharing">Ch. 1 from <i>The Design of Everyday Things</i></a><br>
 		<img class="reading" src="./images/book-open.svg" height="16" width="16"> <a href="https://faculty.washington.edu/ajko/books/design-methods/understand">How to Understand Problems by Ko</a> (<a href="https://faculty.washington.edu/ajko/books/design-methods">homepage</a> for all of Ko's chapters)<br>
@@ -212,7 +212,7 @@ All **reading** and **demos of design sprints** are due at 8:00 AM on the day of
     <td><a href="/teaching/hci/assignments/hw1">HW: Good/Bad Design</a> <b>(due BEFORE class at 2:20 PM)</b></td>
   </tr>
   <tr>
-    <td>9/3</td>
+    <td>9/4</td>
     <td>Ideation + Prototyping</td>
     <td>
       <img class="reading" src="./images/book-open.svg" height="16" width="16"> <a href="https://faculty.washington.edu/ajko/books/design-methods/creative">How to be Creative by Ko</a><br>
@@ -228,7 +228,7 @@ All **reading** and **demos of design sprints** are due at 8:00 AM on the day of
   </tr>
   <tr>
     <td rowspan="2">3</td>
-    <td>9/8</td>
+    <td>9/9</td>
     <td>Visual Design + Design Patterns</td>
     <td>
      <img class="watch" src="./images/display.svg" height="16" width="16"> (7 min) <a href="https://www.youtube.com/watch?v=sTi5SNgxE3U">The Universal Arts of Graphic Design</a><br>
@@ -243,7 +243,7 @@ All **reading** and **demos of design sprints** are due at 8:00 AM on the day of
     </td>
   </tr>
   <tr>
-    <td>9/10</td>
+    <td>9/11</td>
     <td><a href="/teaching/hci/design-sprints/dimensions" >Design for Dimensions Intro</a> + Figma Demo</td>
     <td>
     <img class="reading" src="./images/book-open.svg" height="16" width="16"> <a href="https://www.figma.com/community/explore">Figma Resources</a><br>
@@ -254,7 +254,7 @@ All **reading** and **demos of design sprints** are due at 8:00 AM on the day of
   </tr>
   <tr>
     <td rowspan="2">4</td>
-    <td>9/15</td>
+    <td>9/16</td>
     <td>Hack Day -- <a href="/teaching/hci/design-sprints/dimensions">Design for Dimensions</a></td>
     <td>	
     <img class="reading" src="./images/book-open.svg" height="16" width="16"> <a href="https://xd.adobe.com/ideas/process/user-research/putting-personas-to-work-in-ux-design/">Putting Personas to Work by Faller</a><br>
@@ -266,7 +266,7 @@ All **reading** and **demos of design sprints** are due at 8:00 AM on the day of
     </td>
   </tr>
   <tr>
-    <td>9/17</td>
+    <td>9/18</td>
     <td>Data Visualization</td>
     <td>
     <img class="watch" src="./images/display.svg" height="16" width="16"> (8 min) <a href="https://www.youtube.com/watch?v=AdSZJzb-aX8">The Art of Data Visualization</a><br>
@@ -278,13 +278,13 @@ All **reading** and **demos of design sprints** are due at 8:00 AM on the day of
   </tr>
   <tr>
     <td rowspan="2">5</td>
-    <td>9/22</td>
+    <td>9/23</td>
     <td>Demo: <a href="/teaching/hci/design-sprints/dimensions">Design for Dimensions</a></td>
     <td>No prep</td>
     <td>DS: <a href="/teaching/hci/design-sprints/dimensions">Design for Dimensions</a></td>
   </tr>
   <tr>
-    <td>9/24</td>
+    <td>9/25</td>
     <td><a href="/teaching/hci/design-sprints/understanding">Design for Understanding</a> Intro + VIS Tool Demo</td>
     <td>
     <img class="reading" src="./images/book-open.svg" height="16" width="16"> <a href="/teaching/hci/papers/the-design-of-everyday-things-norman.pdf">Ch. 3 from <i>The Design of Everyday Things</i></a><br>
@@ -297,7 +297,7 @@ All **reading** and **demos of design sprints** are due at 8:00 AM on the day of
   </tr>
   <tr>
     <td rowspan="2">6</td>
-    <td>9/29</td>
+    <td >9/30</td>
     <td>Evaluation in HCI, Part 1</td>
     <td>
       <img class="reading" src="./images/book-open.svg" height="16" width="16">  <a href="https://people.cs.vt.edu/~gangwang/HCI.pdf#page=450">Research Ethics in HCI by Bruckman</a><br>
@@ -307,7 +307,7 @@ All **reading** and **demos of design sprints** are due at 8:00 AM on the day of
     <td></td>
   </tr>
   <tr>
-    <td>10/1</td>
+    <td>10/2</td>
     <td>Evaluation Part 2 + Hack: <a href="/teaching/hci/design-sprints/understanding">Design for Understanding</a></td>
     <td>
     <img class="reading" src="./images/book-open.svg" height="16" width="16">  <a href="https://www.nngroup.com/articles/usability-testing-101/">Usability Testing 101 by Moran</a><br>
@@ -319,7 +319,7 @@ All **reading** and **demos of design sprints** are due at 8:00 AM on the day of
   </tr>
   <tr>
     <td rowspan="2">7</td>
-    <td>10/6</td>
+    <td>10/7</td>
     <td>Accessibility + Universal Design, release <a href="/teaching/hci/assignments/hw4">HW 4</a></td>
     <td>
     <img class="watch" src="./images/display.svg" height="16" width="16"> (7 min) <a href="https://www.youtube.com/watch?v=A88E4DH2asQ">Adventures in Universal Design</a><br>
@@ -327,18 +327,17 @@ All **reading** and **demos of design sprints** are due at 8:00 AM on the day of
 		<img class="reading" src="./images/book-open.svg" height="16" width="16">  <a href="http://web.mit.edu/6.813/www/sp18/classes/18-accessibility/">Accessibility</a><br>
 		<img class="reading" src="./images/book-open.svg" height="16" width="16">  <a href="/teaching/hci/papers/the-design-of-everyday-things-norman.pdf">Ch. 5 from <i>The Design of Everyday Things</i></a>
 		</td>
-    <td><i>Fall break Thurs, Oct 2 and Fri, Oct 3</i></td>
+    <td></td>
   </tr>
   <tr>
-    <td>10/8</td>
-    <td><a href="/teaching/hci/design-sprints/understanding">Demo: Design for Understanding</a> <br></td>
+    <td>10/9</td>
+    <td><a href="/teaching/hci/design-sprints/understanding">Demo: Design for Understanding</a> <br> <i>(Fall break Thurs/Fri)</i></td>
     <td></td>
-    <td><a href="/teaching/hci/design-sprints/understanding">DS: Design for Understanding</a>
-    <i>Fall break Thurs, Oct 2 and Fri, Oct 3</i></td>
+    <td><a href="/teaching/hci/design-sprints/understanding">DS: Design for Understanding</a></td>
   </tr>
   <tr>
     <td rowspan="2">8</td>
-    <td>10/13</td>
+    <td>10/14</td>
     <td><a href="/teaching/hci/design-sprints/another-world">Design for Another World</a> Intro, Augmented + Virtual Reality (guest: Dr. Peck)</td>
     <td>
     <img class="reading" src="./images/book-open.svg" height="16" width="16"> <a href="https://medium.com/googleplaydev/applying-human-centered-design-to-emerging-technologies-6ad7f39d8d30">Applying human-centered design to emerging technologies (IDEO)</a> <br>
@@ -350,8 +349,8 @@ All **reading** and **demos of design sprints** are due at 8:00 AM on the day of
     <td></td>
   </tr>
   <tr>
-    <td>10/15</td>
-    <td>VR Demo + Hack: <a href="/teaching/hci/design-sprints/another-world">Design for Another World</a></td>
+    <td>10/16</td>
+    <td>VR Demo (Speaker: Tabitha Peck) + Hack: <a href="/teaching/hci/design-sprints/another-world">Design for Another World</a></td>
     <td>	
     <img class="reading" src="./images/book-open.svg" height="16" width="16"> <a href="/teaching/hci/papers/the-design-of-everyday-things-norman.pdf">Ch. 4 from <i>The Design of Everyday Things</i></a>
 		</td>
@@ -359,20 +358,20 @@ All **reading** and **demos of design sprints** are due at 8:00 AM on the day of
   </tr>
   <tr>
     <td rowspan="2">9</td>
-    <td>10/20</td>
+    <td>10/21</td>
     <td>Hack: <a href="/teaching/hci/design-sprints/another-world">Design for Another World</a></td>
     <td>No prep
 		</td>
     <td></td>
   </tr>
   <tr>
-    <td>10/22</td>
+    <td>10/23</td>
     <td><a href="teaching/hci/oral-exam">Oral Exam</a></td>
     <td></td>
     <td></td>
   <tr>
     <td rowspan="2">10</td>
-    <td >10/27</td>
+    <td >10/28</td>
     <td>Tangible + Wearable Interfaces</td>
     <td>
     	<img class="reading" src="./images/book-open.svg" height="16" width="16"> <a href="https://www.interaction-design.org/literature/book/the-glossary-of-human-computer-interaction/tangible-interaction">Tangible Interaction by Hornecker</a><br>
@@ -382,14 +381,14 @@ All **reading** and **demos of design sprints** are due at 8:00 AM on the day of
     <td></td>
   </tr>
   <tr>
-    <td>10/29</td>
+    <td>10/30</td>
     <td>Demo: <a href="/teaching/hci/design-sprints/another-world">Design for Another World</a></td>
     <td>No prep</td>
     <td><a href="/teaching/hci/design-sprints/another-world">DS: Design for Another World</a></td>
   </tr>
   <tr>
     <td rowspan="2">11</td>
-    <td>11/3</td>
+    <td>11/4</td>
     <td>Prototyping and <a href="/teaching/hci/design-sprints/redesign">Re-design and Extend</a> Intro + Hack</td>
     <td>
     	<img class="watch" src="./images/display.svg" height="16" width="16"> (8 min) <a href="https://www.youtube.com/watch?v=d5_h1VuwD6g">Rapid Prototyping Google Glass</a><br>
@@ -399,7 +398,7 @@ All **reading** and **demos of design sprints** are due at 8:00 AM on the day of
     <td></td>
   </tr>
   <tr>
-    <td>11/5</td>
+    <td>11/6</td>
     <td>Affective Computing</td>
     <td>
     	<img class="reading" src="./images/book-open.svg" height="16" width="16"> <a href="https://www.interaction-design.org/literature/book/the-encyclopedia-of-human-computer-interaction-2nd-ed/affective-computing">Affective Computing by Höök</a><br>
@@ -412,13 +411,13 @@ All **reading** and **demos of design sprints** are due at 8:00 AM on the day of
   </tr>
   <tr>
   <td rowspan="2">12</td>
-    <td>11/10</td>
+    <td>11/11</td>
     <td>Hack: <a href="/teaching/hci/design-sprints/redesign">Re-design and Extend</a> (at DACE Studio -- north basement of Chambers (flagpole side))</td>
     <td><img class="watch" src="./images/display.svg" height="16" width="16" ><a href="https://www.youtube.com/watch?v=JMjozqJS44M">(8 minutes) Rapid Prototyping: Sketching by Google for Startups</a></td>
     <td></td>
   </tr>
   <tr>
-    <td>11/12</td>
+    <td>11/13</td>
     <td>Interface Metaphors + Input Techniques</td>
     <td>
     <img class="reading" src="./images/book-open.svg" height="16" width="16"> <a href="http://erichorvitz.com/chi99horvitz.pdf">Principles of Mixed-Initiative User Interfaces by Horvitz</a> (Intro + Principles) <br> 
@@ -429,39 +428,39 @@ All **reading** and **demos of design sprints** are due at 8:00 AM on the day of
   </tr>
   <tr>
   <td rowspan="2">13</td>
-    <td>11/17</td>
+    <td>11/18</td>
     <td>Hack Day: <a href="/teaching/hci/design-sprints/redesign">Re-design and Extend</a></td>
     <td>No prep</td>
     <td></td>
   </tr>
   <tr>
-    <td>11/19</td>
+    <td>11/20</td>
     <td>Hack Day: <a href="/teaching/hci/design-sprints/redesign">Re-design and Extend</a></td>
     <td>No prep</td>
     <td></td>
   </tr>
   <tr>
   <td rowspan="2">14</td>
-    <td>11/24</td>
+    <td>11/25</td>
     <td>Thanksgiving break</td>
     <td></td>
     <td></td>
   </tr>
   <tr>
-    <td>11/26</td>
+    <td>11/27</td>
     <td>Thanksgiving break</td>
     <td></td>
     <td></td>
   </tr>
   <tr>
     <td rowspan="2" id="this_week">15</td>
-    <td>12/1</td>
+    <td>12/2</td>
     <td>Demo Day: <a href="design-sprints/redesign">Re-design and Extend</a></td>
     <td>No prep</td>
     <td><a href="design-sprints/redesign">DS: Re-design and Extend due</a></td>
   </tr>
   <tr>
-    <td>12/3</td>
+    <td>12/4</td>
     <td>Recap + Future of HCI</td>
     <td><a href="/teaching/hci/debate">Debate</a> in class</td>
     <td>
@@ -479,21 +478,21 @@ All **reading** and **demos of design sprints** are due at 8:00 AM on the day of
   </tr>
   <tr>
     <td rowspan="2">16</td>
-    <td>12/8</td>
-    <td>No class (<b>Friday</b> schedule)</td>
+    <td>12/9</td>
+    <td>No class (Friday schedule)</td>
     <td></td>
     <td></td>
   </tr>
   <tr>
-    <td>12/10</td>
+    <td>12/11</td>
     <td>No class (Reading Day)</td>
     <td></td>
     <td></td>
   </tr>
   <tr>
     <td rowspan="2">17</td>
-    <td>12/15</td>
-    <td>Final Assessment Period <br /> <b>All work due by December 16.</b></td>
+    <td>12/16</td>
+    <td>Final Assessment Period <br /> <b>All work due by December 17.</b></td>
     <td></td>
     <td><a href="final-project">Final Design Portfolio</a></td>
   </tr>
