@@ -178,12 +178,12 @@ All **reading** and **demos of design sprints** are due at 8:00 AM on the day of
   </thead>
 <tbody>
   <tr>
-    <td rowspan="2">1</td>
+    <td rowspan="2" id="this_week">1</td>
     <td>8/25</td>
     <td>Intro to Human-Computer Interaction</td>
     <td> 
     <img class="reading" src="./images/book-open.svg" height="16" width="16"><a href="https://www.interaction-design.org/literature/book/the-encyclopedia-of-human-computer-interaction-2nd-ed/contextual-design"> Contextual Design, Holtzblatt & Beyer.</a> <i>(reading due by Friday)</i><br /> 
-    <img class="reading" src="./images/book-open.svg" height="16" width="16"> <a href="https://ia.net/topics/learning-to-see">Learning to See.</a> (<i>(reading due by Friday)</i></td>
+    <img class="reading" src="./images/book-open.svg" height="16" width="16"> <a href="https://ia.net/topics/learning-to-see">Learning to See.</a> <i>(reading due by Friday)</i></td>
     <td><a href="https://forms.gle/45kUNJd1rAjJwgDR6">Complete the course survey</a>.</td>
   </tr>
   <tr>
@@ -454,7 +454,7 @@ All **reading** and **demos of design sprints** are due at 8:00 AM on the day of
     <td></td>
   </tr>
   <tr>
-    <td rowspan="2" id="this_week">15</td>
+    <td rowspan="2">15</td>
     <td>12/1</td>
     <td>Demo Day: <a href="design-sprints/redesign">Re-design and Extend</a></td>
     <td>No prep</td>
