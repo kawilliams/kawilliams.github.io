@@ -91,7 +91,22 @@ If there is an error in my original evaluation, I will correct it. However, do n
 Unless explicitly stated otherwise, you are expected to complete assignments on your own. It is appropriate to discuss your ideas with others to gain feedback and help with sticky problems. It is not appropriate to find an existing solution online or from your friends, modify them, and submit as your own work. If in doubt, confer with Dr. Williams. It is much easier to ask about these things than handle the consequences of a poor decision.
 
 ### AI Policy
-**AI statement**: The purpose of this class is to learn how to articulate your ideas throughout the design process, while developing a breadth of technical skills for prototyping. The valuable **human** skill that you will gain in this class is the ability to think creatively throughout the design process and to write and articulate the decisions you made. I am less concerned with technical skills and indeed, generative AI is a valuable time-saver when creating boilerplate code. To that end, here is an incomplete list of acceptable and unacceptable uses of AI in my class. *If you have a question on whether a specific use of AI is allowed or not, you must message me on Slack and ask **before** you use AI.* Any unauthorized use of AI will be considered violations of academic integrity and will be brought before the Honor Council.
+
+**Background**: Generative AI tools—software that creates new text, images, computer code, audio, video, and other content—are widely available. Well-known examples include ChatGPT, Claude, and Gemini for text and DALL•E and Midjourney for images. This policy governs all such tools, including those released during our term together and those provided by the college (i.e. Amplify Gen AI and Gemini).
+
+**AI statement**: The purpose of this class is to learn how to articulate your ideas throughout the design process, while developing a breadth of technical skills for prototyping. The valuable **human** skill that you will gain in this class is the ability to think creatively throughout the design process and to write and articulate the decisions you made. 
+
+**You may use generative AI tools in this course from time to time**. In fact, some assignments will strongly encourage use of such tools. Your college-provided accounts on Amplify (amplify.davidson.edu) and Gemini (gemini.com) will be more than sufficient for these assignments. *You may choose not to use AI tools -- this is perfectly acceptable*.
+
+If you do use generative AI tools on assignments in this class, you must properly document and credit the tools themselves.
+Please cite the tool according to the guidelines for citing computer software, as outlined in the [ACM style guide](https://www.acm.org/publications/policies/frequently-asked-questions).
+
+If you choose to use generative AI tools, please remember that they are typically trained on limited datasets that may be out-of-date. Additionally, generative AI datasets are trained on pre-existing material, including copyrighted material; therefore, relying on a generative AI tool may result in plagiarism or copyright violations.
+
+Finally, keep in mind that the goal of generative AI tools is to produce content that seems to have been produced by a human, not to produce accurate or reliable content; therefore, relying on a generative AI tool may result in your submission of inaccurate content.
+It is your responsibility—not the tool’s—to assure the quality, integrity, and accuracy of work you submit in any college course.
+
+To that end, here is an incomplete list of acceptable and unacceptable uses of AI in my class. *If you have a question on whether a specific use of AI is allowed or not, you must message me on Slack and ask **before** you use AI.* Any unauthorized use of AI will be considered violations of academic integrity and will be brought before the Honor Council. Please maintain integrity, for your learning, your personal character, and academic record.
 
 **Allowed uses of AI**
 * To proofread your writing; to check grammar, rigor, and style (such as using Grammarly); to find alternative wording.
