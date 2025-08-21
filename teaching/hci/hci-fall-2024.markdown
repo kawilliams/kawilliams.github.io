@@ -121,13 +121,7 @@ To that end, here is an incomplete list of acceptable and unacceptable uses of A
 
 ## Accessibility, Inclusion, and Resources for Students
 **Accessibility Services**:
-The college welcomes requests for accommodations related to disability and will 
-grant those that are determined to be reasonable and maintain the integrity of 
-a program or curriculum. To make such a request or to begin a conversation about
-a possible request, please contact the Office of Academic Access and Disability 
-Resources (AADR) by emailing AADR@davidson.edu. It is best to submit accommodation 
-requests within the drop/add period; however, requests can be made at any time 
-in the semester. Please keep in mind that accommodations are not retroactive.
+The college welcomes requests for accommodations related to disability and will grant those that are determined to be reasonable and maintain the integrity of a program or curriculum. To make such a request or to begin a conversation about a possible request, please contact the Office of Academic Access and Disability Resources by emailing AADR@davidson.edu. It is best to submit accommodation requests within the drop/add period; however, requests can be made at any time in the semester. Please keep in mind that accommodations are not retroactive.
 
 **Additional Resources for Students**:
 Academic Access and Disability Resources (AADR) offers free academic coaching services
@@ -136,6 +130,17 @@ efficiently, or other academic strategies, a professional staff academic coach
 or peer academic coach can meet with you once or on an as needed basis. Contact 
 AADR@davidson.edu for more information. Please also stay tuned for Peer Academic 
 Coaching events throughout the semester.
+
+**Specific Course Resources and Support through Data CATS**
+We do not have a designated tutor for this class, but there are several services to help 
+with writing support, data cleaning, and web development/GitHub support.
+
+*Reading*: For assistance with text comprehension and reading recommendations, book an appointment 
+with a peer tutor on Moodle: [https://lib.davidson.edu/Reading](https://lib.davidson.edu/Reading).
+
+*Writing*: For assistance with all stages of wrigin, book an appointment with a peer tutor on Moodle: [https://lib.davidson.edu/Writing](https://lib.davidson.edu/Writing).
+
+*Tech Support:* Data CATS are students who can help with data cleaning, website creation, and GitHub questions. Their primary role is data cleaning, but a few of the Data CATS staff have prior experience with website building and GitHub. Students who I personally know have expertise in these areas (since they're prior students or researchers): Kerem Atas, Patrick Grimes, Yurdanur Yolcu, Jack Schwanewede. Other Data CATS staff who may be able to help: Jordan Whitehouse (hi, Jordan!), Hakan Bora Yavuzkara, Mohamed Mostafa. **Data CATS are available in Chambers 3146 from Sunday through Thursday, with an afternoon shift from 2pm to 4pm, and an evening shift from 7pm to 9pm.**
 
 **Statement on Diversity and Inclusivity**
 *Adapted from Lynn Hernandez, Behavioral and Social Sciences, School of Public Health, Brown University.*
