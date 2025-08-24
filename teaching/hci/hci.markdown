@@ -20,7 +20,7 @@ Human-computer interaction combines computer science, psychology, sociology, des
 
 * When: Monday and Wednesday 8:05-9:20 AM
 * Where: Watson 247
-* Lecture Slides and Recordings: <a href="https://drive.google.com/drive/folders/1lYnsEq4Ze0jPzwLaxhLimXPT2xNRzn_F?usp=sharing" target="_blank">Google Drive</a> (use Davidson SSO) 
+* Lecture Slides and Recordings: <a href="https://drive.google.com/drive/folders/175iQPGanzE0GRT879TlLbKNhSHkIk8XS?usp=sharing" target="_blank">Google Drive</a> (use Davidson SSO) 
 * Design Doc guidance: [here](/teaching/hci/design-doc)
 * Discussion/Questions: Slack (contact Dr. Williams if you have not received the Slack link)
 * Office Hours: Tuesday/Thursday from 9:00-10:45 AM and 1:00-2:30 PM
