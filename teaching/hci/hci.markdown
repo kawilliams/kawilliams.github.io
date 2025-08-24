@@ -20,7 +20,7 @@ Human-computer interaction combines computer science, psychology, sociology, des
 
 * When: Monday and Wednesday 8:05-9:20 AM
 * Where: Watson 247
-* Lecture Slides and Recordings: <a href="https://drive.google.com/drive/folders/1lYnsEq4Ze0jPzwLaxhLimXPT2xNRzn_F?usp=sharing" target="_blank">Google Drive</a> (use Davidson SSO) 
+* Lecture Slides and Recordings: <a href="https://drive.google.com/drive/folders/175iQPGanzE0GRT879TlLbKNhSHkIk8XS?usp=sharing" target="_blank">Google Drive</a> (use Davidson SSO) 
 * Design Doc guidance: [here](/teaching/hci/design-doc)
 * Discussion/Questions: Slack (contact Dr. Williams if you have not received the Slack link)
 * Office Hours: Tuesday/Thursday from 9:00-10:45 AM and 1:00-2:30 PM
@@ -58,8 +58,8 @@ You will be individually responsible for some homework assignments, participatio
 
 | Objective | Weight | Description                     |
 |-----------|--------|---------------------------------|
-| <img src="./images/pencil.svg" width="20" height="20"><img src="./images/pen-to-square.svg" width="20" height="20"><img src="./images/book.svg" width="20" height="20">| 20%    | [Individual homework assignments](/teaching/hci/homework/homework) |
-|<img src="./images/hand.svg" width="20" height="20"><img src="./images/book.svg" width="20" height="20">| 5%     | [Engagement and critique](/teaching/hci/engagement/)|
+| <img src="./images/pencil.svg" width="20" height="20"><img src="./images/pen-to-square.svg" width="20" height="20"><img src="./images/book.svg" width="20" height="20">| 15%    | [Individual homework assignments](/teaching/hci/homework/homework) |
+|<img src="./images/hand.svg" width="20" height="20"><img src="./images/book.svg" width="20" height="20">| 10%     | **[Engagement and critique](/teaching/hci/engagement/)**|
 |<img src="./images/pencil.svg" width="20" height="20"><img src="./images/pen-to-square.svg" width="20" height="20"><img src="./images/book.svg" width="20" height="20">| 40%    | [Group design sprints](/teaching/hci/design-sprints/design-sprints)         |
 |<img src="./images/pencil.svg" width="20" height="20"><img src="./images/pen-to-square.svg" width="20" height="20"><img src="./images/book.svg" width="20" height="20">| 20%    | [Final project](/teaching/hci/final-project)                   |
 |<img src="./images/book.svg" width="20" height="20">          | 15%    | [Oral exam](/teaching/hci/oral-exam)                       |
@@ -70,10 +70,11 @@ Since this is only the second semester of HCI at Davidson (and we're building ou
 # Policies
 
 ## Attendance and Tardiness Policy
-We will build a community of respect in this class. Part of respecting is others is valuing their time.
+We will build a community of respect in this class. Part of respecting is others is valuing their time. I show respect to my students by promptly responding to emails and Slack messages sent between 8 AM and 5 PM. I show respect to my family and friends by ignoring work-related emails and messages between 5 PM and 8 AM.
+
 Arriving late to class is disrespectful to your classmates, to me, and to the learning environment. **Arriving later than 10 minutes after the start of class (8:15 AM or later) will result in an unexcused
 absence on your record.** Per college policy, a student who misses 25% or more of class meetings automatically fails the course. For a two-meeting-per-week course, this is missing 7 classes or more. 
-should there be a conflict between any class session and a religious holiday or observance, students should let the instructor know of their personal need. Religious observance warrants a legitimately excused absence. Missing class due to athletic competition is not an excused absence and does count against your total absences
+should there be a conflict between any class session and a religious holiday or observance, students should let the instructor know of their personal need. Religious observance warrants a legitimately excused absence. Missing class due to athletic competition is not an excused absence and does count against your total absences.
 
 ## Accommodations for Attendance and Tardiness
 I *highly* value communication around absences and tardiness. If you know you are going to be later than 10 minutes, message me on Slack at least 1 hour before class begins. Likewise, if you communicate early
@@ -90,7 +91,7 @@ For many of you, most CS assignments that you’ve had up until this point had c
 
 **Group Work**: Group work can be challenging. As a result, in each group project, you will submit a brief assessment of you and your classmates’ work. At the end of the semester, **I may use these assessments to reweight the group portion of your grade (either positively or negatively).**
 
-**Due Date Timeliness**: All assignments are due at the start of class on the day listed in the schedule. You will have a total of 5 “free” late tokens to use for any homework assignments as needed throughout the course. Each token gets you a 24 hour extension on the assignment deadline. E.g., you can use 1 late token for HW1 and 1 for HW3, … You may use multiple tokens on one assignment, e.g. 2 tokens on HW1 for a 48 hour extension. These "free" tokens can apply *only to homework assignments and cannot be used for group projects*. These are for any cases where college-approved absences do *not* apply, and no reason must be given to use them. After the 5 “free” late tokens are used up, any late assignments will receive a 10% per day penalty. Assignments turned in one week or later past the due date will not be graded and given a 0. You do not need to notify Dr. Williams to use late tokens -- they will be automatically applied. Once you use them, you cannot switch them later in the course, so plan wisely. Any unused late tokens at the end of the semester will be added as 5% extra credit per unused token on the lowest homework assignment.
+**Due Date Timeliness**: All assignments are due at the start of class on the day listed in the schedule unless otherwise specified. You will have a total of 5 “free” late tokens to use for any homework assignments as needed throughout the course. Each token gets you a 24 hour extension on the assignment deadline. E.g., you can use 1 late token for HW1 and 1 for HW3, … You may use multiple tokens on one assignment, e.g. 2 tokens on HW1 for a 48 hour extension. These "free" tokens can apply *only to homework assignments and cannot be used for group projects*. These are for any cases where college-approved absences do *not* apply, and no reason must be given to use them. After the 5 “free” late tokens are used up, any late assignments will receive a 10% per day penalty. Assignments turned in one week or later past the due date will not be graded and given a 0. You do not need to notify Dr. Williams to use late tokens -- they will be automatically applied. Once you use them, you cannot switch them later in the course, so plan wisely. Any unused late tokens at the end of the semester will be added as 5% extra credit per unused token on the lowest homework assignment.
 
 **Regrade Policy**: You can request a re-grade of an assignment within seven days of releasing the grade by sending an email to Dr. Williams. The request should contain a written explanation of why you think that the grade is incorrect. I will look over your work again upon request.
 
@@ -189,8 +190,6 @@ conversations will be kept confidential.
 least one other student in the class who had a similar response. You may then 
 choose to approach one or more of the instructors as a group, to voice your 
 concerns, if that is a more comfortable setting.
-* Complete the [anonymous feedback form](https://forms.gle/TF99DDe25qfZCRRg6) that is linked to from Moodle, to 
-bring the incident to our attention.
 * Notify us of the issue through another source such as your academic 
 advisor, a trusted faculty member, or a peer. If for any reason you do not feel
 comfortable discussing the issue directly with one of us, I encourage you to 
@@ -203,7 +202,7 @@ Student Counseling Center or via the Office of the Dean of Students.
 
 # Schedule
 
-All **reading** and **demos of design sprints** are due at 8:00 AM on the day of class. All **homework** and any **final deliverables for design sprints** (typically a blog post) are due at 11:55 PM on the day listed, except when otherwise noted. For requests of extensions, please see my Timeliness policy above. 
+All **reading** and **demos of design sprints** are due at 8:00 AM on the day of class. All **homework** and any **final deliverables for design sprints** (typically a blog post) are due at 11:55 PM to Moodle on the day listed, except when otherwise noted. For requests of extensions, please see my Due Date Timeliness policy above. 
 
 <table>
   <thead>
@@ -221,21 +220,23 @@ All **reading** and **demos of design sprints** are due at 8:00 AM on the day of
     <td>8/25</td>
     <td>Intro to Human-Computer Interaction</td>
     <td> 
-    <img class="reading" src="./images/book-open.svg" height="16" width="16"><a href="https://www.interaction-design.org/literature/book/the-encyclopedia-of-human-computer-interaction-2nd-ed/contextual-design"> Contextual Design, Holtzblatt & Beyer.</a> <i>(reading due by Friday)</i><br /> 
-    <img class="reading" src="./images/book-open.svg" height="16" width="16"> <a href="https://ia.net/topics/learning-to-see">Learning to See.</a> <i>(reading due by Friday)</i></td>
-    <td><a href="https://forms.gle/45kUNJd1rAjJwgDR6">Complete the course survey</a>.</td>
+    <!-- <img class="reading" src="./images/book-open.svg" height="16" width="16"><a href="https://www.interaction-design.org/literature/book/the-encyclopedia-of-human-computer-interaction-2nd-ed/contextual-design"> Contextual Design, Holtzblatt & Beyer.</a> <i>(reading due by Friday)</i><br />  -->
+    </td>
+    <td><a href="https://forms.gle/wgfr3YYCUwwCq6nc6">Complete the course survey</a>.</td>
   </tr>
   <tr>
     <td>8/27</td>
-    <td>Needfinding</td>
+    <td>Needfinding, HW 1 released</td>
     <td>
     <img class="reading" src="./images/book-open.svg" height="16" width="16"> <a href="https://hci.stanford.edu/courses/cs147/2021/wi/readings/FIELDGUIDE-Screen-DTBC-March-2015-V2.pdf">Empathy Fieldguide</a>
     <br />
+    <img class="reading" src="./images/book-open.svg" height="16" width="16"> <a href="https://ia.net/topics/learning-to-see">Learning to See.</a>
+    <br />
     <img class="listen" src="./images/headphones.svg" height="16" width="16"> <a href="https://99percentinvisible.org/episode/invisible-women/"> [29 min] Invisible Women, Caroline Criado Perez</a>
     <br />
-    <img class="watch" src="./images/display.svg" height="16" width="16"> <b>Optional viewing:</b> <a href="https://www.youtube.com/watch?v=nV0jY5VgymI">[12 min] Ethnography: Ellen Isaacs at TEDxBroadway </a>
-    <br />
-    <img class="watch" src="./images/display.svg" height="16" width="16"> <b>Optional viewing:</b> <a href="http://ecorner.stanford.edu/videos/3135/Insight-Through-Need-Finding">Insight Through Need</a>
+    <!-- <img class="watch" src="./images/display.svg" height="16" width="16"> <b>Optional viewing:</b> <a href="https://www.youtube.com/watch?v=nV0jY5VgymI">[12 min] Ethnography: Ellen Isaacs at TEDxBroadway </a> -->
+    <!-- <br /> -->
+    <!-- <img class="watch" src="./images/display.svg" height="16" width="16"> <b>Optional viewing:</b> <a href="http://ecorner.stanford.edu/videos/3135/Insight-Through-Need-Finding">Insight Through Need</a> -->
     </td>
     <td></td>
   </tr>
