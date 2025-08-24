@@ -25,7 +25,8 @@ Although it may seem odd to make a physical prototype of something digital, I en
     * ["Redesign & Extend: Emory University Computer Science Website Claw Machine"](https://medium.com/@meideng06/redesign-extend-emory-university-computer-science-website-claw-machine-83dd709debce)
     * ["Physical Prototyping: Fox Theater Ticketing Kiosk"](https://medium.com/@amin.el.asery/re-design-extend-4a2a7030574e)
 
-* For ideas about how to specifically make *data physicalizations* (i.e., physical data visualizations), check out the [Viz For Social Good](https://www.vizforsocialgood.com/join-a-project/2023/physicalizing-data-for-a-better-world) website, where they also have examples linked (scroll to see the "Resources and inspiration" section).
+* For ideas about how to specifically make *data physicalizations* (i.e., physical data visualizations), check out the [Viz For Social Good](https://www.vizforsocialgood.com/join-a-project/2023/physicalizing-data-for-a-better-world) website, where they also have examples linked (scroll to see the "Resources and inspiration" section). 
+* Another artist to look at is [Stephen Cartwright](https://www.stephencartwright.com/), who makes art from his own location data. *Since 1999*, he has recorded his exact latitude, longitude and elevation every hour of every day.
 
 
 

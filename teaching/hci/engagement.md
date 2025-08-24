@@ -33,10 +33,6 @@ so I expect you to follow these guidelines:
 * Treat each other with respect, and err on the side of being *too* courteous. It is too easy to be overly 
 casual on the internet and cause miscommunications or hurt feelings.
 * You may use this Slack to communicate with each other, via individual or group messages or channels. 
-* If you 
-
-
-
 
 ## Grading
 

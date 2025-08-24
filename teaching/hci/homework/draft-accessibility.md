@@ -5,7 +5,7 @@ title: Homework 4
 course: CSC 363 HCI
 course-url: /teaching/hci
 description: Design for Accessibility
-permalink: /teaching/hci/assignments/hw4
+permalink: /teaching/hci/assignments/draft-hw4
 ---
 
 # Design for Accessibility
@@ -13,6 +13,12 @@ permalink: /teaching/hci/assignments/hw4
 * Group size: **Individual**
 * Released: Monday, October 7
 * Due: Wednesday, October 16 by 11:55 PM to Moodle
+
+## Thoughts
+* Use only keyboard input to navigate 24 hours of website
+* You may use your mouse only to search for keyboard shortcuts
+* Make note of what actions are easy to do, what are challenging, what websites work well, what websites are impossible to navigate
+* Screenreader in Windows?
 
 ## Overview 
 Watch [this video](https://www.youtube.com/watch?v=_GBLqZDXB_0) about a sidewalk accessibility project.
