@@ -13,6 +13,7 @@ permalink: /teaching/hci/assignments/hw1
 * Group size: Individual
 * Assignment opens: Wedneseday, August 28
 * Due: Monday, September 2 *before class (2:20 PM)*
+* **Estimated Time Spent**: 45 - 90 minutes
 * Before you start this assignment, make sure that you have already read [Learning to See](https://ia.net/know-how/learning-to-see).
 
 ## Overview 
