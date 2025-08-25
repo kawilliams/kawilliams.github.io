@@ -38,10 +38,13 @@ I expect you to come prepared to class, having done the readings before class. I
 to fully understand the readings; however, you should ask about the things you do not understand. 
 We will have a few minutes at the start of class to review the readings before we answer quiz questions
 using Kahoot. I will keep track of everyone's scores throughout the class. The students with the top 3 scores at the end of the semester will receive the full engagement score (7%). The bottom 3 students will
-receive no points for engaging with the reading (0%). The students in the middle will receive 4%. 
+receive one percentage point for engaging with the reading (1%). The students in the middle will receive 4%. *Caveat: in the event of a tie or near-tie, I will adjust this system in favor of the students (meaning, students may earn more points than advertised here).
 
 The remaining 3 percentage points (of your 10 percentage points toward Engagement) come from active
 participation in class (e.g., critiquing classmates, staying on task, participating in one-off activities, etc.).
+
+**Note:** If you are a student with a testing accommodation, I will reach out directly to you
+about these Kahoot quizzes.**
 
 ## Slack and online presence
 We use Slack in this class for communication, both with me and with each other. You will use your 
