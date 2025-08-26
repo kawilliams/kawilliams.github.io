@@ -231,7 +231,7 @@ All **reading** and **demos of design sprints** are due at 8:00 AM on the day of
     <img class="reading" src="./images/book-open.svg" height="16" width="16"> <a href="https://hci.stanford.edu/courses/cs147/2021/wi/readings/FIELDGUIDE-Screen-DTBC-March-2015-V2.pdf">Empathy Fieldguide</a>
     <br />
     <img class="reading" src="./images/book-open.svg" height="16" width="16"> <a href="https://ia.net/topics/learning-to-see">Learning to See.</a>
-    <br />
+    <br /> 
     <img class="listen" src="./images/headphones.svg" height="16" width="16"> <a href="https://99percentinvisible.org/episode/invisible-women/"> [29 min] Invisible Women, Caroline Criado Perez</a> <a href="https://99percentinvisible.org/episode/invisible-women/transcript">(transcript)</a>
     <br />
     <!-- <img class="watch" src="./images/display.svg" height="16" width="16"> <b>Optional viewing:</b> <a href="https://www.youtube.com/watch?v=nV0jY5VgymI">[12 min] Ethnography: Ellen Isaacs at TEDxBroadway </a> -->
