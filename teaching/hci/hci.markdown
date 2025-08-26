@@ -158,7 +158,7 @@ with writing support, data cleaning, and web development/GitHub support.
 *Reading*: For assistance with text comprehension and reading recommendations, book an appointment 
 with a peer tutor on Moodle: [https://lib.davidson.edu/Reading](https://lib.davidson.edu/Reading).
 
-*Writing*: For assistance with all stages of wrigin, book an appointment with a peer tutor on Moodle: [https://lib.davidson.edu/Writing](https://lib.davidson.edu/Writing).
+*Writing*: For assistance with all stages of writing, book an appointment with a peer tutor on Moodle: [https://lib.davidson.edu/Writing](https://lib.davidson.edu/Writing).
 
 *Tech Support:* Data CATS are students who can help with data cleaning, website creation, and GitHub questions. Their primary role is data cleaning, but a few of the Data CATS staff have prior experience with website building and GitHub. Students who I personally know have expertise in these areas (since they're prior students or researchers): Kerem Atas, Patrick Grimes, Yurdanur Yolcu, Jack Schwanewede. Other Data CATS staff who may be able to help: Jordan Whitehouse (hi, Jordan!), Hakan Bora Yavuzkara, Mohamed Mostafa. **Data CATS are available in Chambers 3146 from Sunday through Thursday, with an afternoon shift from 2pm to 4pm, and an evening shift from 7pm to 9pm.**
 
@@ -247,7 +247,7 @@ All **reading** and **demos of design sprints** are due at 8:00 AM on the day of
     <td><img class="reading" src="./images/book-open.svg" height="16" width="16"> <a href="https://drive.google.com/file/d/1nQvmNzbUI3KnNwkuFJlBy6Q8O51kJqxu/view?usp=sharing">Ch. 1 from <i>The Design of Everyday Things</i></a><br>
 		<img class="reading" src="./images/book-open.svg" height="16" width="16"> <a href="https://faculty.washington.edu/ajko/books/design-methods/understand">How to Understand Problems by Ko</a> (<a href="https://faculty.washington.edu/ajko/books/design-methods">homepage</a> for all of Ko's chapters)<br>
 		<img class="reading" src="./images/book-open.svg" height="16" width="16"> <a href="https://faculty.washington.edu/ajko/books/design-methods/problems">How to Define Problems by Ko</a><br>
-	  Read <img class="reading" src="./images/book-open.svg" height="16" width="16"> or watch <img class="watch" src="./images/display.svg" height="16" width="16"> something else about problem definition
+	  <!-- Read <img class="reading" src="./images/book-open.svg" height="16" width="16"> or watch <img class="watch" src="./images/display.svg" height="16" width="16"> something else about problem definition -->
     </td>
     <td><a href="/teaching/hci/assignments/hw1">HW 1: Good/Bad Design</a> <b>(due BEFORE class at 8:00 AM)</b></td>
   </tr>
