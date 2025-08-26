@@ -25,7 +25,7 @@ Sometimes these things are obvious, but other times, it turns out that we’ve a
 ## Assignment
 Find 1 example of *good* design and 1 example of *bad* design from your favorite website or in your daily life. Take pictures or screenshots.
 
-Create a new slide in this [shared slide deck](https://docs.google.com/presentation/d/1Y9j5Elb52PNShvKnoVnlqULr70yjOuj64epUpH_BcoA/edit?usp=sharing) where you show your pictures or screenshots and explain what makes it good (or bad). Think about who uses this design, when they are using it, and why they are using it.
+Create a new slide in this [shared slide deck](https://docs.google.com/presentation/d/1kZhXNRjuMT0WsQ6oblfWVs_8q5VWK5JlACggnB8K9IQ/edit?usp=sharing) where you show your pictures or screenshots and explain what makes it good (or bad). Think about who uses this design, when they are using it, and why they are using it.
 
 
 ## Deliverables
@@ -33,4 +33,4 @@ Create a new slide in this [shared slide deck](https://docs.google.com/presentat
 2. Submit a PDF of the *current status* of the slide deck to Moodle for assignment "HW 1: Good/Bad Design". This PDF should include *your* slide and a few other students, but may not include the entire class' submissions when you submit. 
 
 ### Grading
-Grading will be based on a *variation* of the [design rubric](https://docs.google.com/spreadsheets/d/1aI9LcmVZmh_977G__U4Guz_rPRCwWZs26J_yHXbhSyY/edit?usp=sharing).
+Grading will be based on [this *variation*](https://docs.google.com/spreadsheets/d/1fhxPxIEJWW42irDEAzylH0F2QHDg6NQIgFufRAigDFQ/edit?usp=sharing) of the [design rubric](https://docs.google.com/spreadsheets/d/1aI9LcmVZmh_977G__U4Guz_rPRCwWZs26J_yHXbhSyY/edit?usp=sharing).

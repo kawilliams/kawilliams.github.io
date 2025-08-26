@@ -158,7 +158,7 @@ with writing support, data cleaning, and web development/GitHub support.
 *Reading*: For assistance with text comprehension and reading recommendations, book an appointment 
 with a peer tutor on Moodle: [https://lib.davidson.edu/Reading](https://lib.davidson.edu/Reading).
 
-*Writing*: For assistance with all stages of wrigin, book an appointment with a peer tutor on Moodle: [https://lib.davidson.edu/Writing](https://lib.davidson.edu/Writing).
+*Writing*: For assistance with all stages of writing, book an appointment with a peer tutor on Moodle: [https://lib.davidson.edu/Writing](https://lib.davidson.edu/Writing).
 
 *Tech Support:* Data CATS are students who can help with data cleaning, website creation, and GitHub questions. Their primary role is data cleaning, but a few of the Data CATS staff have prior experience with website building and GitHub. Students who I personally know have expertise in these areas (since they're prior students or researchers): Kerem Atas, Patrick Grimes, Yurdanur Yolcu, Jack Schwanewede. Other Data CATS staff who may be able to help: Jordan Whitehouse (hi, Jordan!), Hakan Bora Yavuzkara, Mohamed Mostafa. **Data CATS are available in Chambers 3146 from Sunday through Thursday, with an afternoon shift from 2pm to 4pm, and an evening shift from 7pm to 9pm.**
 
@@ -226,12 +226,12 @@ All **reading** and **demos of design sprints** are due at 8:00 AM on the day of
   </tr>
   <tr>
     <td>8/27</td>
-    <td>Needfinding, HW 1 released</td>
+    <td>Needfinding, <a href="/teaching/hci/assignments/hw1">HW 1: Good/Bad Design</a> released</td>
     <td>
     <img class="reading" src="./images/book-open.svg" height="16" width="16"> <a href="https://hci.stanford.edu/courses/cs147/2021/wi/readings/FIELDGUIDE-Screen-DTBC-March-2015-V2.pdf">Empathy Fieldguide</a>
     <br />
     <img class="reading" src="./images/book-open.svg" height="16" width="16"> <a href="https://ia.net/topics/learning-to-see">Learning to See.</a>
-    <br />
+    <br /> 
     <img class="listen" src="./images/headphones.svg" height="16" width="16"> <a href="https://99percentinvisible.org/episode/invisible-women/"> [29 min] Invisible Women, Caroline Criado Perez</a> <a href="https://99percentinvisible.org/episode/invisible-women/transcript">(transcript)</a>
     <br />
     <!-- <img class="watch" src="./images/display.svg" height="16" width="16"> <b>Optional viewing:</b> <a href="https://www.youtube.com/watch?v=nV0jY5VgymI">[12 min] Ethnography: Ellen Isaacs at TEDxBroadway </a> -->
@@ -243,13 +243,13 @@ All **reading** and **demos of design sprints** are due at 8:00 AM on the day of
   <tr>
     <td rowspan="2">2</td>
     <td>9/1</td>
-    <td>Define</td>
+    <td>Define, <a href="/teaching/hci/assignments/hw2">HW 2: Needfinding Exercise</a> released</td>
     <td><img class="reading" src="./images/book-open.svg" height="16" width="16"> <a href="https://drive.google.com/file/d/1nQvmNzbUI3KnNwkuFJlBy6Q8O51kJqxu/view?usp=sharing">Ch. 1 from <i>The Design of Everyday Things</i></a><br>
 		<img class="reading" src="./images/book-open.svg" height="16" width="16"> <a href="https://faculty.washington.edu/ajko/books/design-methods/understand">How to Understand Problems by Ko</a> (<a href="https://faculty.washington.edu/ajko/books/design-methods">homepage</a> for all of Ko's chapters)<br>
 		<img class="reading" src="./images/book-open.svg" height="16" width="16"> <a href="https://faculty.washington.edu/ajko/books/design-methods/problems">How to Define Problems by Ko</a><br>
-	  Read <img class="reading" src="./images/book-open.svg" height="16" width="16"> or watch <img class="watch" src="./images/display.svg" height="16" width="16"> something else about problem definition
+	  <!-- Read <img class="reading" src="./images/book-open.svg" height="16" width="16"> or watch <img class="watch" src="./images/display.svg" height="16" width="16"> something else about problem definition -->
     </td>
-    <td><a href="/teaching/hci/assignments/hw1">HW: Good/Bad Design</a> <b>(due BEFORE class at 8:00 AM)</b></td>
+    <td><a href="/teaching/hci/assignments/hw1">HW 1: Good/Bad Design</a> <b>(due BEFORE class at 8:00 AM)</b></td>
   </tr>
   <tr>
     <td>9/3</td>
@@ -279,7 +279,7 @@ All **reading** and **demos of design sprints** are due at 8:00 AM on the day of
 		<img class="reading" src="./images/book-open.svg" height="16" width="16"> or <img class="watch" src="./images/display.svg" height="16" width="16"> something else about visual design
     </td>
     <td>
-     <a href="/teaching/hci/assignments/hw2">HW: Needfinding Exercise</a>
+     <a href="/teaching/hci/assignments/hw2">HW 2: Needfinding Exercise</a>
     </td>
   </tr>
   <tr>
@@ -302,7 +302,7 @@ All **reading** and **demos of design sprints** are due at 8:00 AM on the day of
     <img class="reading" src="./images/book-open.svg" height="16" width="16"> <a href="/teaching/hci/groups">Tips for Working Successfully in Groups by Pausch</a>
     </td>
     <td>
-    <a href="/teaching/hci/assignments/hw3" >HW: Health Design <b>due Tuesday, Sept 17 by 11:55 PM (24-hr extension)</b></a>  
+    <a href="/teaching/hci/assignments/hw3" >HW 3: Health Design <b>due Tuesday, Sept 17 by 11:55 PM (24-hr extension)</b></a>  
     </td>
   </tr>
   <tr>
@@ -395,7 +395,7 @@ All **reading** and **demos of design sprints** are due at 8:00 AM on the day of
     <td>	
     <img class="reading" src="./images/book-open.svg" height="16" width="16"> <a href="/teaching/hci/papers/the-design-of-everyday-things-norman.pdf">Ch. 4 from <i>The Design of Everyday Things</i></a>
 		</td>
-    <td><a href="/teaching/hci/assignments/hw4">HW: Campus Accessibility</a></td>
+    <td><a href="/teaching/hci/assignments/hw4">HW 4: Campus Accessibility</a></td>
   </tr>
   <tr>
     <td rowspan="2">9</td>
