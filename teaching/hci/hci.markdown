@@ -226,7 +226,7 @@ All **reading** and **demos of design sprints** are due at 8:00 AM on the day of
   </tr>
   <tr>
     <td>8/27</td>
-    <td>Needfinding, HW 1 released</td>
+    <td>Needfinding, <a href="/teaching/hci/assignments/hw1">HW 1: Good/Bad Design</a> released</td>
     <td>
     <img class="reading" src="./images/book-open.svg" height="16" width="16"> <a href="https://hci.stanford.edu/courses/cs147/2021/wi/readings/FIELDGUIDE-Screen-DTBC-March-2015-V2.pdf">Empathy Fieldguide</a>
     <br />
@@ -243,7 +243,7 @@ All **reading** and **demos of design sprints** are due at 8:00 AM on the day of
   <tr>
     <td rowspan="2">2</td>
     <td>9/1</td>
-    <td>Define</td>
+    <td>Define, <a href="/teaching/hci/assignments/hw2">HW 2: Needfinding Exercise</a> released</td>
     <td><img class="reading" src="./images/book-open.svg" height="16" width="16"> <a href="https://drive.google.com/file/d/1nQvmNzbUI3KnNwkuFJlBy6Q8O51kJqxu/view?usp=sharing">Ch. 1 from <i>The Design of Everyday Things</i></a><br>
 		<img class="reading" src="./images/book-open.svg" height="16" width="16"> <a href="https://faculty.washington.edu/ajko/books/design-methods/understand">How to Understand Problems by Ko</a> (<a href="https://faculty.washington.edu/ajko/books/design-methods">homepage</a> for all of Ko's chapters)<br>
 		<img class="reading" src="./images/book-open.svg" height="16" width="16"> <a href="https://faculty.washington.edu/ajko/books/design-methods/problems">How to Define Problems by Ko</a><br>
