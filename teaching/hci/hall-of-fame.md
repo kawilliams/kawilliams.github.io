@@ -32,7 +32,7 @@ permalink: /teaching/hci/hall-of-fame
 
 # Homework (individual)
 ## HW 1: Good Design/Bad Design
-* none yet!
+* Assorted students: [Slides of Good/Bad Design](https://docs.google.com/presentation/d/1_azEkhNANypysKkWe6Lyg-6c3SOy41YAq5U0Z6CUrC8/edit?usp=sharing)
 
 ## HW 2: Needfinding
 * Fangyi Li, "[Needfinding: Cooking, Grocery Shopping, and More.](https://medium.com/@fali_9203/needfinding-cooking-grocery-shopping-and-more-7a15022e5aa0)" (Fall 2025)
