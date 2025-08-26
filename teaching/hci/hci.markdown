@@ -232,7 +232,7 @@ All **reading** and **demos of design sprints** are due at 8:00 AM on the day of
     <br />
     <img class="reading" src="./images/book-open.svg" height="16" width="16"> <a href="https://ia.net/topics/learning-to-see">Learning to See.</a>
     <br />
-    <img class="listen" src="./images/headphones.svg" height="16" width="16"> <a href="https://99percentinvisible.org/episode/invisible-women/"> [29 min] Invisible Women, Caroline Criado Perez</a>
+    <img class="listen" src="./images/headphones.svg" height="16" width="16"> <a href="https://99percentinvisible.org/episode/invisible-women/"> [29 min] Invisible Women, Caroline Criado Perez</a> <a href="https://99percentinvisible.org/episode/invisible-women/transcript">(transcript)</a>
     <br />
     <!-- <img class="watch" src="./images/display.svg" height="16" width="16"> <b>Optional viewing:</b> <a href="https://www.youtube.com/watch?v=nV0jY5VgymI">[12 min] Ethnography: Ellen Isaacs at TEDxBroadway </a> -->
     <!-- <br /> -->
@@ -249,7 +249,7 @@ All **reading** and **demos of design sprints** are due at 8:00 AM on the day of
 		<img class="reading" src="./images/book-open.svg" height="16" width="16"> <a href="https://faculty.washington.edu/ajko/books/design-methods/problems">How to Define Problems by Ko</a><br>
 	  Read <img class="reading" src="./images/book-open.svg" height="16" width="16"> or watch <img class="watch" src="./images/display.svg" height="16" width="16"> something else about problem definition
     </td>
-    <td><a href="/teaching/hci/assignments/hw1">HW: Good/Bad Design</a> <b>(due BEFORE class at 2:20 PM)</b></td>
+    <td><a href="/teaching/hci/assignments/hw1">HW: Good/Bad Design</a> <b>(due BEFORE class at 8:00 AM)</b></td>
   </tr>
   <tr>
     <td>9/3</td>
