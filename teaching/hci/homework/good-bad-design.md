@@ -11,8 +11,8 @@ permalink: /teaching/hci/assignments/hw1
 # Good Design, Bad Design
 
 * Group size: Individual
-* Assignment opens: Wedneseday, August 28
-* Due: Monday, September 2 *before class (2:20 PM)*
+* Assignment opens: Wedneseday, August 27
+* Due: Monday, September 1 *before class (8:00 AM)*
 * **Estimated Time Spent**: 45 - 90 minutes
 * Before you start this assignment, make sure that you have already read [Learning to See](https://ia.net/know-how/learning-to-see).
 
