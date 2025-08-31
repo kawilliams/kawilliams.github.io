@@ -259,9 +259,9 @@ All **reading** and **demos of design sprints** are due at 8:00 AM on the day of
 			<img class="reading" src="./images/book-open.svg" height="16" width="16"> <a href="https://kixlab.org/courses/cs374-spring-2017/classes/08-Ideation/">Ideation Overview </a>(don’t answer survey questions)<br>
       <img class="reading" src="./images/book-open.svg" height="16" width="16"> <a href="http://faculty.washington.edu/ajko/books/design-methods/how-to-prototype.html">How to Prototype by Ko</a><br>
       <img class="reading" src="./images/book-open.svg" height="16" width="16"> <b>Optional:</b> (9 min) <a href="https://medium.com/@rachelbinx/why-you-should-be-prototyping-e4f7d55a6848">Why you should be prototyping (Netflix)</a><br>
-      <img class="watch" src="./images/display.svg" height="16" width="16"> <b>Optional:</b> (18 min) <a href="https://www.ted.com/talks/chimamanda_ngozi_adichie_the_danger_of_a_single_story?language=en">The Danger of a Single Story by Adichie</a><br>
+      <!-- <img class="watch" src="./images/display.svg" height="16" width="16"> <b>Optional:</b> (18 min) <a href="https://www.ted.com/talks/chimamanda_ngozi_adichie_the_danger_of_a_single_story?language=en">The Danger of a Single Story by Adichie</a><br>
       <img class="reading" src="./images/book-open.svg" height="16" width="16"> <b>Optional</b>: <a href="http://www.billbuxton.com/rightDesign.pdf">Getting the Right Design and the Design Right by Tohidi et al</a><br>
-      <img class="reading" src="./images/book-open.svg" height="16" width="16"> Read or watch <img class="watch" src="./images/display.svg" height="16" width="16"> something else about prototying or ideation
+      <img class="reading" src="./images/book-open.svg" height="16" width="16"> Read or watch <img class="watch" src="./images/display.svg" height="16" width="16"> something else about prototying or ideation -->
     </td>
     <td>
     </td>
