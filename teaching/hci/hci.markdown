@@ -274,10 +274,10 @@ All **reading** and **demos of design sprints** are due at 8:00 AM on the day of
      <img class="watch" src="./images/display.svg" height="16" width="16"> (7 min) <a href="https://www.youtube.com/watch?v=sTi5SNgxE3U">The Universal Arts of Graphic Design</a><br>
 		<img class="reading" src="./images/book-open.svg" height="16" width="16"> <a href="https://medium.com/facebook-design/how-to-make-your-not-so-great-visual-design-better-67972eee3825">How to Make Your Not-So-Great Visual Design Better</a><br>
 		<img class="reading" src="./images/book-open.svg" height="16" width="16"> <a href="https://careerfoundry.com/en/blog/ux-design/ux-patterns-why-use-them/">A Step-by-Step Guide to UX Patterns by Schlecht</a><br>
-		<img class="reading" src="./images/book-open.svg" height="16" width="16"> <b>Optional: </b><a href="https://uxdesign.cc/3-ways-to-improve-your-visual-design-skills-fa9dc8e583ff">3 ways to improve your visual design skills</a><br>
+		<!-- <img class="reading" src="./images/book-open.svg" height="16" width="16"> <b>Optional: </b><a href="https://uxdesign.cc/3-ways-to-improve-your-visual-design-skills-fa9dc8e583ff">3 ways to improve your visual design skills</a><br>
 		<img class="reading" src="./images/book-open.svg" height="16" width="16"> <b>Optional: </b> <look-this></look-this> <a href="http://ui-patterns.com">UI Design Patterns</a><br>
 		<img class="reading" src="./images/book-open.svg" height="16" width="16"> or <img class="watch" src="./images/display.svg" height="16" width="16"> something else about visual design
-    </td>
+    </td> -->
     <td>
      <a href="/teaching/hci/assignments/hw2">HW 2: Needfinding Exercise</a>
     </td>
