@@ -256,7 +256,7 @@ All **reading** and **demos of design sprints** are due at 8:00 AM on the day of
     <td>Ideation + Prototyping</td>
     <td>
       <img class="reading" src="./images/book-open.svg" height="16" width="16"> <a href="https://faculty.washington.edu/ajko/books/design-methods/creative">How to be Creative by Ko</a><br>
-			<img class="reading" src="./images/book-open.svg" height="16" width="16"> <a href="https://kixlab.org/courses/cs374-spring-2017/classes/08-Ideation/">Ideation Overview </a>(don’t answer survey questions)<br>
+			<img class="reading" src="./images/book-open.svg" height="16" width="16"> <a href="https://cs374-spring-2018.netlify.app/classes/08-Ideation/">Ideation Overview </a>(watch the 22 minute IDEO shopping cart video, don’t answer any questions)<br>
       <img class="reading" src="./images/book-open.svg" height="16" width="16"> <a href="http://faculty.washington.edu/ajko/books/design-methods/how-to-prototype.html">How to Prototype by Ko</a><br>
       <img class="reading" src="./images/book-open.svg" height="16" width="16"> <b>Optional:</b> (9 min) <a href="https://medium.com/@rachelbinx/why-you-should-be-prototyping-e4f7d55a6848">Why you should be prototyping (Netflix)</a><br>
       <!-- <img class="watch" src="./images/display.svg" height="16" width="16"> <b>Optional:</b> (18 min) <a href="https://www.ted.com/talks/chimamanda_ngozi_adichie_the_danger_of_a_single_story?language=en">The Danger of a Single Story by Adichie</a><br>
