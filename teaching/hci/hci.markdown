@@ -216,7 +216,7 @@ All **reading** and **demos of design sprints** are due at 8:00 AM on the day of
   </thead>
 <tbody>
   <tr>
-    <td rowspan="2" id="this_week">1</td>
+    <td rowspan="2">1</td>
     <td>8/25</td>
     <td>Intro to Human-Computer Interaction</td>
     <td> 
@@ -241,7 +241,7 @@ All **reading** and **demos of design sprints** are due at 8:00 AM on the day of
     <td></td>
   </tr>
   <tr>
-    <td rowspan="2">2</td>
+    <td rowspan="2" id="this_week">2</td>
     <td>9/1</td>
     <td>Define, <a href="/teaching/hci/assignments/hw2">HW 2: Needfinding Exercise</a> released</td>
     <td><img class="reading" src="./images/book-open.svg" height="16" width="16"> <a href="https://drive.google.com/file/d/1nQvmNzbUI3KnNwkuFJlBy6Q8O51kJqxu/view?usp=sharing">Ch. 1 from <i>The Design of Everyday Things</i></a><br>
