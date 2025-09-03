@@ -244,7 +244,7 @@ All **reading** and **demos of design sprints** are due at 8:00 AM on the day of
     <td rowspan="2" id="this_week">2</td>
     <td>9/1</td>
     <td>Define, <a href="/teaching/hci/assignments/hw2">HW 2: Needfinding Exercise</a> released</td>
-    <td><img class="reading" src="./images/book-open.svg" height="16" width="16"> <a href="https://drive.google.com/file/d/1nQvmNzbUI3KnNwkuFJlBy6Q8O51kJqxu/view?usp=sharing">Ch. 1 from <i>The Design of Everyday Things</i></a><br>
+    <td><img class="reading" src="./images/book-open.svg" height="16" width="16"> <a href="https://dl.icdst.org/pdfs/files4/4bb8d08a9b309df7d86e62ec4056ceef.pdf">Ch. 1 from <i>The Design of Everyday Things</i></a><br>
 		<img class="reading" src="./images/book-open.svg" height="16" width="16"> <a href="https://faculty.washington.edu/ajko/books/design-methods/understand">How to Understand Problems by Ko</a> (<a href="https://faculty.washington.edu/ajko/books/design-methods">homepage</a> for all of Ko's chapters)<br>
 		<img class="reading" src="./images/book-open.svg" height="16" width="16"> <a href="https://faculty.washington.edu/ajko/books/design-methods/problems">How to Define Problems by Ko</a><br>
 	  <!-- Read <img class="reading" src="./images/book-open.svg" height="16" width="16"> or watch <img class="watch" src="./images/display.svg" height="16" width="16"> something else about problem definition -->
@@ -327,7 +327,7 @@ All **reading** and **demos of design sprints** are due at 8:00 AM on the day of
     <td>9/24</td>
     <td><a href="/teaching/hci/design-sprints/understanding">Design for Understanding</a> Intro + VIS Tool Demo</td>
     <td>
-    <img class="reading" src="./images/book-open.svg" height="16" width="16"> <a href="/teaching/hci/papers/the-design-of-everyday-things-norman.pdf">Ch. 3 from <i>The Design of Everyday Things</i></a><br>
+    <img class="reading" src="./images/book-open.svg" height="16" width="16"> <a href="https://dl.icdst.org/pdfs/files4/4bb8d08a9b309df7d86e62ec4056ceef.pdf">Ch. 3 from <i>The Design of Everyday Things</i></a><br>
 		<img class="reading" src="./images/book-open.svg" height="16" width="16"> <a href="http://vis.cs.brown.edu/docs/pdf/bib/value-of-infovis.pdf">The Value of Information Visualization by Fekete et al</a><br>
 		<img class="reading" src="./images/book-open.svg" height="16" width="16"> <a href="https://queue.acm.org/detail.cfm?id=1805128">A Tour through the Visualization Zoo by Heer et al</a><br>
 		<img class="reading" src="./images/book-open.svg" height="16" width="16"> <b>Optional:</b>  <a href="https://www.csc2.ncsu.edu/faculty/healey/PP/index.html">Perception in Visualization by Healey</a><br>
@@ -338,10 +338,11 @@ All **reading** and **demos of design sprints** are due at 8:00 AM on the day of
   <tr>
     <td rowspan="2">6</td>
     <td>9/29</td>
-    <td>Evaluation in HCI, Part 1</td>
+    <td>Guest Lecture: <a href="https://www.davidson.edu/people/elizabeth-smith-brigham">Liz Brigham</a>, at the Hurt Hub</td>
+    <!-- <td>Evaluation in HCI, Part 1</td> -->
     <td>
       <img class="reading" src="./images/book-open.svg" height="16" width="16">  <a href="https://people.cs.vt.edu/~gangwang/HCI.pdf#page=450">Research Ethics in HCI by Bruckman</a><br>
-			<img class="reading" src="./images/book-open.svg" height="16" width="16">  <a href="/teaching/hci/papers/the-design-of-everyday-things-norman.pdf">Ch. 2 from <i>The Design of Everyday Things</i></a><br>
+			<img class="reading" src="./images/book-open.svg" height="16" width="16">  <a href="https://dl.icdst.org/pdfs/files4/4bb8d08a9b309df7d86e62ec4056ceef.pdf">Ch. 2 from <i>The Design of Everyday Things</i></a><br>
 			<img class="reading" src="./images/book-open.svg" height="16" width="16"> <b>Optional:</b> <a href="resources.md#vis">Resources on Vis Tools</a> (skim the relevant websites for tutorials)
     </td>
     <td></td>
@@ -365,7 +366,7 @@ All **reading** and **demos of design sprints** are due at 8:00 AM on the day of
     <img class="watch" src="./images/display.svg" height="16" width="16"> (7 min) <a href="https://www.youtube.com/watch?v=A88E4DH2asQ">Adventures in Universal Design</a><br>
 		<img class="reading" src="./images/book-open.svg" height="16" width="16">  <a href="http://www.cs.cmu.edu/~io/publications/10MankoffASSETS.pdf">Disability Studies as a Source of Critical Inquiry for Assistive Technology</a><br>
 		<img class="reading" src="./images/book-open.svg" height="16" width="16">  <a href="http://web.mit.edu/6.813/www/sp18/classes/18-accessibility/">Accessibility</a><br>
-		<img class="reading" src="./images/book-open.svg" height="16" width="16">  <a href="/teaching/hci/papers/the-design-of-everyday-things-norman.pdf">Ch. 5 from <i>The Design of Everyday Things</i></a>
+		<img class="reading" src="./images/book-open.svg" height="16" width="16">  <a href="https://dl.icdst.org/pdfs/files4/4bb8d08a9b309df7d86e62ec4056ceef.pdf">Ch. 5 from <i>The Design of Everyday Things</i></a>
 		</td>
     <td><i>Fall break Thurs, Oct 2 and Fri, Oct 3</i></td>
   </tr>
@@ -393,7 +394,7 @@ All **reading** and **demos of design sprints** are due at 8:00 AM on the day of
     <td>10/15</td>
     <td>VR Demo + Hack: <a href="/teaching/hci/design-sprints/another-world">Design for Another World</a></td>
     <td>	
-    <img class="reading" src="./images/book-open.svg" height="16" width="16"> <a href="/teaching/hci/papers/the-design-of-everyday-things-norman.pdf">Ch. 4 from <i>The Design of Everyday Things</i></a>
+    <img class="reading" src="./images/book-open.svg" height="16" width="16"> <a href="https://dl.icdst.org/pdfs/files4/4bb8d08a9b309df7d86e62ec4056ceef.pdf">Ch. 4 from <i>The Design of Everyday Things</i></a>
 		</td>
     <td><a href="/teaching/hci/assignments/hw4">HW 4: Campus Accessibility</a></td>
   </tr>
@@ -417,7 +418,7 @@ All **reading** and **demos of design sprints** are due at 8:00 AM on the day of
     <td>
     	<img class="reading" src="./images/book-open.svg" height="16" width="16"> <a href="https://www.interaction-design.org/literature/book/the-glossary-of-human-computer-interaction/tangible-interaction">Tangible Interaction by Hornecker</a><br>
 			<img class="watch" src="./images/display.svg" height="16" width="16"> (13 min) <a href="https://www.youtube.com/watch?v=u8tnYt30L-A">How Wearable Technology Will Change Our Lives by Tudela</a><br>
-			<img class="reading" src="./images/book-open.svg" height="16" width="16"> <a href="/teaching/hci/papers/the-design-of-everyday-things-norman.pdf">Ch. 7 from <i>The Design of Everyday Things</i></a>
+			<img class="reading" src="./images/book-open.svg" height="16" width="16"> <a href="https://dl.icdst.org/pdfs/files4/4bb8d08a9b309df7d86e62ec4056ceef.pdf">Ch. 7 from <i>The Design of Everyday Things</i></a>
     </td>
     <td></td>
   </tr>
