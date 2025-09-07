@@ -309,7 +309,7 @@ All **reading** and **demos of design sprints** are due at 8:00 AM on the day of
     <td>Data Visualization</td>
     <td>
     <img class="watch" src="./images/display.svg" height="16" width="16"> (8 min) <a href="https://www.youtube.com/watch?v=AdSZJzb-aX8">The Art of Data Visualization</a><br>
-		<img class="reading" src="./images/book-open.svg" height="16" width="16"> <a href="https://medium.com/@kennelliott/39-studies-about-human-perception-in-30-minutes-4728f9e31a73">39 studies about human perception in 30 minutes</a> (read the article [~21 min read] <b>OR</b> watch the talk [23:06]: <img class="watch" src="./images/display.svg" height="16" width="16"> <a href="https://www.youtube.com/watch?v=s0J6EDvlN30">Accompanying Talk</a><br>
+		<img class="reading" src="./images/book-open.svg" height="16" width="16"> <a href="https://medium.com/@kennelliott/39-studies-about-human-perception-in-30-minutes-4728f9e31a73">39 studies about human perception in 30 minutes</a> (read the article [~21 min read] <b>OR</b> watch the talk [23:06]: <img class="watch" src="./images/display.svg" height="16" width="16"> <a href="https://www.youtube.com/watch?v=s0J6EDvlN30">Accompanying Talk</a>)<br>
     </td>
     <td>
     <a href="/teaching/hci/assignments/hw3">HW 3: Health Design</a>
