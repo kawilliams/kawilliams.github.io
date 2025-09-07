@@ -241,7 +241,7 @@ All **reading** and **demos of design sprints** are due at 8:00 AM on the day of
     <td></td>
   </tr>
   <tr>
-    <td rowspan="2" id="this_week">2</td>
+    <td rowspan="2">2</td>
     <td>9/1</td>
     <td>Define, <a href="/teaching/hci/assignments/hw2">HW 2: Needfinding Exercise</a> released</td>
     <td><img class="reading" src="./images/book-open.svg" height="16" width="16"> <a href="https://dl.icdst.org/pdfs/files4/4bb8d08a9b309df7d86e62ec4056ceef.pdf">Ch. 1 from <i>The Design of Everyday Things</i></a><br>
@@ -267,7 +267,7 @@ All **reading** and **demos of design sprints** are due at 8:00 AM on the day of
     </td>
   </tr>
   <tr>
-    <td rowspan="2">3</td>
+    <td rowspan="2" id="this_week">3</td>
     <td>9/8</td>
     <td>Visual Design + Design Patterns</td>
     <td>
@@ -284,7 +284,7 @@ All **reading** and **demos of design sprints** are due at 8:00 AM on the day of
   </tr>
   <tr>
     <td>9/10</td>
-    <td><a href="/teaching/hci/design-sprints/dimensions" >Design for Dimensions Intro</a> + Figma Demo</td>
+    <td><a href="/teaching/hci/design-sprints/dimensions" >Design for Dimensions Intro</a> + <br />Figma Demo + <br /> release <a href="/teaching/hci/assignments/hw3" >HW 3: Health Design</a></td> 
     <td>
     <img class="reading" src="./images/book-open.svg" height="16" width="16"> <a href="https://www.figma.com/community/explore">Figma Resources</a><br>
 		<img class="watch" src="./images/display.svg" height="16" width="16"> (24 min) <a href="https://www.youtube.com/watch?v=FTFaQWZBqQ8">Figma UI Design Tutorial</a>
@@ -302,7 +302,6 @@ All **reading** and **demos of design sprints** are due at 8:00 AM on the day of
     <img class="reading" src="./images/book-open.svg" height="16" width="16"> <a href="/teaching/hci/groups">Tips for Working Successfully in Groups by Pausch</a>
     </td>
     <td>
-    <a href="/teaching/hci/assignments/hw3" >HW 3: Health Design <b>due Tuesday, Sept 17 by 11:55 PM (24-hr extension)</b></a>  
     </td>
   </tr>
   <tr>
@@ -310,11 +309,11 @@ All **reading** and **demos of design sprints** are due at 8:00 AM on the day of
     <td>Data Visualization</td>
     <td>
     <img class="watch" src="./images/display.svg" height="16" width="16"> (8 min) <a href="https://www.youtube.com/watch?v=AdSZJzb-aX8">The Art of Data Visualization</a><br>
-		<img class="reading" src="./images/book-open.svg" height="16" width="16"> <a href="https://medium.com/@kennelliott/39-studies-about-human-perception-in-30-minutes-4728f9e31a73">39 studies about human perception in 30 minutes</a> (read the article <b>OR</b> watch the talk: <img class="watch" src="./images/display.svg" height="16" width="16"> <a href="https://www.youtube.com/watch?v=s0J6EDvlN30">Accompanying Talk</a><br>
-		<img class="reading" src="./images/book-open.svg" height="16" width="16"> <a href="/teaching/hci/papers/RobertsHeadleandRitsos-FiveDesignSheet.pdf">Five Design Sheet Methodology for Visualization</a> (Read the abstraction and Sections 1, 3, and 4.3)<br>
-    <img class="reading" src="./images/book-open.svg" height="16" width="16"> <b>Optional:</b> <a href="http://www.juiceanalytics.com/writing/data-storytelling-the-ultimate-collection-of-resources-ii">Data Storytelling: The Ultimate Collection of Resources</a>
+		<img class="reading" src="./images/book-open.svg" height="16" width="16"> <a href="https://medium.com/@kennelliott/39-studies-about-human-perception-in-30-minutes-4728f9e31a73">39 studies about human perception in 30 minutes</a> (read the article [~21 min read] <b>OR</b> watch the talk [23:06]: <img class="watch" src="./images/display.svg" height="16" width="16"> <a href="https://www.youtube.com/watch?v=s0J6EDvlN30">Accompanying Talk</a><br>
     </td>
-    <td></td>
+    <td>
+    <a href="/teaching/hci/assignments/hw3">HW 3: Health Design</a>
+    </td>
   </tr>
   <tr>
     <td rowspan="2">5</td>
@@ -327,10 +326,11 @@ All **reading** and **demos of design sprints** are due at 8:00 AM on the day of
     <td>9/24</td>
     <td><a href="/teaching/hci/design-sprints/understanding">Design for Understanding</a> Intro + VIS Tool Demo</td>
     <td>
-    <img class="reading" src="./images/book-open.svg" height="16" width="16"> <a href="https://dl.icdst.org/pdfs/files4/4bb8d08a9b309df7d86e62ec4056ceef.pdf">Ch. 3 from <i>The Design of Everyday Things</i></a><br>
+    <img class="reading" src="./images/book-open.svg" height="16" width="16"> <a href="/teaching/hci/papers/RobertsHeadleandRitsos-FiveDesignSheet.pdf">Five Design Sheet Methodology for Visualization</a> (Read the abstraction and Sections 1 and 3 -- 3 is thicc, so be sure to take time to read it carefully and review the figures)<br>
+    <!-- <img class="reading" src="./images/book-open.svg" height="16" width="16"> <a href="https://dl.icdst.org/pdfs/files4/4bb8d08a9b309df7d86e62ec4056ceef.pdf">Ch. 3 from <i>The Design of Everyday Things</i></a><br> -->
 		<img class="reading" src="./images/book-open.svg" height="16" width="16"> <a href="http://vis.cs.brown.edu/docs/pdf/bib/value-of-infovis.pdf">The Value of Information Visualization by Fekete et al</a><br>
 		<img class="reading" src="./images/book-open.svg" height="16" width="16"> <a href="https://queue.acm.org/detail.cfm?id=1805128">A Tour through the Visualization Zoo by Heer et al</a><br>
-		<img class="reading" src="./images/book-open.svg" height="16" width="16"> <b>Optional:</b>  <a href="https://www.csc2.ncsu.edu/faculty/healey/PP/index.html">Perception in Visualization by Healey</a><br>
+		<!-- <img class="reading" src="./images/book-open.svg" height="16" width="16"> <b>Optional:</b>  <a href="https://www.csc2.ncsu.edu/faculty/healey/PP/index.html">Perception in Visualization by Healey</a><br> -->
 		<img class="reading" src="./images/book-open.svg" height="16" width="16"> <b>Optional:</b> <a href="http://www.dear-data.com/theproject">Dear Data</a>
     </td>
     <td></td>
