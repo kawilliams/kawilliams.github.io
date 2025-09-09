@@ -286,10 +286,19 @@ All **reading** and **demos of design sprints** are due at 8:00 AM on the day of
     <td>9/10</td>
     <td><a href="/teaching/hci/design-sprints/dimensions" >Design for Dimensions Intro</a> + <br />Figma Demo + <br /> release <a href="/teaching/hci/assignments/hw3" >HW 3: Health Design</a></td> 
     <td>
-    <img class="reading" src="./images/book-open.svg" height="16" width="16"> <a href="https://www.figma.com/community/explore">Figma Resources</a><br>
-		<img class="watch" src="./images/display.svg" height="16" width="16"> (24 min) <a href="https://www.youtube.com/watch?v=FTFaQWZBqQ8">Figma UI Design Tutorial</a>
+    Sign up for Figma (educational account) -- see instructions on the right<br>
+    <img class="reading" src="./images/book-open.svg" height="16" width="16"> <a href="https://www.figma.com/community/explore">Figma Resources</a> -- a good page to have handy<br>
+    <img class="watch" src="./images/display.svg" height="16" width="16"> (13 min) <a href="https://www.youtube.com/watch?v=jQ1sfKIl50E"> Figma Tutorial for Beginners (13-min crash course)</a> <br>
+		<img class="watch" src="./images/display.svg" height="16" width="16"> (24 min) <a href="https://www.youtube.com/watch?v=FTFaQWZBqQ8">Figma UI Design Tutorial</a> <br>
+    		<img class="watch" src="./images/display.svg" height="16" width="16"><a href="https://www.youtube.com/playlist?list=PLXDU_eVOJTx5IuSrbtanZHnDuPB3Hx0hq">Playlist by Figma: Figma Design for beginners 2025</a> <br>
     </td>
     <td>
+    Sign up for an Education account https://www.figma.com/education/<br>
+    Then, press "Get verified" and follow all the verification step<br>
+    Once verified, it should then prompt you to chose the "plan"<br>
+    It might be titled professional/ educational <br>
+    (the cost should show as 0$)<br>
+    Once you do that it should work<br>
     </td>
   </tr>
   <tr>
