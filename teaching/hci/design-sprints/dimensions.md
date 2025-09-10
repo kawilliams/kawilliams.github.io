@@ -11,8 +11,8 @@ permalink: /teaching/hci/design-sprints/dimensions
 # Design for Dimensions
 
 * Group size: Teams of 3-4
-* Design sprint starts: Wednesday, September 11, in class.
-* Design sprint ends: Monday, September 23, in class (demo). [Design document](/teaching/hci/design-doc) due at *11:55 PM*. 
+* Design sprint starts: Wednesday, September 10, in class.
+* Design sprint ends: Monday, September 22, in class (demo). [Design document](/teaching/hci/design-doc) due at *11:55 PM*. 
 
 ## Overview 
 
