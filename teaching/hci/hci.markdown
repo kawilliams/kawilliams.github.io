@@ -267,7 +267,7 @@ All **reading** and **demos of design sprints** are due at 8:00 AM on the day of
     </td>
   </tr>
   <tr>
-    <td rowspan="2" id="this_week">3</td>
+    <td rowspan="2">3</td>
     <td>9/8</td>
     <td>Visual Design + Design Patterns</td>
     <td>
@@ -303,7 +303,7 @@ All **reading** and **demos of design sprints** are due at 8:00 AM on the day of
     </td>
   </tr>
   <tr>
-    <td rowspan="2">4</td>
+    <td rowspan="2" id="this_week">4</td>
     <td>9/15</td>
     <td>Hack Day -- <a href="/teaching/hci/design-sprints/dimensions">Design for Dimensions</a></td>
     <td>	
