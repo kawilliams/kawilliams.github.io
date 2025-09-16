@@ -78,7 +78,7 @@ Just build it! You may use AI (like ChatGPT, Claude, or Gemini) to assist with w
 * Both of your designs should be hosted on the web at publicly accessible links. That may be a standalone site that hosts your interactive visualization (like [GitHub pages](https://pages.github.com/) or [Davidson Domains](https://domains.davidson.edu/)), or an Observable notebook link for example. Essentially, we should be able to click around and interact with your designs. These links should be clearly included into your design reflection.
 * Post the link of each blog post along with the names of your group members on our Slack channel for `#group-design-projects` **and** one group member should submit the link on Moodle.
 
-**Grading:** Grading will be based on the [design rubric](https://docs.google.com/spreadsheets/d/1aI9LcmVZmh_977G__U4Guz_rPRCwWZs26J_yHXbhSyY/edit?usp=sharing). Be sure to complete the [peer feedback forms](https://forms.gle/4TgYVtRABUdqjeZX7) linked
+**Grading:** Grading will be based on the [design rubric](https://docs.google.com/spreadsheets/d/1aI9LcmVZmh_977G__U4Guz_rPRCwWZs26J_yHXbhSyY/edit?usp=sharing). Be sure to complete the [peer feedback forms](https://forms.gle/GFQhygcpcVjDVhzy7) linked
 at the end of the [design document guide](/teaching/hci/design-doc), which will be a large part of your grade. 
 
 <!-- ## Some Tech Tips
