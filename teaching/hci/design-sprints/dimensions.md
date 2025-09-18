@@ -95,5 +95,5 @@ Figma is fantastic, but it isn’t magic. You’re still going to need to create
     * pictures of your final product for all three devices (more broadly, the evolution of your design should be clear)
     * links to your Figma prototypes
 
-**Grading:** Grading will be based on the [design rubric](https://docs.google.com/spreadsheets/d/1aI9LcmVZmh_977G__U4Guz_rPRCwWZs26J_yHXbhSyY/edit?usp=sharing). Be sure to complete the [peer feedback forms](https://forms.gle/4TgYVtRABUdqjeZX7) linked
+**Grading:** Grading will be based on the [design rubric](https://docs.google.com/spreadsheets/d/1aI9LcmVZmh_977G__U4Guz_rPRCwWZs26J_yHXbhSyY/edit?usp=sharing). Be sure to complete the [peer feedback forms](https://forms.gle/GFQhygcpcVjDVhzy7) linked
 at the enf of the [design document guide](/teaching/hci/design-doc), which will be a large part of your grade. 

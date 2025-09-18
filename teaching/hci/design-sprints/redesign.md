@@ -100,4 +100,4 @@ Now, given your new physical prototype, your group should design and execute a p
 * Post the link of each blog post along with the names of your group members on our Slack channel for `#group-design-projects` **and** one group member should submit the link on Moodle.
 
 **Grading:** Grading will be based on the [design rubric](https://docs.google.com/spreadsheets/d/1aI9LcmVZmh_977G__U4Guz_rPRCwWZs26J_yHXbhSyY/edit?usp=sharing). 
-* Be sure to complete the peer feedback forms linked at the end of the [design document guide](/teaching/hci/design-doc), which will be a large part of your grade. 
+* Be sure to complete the [peer feedback forms](https://forms.gle/GFQhygcpcVjDVhzy7) linked at the end of the [design document guide](/teaching/hci/design-doc), which will be a large part of your grade. 

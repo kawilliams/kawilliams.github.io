@@ -44,7 +44,7 @@ You can view some previous Hall of Fame examples from Emory here: [Chinese New Y
     * The VR experience link may break over time or the libraries used may get out of date. **This is why we make a video: the video link should stay stable over time.** Also, it's more likely that a reader's browser would support a video than a graphics-intensive VR environment.
 * Post the link of each blog post along with the names of your group members on our Slack channel for `#group_design_projects` **and** one group member should submit the link on Moodle.
 
-**Grading:** Grading will be based on the [design rubric](https://docs.google.com/spreadsheets/d/1aI9LcmVZmh_977G__U4Guz_rPRCwWZs26J_yHXbhSyY/edit?usp=sharing). Be sure to complete the peer feedback forms linked
+**Grading:** Grading will be based on the [design rubric](https://docs.google.com/spreadsheets/d/1aI9LcmVZmh_977G__U4Guz_rPRCwWZs26J_yHXbhSyY/edit?usp=sharing). Be sure to complete the [peer feedback form](https://forms.gle/GFQhygcpcVjDVhzy7) linked
 at the enf of the [design document guide](/teaching/hci/design-doc), which will be a large part of your grade. 
 
 -----
