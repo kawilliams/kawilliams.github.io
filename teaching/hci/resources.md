@@ -49,43 +49,44 @@ To help you pick color palettes and check for color blindness accessibility.
 ## Tips on Writing for Usability
 How to structure your writing for the web, which is different from writing an essay.
 
-* How we really use the Web (from “Don’t Make Me Think”): what do people look for when they read online?
-* How Users Read on the Web (Jakob Nielson): concrete tips about how to improve readability/engagement.
-* Voice And Tone: best practices for the writing in your app - how do you create a clear, appropriate voice?
+* [How we really use the Web (from “Don’t Make Me Think”)](http://www.sensible.com/chapter.html): what do people look for when they read online?
+* [How Users Read on the Web (Jakob Nielson)](https://www.nngroup.com/articles/how-users-read-on-the-web/): concrete tips about how to improve readability/engagement.
+* [Voice And Tone](http://voiceandtone.com/): best practices for the writing in your app - how do you create a clear, appropriate voice?
 
 ## Prototyping
 Software for creating prototypes.
-* Figma: create prototypes for web or mobile. Includes design kits with reusable components.
-* inVision: create prototypes for web or mobile. Lots of integrations.
-* Marvel: create desktop and mobile prototypes. Integrates with Sketch. Nice free plan.
-* Facebook Design Resources: a set of images and tools curated by Facebook to be used during UI prototyping.
-* Adobe XD: Far from free, but if you have access to an Adobe account, a wonderful app for prototyping.
-* Sketch: Mac OS X app to help you draw new designs. Free trial or $50 student license.
+* [Figma](https://www.figma.com/): create prototypes for web or mobile. Includes design kits with reusable components.
+* [inVision](http://www.invisionapp.com/): create prototypes for web or mobile. Lots of integrations.
+* [Marvel](https://marvelapp.com/): create desktop and mobile prototypes. Integrates with Sketch. Nice free plan.
+* [Facebook Design Resources](http://facebook.github.io/design/): a set of images and tools curated by Facebook to be used during UI prototyping.
+* [Adobe XD](https://www.adobe.com/products/xd.html): Far from free, but if you have access to an Adobe account, a wonderful app for prototyping.
+* [Sketch](https://www.sketchapp.com/): Mac OS X app to help you draw new designs. Free trial or $50 student license.
 
 ## Mobile Resources
 Help for design patterns for Android and Apple apps.
-* Android Design Guide: design guidelines and patterns that are consistent with the android experience.
-* iOS Design Guide: design guidelines and patterns that are consistent with the iOS experience.
+* [Android Design Guide](http://developer.android.com/design/index.html): design guidelines and patterns that are consistent with the android experience.
+* [iOS Design Guide](https://developer.apple.com/library/ios/documentation/UserExperience/Conceptual/MobileHIG/): design guidelines and patterns that are consistent with the iOS experience.
 
 ## Design Inspiration
 Explore!
 
-* Dribbble: showcase of what designers are working on.
-* Awwwards: awards for design, creativity, and innovation on the internet.
-* Niice: sort of a more design-focused pinterest site that can be used to create moodboards (and explore ones created by other people).
-* muzli designers: browse the work by a number of designers.
-* From Up North: trendy, curated design inspiration.
+* [Dribbble](https://dribbble.com/): showcase of what designers are working on.
+* [Awwwards](http://www.awwwards.com/): awards for design, creativity, and innovation on the internet.
+* [Niice](https://niice.co/): sort of a more design-focused pinterest site that can be used to create moodboards (and explore ones created by other people).
+* [muzli designers](http://designers.muz.li/): browse the work by a number of designers.
+* [From Up North](https://fromupnorth.com/): trendy, curated design inspiration.
 
 ## Visualization Tools
-* D3js
-* Vega
+* [D3js](https://d3js.org/)
+* [Vega](http://vega.github.io/)
 * Vega-Lite
 * P5js
 * Tableau
 
 ## Additional Texts
 * The Design of Everyday Things by Don Norman.
-* Data
+
+## Data
 * Census.gov
 * Data.gov
 * Tableau Data
