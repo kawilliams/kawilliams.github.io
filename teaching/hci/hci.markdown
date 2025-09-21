@@ -303,7 +303,7 @@ All **reading** and **demos of design sprints** are due at 8:00 AM on the day of
     </td>
   </tr>
   <tr>
-    <td rowspan="2" id="this_week">4</td>
+    <td rowspan="2">4</td>
     <td>9/15</td>
     <td>Hack Day -- <a href="/teaching/hci/design-sprints/dimensions">Design for Dimensions</a></td>
     <td>	
@@ -326,7 +326,7 @@ All **reading** and **demos of design sprints** are due at 8:00 AM on the day of
     </td>
   </tr>
   <tr>
-    <td rowspan="2">5</td>
+    <td rowspan="2" id="this_week">5</td>
     <td>9/22</td>
     <td>Demo: <a href="/teaching/hci/design-sprints/dimensions">Design for Dimensions</a></td>
     <td>No prep</td>
@@ -338,7 +338,7 @@ All **reading** and **demos of design sprints** are due at 8:00 AM on the day of
     <td>
     <img class="reading" src="./images/book-open.svg" height="16" width="16"> <a href="/teaching/hci/papers/RobertsHeadleandRitsos-FiveDesignSheet.pdf">Five Design Sheet Methodology for Visualization</a> (Read the abstraction and Sections 1 and 3 -- 3 is thicc, so be sure to take time to read it carefully and review the figures)<br>
     <!-- <img class="reading" src="./images/book-open.svg" height="16" width="16"> <a href="https://dl.icdst.org/pdfs/files4/4bb8d08a9b309df7d86e62ec4056ceef.pdf">Ch. 3 from <i>The Design of Everyday Things</i></a><br> -->
-		<img class="reading" src="./images/book-open.svg" height="16" width="16"> <a href="http://vis.cs.brown.edu/docs/pdf/bib/value-of-infovis.pdf">The Value of Information Visualization by Fekete et al</a><br>
+		<!-- <img class="reading" src="./images/book-open.svg" height="16" width="16"> <a href="http://vis.cs.brown.edu/docs/pdf/bib/value-of-infovis.pdf">The Value of Information Visualization by Fekete et al</a><br> -->
 		<img class="reading" src="./images/book-open.svg" height="16" width="16"> <a href="https://queue.acm.org/detail.cfm?id=1805128">A Tour through the Visualization Zoo by Heer et al</a><br>
 		<!-- <img class="reading" src="./images/book-open.svg" height="16" width="16"> <b>Optional:</b>  <a href="https://www.csc2.ncsu.edu/faculty/healey/PP/index.html">Perception in Visualization by Healey</a><br> -->
 		<img class="reading" src="./images/book-open.svg" height="16" width="16"> <b>Optional:</b> <a href="http://www.dear-data.com/theproject">Dear Data</a>
