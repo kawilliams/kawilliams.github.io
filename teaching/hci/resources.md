@@ -79,34 +79,34 @@ Explore!
 ## Visualization Tools
 * [D3js](https://d3js.org/)
 * [Vega](http://vega.github.io/)
-* Vega-Lite
-* P5js
-* Tableau
+* [Vega-Lite](https://vega.github.io/vega-lite/)
+* [P5js](http://p5js.org/)
+* [Tableau](https://www.tableau.com/)
 
 ## Additional Texts
 * The Design of Everyday Things by Don Norman.
 
 ## Data
-* Census.gov
-* Data.gov
-* Tableau Data
-* /r/opendata
-* Quandl
-* Metro Boston Data Common
-* CDC
-* Real Climate
-* UK Office for National Statistics
-* World Bank Data Catalog
-* Basketball
-* UN Data
-* WHO Data
-* OECD Stats
+* [Census.gov](https://www.census.gov/)
+* [Data.gov](http://www.data.gov/)
+* [Tableau Data](https://public.tableau.com/en-us/s/resources)
+* [/r/opendata](https://www.reddit.com/r/opendata/)
+* [Quandl](https://www.quandl.com/)
+* [Metro Boston Data Common](http://metrobostondatacommon.org/) (there's a similar one for New York City)
+* [CDC](http://www.cdc.gov/nchs/data_access/data_tools.htm)
+* [Real Climate](http://www.realclimate.org/index.php/data-sources/)
+* [UK Office for National Statistics](http://www.statistics.gov.uk/default.asp)
+* [World Bank Data Catalog](https://datacatalog.worldbank.org/)
+* [Basketball](https://www.basketball-reference.com/)
+* [UN Data](http://data.un.org/)
+* [WHO Data](https://www.who.int/data/)
+* [OECD Stats](http://stats.oecd.org/Index.aspx)
 
 ## Miscellaneous
 Other useful tools to help with this class.
-* CamScanner: useful for scanning in paper sketches to submit assignments online.
-* Google Design Resources: big repository of all kinds of design resources from Google.
-* How to Conduct a Heuristic Evaluation: a quick and dirty set of guidelines to think about when creating a user interfaces.
-* Design Methods (by Amy Ko)
-* Clean Up Your Mess: A Guide to Visual Design for Everyone: a good, quick ‘how-to’ guide for visual design.
-* Navigating a Career in HCI Research (Meredith Ringel Morris)
+* [CamScanner](https://apps.apple.com/us/app/camscanner-pdf-scanner-app/id1543833156?mt=12): useful for scanning in paper sketches to submit assignments online.
+* [Google Design Resources](https://design.google/resources/): big repository of all kinds of design resources from Google.
+* [How to Conduct a Heuristic Evaluation](https://www.interaction-design.org/literature/article/heuristic-evaluation-how-to-conduct-a-heuristic-evaluation?utm_source=facebook&utm_medium=sm): a quick and dirty set of guidelines to think about when creating a user interfaces.
+* [Design Methods (by Amy Ko)](http://faculty.washington.edu/ajk[o/books/design-methods/)
+* [Clean Up Your Mess: A Guide to Visual Design for Everyone](http://www.visualmess.com/): a good, quick ‘how-to’ guide for visual design.
+* [Navigating a Career in HCI Research](https://cs.brown.edu/video/387/?quality=hires) (Meredith Ringel Morris)

@@ -35,6 +35,7 @@ Before you begin, choose a dataset. While you may use any dataset, be aware that
 * [Datasets underlying FiveThirtyEight stories](https://github.com/fivethirtyeight/data): Mostly cleaned, but may come in different formats.
 * [Data is Plural newsletter](https://docs.google.com/spreadsheets/d/1wZhPLMCHKJvwOkP4juclhjFgqIY8fQFMemwKL2c64vk/edit?gid=0#gid=0): fascinating datasets, but may not be cleaned/curated.
 * [Kaggle](https://www.kaggle.com/): geared toward machine learning use cases, but cleaned and usually well-tested. 
+* There's even more sites on the [Resources](../resources.md) page
 
 You will need to describe your dataset in your write-up, including any data cleaning you performed, anomalies you discovered, and how the data affected your visualization design choices.
 
