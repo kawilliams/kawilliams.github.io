@@ -25,7 +25,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="theme-color" content="#157878">
     <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
-    <link rel="stylesheet" href="/assets/css/style.css?v=4af130d43754748ec5db15bb07f0f1c301014c4f">
+    <link rel="stylesheet" href="/assets/css/style.css?v=bb2d5cf758a927de9c5cf3c8187605bfd562643a">
     <!-- start custom head snippets, customize with your own _includes/head-custom.html file -->
 
 <!-- Setup Google Analytics -->
@@ -57,8 +57,8 @@
 
 <ul>
   <li>Group size: Teams of 3-4</li>
-  <li>Design sprint starts: Wednesday, September 25, in class.</li>
-  <li>Design sprint ends: Wednesday, October 9, in class (demo). Design document due at <em>11:55 PM</em>.</li>
+  <li>Design sprint starts: Wednesday, September 24, in class.</li>
+  <li>Design sprint ends: Wednesday, October 13, in class (demo). Design document due at <em>11:55 PM</em>.</li>
 </ul>
 
 <h2 id="overview">Overview</h2>
@@ -71,10 +71,11 @@
 
 <p>Since you’ll be working in teams of four (4) for this project, I recommend that you split your team into pairs, with each pair tackling one lens (<em>analyze</em> versus <em>persuade</em>). However, depending on your design, you may choose to allocate your resources in the way you see best.</p>
 
-<p><strong>Examples:</strong> Here are two example submissions from Emory’s Hall of Fame:</p>
+<p><strong>Examples:</strong> Here are some example submissions the Hall of Fame:</p>
 <ul>
-  <li><a href="https://medium.com/@nssokada/design-for-understanding-401876c07b2d">Air Travel throughout COVID-19 Pandemic</a></li>
-  <li><a href="https://medium.com/@bookworm7572/ux-design-and-data-visualisation-a-ufo-case-study-5d3d9fcaa531">UX Design and Data Visualiztion: A UFO Case Study</a></li>
+  <li><a href="https://medium.com/@jekemp_72731/visualising-academic-performance-across-states-in-the-usa-0a1da0a2c2ab">Visualising Academic Performance across States in the USA</a></li>
+  <li>(Emory) <a href="https://medium.com/@nssokada/design-for-understanding-401876c07b2d">Air Travel throughout COVID-19 Pandemic</a></li>
+  <li>(Emory) <a href="https://medium.com/@bookworm7572/ux-design-and-data-visualisation-a-ufo-case-study-5d3d9fcaa531">UX Design and Data Visualiztion: A UFO Case Study</a></li>
 </ul>
 
 <h2 id="choose-a-dataset">Choose a Dataset</h2>
@@ -85,7 +86,12 @@
   <li><a href="https://github.com/fivethirtyeight/data">Datasets underlying FiveThirtyEight stories</a>: Mostly cleaned, but may come in different formats.</li>
   <li><a href="https://docs.google.com/spreadsheets/d/1wZhPLMCHKJvwOkP4juclhjFgqIY8fQFMemwKL2c64vk/edit?gid=0#gid=0">Data is Plural newsletter</a>: fascinating datasets, but may not be cleaned/curated.</li>
   <li><a href="https://www.kaggle.com/">Kaggle</a>: geared toward machine learning use cases, but cleaned and usually well-tested.</li>
+  <li>There’s even more sites on the <a href="/teaching/hci/resources">Resources</a> page</li>
 </ul>
+
+<p>You will need to describe your dataset in your write-up, including any data cleaning you performed, anomalies you discovered, and how the data affected your visualization design choices.</p>
+
+<p>*You may NOT use a dataset that’s been used in tutorials. For example, the IMDB dataset, the Les Mis dataset, and iris dataset may not be used. If you can Google “<name of="" dataset=""> data visualization" and see results from Kaggle or articles with "student work" in the body, then this dataset has been visualized to death and it will be difficult to bring a new angle to the visualizations.*</name></p>
 
 <h2 id="your-technology">Your Technology</h2>
 
@@ -119,7 +125,7 @@
 
 <ul>
   <li>
-    <p><strong>For Analysis:</strong> You should construct a series of graphs that clearly and effectively communicate the data. The properties of the data should align with your chart choice. Together, your charts (AT LEAST 3) should explore the data from different perspectives. <em>*For this analysis lens, your final “visualization” should really be more like a *dashboard</em> of three or more visualizations. **For example, <a href="http://square.github.io/crossfilter/">Airline on-time performance</a> or the <a href="https://public.tableau.com/app/profile/amya4869/viz/5-combination/Dashboard1">UFO Sightings</a> example. While you may not have the degree of interaction of this demo, note how it gives different perspectives of the same data.</p>
+    <p><strong>For Analysis:</strong> You should construct a series of graphs that clearly and effectively communicate the data. The properties of the data should align with your chart choice. Together, your charts (AT LEAST 3 DISTINCT VISUALIZATIONS) should explore the data from different perspectives. <em>*For this analysis lens, your final “visualization” should really be more like a *dashboard</em> of three or more visualizations. **For example, <a href="http://square.github.io/crossfilter/">Airline on-time performance</a> or the <a href="https://public.tableau.com/app/profile/amya4869/viz/5-combination/Dashboard1">UFO Sightings</a> example. While you may not have the degree of interaction of this demo, note how it gives different perspectives of the same data.</p>
   </li>
   <li>
     <p><strong>For Persuasion:</strong> There are very few guidelines here. I would encourage you to be creative and optimize for impact. Your design here should include <em>AT LEAST 3</em> charts <strong>OR</strong> utilize more sophisiticated persuasion techniques (e.g., storytelling techniques). For example, here is a visual/audio interpretation of data created by <a href="https://evanpeck.github.io/">Evan Peck</a> (note: you need audio, and you may find this upsetting): <a href="/teaching/hci/examples/15-Years-of-Mass-Shootings-in-America/index.html">15 Years of Mass Shootings in America</a> <a href="https://github.com/evanpeck/15-Years-of-Mass-Shootings-in-America">(GitHub with the code)</a>.</p>
@@ -137,12 +143,17 @@
 
 <h2 id="build-it">Build it.</h2>
 
-<p>Just build it! You may use AI (like ChatGPT, Claude, or Gemini) to assist with writing the code. Note that you may run into tensions between your imagined visualization and the one that you have time to create. That’s okay! Technical tradeoffs are a reality that any designer must encounter. Adjust your design (as needed), and be sure to discuss these tradeoffs in your design document.</p>
+<p>Just build it! You may use AI (like ChatGPT, Claude, or Gemini) to assist with writing the code. Note that you may run into tension between your imagined visualization and the one that you have time to create. That’s okay! Technical tradeoffs are a reality that any designer must encounter. Adjust your design (as needed), and be sure to discuss these tradeoffs in your design document. <em>Remember, the implementation is only about 20% of your grade and bugs are allowed – it’s far more important to be a contributing team member and to write an excellent design document about the process.</em></p>
 
 <h2 id="deliverables">Deliverables</h2>
 
 <ul>
-  <li>As always: Your group’s <a href="/teaching/hci/design-doc">design document</a> as a Medium blog post. Be sure to discuss both portraits, including the full project context as well as the scope of your specific contributions. <strong>You WILL need a <a href="https://kawilliams.github.io/teaching/hci/design-doc#demo-video">demo video</a> that captures the interactivity in the visualizations.</strong> Be sure to reflect on the contrast between the two ways you have chosen to communicate your data. There are certainly tradeoffs between the two.</li>
+  <li>As always: Your group’s <a href="/teaching/hci/design-doc">design document</a> as a Medium blog post. Be sure to discuss both visualizations (the analytical collection of three visualizations and the persuasive visualization), including the full project context as well as the scope of your specific contributions. <strong>You WILL need a <a href="https://kawilliams.github.io/teaching/hci/design-doc#demo-video">demo video</a> that captures the interactivity in the visualizations.</strong> Be sure to reflect on the contrast between the two ways you have chosen to communicate your data. There are certainly tradeoffs between the two.
+    <ul>
+      <li>In this design document, you should describe your dataset. What cleaning did you have to do? What challenges did you face when using this data?</li>
+      <li>You should also narrate your Five Design Sheet process and include images of each of the sheets. <em>You only need 5 sheets for the entire group</em></li>
+    </ul>
+  </li>
   <li>Both of your designs should be hosted on the web at publicly accessible links. That may be a standalone site that hosts your interactive visualization (like <a href="https://pages.github.com/">GitHub pages</a> or <a href="https://domains.davidson.edu/">Davidson Domains</a>), or an Observable notebook link for example. Essentially, we should be able to click around and interact with your designs. These links should be clearly included into your design reflection.</li>
   <li>Post the link of each blog post along with the names of your group members on our Slack channel for <code class="language-plaintext highlighter-rouge">#group-design-projects</code> <strong>and</strong> one group member should submit the link on Moodle.</li>
 </ul>

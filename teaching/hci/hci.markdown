@@ -352,7 +352,7 @@ All **reading** and **demos of design sprints** are due at 8:00 AM on the day of
     <td>
       <img class="reading" src="./images/book-open.svg" height="16" width="16">  <a href="https://people.cs.vt.edu/~gangwang/HCI.pdf#page=450">Research Ethics in HCI by Bruckman</a><br>
 			<img class="reading" src="./images/book-open.svg" height="16" width="16">  <a href="https://dl.icdst.org/pdfs/files4/4bb8d08a9b309df7d86e62ec4056ceef.pdf">Ch. 2 from <i>The Design of Everyday Things</i></a><br>
-			<img class="reading" src="./images/book-open.svg" height="16" width="16"> <b>Optional:</b> <a href="resources.md#vis">Resources on Vis Tools</a> (skim the relevant websites for tutorials)
+			<img class="reading" src="./images/book-open.svg" height="16" width="16"> <b>Optional:</b> <a href="resources#visualization-tools">Resources on Vis Tools</a> (skim the relevant websites for tutorials)
     </td>
     <td></td>
   </tr>
