@@ -348,8 +348,7 @@ All **reading** and **demos of design sprints** are due at 8:00 AM on the day of
   <tr>
     <td rowspan="2">6</td>
     <td>9/29</td>
-    <td>Guest Lecture: <a href="https://www.davidson.edu/people/elizabeth-smith-brigham">Liz Brigham</a>, at the Hurt Hub</td>
-    <!-- <td>Evaluation in HCI, Part 1</td> -->
+    <td>Evaluation in HCI, Part 1</td>
     <td>
       <img class="reading" src="./images/book-open.svg" height="16" width="16">  <a href="https://people.cs.vt.edu/~gangwang/HCI.pdf#page=450">Research Ethics in HCI by Bruckman</a><br>
 			<img class="reading" src="./images/book-open.svg" height="16" width="16">  <a href="https://dl.icdst.org/pdfs/files4/4bb8d08a9b309df7d86e62ec4056ceef.pdf">Ch. 2 from <i>The Design of Everyday Things</i></a><br>
@@ -371,7 +370,8 @@ All **reading** and **demos of design sprints** are due at 8:00 AM on the day of
   <tr>
     <td rowspan="2">7</td>
     <td>10/6</td>
-    <td>Accessibility + Universal Design, release <a href="/teaching/hci/assignments/hw4">HW 4</a></td>
+    <td>Guest Lecture: <a href="https://www.davidson.edu/people/elizabeth-smith-brigham">Liz Brigham</a>, at the Hurt Hub</td>
+    <!--<td>Accessibility + Universal Design, release <a href="/teaching/hci/assignments/hw4">HW 4</a></td>-->
     <td>
     <img class="watch" src="./images/display.svg" height="16" width="16"> (7 min) <a href="https://www.youtube.com/watch?v=A88E4DH2asQ">Adventures in Universal Design</a><br>
 		<img class="reading" src="./images/book-open.svg" height="16" width="16">  <a href="http://www.cs.cmu.edu/~io/publications/10MankoffASSETS.pdf">Disability Studies as a Source of Critical Inquiry for Assistive Technology</a><br>
