@@ -12,7 +12,7 @@ permalink: /teaching/hci/design-sprints/understanding
 
 * Group size: Teams of 3-4
 * Design sprint starts: Wednesday, September 24, in class.
-* Design sprint ends: Wednesday, October 13, in class (demo). Design document due at *11:55 PM*. 
+* Design sprint ends: Monday, October 13, in class (demo). Design document due at *11:55 PM*. 
 
 ## Overview 
 
@@ -39,7 +39,7 @@ Before you begin, choose a dataset. While you may use any dataset, be aware that
 
 You will need to describe your dataset in your write-up, including any data cleaning you performed, anomalies you discovered, and how the data affected your visualization design choices.
 
-*You may NOT use a dataset that's been used in tutorials. For example, the IMDB dataset, the Les Mis dataset, and iris dataset may not be used. If you can Google "<name of dataset> data visualization" and see results from Kaggle or articles with "student work" in the body, then this dataset has been visualized to death and it will be difficult to bring a new angle to the visualizations.* 
+*You may NOT use a dataset that's been used in tutorials*. For example, the IMDB dataset, the Les Mis dataset, and iris dataset may not be used. If you can Google "*name of dataset* data visualization" and see results from Kaggle or articles with "student work" in the body, then this dataset has been visualized to death and it will be difficult to bring a new angle to the visualizations.
 
 ## Your Technology
 
@@ -62,7 +62,7 @@ Both **logical reasoning** and **persuasive storytelling** are valuable perspect
 
 Each visualization should be sufficiently complex, whether that means including sophisticated storytelling techinques or by including several linked charts. See below for more details. 
 
-* **For Analysis:** You should construct a series of graphs that clearly and effectively communicate the data. The properties of the data should align with your chart choice. Together, your charts (AT LEAST 3 DISTINCT VISUALIZATIONS) should explore the data from different perspectives. **For this analysis lens, your final "visualization" should really be more like a *dashboard* of three or more visualizations. **For example, [Airline on-time performance](http://square.github.io/crossfilter/) or the [UFO Sightings](https://public.tableau.com/app/profile/amya4869/viz/5-combination/Dashboard1) example. While you may not have the degree of interaction of this demo, note how it gives different perspectives of the same data.
+* **For Analysis:** You should construct a series of graphs that clearly and effectively communicate the data. The properties of the data should align with your chart choice. Together, your charts (AT LEAST 3 DISTINCT VISUALIZATIONS) should explore the data from different perspectives. For this analysis lens, your final "visualization" should really be more like a *dashboard* of three or more visualizations. For example, [Airline on-time performance](http://square.github.io/crossfilter/) or the [UFO Sightings](https://public.tableau.com/app/profile/amya4869/viz/5-combination/Dashboard1) example. While you may not have the degree of interaction of this demo, the different visualizations gives different perspectives of the same data.
 
 * **For Persuasion:** There are very few guidelines here. I would encourage you to be creative and optimize for impact. Your design here should include *AT LEAST 3* charts **OR** utilize more sophisiticated persuasion techniques (e.g., storytelling techniques). For example, here is a visual/audio interpretation of data created by [Evan Peck](https://evanpeck.github.io/) (note: you need audio, and you may find this upsetting): [15 Years of Mass Shootings in America](/teaching/hci/examples/15-Years-of-Mass-Shootings-in-America/index.html) [(GitHub with the code)](https://github.com/evanpeck/15-Years-of-Mass-Shootings-in-America).
 
