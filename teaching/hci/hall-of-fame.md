@@ -35,11 +35,18 @@ permalink: /teaching/hci/hall-of-fame
 * Assorted students: [Slides of Good/Bad Design](https://docs.google.com/presentation/d/1_azEkhNANypysKkWe6Lyg-6c3SOy41YAq5U0Z6CUrC8/edit?usp=sharing) (Fall 2024)
 
 ## HW 2: Needfinding
+* Ellora Devulapally, "[Needfinding: How Can We Better Assist Caregivers?](https://medium.com/@ellora03/c3351ce76411)" (Fall 2025)
+* Kyle Hoffman, "[Needfinding: Scheduling Healthcare Appointments](https://medium.com/@kyhoffman/cf1937385051)" (Fall 2025)
+* Tyler Thompson, "[Needfinding: Tracking Fitness Goals and Metrics through Wearables](https://medium.com/@thompsontyler607/8451082de032)" (Fall 2025)
 * Fangyi Li, "[Needfinding: Cooking, Grocery Shopping, and More.](https://medium.com/@fali_9203/needfinding-cooking-grocery-shopping-and-more-7a15022e5aa0)" (Fall 2024)
 * Dmytro Kurdydyk, "[Needfinding: Navigating Healthcare as an International Student in the US](https://medium.com/@hci_enjoyer/needfinding-navigating-healthcare-as-an-international-student-in-the-us-95941d0f81a9)" (Fall 2024)
 
 
 ## HW 3: Health Design
+* Ellora Devulapally, "[Health Design: Building Tools for Caregiving](https://medium.com/@ellora03/28d3e7b47d08)"
+<!--* Tanaka Makoni, "[Prototyping a Health Insurance Billing Support App](https://medium.com/@tamakoni/prototyping-a-health-insurance-billing-support-app-8e86e889a64f)"
+* Mali White, "[Designing a Fitness Tracking Website](https://medium.com/@makwhite/designing-a-fitness-tracking-website-8131b67886d0)"
+* Ivy Yuan, "[Health Design: Prototyping for an App that Prevents Visual Fatigue](https://medium.com/@ivyuan_89714/e010ba70928c)"-->
 * Maddie Creed, "[Prototyping a nutrition tracking app](https://medium.com/@macreed/prototyping-a-nutrition-tracking-app-3a826f50c1a5)" (Fall 2024)
 * Augie Gallun, "[Health Design: Prototyping Process for Sleep Tracking/Habit Inducing Technology](https://medium.com/@augallun/health-design-prototyping-process-for-sleep-tracking-habit-inducing-technology-3d47d7991a32)" (Fall 2024)
 
