@@ -4,7 +4,7 @@ course: CSC 363 HCI
 course-url: /teaching/hci
 title: Hall of Fame
 description: The best of the best from assignments in Dr. Williams' CSC 363 class
-permalink: /teaching/hci/hall-of-fame
+permalink: /teaching/hci/hidden-hall-of-fame
 ---
 # Portfolios (individual)
 * Kyra Dalbo. ["HCI Portfolio 2024"](https://kyradalbo.dcreate.domains/)
