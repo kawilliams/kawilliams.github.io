@@ -59,7 +59,7 @@ casual on the internet and cause miscommunications or hurt feelings.
 ## Visitors and Field Trips
 HCI is a diverse field. It has computer scientists, psychologists, sociologists, historians, artists, and everything in between. Giving you one perspective (my perspective) would shed light on only a corner of an increasingly exciting field that is shaping how people engage with the world around them. As a result, we will often have an opportunity to chat with people across this broad spectrum in-person and virtually by Zoom. What you need to do:
 
-* Submit a question on Slack for our guest by 5pm the day before their visit.
+* Submit a question on Slack for our guest by 5pm Friday before their visit.
 * Before 8:00am the morning of the visit, indicate which current questions on Slack you like (with emoji, a comment, whatever). We will ask the top 3-5 questions submitted each week.
 * For each visitor, I will request that one student (on a volunteer basis) serve as the coordinator. You will be responsible for asking the questions of our visitor.
 
