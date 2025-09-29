@@ -44,9 +44,9 @@ permalink: /teaching/hci/hall-of-fame
 
 ## HW 3: Health Design
 * Ellora Devulapally, "[Health Design: Building Tools for Caregiving](https://medium.com/@ellora03/28d3e7b47d08)"
-<!--* Tanaka Makoni, "[Prototyping a Health Insurance Billing Support App](https://medium.com/@tamakoni/prototyping-a-health-insurance-billing-support-app-8e86e889a64f)"
+* Tanaka Makoni, "[Prototyping a Health Insurance Billing Support App](https://medium.com/@tamakoni/prototyping-a-health-insurance-billing-support-app-8e86e889a64f)"
 * Mali White, "[Designing a Fitness Tracking Website](https://medium.com/@makwhite/designing-a-fitness-tracking-website-8131b67886d0)"
-* Ivy Yuan, "[Health Design: Prototyping for an App that Prevents Visual Fatigue](https://medium.com/@ivyuan_89714/e010ba70928c)"-->
+<!-- * Ivy Yuan, "[Health Design: Prototyping for an App that Prevents Visual Fatigue](https://medium.com/@ivyuan_89714/e010ba70928c)"-->
 * Maddie Creed, "[Prototyping a nutrition tracking app](https://medium.com/@macreed/prototyping-a-nutrition-tracking-app-3a826f50c1a5)" (Fall 2024)
 * Augie Gallun, "[Health Design: Prototyping Process for Sleep Tracking/Habit Inducing Technology](https://medium.com/@augallun/health-design-prototyping-process-for-sleep-tracking-habit-inducing-technology-3d47d7991a32)" (Fall 2024)
 
