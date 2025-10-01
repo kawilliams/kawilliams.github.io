@@ -4,7 +4,7 @@ course: CSC 363 HCI
 course-url: /teaching/hci
 title: Hall of Fame
 description: The best of the best from assignments in Dr. Williams' CSC 363 class
-permalink: /teaching/hci/hidden-hall-of-fame
+permalink: /teaching/hci/hall-of-fame
 ---
 # Portfolios (individual)
 * Kyra Dalbo. ["HCI Portfolio 2024"](https://kyradalbo.dcreate.domains/)
@@ -35,11 +35,11 @@ permalink: /teaching/hci/hidden-hall-of-fame
 * Assorted students: [Slides of Good/Bad Design](https://docs.google.com/presentation/d/1_azEkhNANypysKkWe6Lyg-6c3SOy41YAq5U0Z6CUrC8/edit?usp=sharing) (Fall 2024)
 
 ## HW 2: Needfinding
-* Ellora Devulapally, "[Needfinding: How Can We Better Assist Caregivers?](https://medium.com/@ellora03/c3351ce76411)" (Fall 2025)
-* Kyle Hoffman, "[Needfinding: Scheduling Healthcare Appointments](https://medium.com/@kyhoffman/cf1937385051)" (Fall 2025)
-* Tyler Thompson, "[Needfinding: Tracking Fitness Goals and Metrics through Wearables](https://medium.com/@thompsontyler607/8451082de032)" (Fall 2025)
-* Fangyi Li, "[Needfinding: Cooking, Grocery Shopping, and More.](https://medium.com/@fali_9203/needfinding-cooking-grocery-shopping-and-more-7a15022e5aa0)" (Fall 2024)
-* Dmytro Kurdydyk, "[Needfinding: Navigating Healthcare as an International Student in the US](https://medium.com/@hci_enjoyer/needfinding-navigating-healthcare-as-an-international-student-in-the-us-95941d0f81a9)" (Fall 2024)
+* Ellora Devulapally, "Needfinding: How Can We Better Assist Caregivers?<!--(https://medium.com/@ellora03/c3351ce76411) -->" (Fall 2025)
+* Kyle Hoffman, "Needfinding: Scheduling Healthcare Appointments <!--(https://medium.com/@kyhoffman/cf1937385051)-->" (Fall 2025)
+* Tyler Thompson, "Needfinding: Tracking Fitness Goals and Metrics through Wearables <!--(https://medium.com/@thompsontyler607/8451082de032)-->" (Fall 2025)
+* Fangyi Li, "Needfinding: Cooking, Grocery Shopping, and More.<!--(https://medium.com/@fali_9203/needfinding-cooking-grocery-shopping-and-more-7a15022e5aa0)-->" (Fall 2024)
+* Dmytro Kurdydyk, "Needfinding: Navigating Healthcare as an International Student in the US<!--(https://medium.com/@hci_enjoyer/needfinding-navigating-healthcare-as-an-international-student-in-the-us-95941d0f81a9)-->" (Fall 2024)
 
 
 ## HW 3: Health Design
