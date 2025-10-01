@@ -373,19 +373,22 @@ All **reading** and **demos of design sprints** are due at 8:00 AM on the day of
     <td>Guest Lecture: <a href="https://www.davidson.edu/people/elizabeth-smith-brigham">Liz Brigham</a>, at the Hurt Hub</td>
     <!--<td>Accessibility + Universal Design, release <a href="/teaching/hci/assignments/hw4">HW 4</a></td>-->
     <td>
-    <img class="watch" src="./images/display.svg" height="16" width="16"> (7 min) <a href="https://www.youtube.com/watch?v=A88E4DH2asQ">Adventures in Universal Design</a><br>
+    <img class="watch" src="./images/display.svg" height="16" width="16"> (60 min) <a href="https://www.youtube.com/watch?v=9kC2KmtjFIU">"Hub & Spoke | Liz Smith Brigham '04"</a><br>
+    <img class="reading" src="./images/book-open.svg" height="16" width="16">  <a href="https://dl.icdst.org/pdfs/files4/4bb8d08a9b309df7d86e62ec4056ceef.pdf">Ch. 5 from <i>The Design of Everyday Things</i></a>
+    </td>
+    <!-- <img class="watch" src="./images/display.svg" height="16" width="16"> (7 min) <a href="https://www.youtube.com/watch?v=A88E4DH2asQ">Adventures in Universal Design</a><br>
 		<img class="reading" src="./images/book-open.svg" height="16" width="16">  <a href="http://www.cs.cmu.edu/~io/publications/10MankoffASSETS.pdf">Disability Studies as a Source of Critical Inquiry for Assistive Technology</a><br>
 		<img class="reading" src="./images/book-open.svg" height="16" width="16">  <a href="http://web.mit.edu/6.813/www/sp18/classes/18-accessibility/">Accessibility</a><br>
 		<img class="reading" src="./images/book-open.svg" height="16" width="16">  <a href="https://dl.icdst.org/pdfs/files4/4bb8d08a9b309df7d86e62ec4056ceef.pdf">Ch. 5 from <i>The Design of Everyday Things</i></a>
-		</td>
-    <td><i>Fall break Thurs, Oct 2 and Fri, Oct 3</i></td>
+		</td>-->
+    <td>Class will be held in the Hurt Hub. We will end at 9:15 to allow time to return to campus.</td> 
   </tr>
   <tr>
     <td>10/8</td>
     <td><a href="/teaching/hci/design-sprints/understanding">Demo: Design for Understanding</a> <br></td>
     <td></td>
     <td><a href="/teaching/hci/design-sprints/understanding">DS: Design for Understanding</a>
-    <i>Fall break Thurs, Oct 2 and Fri, Oct 3</i></td>
+    <i></i></td>
   </tr>
   <tr>
     <td rowspan="2">8</td>
