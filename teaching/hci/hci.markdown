@@ -222,7 +222,7 @@ All **reading** and **demos of design sprints** are due at 8:00 AM on the day of
     <td> 
     <!-- <img class="reading" src="./images/book-open.svg" height="16" width="16"><a href="https://www.interaction-design.org/literature/book/the-encyclopedia-of-human-computer-interaction-2nd-ed/contextual-design"> Contextual Design, Holtzblatt & Beyer.</a> <i>(reading due by Friday)</i><br />  -->
     </td>
-    <td><a href="https://forms.gle/wgfr3YYCUwwCq6nc6">Complete the course survey</a>.</td>
+    <td><a href="https://forms.gle/wgfr3YYCUwwCq6nc6">Complete the <br>course survey</a>.</td>
   </tr>
   <tr>
     <td>8/27</td>
@@ -326,7 +326,7 @@ All **reading** and **demos of design sprints** are due at 8:00 AM on the day of
     </td>
   </tr>
   <tr>
-    <td rowspan="2" id="this_week">5</td>
+    <td rowspan="2">5</td>
     <td>9/22</td>
     <td>Demo: <a href="/teaching/hci/design-sprints/dimensions">Design for Dimensions</a></td>
     <td>No prep</td>
@@ -368,10 +368,9 @@ All **reading** and **demos of design sprints** are due at 8:00 AM on the day of
     <td></td>
   </tr>
   <tr>
-    <td rowspan="2">7</td>
+    <td rowspan="2" id="this_week">7</td>
     <td>10/6</td>
     <td>Guest Lecture: <a href="https://www.davidson.edu/people/elizabeth-smith-brigham">Liz Brigham</a>, at the Hurt Hub</td>
-    <!--<td>Accessibility + Universal Design, release <a href="/teaching/hci/assignments/hw4">HW 4</a></td>-->
     <td>
     <img class="watch" src="./images/display.svg" height="16" width="16"> (60 min) <a href="https://www.youtube.com/watch?v=9kC2KmtjFIU">"Hub & Spoke | Liz Smith Brigham '04"</a><br>
     <img class="reading" src="./images/book-open.svg" height="16" width="16">  <a href="https://dl.icdst.org/pdfs/files4/4bb8d08a9b309df7d86e62ec4056ceef.pdf">Ch. 5 from <i>The Design of Everyday Things</i></a>
@@ -385,31 +384,37 @@ All **reading** and **demos of design sprints** are due at 8:00 AM on the day of
   </tr>
   <tr>
     <td>10/8</td>
-    <td><a href="/teaching/hci/design-sprints/understanding">Demo: Design for Understanding</a> <br></td>
-    <td></td>
-    <td><a href="/teaching/hci/design-sprints/understanding">DS: Design for Understanding</a>
-    <i></i></td>
-  </tr>
-  <tr>
-    <td rowspan="2">8</td>
-    <td>10/13</td>
-    <td><a href="/teaching/hci/design-sprints/another-world">Design for Another World</a> Intro, Augmented + Virtual Reality (guest: Dr. Peck)</td>
+    <td>Accessibility + Universal Design, release <a href="/teaching/hci/assignments/hw4">HW 4</a></td>
     <td>
-    <img class="reading" src="./images/book-open.svg" height="16" width="16"> <a href="https://medium.com/googleplaydev/applying-human-centered-design-to-emerging-technologies-6ad7f39d8d30">Applying human-centered design to emerging technologies (IDEO)</a> <br>
-		<img class="reading" src="./images/book-open.svg" height="16" width="16">  <a href="http://lavalle.pl/vr/vrch1.pdf">Virtual Reality Introduction by Steven M. LaValle</a> <br>
-		<img class="reading" src="./images/book-open.svg" height="16" width="16">  <a href="https://uxdesign.cc/design-practices-in-virtual-reality-f900f5935826">Design Practices in Virtual Reality</a> <br>
-		<img class="reading" src="./images/book-open.svg" height="16" width="16"> <b>Opt:</b> <a href="https://www.theatlantic.com/technology/archive/2016/03/virtual-reality-is-just-television-for-the-computer-junkie/475632/">Dystopian Virtual Reality is Finally Here (Ian Bogost)</a> <br>
-	  <img class="reading" src="./images/book-open.svg" height="16" width="16"> <b>Opt:</b> <a href="https://developer.apple.com/ios/human-interface-guidelines/technologies/augmented-reality/">AR Human Interface guidelines by Apple</a>										
+    <img class="watch" src="./images/display.svg" height="16" width="16"> (7 min) <a href="https://www.youtube.com/watch?v=A88E4DH2asQ">Adventures in Universal Design</a><br>
+    <img class="reading" src="./images/book-open.svg" height="16" width="16"> Against Technoableism by Ashley Shew, <a href="https://drive.google.com/file/d/1EacVgq1yIadAlaOWIzWNodCoEu_96a7l/view?usp=sharing">Chapter 1</a> and <a href="https://drive.google.com/file/d/1LWPhm4fWdmHVVVUOKEuaBXTHFmoYXreu/view?usp=sharing">Chapter 4</a><br>
+		<!-- <img class="reading" src="./images/book-open.svg" height="16" width="16">  <a href="http://www.cs.cmu.edu/~io/publications/10MankoffASSETS.pdf">Disability Studies as a Source of Critical Inquiry for Assistive Technology</a><br> -->
+		<img class="reading" src="./images/book-open.svg" height="16" width="16">  <a href="http://web.mit.edu/6.813/www/sp18/classes/18-accessibility/">Accessibility</a><br>
+		<!-- <img class="reading" src="./images/book-open.svg" height="16" width="16">  <a href="https://dl.icdst.org/pdfs/files4/4bb8d08a9b309df7d86e62ec4056ceef.pdf">Ch. 5 from <i>The Design of Everyday Things</i></a> -->
     </td>
     <td></td>
   </tr>
   <tr>
+    <td rowspan="2">8</td>
+    <td>10/13</td>
+    <td><a href="/teaching/hci/design-sprints/understanding">Demo: Design for Understanding</a> <br>
+    </td>
+    <td></td>
+    <td><a href="/teaching/hci/design-sprints/understanding">DS: Design for Understanding</a>	</td>
+  </tr>
+  <tr>
     <td>10/15</td>
-    <td>VR Demo + Hack: <a href="/teaching/hci/design-sprints/another-world">Design for Another World</a></td>
+    <td>
+    <a href="/teaching/hci/design-sprints/another-world">Design for Another World</a> Intro, Augmented + Virtual Reality
+    </td>
     <td>	
-    <img class="reading" src="./images/book-open.svg" height="16" width="16"> <a href="https://dl.icdst.org/pdfs/files4/4bb8d08a9b309df7d86e62ec4056ceef.pdf">Ch. 4 from <i>The Design of Everyday Things</i></a>
+    <img class="reading" src="./images/book-open.svg" height="16" width="16"> <a href="https://medium.com/googleplaydev/applying-human-centered-design-to-emerging-technologies-6ad7f39d8d30">Applying human-centered design to emerging technologies (IDEO)</a> <br>
+		<img class="reading" src="./images/book-open.svg" height="16" width="16">  <a href="http://lavalle.pl/vr/vrch1.pdf">Virtual Reality Introduction by Steven M. LaValle</a> <br>
+		<img class="reading" src="./images/book-open.svg" height="16" width="16">  <a href="https://uxdesign.cc/design-practices-in-virtual-reality-f900f5935826">Design Practices in Virtual Reality</a> <br>
+		<img class="reading" src="./images/book-open.svg" height="16" width="16"> <b>Opt:</b> <a href="https://www.theatlantic.com/technology/archive/2016/03/virtual-reality-is-just-television-for-the-computer-junkie/475632/">Dystopian Virtual Reality is Finally Here (Ian Bogost)</a> <br>
+	  <img class="reading" src="./images/book-open.svg" height="16" width="16"> <b>Opt:</b> <a href="https://developer.apple.com/ios/human-interface-guidelines/technologies/augmented-reality/">AR Human Interface guidelines by Apple</a>	
 		</td>
-    <td><a href="/teaching/hci/assignments/hw4">HW 4: Campus Accessibility</a></td>
+    <td><a href="/teaching/hci/assignments/hw4">HW 4: Accessibility</a> is due on Friday</td>
   </tr>
   <tr>
     <td rowspan="2">9</td>
