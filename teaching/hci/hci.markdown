@@ -387,7 +387,7 @@ All **reading** and **demos of design sprints** are due at 8:00 AM on the day of
     <td>Accessibility + Universal Design, release <a href="/teaching/hci/assignments/hw4">HW 4</a></td>
     <td>
     <img class="watch" src="./images/display.svg" height="16" width="16"> (7 min) <a href="https://www.youtube.com/watch?v=A88E4DH2asQ">Adventures in Universal Design</a><br>
-    <img class="reading" src="./images/book-open.svg" height="16" width="16">  <a href="./link-to-page">Against Technoableism by Ashley Shew</a>, <a href="https://drive.google.com/file/d/1EacVgq1yIadAlaOWIzWNodCoEu_96a7l/view?usp=sharing">Chapter 1</a> and <a href="https://drive.google.com/file/d/1LWPhm4fWdmHVVVUOKEuaBXTHFmoYXreu/view?usp=sharing">Chapter 4</a><br>
+    <img class="reading" src="./images/book-open.svg" height="16" width="16"> Against Technoableism by Ashley Shew, <a href="https://drive.google.com/file/d/1EacVgq1yIadAlaOWIzWNodCoEu_96a7l/view?usp=sharing">Chapter 1</a> and <a href="https://drive.google.com/file/d/1LWPhm4fWdmHVVVUOKEuaBXTHFmoYXreu/view?usp=sharing">Chapter 4</a><br>
 		<!-- <img class="reading" src="./images/book-open.svg" height="16" width="16">  <a href="http://www.cs.cmu.edu/~io/publications/10MankoffASSETS.pdf">Disability Studies as a Source of Critical Inquiry for Assistive Technology</a><br> -->
 		<img class="reading" src="./images/book-open.svg" height="16" width="16">  <a href="http://web.mit.edu/6.813/www/sp18/classes/18-accessibility/">Accessibility</a><br>
 		<!-- <img class="reading" src="./images/book-open.svg" height="16" width="16">  <a href="https://dl.icdst.org/pdfs/files4/4bb8d08a9b309df7d86e62ec4056ceef.pdf">Ch. 5 from <i>The Design of Everyday Things</i></a> -->
