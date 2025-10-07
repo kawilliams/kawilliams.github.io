@@ -34,6 +34,8 @@ and remind me about an upcoming absence, I am *more likely* to be flexible with 
 
 ## Engagement with the course reading materials (7 percentage points of out 10)
 
+**For current students: [question bank](https://drive.google.com/drive/folders/1IynhHsEEteqDQFZNE3wUtOQmi0LA20JO?usp=sharing) (to use to study for the midterm)**
+
 I expect you to come prepared to class, having done the readings before class. I do *not* expect you
 to fully understand the readings; however, you should ask about the things you do not understand. 
 We will have a few minutes at the start of class to review the readings before we answer quiz questions
