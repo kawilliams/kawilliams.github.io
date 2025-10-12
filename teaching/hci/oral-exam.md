@@ -12,7 +12,7 @@ permalink: teaching/hci/oral-exam
 
 # Oral Exam
 * Group size: Individual
-* Date: October 23, 2024 and October 24, 2024
+* Date: October 22, 2025 and October 23, 2025
 
 ## Overview 
 The [learning objectives](./hci.markdown#learning-objectives) for the class center upon practical skills that will help you understand and execute a user-centered design process that we apply throughout the semester. Written assignments and demos for group design sprints can shed insight on what you've learned. The oral exam will fill in one more piece of the puzzle in assessing how well you can apply what you've learned. **Think of it like an interview** -- crucial practice for the many seniors in this class.
@@ -21,7 +21,7 @@ We will have one oral exam that will serve as the midterm grade. Sign up for a t
 
 ## Format
 
-An oral exam will function like an interview. You will sign up for a time slot during the exam period during which you and I will meet. The oral exam will be a ~10-minute conversation and will typically consist of just a few (1-3) questions that can range from theory to applying those theories. This is your opportunity to demonstrate how you can apply the things you have learned throughout the semester, in a way not dissimilar from what you might be asked about in an interview for a job role as a UX designer or UX researcher. I may ask follow-up questions based on your responses or provide additional prompts and hints.
+An oral exam will function like an interview. You will sign up for a time slot during the oral exam period during which you and I will meet. The oral exam will be a ~10-minute conversation and will typically consist of just a few (1-3) questions that can range from theory to applying those theories. This is your opportunity to demonstrate how you can apply the things you have learned throughout the semester, in a way not dissimilar from what you might be asked about in an interview for a job role as a UX designer or UX researcher. I may ask follow-up questions based on your responses or provide additional prompts and hints.
 
 ## Grading
 
