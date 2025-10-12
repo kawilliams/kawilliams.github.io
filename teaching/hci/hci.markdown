@@ -368,7 +368,7 @@ All **reading** and **demos of design sprints** are due at 8:00 AM on the day of
     <td></td>
   </tr>
   <tr>
-    <td rowspan="2" id="this_week">7</td>
+    <td rowspan="2">7</td>
     <td>10/6</td>
     <td>Guest Lecture: <a href="https://www.davidson.edu/people/elizabeth-smith-brigham">Liz Brigham</a>, at the Hurt Hub</td>
     <td>
@@ -395,7 +395,7 @@ All **reading** and **demos of design sprints** are due at 8:00 AM on the day of
     <td></td>
   </tr>
   <tr>
-    <td rowspan="2">8</td>
+    <td rowspan="2" id="this_week">8</td>
     <td>10/13</td>
     <td><a href="/teaching/hci/design-sprints/understanding">Demo: Design for Understanding</a> <br>
     </td>
@@ -411,7 +411,7 @@ All **reading** and **demos of design sprints** are due at 8:00 AM on the day of
     <img class="reading" src="./images/book-open.svg" height="16" width="16"> <a href="https://medium.com/googleplaydev/applying-human-centered-design-to-emerging-technologies-6ad7f39d8d30">Applying human-centered design to emerging technologies (IDEO)</a> <br>
 		<img class="reading" src="./images/book-open.svg" height="16" width="16">  <a href="http://lavalle.pl/vr/vrch1.pdf">Virtual Reality Introduction by Steven M. LaValle</a> <br>
 		<img class="reading" src="./images/book-open.svg" height="16" width="16">  <a href="https://uxdesign.cc/design-practices-in-virtual-reality-f900f5935826">Design Practices in Virtual Reality</a> <br>
-		<img class="reading" src="./images/book-open.svg" height="16" width="16"> <b>Opt:</b> <a href="https://www.theatlantic.com/technology/archive/2016/03/virtual-reality-is-just-television-for-the-computer-junkie/475632/">Dystopian Virtual Reality is Finally Here (Ian Bogost)</a> <br>
+		<!-- <img class="reading" src="./images/book-open.svg" height="16" width="16"> <b>Opt:</b> <a href="https://www.theatlantic.com/technology/archive/2016/03/virtual-reality-is-just-television-for-the-computer-junkie/475632/">Dystopian Virtual Reality is Finally Here (Ian Bogost)</a> <br> -->
 	  <img class="reading" src="./images/book-open.svg" height="16" width="16"> <b>Opt:</b> <a href="https://developer.apple.com/ios/human-interface-guidelines/technologies/augmented-reality/">AR Human Interface guidelines by Apple</a>	
 		</td>
     <td><a href="/teaching/hci/assignments/hw4">HW 4: Accessibility</a> is due on Friday</td>
