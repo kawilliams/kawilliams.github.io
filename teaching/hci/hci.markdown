@@ -442,24 +442,22 @@ All **reading** and **demos of design sprints** are due at 8:00 AM on the day of
   </tr>
   <tr>
     <td>10/29</td>
+    <td>Prototyping and partial Hack Day</td>
+    <td> <img class="watch" src="./images/display.svg" height="16" width="16"> (8 min) <a href="https://www.youtube.com/watch?v=d5_h1VuwD6g">Rapid Prototyping Google Glass</a><br>
+			<img class="watch" src="./images/display.svg" height="16" width="16"> (4 min) <a href="https://www.youtube.com/watch?v=IZy7dZOGjc0">How to Design a Smart Watch</a><br>
+			<img class="watch" src="./images/display.svg" height="16" width="16"> (15 min) <a href="https://www.youtube.com/watch?v=Oee8VfjR1CE">Prototyping and Model Making</a></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td rowspan="2">11</td>
+    <td>11/3</td>
     <td>Demo: <a href="/teaching/hci/design-sprints/another-world">Design for Another World</a></td>
     <td>No prep</td>
     <td><a href="/teaching/hci/design-sprints/another-world">DS: Design for Another World</a></td>
   </tr>
   <tr>
-    <td rowspan="2">11</td>
-    <td>11/3</td>
-    <td>Prototyping and <a href="/teaching/hci/design-sprints/redesign">Re-design and Extend</a> Intro + Hack</td>
-    <td>
-    	<img class="watch" src="./images/display.svg" height="16" width="16"> (8 min) <a href="https://www.youtube.com/watch?v=d5_h1VuwD6g">Rapid Prototyping Google Glass</a><br>
-			<img class="watch" src="./images/display.svg" height="16" width="16"> (4 min) <a href="https://www.youtube.com/watch?v=IZy7dZOGjc0">How to Design a Smart Watch</a><br>
-			<img class="watch" src="./images/display.svg" height="16" width="16"> (15 min) <a href="https://www.youtube.com/watch?v=Oee8VfjR1CE">Prototyping and Model Making</a>
-		</td>
-    <td></td>
-  </tr>
-  <tr>
     <td>11/5</td>
-    <td>Affective Computing</td>
+    <td>Affective Computing and <a href="/teaching/hci/design-sprints/redesign">Re-design and Extend</a> Intro</td>
     <td>
     	<img class="reading" src="./images/book-open.svg" height="16" width="16"> <a href="https://www.interaction-design.org/literature/book/the-encyclopedia-of-human-computer-interaction-2nd-ed/affective-computing">Affective Computing by Höök</a><br>
 			<img class="watch" src="./images/display.svg" height="16" width="16"> (20 min) <a href="https://www.youtube.com/watch?v=bbGP53IIMfg">The Future of Affective Computing</a><br>
@@ -472,8 +470,10 @@ All **reading** and **demos of design sprints** are due at 8:00 AM on the day of
   <tr>
   <td rowspan="2">12</td>
     <td>11/10</td>
-    <td>Hack: <a href="/teaching/hci/design-sprints/redesign">Re-design and Extend</a> (at DACE Studio -- north basement of Chambers (flagpole side))</td>
-    <td><img class="watch" src="./images/display.svg" height="16" width="16" ><a href="https://www.youtube.com/watch?v=JMjozqJS44M">(8 minutes) Rapid Prototyping: Sketching by Google for Startups</a></td>
+    <td>Hack: <a href="/teaching/hci/design-sprints/redesign">Re-design and Extend</a> 
+    <!--(at DACE Studio -- north basement of Chambers (flagpole side))-->
+    </td>
+    <td><img class="watch" src="./images/display.svg" height="16" width="16" ><a href="https://www.youtube.com/watch?v=JMjozqJS44M"> (8 minutes) Rapid Prototyping: Sketching by Google for Startups</a></td>
     <td></td>
   </tr>
   <tr>
