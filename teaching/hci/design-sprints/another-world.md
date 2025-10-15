@@ -11,8 +11,8 @@ permalink: /teaching/hci/design-sprints/another-world
 # Design for Another World
 
 * Group size: Teams of 3-4
-* Design sprint starts: Monday, October 14, in class.
-* Design sprint ends: Wednesday, October 30, in class (demo). [Design document](/teaching/hci/design-doc) due at *11:55 PM*. 
+* Design sprint starts: Wednesday, October 15, in class.
+* Design sprint ends: Monday, November 3, in class (demo). [Design document](/teaching/hci/design-doc) due at *11:55 PM*. 
 
 ## Overview 
 
@@ -26,11 +26,11 @@ A couple of quick pointers before you start:
 * **Careful with interaction.** Because of time and hardware limitations (you’ll likely be using [A-Frame](https://aframe.io/) or [Unity](https://unity.com/) + [Google cardboard](https://vr.google.com/cardboard/) or a comparable VR viewer), consider what input mechanisms you may even have available to you before getting too deep into the development. If you have experience with it or want to dive in, you may prefer to use Unity, although A-Frame can be a bit easier to learn.
 * **Design ambitiously.** Learning to develop with new technologies is hard -- but rapid prototyping for design is important, so try your best. All of these cautions aside, I would *much* rather see a buggy implementation of an ambitious design than a fully operational implementation of a "safe" design. Take chances, and if the implementation doesn't work out, *that's ok*.
 
-You can view some previous Hall of Fame examples from Emory here: [Chinese New Year Story](https://medium.com/@kathy.ning7/design-for-another-world-vr-storytelling-2627da71af6f), [VR Art Gallery](https://medium.com/@yuton.hsu/walking-into-paintings-a-vr-gallery-c3f6a64eaca0). Here's another example from Bucknell: [Bucknell 2100](https://medium.com/bucknell-hci/bucknell-2100-design-for-another-world-d452e9f2df7f). 
+You can view some previous [Hall of Fame examples](../hall-of-fame.md) from our class. Here are some additional ideas from Emory: [Chinese New Year Story](https://medium.com/@kathy.ning7/design-for-another-world-vr-storytelling-2627da71af6f), [VR Art Gallery](https://medium.com/@yuton.hsu/walking-into-paintings-a-vr-gallery-c3f6a64eaca0). Finally, another example from Bucknell: [Bucknell 2100](https://medium.com/bucknell-hci/bucknell-2100-design-for-another-world-d452e9f2df7f). 
 
 ## Technology
 
-**VR Viewers:** I have purchase several [Google Cardboard](https://www.youtube.com/watch?v=SxAj2lyX4oU) viewers for us to use. If you haven't used this before, you essentially can insert your phone into a low-cost VR viewer. It uses a binocular viewing port (two separate lenses) that can simulate depth in a virtual scene. Strapped to your face, the viewer uses your phone's gyroscope to track your movements and allow you to move around a scene. To use it, visit your VR scene in the web browser on your phone, then insert your phone in the viewer. Check out some of the [apps that have been developed for Google Cardboard](https://play.google.com/store/search?q=cardboard+apps&c=apps&hl=en_US&pli=1) for some ideas of what is possible.
+**VR Viewers:** I have purchased several [Google Cardboard](https://www.youtube.com/watch?v=SxAj2lyX4oU) viewers for us to use. If you haven't used this before, you essentially can insert your phone into a low-cost VR viewer. It uses a binocular viewing port (two separate lenses) that can simulate depth in a virtual scene. Strapped to your face, the viewer uses your phone's gyroscope to track your movements and allow you to move around a scene. To use it, visit your VR scene in the web browser on your phone, then insert your phone in the viewer. Check out some of the [apps that have been developed for Google Cardboard](https://play.google.com/store/search?q=cardboard+apps&c=apps&hl=en_US&pli=1) for some ideas of what is possible.
 
 **Unity:** [Unity](https://unity.com/) is a development platform and game engine for AR and VR. It relies primarily on coding in C#. Find [resources](https://learn.unity.com/) on the web to get started.
 
@@ -40,12 +40,12 @@ You can view some previous Hall of Fame examples from Emory here: [Chinese New Y
 ## Deliverables
 
 * As always: Your group's design reflection as a blog post on Medium. **You WILL need a demo video.** Follow the guidelines in the [Design Doc](/teaching/hci/design-doc) explanation
-* Your VR experience should be publicly accessible so that others can visit it. **Include this link in your design doc.** It’s fine if this is a link from Glitch (which is probably the easiest place to develop your work).
+* Your VR experience should be publicly accessible so that others can visit it (if approved by all group members). **If it's public, then you need to include this link in your design doc.** It’s fine if this is a link from Glitch (which is probably the easiest place to develop your work).
     * The VR experience link may break over time or the libraries used may get out of date. **This is why we make a video: the video link should stay stable over time.** Also, it's more likely that a reader's browser would support a video than a graphics-intensive VR environment.
-* Post the link of each blog post along with the names of your group members on our Slack channel for `#group_design_projects` **and** one group member should submit the link on Moodle.
+* One group member should submit the Medium link on Moodle. *Be sure to notify all of your group members once you have submitted the post!*
 
 **Grading:** Grading will be based on the [design rubric](https://docs.google.com/spreadsheets/d/1aI9LcmVZmh_977G__U4Guz_rPRCwWZs26J_yHXbhSyY/edit?usp=sharing). Be sure to complete the [peer feedback form](https://forms.gle/GFQhygcpcVjDVhzy7) linked
-at the enf of the [design document guide](/teaching/hci/design-doc), which will be a large part of your grade. 
+at the end of the [design document guide](/teaching/hci/design-doc), which will be a large part of your grade. 
 
 -----
 
