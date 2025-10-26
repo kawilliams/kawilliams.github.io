@@ -483,7 +483,8 @@ All **reading** and **demos of design sprints** are due at 8:00 AM on the day of
     <img class="reading" src="./images/book-open.svg" height="16" width="16"> <a href="http://erichorvitz.com/chi99horvitz.pdf">Principles of Mixed-Initiative User Interfaces by Horvitz</a> (Intro + Principles) <br> 
 		<img class="reading" src="./images/book-open.svg" height="16" width="16">  <a href="./papers/gesture-interfaces.pdf">Gestural Interfaces: A Step Backward in Usability</a><br> 
 		<img class="watch" src="./images/display.svg" height="16" width="16">  (8 min) <a href="https://www.youtube.com/watch?v=NcdrfacG_y4">Bill Buxton on Natural User Interfaces</a><br>
-		<img class="reading" src="./images/book-open.svg" height="16" width="16"> <b>Opt:</b> <a href="https://www.microsoft.com/en-us/research/wp-content/uploads/2016/11/Input-Technologies-and-Techniques-HCI-Handbook-3rd-Edition.pdf">Input Technologies and Techniques by Hinckley and Wigdor</a></td>
+    https://drive.google.com/file/d/1_rq6XCXLg2JvU6YV4XJ4lNZKHai9pCtQ/view?usp=sharing
+		<!-- <img class="reading" src="./images/book-open.svg" height="16" width="16"> <b>Opt:</b> <a href="https://www.microsoft.com/en-us/research/wp-content/uploads/2016/11/Input-Technologies-and-Techniques-HCI-Handbook-3rd-Edition.pdf">Input Technologies and Techniques by Hinckley and Wigdor</a></td> -->
     <td></td>
   </tr>
   <tr>
