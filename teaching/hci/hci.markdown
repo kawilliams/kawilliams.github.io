@@ -395,7 +395,7 @@ All **reading** and **demos of design sprints** are due at 8:00 AM on the day of
     <td></td>
   </tr>
   <tr>
-    <td rowspan="2" id="this_week">8</td>
+    <td rowspan="2" >8</td>
     <td>10/13</td>
     <td><a href="/teaching/hci/design-sprints/understanding">Demo: Design for Understanding</a> <br>
     </td>
@@ -430,7 +430,7 @@ All **reading** and **demos of design sprints** are due at 8:00 AM on the day of
     <td></td>
     <td></td>
   <tr>
-    <td rowspan="2">10</td>
+    <td rowspan="2" id="this_week" >10</td>
     <td >10/27</td>
     <td>Tangible + Wearable Interfaces</td>
     <td>
