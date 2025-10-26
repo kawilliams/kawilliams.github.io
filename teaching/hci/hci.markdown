@@ -489,8 +489,11 @@ All **reading** and **demos of design sprints** are due at 8:00 AM on the day of
   <tr>
   <td rowspan="2">13</td>
     <td>11/17</td>
+    <td>Visit the Archives (8:30 AM - 9:20 AM)</td>
+    <td>TBD</td>
+    <!-- <td>11/17</td>
     <td>Hack Day: <a href="/teaching/hci/design-sprints/redesign">Re-design and Extend</a></td>
-    <td>No prep</td>
+    <td>No prep</td> -->
     <td></td>
   </tr>
   <tr>
