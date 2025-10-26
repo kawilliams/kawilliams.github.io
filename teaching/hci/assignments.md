@@ -14,11 +14,11 @@ permalink: teaching/hci/assignments
 
 ## Evaluation (course breakdown)
 
-* Scheduled Research Reflections (blog posts) – 20%
-* Individual assignments based on weekly content – 25%
+* Individual assignments based on weekly content – 15%
 * Group projects (3 students) that explore the design space of a technical modality – 40%
-* A final design manifesto and portfolio at the end of the semester – 10%
-* Engagement with class visitors and trips – 5%
+* A final design manifesto and portfolio at the end of the semester – 20%
+* Engagement with class visitors and trips – 10%
+* Oral Exam - 15%
 
 ## Assignments
 
@@ -28,8 +28,8 @@ Most of your assignments will culminate in a [design doc](https://kawilliams.git
 
 | Objective | Weight | Description                     |
 |-----------|--------|---------------------------------|
-|           | 20%    | [Individual homework assignments](/teaching/hci/homework/homework) |
-|           | 5%     | [Engagement and critique](/teaching/hci/engagement/)         |
+|           | 15%    | [Individual homework assignments](/teaching/hci/homework/homework) |
+|           | 10%     | [Engagement and critique](/teaching/hci/engagement/)         |
 |           | 40%    | [Group design sprints](/teaching/hci/design-sprints/design-sprints)         |
 |           | 20%    | [Final project](/teaching/hci/final-project)                   |
 |           | 15%    | [Oral exam](teaching/hci/oral-exam)                       |
