@@ -430,7 +430,7 @@ All **reading** and **demos of design sprints** are due at 8:00 AM on the day of
     <td></td>
     <td></td>
   <tr>
-    <td rowspan="2" id="this_week" >10</td>
+    <td rowspan="2" >10</td>
     <td >10/27</td>
     <td>Tangible + Wearable Interfaces</td>
     <td>
@@ -449,7 +449,7 @@ All **reading** and **demos of design sprints** are due at 8:00 AM on the day of
     <td></td>
   </tr>
   <tr>
-    <td rowspan="2">11</td>
+    <td rowspan="2" id="this_week">11</td>
     <td>11/3</td>
     <td>Demo: <a href="/teaching/hci/design-sprints/another-world">Design for Another World</a></td>
     <td>No prep</td>
@@ -459,11 +459,16 @@ All **reading** and **demos of design sprints** are due at 8:00 AM on the day of
     <td>11/5</td>
     <td>Affective Computing and <a href="/teaching/hci/design-sprints/redesign">Re-design and Extend</a> Intro</td>
     <td>
-    	<img class="reading" src="./images/book-open.svg" height="16" width="16"> <a href="https://www.interaction-design.org/literature/book/the-encyclopedia-of-human-computer-interaction-2nd-ed/affective-computing">Affective Computing by Höök</a><br>
+    <img class="reading" src="./images/book-open.svg" height="16" width="16"><a href="https://www.interaction-design.org/literature/topics/affective-computing"> Affective Computing</a><br>
+    <img class="video" src="./images/display.svg" height="16" width="16"><a href="https://www.media.mit.edu/groups/affective-computing/overview/"> [2:53] Watch the video midway down the page: "Affective Computing overview" by Rosalind Picard</a><br>
+    <img class="video" src="./images/display.svg" height="16" width="16"><a href="https://www.youtube.com/watch?v=rzvBzbbcJ7o/"> [7:44]
+Wearable Tech to Improve Women's Health Research</a><br>
+    
+   	<!-- <img class="reading" src="./images/book-open.svg" height="16" width="16"> <a href="https://www.interaction-design.org/literature/book/the-encyclopedia-of-human-computer-interaction-2nd-ed/affective-computing">Affective Computing by Höök</a><br>
 			<img class="watch" src="./images/display.svg" height="16" width="16"> (20 min) <a href="https://www.youtube.com/watch?v=bbGP53IIMfg">The Future of Affective Computing</a><br>
 			<img class="reading" src="./images/book-open.svg" height="16" width="16"> <b>Opt:</b> <a href="https://www.technologyreview.com/s/609071/we-need-computers-with-empathy/?utm_campaign=Owned+Social&amp;utm_source=Twitter&amp;utm_medium=Owned+Social">We Need Computers with Empathy</a><br>
 			<img class="watch" src="./images/display.svg" height="16" width="16"> <b>Opt:</b> (16 min) <a href="https://www.youtube.com/watch?v=wUvmqKvZQ-0">Time for Technologies to Respect our Psychological Needs by Calvo</a><br>
-			<img class="watch" src="./images/display.svg" height="16" width="16"> <b>Opt:</b> (52 min) <a href="https://www.youtube.com/watch?v=su25HMMygaA">Emotion Technology by Picard</a>										
+			<img class="watch" src="./images/display.svg" height="16" width="16"> <b>Opt:</b> (52 min) <a href="https://www.youtube.com/watch?v=su25HMMygaA">Emotion Technology by Picard</a>										 -->
     </td>
     <td></td>
   </tr>
