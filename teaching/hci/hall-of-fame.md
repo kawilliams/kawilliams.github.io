@@ -52,6 +52,9 @@ permalink: /teaching/hci/hall-of-fame
 
 
 ## HW 4: Accessibility
+<!-- * Kyle Hoffman, "[Surfing the Digital World via Tab](https://medium.com/@kyhoffman/surfing-the-digital-world-via-tab-c0252f4217cc)" (Fall 2025) -->
+* Jordan Whitehouse, "[Mapping Campus Accessibility at Davidson College](https://medium.com/@jowhitehouse_64694/mapping-campus-accessibility-at-davidson-college-7ddda48b9b44)" (Fall 2025)
+<!-- * Ivy Yuan, "[Testing with Digital Accessibility on Multiple Websites](https://medium.com/@ivyuan_89714/73eafdd074ba)" (Fall 2025) -->
 * Maddie Creed, "[Mapping accessible paths on Davidson’s campus](https://medium.com/@macreed/mapping-accessible-paths-on-davidsons-campus-bcce6fc73dc7)" (Fall 2024)
 * Saahil Khemka, "[Campus Accessibility: Davidson College Senior Apartments](https://medium.com/@sakhemka/campus-accessibility-davidson-college-senior-apartments-d2b003e35ba7)" (Fall 2024)
 * Fangyi Li, "[Mapping Campus Accessibility at Davidson College](https://medium.com/@fali_9203/mapping-campus-accessibility-at-davidson-college-1b014eaee558)" (Fall 2024)
