@@ -497,11 +497,11 @@ Wearable Tech to Improve Women's Health Research</a><br>
   <td rowspan="2">13</td>
     <td>11/17</td>
     <td>Visit the Archives (8:30 AM - 9:20 AM)</td>
-    <td>TBD</td>
+    <td>Complete this <a href="https://docs.google.com/document/d/1IKPJz1E_6wFcdmzh3I2UBjiDRhugH1k9qeaCVbw0Esk/edit?usp=sharing">Archives Prep</a> worksheet and submit it to Moodle</td>
     <!-- <td>11/17</td>
     <td>Hack Day: <a href="/teaching/hci/design-sprints/redesign">Re-design and Extend</a></td>
     <td>No prep</td> -->
-    <td></td>
+    <td>Submit your <a href="https://docs.google.com/document/d/1IKPJz1E_6wFcdmzh3I2UBjiDRhugH1k9qeaCVbw0Esk/edit?usp=sharing">Archives Prep</a> worksheet <b>by 8:20 AM (due before we visit the Archives)</b></td>
   </tr>
   <tr>
     <td>11/19</td>
