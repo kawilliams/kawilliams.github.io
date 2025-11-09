@@ -449,7 +449,7 @@ All **reading** and **demos of design sprints** are due at 8:00 AM on the day of
     <td></td>
   </tr>
   <tr>
-    <td rowspan="2" id="this_week">11</td>
+    <td rowspan="2">11</td>
     <td>11/3</td>
     <td>Demo: <a href="/teaching/hci/design-sprints/another-world">Design for Another World</a></td>
     <td>No prep</td>
@@ -473,7 +473,7 @@ Wearable Tech to Improve Women's Health Research</a><br>
     <td></td>
   </tr>
   <tr>
-  <td rowspan="2">12</td>
+  <td rowspan="2" id="this_week">12</td>
     <td>11/10</td>
     <td>Hack: <a href="/teaching/hci/design-sprints/redesign">Re-design and Extend</a> 
     <!--(at DACE Studio -- north basement of Chambers (flagpole side))-->
@@ -485,10 +485,11 @@ Wearable Tech to Improve Women's Health Research</a><br>
     <td>11/12</td>
     <td>Interface Metaphors + Input Techniques</td>
     <td>
-    <img class="reading" src="./images/book-open.svg" height="16" width="16"> <a href="http://erichorvitz.com/chi99horvitz.pdf">Principles of Mixed-Initiative User Interfaces by Horvitz</a> (Intro + Principles) <br> 
-		<img class="reading" src="./images/book-open.svg" height="16" width="16">  <a href="./papers/gesture-interfaces.pdf">Gestural Interfaces: A Step Backward in Usability</a><br> 
+    <!-- <img class="reading" src="./images/book-open.svg" height="16" width="16"> <a href="http://erichorvitz.com/chi99horvitz.pdf">Principles of Mixed-Initiative User Interfaces by Horvitz</a> (Intro + Principles) <br>  -->
 		<img class="watch" src="./images/display.svg" height="16" width="16">  (8 min) <a href="https://www.youtube.com/watch?v=NcdrfacG_y4">Bill Buxton on Natural User Interfaces</a><br>
-    https://drive.google.com/file/d/1_rq6XCXLg2JvU6YV4XJ4lNZKHai9pCtQ/view?usp=sharing
+    <img class="reading" src="./images/book-open.svg" height="16" width="16">  <a href="./papers/gesture-interfaces.pdf">Gestural Interfaces: A Step Backward in Usability</a><br> 
+		<img class="reading" src="./images/book-open.svg" height="16" width="16"> <a href="https://drive.google.com/file/d/1_rq6XCXLg2JvU6YV4XJ4lNZKHai9pCtQ/view?usp=sharing">User-Defined Gestures for Surface Computing by Wobbrock et al.</a>
+    
 		<!-- <img class="reading" src="./images/book-open.svg" height="16" width="16"> <b>Opt:</b> <a href="https://www.microsoft.com/en-us/research/wp-content/uploads/2016/11/Input-Technologies-and-Techniques-HCI-Handbook-3rd-Edition.pdf">Input Technologies and Techniques by Hinckley and Wigdor</a></td> -->
     <td></td>
   </tr>
@@ -505,7 +506,7 @@ Wearable Tech to Improve Women's Health Research</a><br>
   <tr>
     <td>11/19</td>
     <td>Hack Day: <a href="/teaching/hci/design-sprints/redesign">Re-design and Extend</a></td>
-    <td>No prep</td>
+    <td><a href="/teaching/hci/design-sprints/redesign">Re-design and Extend Checkpoint</a> is due by 11:55 PM</td>
     <td></td>
   </tr>
   <tr>
@@ -524,19 +525,20 @@ Wearable Tech to Improve Women's Health Research</a><br>
   <tr>
     <td rowspan="2">15</td>
     <td>12/1</td>
-    <td>Demo Day: <a href="design-sprints/redesign">Re-design and Extend</a></td>
+    <td>Hack Day: <a href="/teaching/hci/design-sprints/redesign">Re-design and Extend</a></td>
     <td>No prep</td>
-    <td><a href="design-sprints/redesign">DS: Re-design and Extend due</a></td>
+    <td><a href="">Archives assignment due by 11:55 PM</a></td>
   </tr>
   <tr>
     <td>12/3</td>
-    <td>Recap + Future of HCI</td>
-    <td><a href="/teaching/hci/debate">Debate</a> in class</td>
+    <td>Demo Day: <a href="design-sprints/redesign">Re-design and Extend</a></td>
+    <td></td>
     <td>
-    <img class="reading" src="./images/book-open.svg" height="16" width="16"> <a href="https://www.ics.uci.edu/~wmt/courses/Inf241S14/papers/p29-abowd.pdf">Charting Past, Present, and Future of Research in Ubiquitous Computing by Abowd and Mynatt</a><br>
+    No prep
+    <!-- <img class="reading" src="./images/book-open.svg" height="16" width="16"> <a href="https://www.ics.uci.edu/~wmt/courses/Inf241S14/papers/p29-abowd.pdf">Charting Past, Present, and Future of Research in Ubiquitous Computing by Abowd and Mynatt</a><br>
 		<img class="reading" src="./images/book-open.svg" height="16" width="16"> <a href="https://medium.com/googleplaydev/applying-human-centered-design-to-emerging-technologies-6ad7f39d8d30">Applying human-centered design to emerging technologies (IDEO)</a><br>
 		<img class="watch" src="./images/display.svg" height="16" width="16"> (11 min) <a href="https://www.youtube.com/watch?v=gElfIo6uw4g">Metaverse</a><br>
-		<img class="reading" src="./images/book-open.svg" height="16" width="16">  <b>Opt:</b> <a href="https://www.interaction-design.org/literature/book/the-encyclopedia-of-human-computer-interaction-2nd-ed/3d-user-interfaces">32.1-2, 32.4-5: 3D User Interfaces</a><br>
+		<img class="reading" src="./images/book-open.svg" height="16" width="16">  <b>Opt:</b> <a href="https://www.interaction-design.org/literature/book/the-encyclopedia-of-human-computer-interaction-2nd-ed/3d-user-interfaces">32.1-2, 32.4-5: 3D User Interfaces</a><br> -->
 														<!-- Opt: <a href="https://www.fastcodesign.com/3059848/8-incredible-prototypes-that-show-the-future-of-human-computer-interaction">8 Prototypes that Show the Future of HCI</a>
 														<opt-this></opt-this> <look-this></look-this> <a href="https://www.wired.com/story/opioids-havent-solved-chronic-pain-maybe-virtual-reality-can/">Opioids haven’t solved Chronic Pain. Maybe Virtual Reality Can (WIRED)</a><br>
 														<opt-this></opt-this> <look-this></look-this> <a href="https://www.theguardian.com/technology/2017/oct/07/virtual-reality-acrophobia-paranoia-fear-of-flying-ptsd-depression-mental-health">‘After I feel ecstatic and emotional’: Could Virtual Reality Replace Therapy</a><br>
