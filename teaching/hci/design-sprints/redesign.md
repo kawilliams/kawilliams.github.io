@@ -45,11 +45,15 @@ By this point in the semester, your group should be able to make informed and ca
 
 Next, reflect deeply on your evaluation results. How can you use what you learned to inform the next iteration of your design? You will want to describe this reflection in your blog post and go on to implement these changes in your design. That means you will have a new prototype that reflects these design changes.
 
+At this point, you should have plenty of feedback about your 3 screens across the 3 dimensions (watch, desktop, large-scale device). We want to consolidate this feedback to design the 3 screens on *1 dimension*, the new physical prototype.
+
 ### Extend
 
 In the final part of this project, you will be expanding on your previous design using a new prototying modality: physical prototyping. You can find some examples [here](https://stephaniebaione.com/work/physical-prototyping).
 
 How you choose to extend your previous project can take many forms, entirely up to your group. Be sure to clearly state your goals. Depending on which project you are extending, some examples you might consider are re-designing a wearable biosensor to collect additional health data, an accessible [data physicalization](http://yvonnejansen.me/dataphys) experience (Fall 2024), integrating tangible objects in a virtual reality art viewer, etc. You should show evidence of iteration in your physical prototying as well. Check out this [article on low-fidelity prototyping](https://www.smashingmagazine.com/2014/10/the-skeptics-guide-to-low-fidelity-prototyping/) for guidance.
+
+You should redesign your 3 screens to suit this new physical prototype. If it's a small screen, you should follow the feedback from your watch Figma design. If it's a larger screen, you should follow the feedback from your large-scale device. I expect to see at least 3 sketches of your physical prototype ideas (I expect to see 2 or more distinct ideas, with the third sketch fleshing out the idea that you plan to execute), plus some additional sketches or notes describing how you will implement your 3 screens on your chosen physical prototype.
 
 #### Tools
 <!-- For this project, you will have access to tools and materials through the [DACE Studio](https://www.davidson.edu/offices-and-services/arts-creative-engagement/dace-studio) (in the north basement of Chambers, by the flagpole). They have materials ranging from sewing machines, knitting machine, yarn and string, embroidery tools, paints, coloring utensils, paper, canvas, etc. You may also choose to use materials you find around your dorm/house (cardboard, plastic bottles, old tshirts, etc). -->
@@ -77,7 +81,7 @@ Like in the previous design sprints, I am not looking for perfect implementation
 
 1. Evaluation of your previous designs.
 2. Reflection on the results of the evaluation and evidence of iterating on ideas for design changes.
-3. Extending one or more of your screen designs into a physical prototype. **The physical prototype cannot be for something that already exists** -- meaning, you can't design a tablet screen for Knotty and Board. Stretch your imagination. 
+3. Extending three (or more) of your screen designs into a physical prototype. **The physical prototype cannot be for something that already exists** -- meaning, you can't design a tablet screen for Knotty and Board. Stretch your imagination. 
 4. Evaluating the physical prototype.
 
 
