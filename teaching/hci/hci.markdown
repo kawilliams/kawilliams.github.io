@@ -496,7 +496,7 @@ Wearable Tech to Improve Women's Health Research</a><br>
   <tr>
   <td rowspan="2">13</td>
     <td>11/17</td>
-    <td>Visit the Archives (8:30 AM - 9:20 AM)</td>
+    <td>Visit the Archives (8:30 AM - 9:20 AM), release of <a href="https://kawilliams.github.io/teaching/hci/design-sprints/archives">Archive Analysis assignment</a></td>
     <td>Complete this <a href="https://docs.google.com/document/d/1IKPJz1E_6wFcdmzh3I2UBjiDRhugH1k9qeaCVbw0Esk/edit?usp=sharing">Archives Prep</a> worksheet and submit it to Moodle</td>
     <!-- <td>11/17</td>
     <td>Hack Day: <a href="/teaching/hci/design-sprints/redesign">Re-design and Extend</a></td>
@@ -527,7 +527,7 @@ Wearable Tech to Improve Women's Health Research</a><br>
     <td>12/1</td>
     <td>Hack Day: <a href="/teaching/hci/design-sprints/redesign">Re-design and Extend</a></td>
     <td>No prep</td>
-    <td><a href="">Archives assignment due by 11:55 PM</a></td>
+    <td><a href="https://kawilliams.github.io/teaching/hci/design-sprints/archives">Archives assignment due by 11:55 PM</a></td>
   </tr>
   <tr>
     <td>12/3</td>
