@@ -11,9 +11,9 @@ permalink: /teaching/hci/design-sprints/archives
 
 # Overview  
 
-* Group size: Pairs (2)
-* Design sprint starts: Monday, November 17, in class (**meet at the Archives (Dana 221) at 8:30 AM**).
-* Design sprint ends: Monday, December 1 by *11:55 PM*. 
+* **Group size:** Pairs (2)
+* **Design sprint starts:** Monday, November 17, in class (**meet at the Archives (Dana 221) at 8:30 AM**).
+* **Design sprint ends:** Monday, December 1 by *11:55 PM*. 
 
 *Inpsiration for the assignment goes to Dr. Jon Heggestad's "Digital Artifact Analysis" assignment.*
 
