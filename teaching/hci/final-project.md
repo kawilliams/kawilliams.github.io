@@ -13,20 +13,21 @@ permalink: teaching/hci/final-project
 # Final Project: Design Manifesto
 
 * Group size: Individual
-* Final opens: Sunday, December 8, 2024 at 12:00 PM (noon)
-* Final due: Tuesday, December 17, 2024 at 5:00 PM
+* Final opens: Monday, December 1, 2025 at 8:00 AM
+* Final due: Tuesday, December 16, 2025 at 5:00 PM
 * Office hours for intro to web development:
     * If you avoided the web development earlier in this class, you may want to pop by for some guided help.
-    * Monday (12/9): 1:30-3:30 PM
-    * Tuesday (12/10): 9:00-11:00 AM
+    * Tuesdays and Thusday: 9:00-10:45 AM and 1:00-2:30 PM
+    * I will be available on Wednesday, Dec 10 (Reading Day) after 12:30 PM by appointment
+    * I will only be available to answer questions remotely (Zoom or Slack) after December 10
 
 ## Overview
-For your final project, you will create a website that acts as your **final portfolio** and post that acts to synthesize and reflects on all of the work you have accomplished throughout the semester. This type of portfolio demonstrates your skills in the design process -- a valuable tool for *you* to show future employers (my friend Noëlle who is working at Google reiterated this to me, she thinks this project is highly applicable). This website will contain two primary elements:
+For your final project, you will create a *website* that acts as your **final portfolio** and *post* that acts to synthesize and reflects on all of the work you have accomplished throughout the semester. This type of portfolio demonstrates your skills in the design process -- a valuable tool for *you* to show future employers (my friend Noëlle who is working at Google reiterated this to me, she thinks this project is highly applicable). This website will contain two primary elements:
 
-* A portfolio display that visually shows your projects and links to your 4 group Design Sprints (#1-#4 only; do NOT include anything about the Debate).
-* A Design Manifesto (in the form of page on your website) which reflects on the semester as a whole and how it has impacted your design philosophy.
+* A portfolio display that visually shows your projects and links to your 4 group Design Sprints (#1-#4 only; you do not need to include your Archives assignment).
+* A Design Manifesto (in the form of a page on your website) which reflects on the semester as a whole and how it has impacted your design philosophy. Note: this should NOT be a Medium post because I want it to be local to your website. However, you will write it in the same Medium-post-like style that we've been using the entire semester.
 
-<img class="reading" src="./images/traffic-light.svg" height="20" width="20"> STOP and complete [this form](https://forms.gle/96XDcCwjddTpnYnt5) about whether or not you want written feedback on your final project. 
+<img class="reading" src="./images/traffic-light.svg" height="20" width="20"> STOP and complete [this form](https://forms.gle/KmQeQ6e3CpqPB1yk6) about whether or not you want written feedback on your final project. 
 
 ## Design Manifesto
 
@@ -42,7 +43,7 @@ Before you begin writing, think carefully about the following questions:
 
 Design is rarely divorced from our personal lens - our experiences, our expertise, our beliefs. These aspects all mold the applications of technology that you find exciting.
 
-Together, these questions should guide you to **at least 5 main points that define your design process**. To do this, imagine you must translate the processes/skills you gathered in this course to an entirely new scenario (let’s say Brain-Computer Interfaces). What are the important points that you would want to communicate to someone who hasn’t taken an HCI class before?
+Together, these questions should guide you to **at least 5 main points that define your design process**. To do this, imagine you must translate the processes/skills you gathered in this course to an entirely new scenario (let’s say Brain-Computer Interfaces). What are the important points that you would want to communicate to someone who hasn’t taken an HCI class before? What guiding themes would still be relevant when *you* are dealing with people and the design process?
 
 Your takeaways should be evidence-driven. That means that when you discuss these topics, you should frequently reference (and show examples of!) the projects that you completed. **I highly encourage you to start from the bottom-up: review each design sprint and note a few things about the design process. Then look at your notes to see if any notes start to form themes.** You can modify these themes into your 5 main points.
 
@@ -52,6 +53,7 @@ This Design Manifesto should be part of your website (like the ["About" page](ht
 * Length: In *Medium* terms, your post should be 5-10 minutes long in read time (between 1000 - 1500 words, roughly).
 * Clarity: Your post should be cohesive in quality. There should be an introduction, a body, and a conclusion. Does it read like 5 scattered ideas or do they come together to form a central thesis?
 * Evidence-Driven: By this point, you should have a rich store of multimedia from your semester - videos, photos, etc. Each of your takeaways should be informed by the experiences from your projects. So when you discuss them, **you should include visual references and/or videos** (from the class) to what you are talking about. Your manifesto should also be supported considerably by real design principles and ideas that have encountered throughout the reading you have done this semester. **Link to those pieces when you discuss them!**
+    * Caveat: since we had varying privacy levels, you may want to reference a Design Sprint that your group decided to keep unpublished. Instead, you should make a shortened version of the article, enough so that the reference makes sense, and publish that on your website. For an example, see my [Reseach page](https://kawilliams.github.io/research/). Instead of simply linking the 10-page research papers, I provide a short summary 2-3 sentences, a representative picture, and the abstract before including the link to the paper. This gives the reader a quick overview without having to read the full paper. 
 
 ## Website Portfolio
 
@@ -59,13 +61,12 @@ You will create a homepage of some kind that demonstrates each of your projects.
 
 At a minimum, the page must:
 
-* Link to the 4 Medium posts from your Design Sprints #1-#4 this semester.
+* Link to the 4 Medium posts (or summary post on pages on your website) from your Design Sprints #1-#4 this semester.
     * You may optionally include links to your homework if you feel like some experience from the homework motivates your design manifesto. However, the homeworks were not as directly linked to the design process so I do not expect that it makes sense to include them.
-    * You should NOT include anything about the Debate. While the debate was fun, it does not apply to your Design Manifesto and so should not be written up or included in this Final Project.
 * Embed your design manifesto (either on the landing page of your website or as a linked page within your website).
 * Include basic information about yourself in an "About Me"-type section (you choose how you want to incorporate it.)
 
-**Note**: Because you are linking to Medium, you may want to consider how the design of your webpage compliments or clashes with the design of Medium as a platform. You may want to copy your article data into your website so that the user can stay in one place to view your work. It is encouraged but not required that you embed the content of your 4 Medium posts directly into your website for a more cohesive portfolio. I expect the 4 links at a bare minimum.
+**Note**: Because you are linking to Medium, you may want to consider how the design of your webpage complements or clashes with the design of Medium as a platform. You may want to copy your article data into your website so that the user can stay in one place to view your work. It is encouraged but not required that you embed the content of your 4 Medium posts directly into your website for a more cohesive portfolio. I expect the 4 links at a bare minimum.
 
 ### On Web Design
 You are welcome to create your design page with any technology that you’d like. If you are not familiar with web design, I’d encourage you to look into using your [Davidson Domain](https://domains.davidson.edu/). From there, you can build a website using the [Wordpress](https://wordpress.com/) app inside of your Davidson Domain. There are a number of other free templates you can find online, or you're welcome to build out your own fully custom design. 
@@ -87,7 +88,7 @@ You are encouraged to create a beautiful, unique website that showcases your des
 ## AI Policy
 To reiterate my [AI Policy](./hci.markdown#ai-policy) in the context of this assignment: you may use LLMs like ChatGPT to generate code to assist you in building the structure of your website, including to generate boilerplate code, to ask for help debugging, and to create CSS code for a desired style. **You may *not* use LLMs to generate textual content for your Design Manifesto.**
 
-For example, you **may NOT** ask the LLM to summarize all of your Medium posts. You **may NOT** ask the LLM to extract points of the design process from your articles. However, you can engage with the LLM to help refine your thinking.
+For example, you **may NOT** ask the LLM to summarize all of your Medium posts. You **may NOT** ask the LLM to extract points of the design process from your articles. However, you can engage with the LLM to help refine your thinking and to edit any drafts you have written.
 
 **Acceptable prompting:** "I am writing a design manifesto based on this specification (paste the contents of the [website](./final-project)). Here is my outline with my 5 main points from the design process and my quoted supporting evidence from these articles (completed without the help of AI). Ask me clarifying questions to help me connect how my experiences in the design process have led to these 5 main points."
 
