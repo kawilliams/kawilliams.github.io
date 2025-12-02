@@ -473,7 +473,7 @@ Wearable Tech to Improve Women's Health Research</a><br>
     <td></td>
   </tr>
   <tr>
-  <td rowspan="2" id="this_week">12</td>
+  <td rowspan="2">12</td>
     <td>11/10</td>
     <td>Hack: <a href="/teaching/hci/design-sprints/redesign">Re-design and Extend</a> 
     <!--(at DACE Studio -- north basement of Chambers (flagpole side))-->
@@ -523,7 +523,7 @@ Wearable Tech to Improve Women's Health Research</a><br>
     <td></td>
   </tr>
   <tr>
-    <td rowspan="2">15</td>
+    <td rowspan="2 id="this_week">15</td>
     <td>12/1</td>
     <td>Hack Day: <a href="/teaching/hci/design-sprints/redesign">Re-design and Extend</a></td>
     <td>No prep</td>
