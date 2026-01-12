@@ -36,7 +36,7 @@ Your first task is to visit the campus Archives and locate 3-5 specific [primary
 You must cite these primary sources in your final analysis using either [APA](https://owl.purdue.edu/owl/research_and_citation/apa_style/apa_formatting_and_style_guide/reference_list_basic_rules.html) or [MLA](https://owl.purdue.edu/owl/research_and_citation/mla_style/mla_formatting_and_style_guide/mla_works_cited_page_basic_format.html) formatting.
 
 ## Part 2: The Comparative Analysis (The Core of the Assignment)
-Your analysis will be structured using the following perspectives: history & remediation, affordances, users, power . For each section, you must first analyze your archival findings and then draw a direct parallel to the current arrival of AI.
+Your analysis will be structured using the following perspectives: history & remediation, affordances, and users. For each section, you must first analyze your archival findings and then draw a direct parallel to the current arrival of AI.
 
 Your final product should be a *single, cohesive analysis*, not just answers to questions.
 

@@ -91,11 +91,13 @@ For many of you, most CS assignments that you’ve had up until this point had c
 
 **Group Work**: Group work can be challenging. As a result, in each group project, you will submit a brief assessment of you and your classmates’ work. At the end of the semester, **I may use these assessments to reweight the group portion of your grade (either positively or negatively).**
 
-**Due Date Timeliness**: All assignments are due at the start of class on the day listed in the schedule unless otherwise specified. You will have a total of 5 “free” late tokens to use for any homework assignments as needed throughout the course. Each token gets you a 24 hour extension on the assignment deadline. E.g., you can use 1 late token for HW1 and 1 for HW3, … You may use multiple tokens on one assignment, e.g. 2 tokens on HW1 for a 48 hour extension. These "free" tokens can apply *only to homework assignments and cannot be used for group projects*. These are for any cases where college-approved absences do *not* apply, and no reason must be given to use them. After the 5 “free” late tokens are used up, any late assignments will receive a 10% per day penalty. Assignments turned in one week or later past the due date will not be graded and given a 0. You do not need to notify Dr. Williams to use late tokens -- they will be automatically applied. Once you use them, you cannot switch them later in the course, so plan wisely. Any unused late tokens at the end of the semester will be added as 5% extra credit per unused token on the lowest homework assignment.
+**Due Date Timeliness**: All assignments are due at the start of class on the day listed in the schedule unless otherwise specified. You will have a total of 5 “free” late tokens to use for any homework assignments as needed throughout the course. Each token gets you a 24 hour extension on the assignment deadline. E.g., you can use 1 late token for HW1 and 1 for HW3, … You may use multiple tokens on one assignment, e.g. 2 tokens on HW1 for a 48 hour extension. These "free" tokens can apply *only to homework assignments and cannot be used for group projects*. These are for any cases where college-approved absences do *not* apply, and no reason must be given to use them. After the 5 “free” late tokens are used up, any late assignments will receive a 10% per day penalty. Assignments turned in one week or later past the due date will not be graded and given a 0. You do not need to notify Dr. Williams to use late tokens -- they will be automatically applied. Once you use them, you cannot switch them later in the course, so plan wisely. (For 2026) Any unused late tokens at the end of the semester will be added as 1% extra credit per unused token on the lowest homework assignment.
 
 **Regrade Policy**: You can request a re-grade of an assignment within seven days of releasing the grade by sending an email to Dr. Williams. The request should contain a written explanation of why you think that the grade is incorrect. I will look over your work again upon request.
 
 If there is an error in my original evaluation, I will correct it. However, do not ask for a regrade or a boost simply because you do not like your grade. If your request is based on a rationale of "what's the harm" or "it's worth a try," save your (and my) energy. Baseless requests for regrades devalue all of your classmates' hard work and waste everyone's time.
+
+**Grade standards**: Your final grade will be determined based on the total points earned during the semester, using the following scale: A ≥ 93%, A− ≥ 90%, B+ ≥ 87%, B ≥ 83%, B− ≥ 80%, C+≥77%, C ≥73%, C−≥70%, D+≥67%, D ≥60%, and F <60%.
 
 ## Academic honesty and AI
 
@@ -523,7 +525,7 @@ Wearable Tech to Improve Women's Health Research</a><br>
     <td></td>
   </tr>
   <tr>
-    <td rowspan="2 id="this_week">15</td>
+    <td rowspan="2" id="this_week">15</td>
     <td>12/1</td>
     <td>Hack Day: <a href="/teaching/hci/design-sprints/redesign">Re-design and Extend</a></td>
     <td>No prep</td>
