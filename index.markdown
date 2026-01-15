@@ -17,10 +17,11 @@ My most recent publication was [Data Abstraction Elephants: The Initial Diversit
 
 # [Teaching](./teaching/index.markdown)
 
-For Fall 2025, I am teaching:
-* [CSC 363: Human Computer Interaction (HCI)](./teaching/hci/) (MW 8:05-9:20 AM)
-* CSC 221 A: Data Structures (MWF 1:30-2:20 PM)
-* CSC 221 B: Data Structures (MWF 2:30-3:20 PM)
+For Spring 2026, I am teaching:
+<!-- * [CSC 363: Human Computer Interaction (HCI)](./teaching/hci/) (MW 8:05-9:20 AM) -->
+* CSC 121-A: Programming and Problem Solving (MW 8:05-9:20 AM)
+* CSC 362: Data Visualization (MW 2:30-3:45 PM)
+
 
 
 More information can be found under [Teaching](./teaching/index.markdown).
