@@ -13,16 +13,14 @@ Below is a brief overview of my research, teaching, and other projects. More inf
 
 # [Research](./research/index.md)
 
-My most recent publication was [Data Abstraction Elephants: The Initial Diversity of Data Representations and Mental Models](./_research_pages/1elephants.md) with Alex Bigelow and Kate Isaacs. This work was presented and published as part of ACM CHI23. More information can be found under [Research](./research/index.md).
+Click [here](./about/resources/CV_2025.pdf) to read my CV. My most recent publication was "Design Concerns for Integrated Scripting and Interactive Visualization in Notebook Environments" with C. Scully-Allison, I. Lumsden, K. Williams, J. Bartels, M. Taufer, S. Brink, A. Bhatele, O. Pearce, K. Isaacs. More of my publications can be found under [Research](./research/index.md).
 
 # [Teaching](./teaching/index.markdown)
 
-For Spring 2026, I am teaching:
-<!-- * [CSC 363: Human Computer Interaction (HCI)](./teaching/hci/) (MW 8:05-9:20 AM) -->
-* CSC 121-A: Programming and Problem Solving (MW 8:05-9:20 AM)
-* CSC 362: Data Visualization (MW 2:30-3:45 PM)
-
-
+For Fall 2026, I am teaching:
+* [CSC 363: Human Computer Interaction (HCI)](./teaching/hci/)
+* CSC 121-A: Programming and Problem Solving 
+<!-- * CSC 362: Data Visualization -->
 
 More information can be found under [Teaching](./teaching/index.markdown).
 
