@@ -41,7 +41,7 @@ Review the checklist below before submitting your work. **Completing all of the 
 
 <input type="checkbox"> Included clear photos/screenshots for both examples.
 
-<input type="checkbox"> Addressed Who, When/Why, and What makes it good/bad for both examples.
+<input type="checkbox"> Addressed Who is using the design, When/Why are they using it, and What makes it good/bad for both examples.
 
 <input type="checkbox"> Added 1 complete slide to the shared Google Slides deck.
 
