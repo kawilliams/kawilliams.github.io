@@ -11,7 +11,7 @@ permalink: /teaching/hci/assignments/hw1
 # Good Design, Bad Design
 
 * Group size: Individual
-* AI Policy: {{ site.ai-red }}
+* **AI Policy**: {{ site.ai-red }}
 * Assignment opens: Wedneseday, August 27
 * Due: Monday, September 1 *before class (8:00 AM)*
 * **Estimated Time Spent**: 45 - 90 minutes
@@ -48,4 +48,4 @@ Review the checklist below before submitting your work. **Completing all of the 
 <input type="checkbox"> Submit a PDF of the *current status* of the slide deck to Moodle for assignment "HW 1: Good/Bad Design". This PDF should include *your* slide and a few other students, but may not include the entire class' submissions when you submit.
 
 ### Grading
-Grading will be based on [this *variation*](https://docs.google.com/spreadsheets/d/1RBnIZalIvBU4aLTH2O1l4T4FClYWx0_O0j05DrpY7VU/edit?usp=sharing) of the [design rubric](https://docs.google.com/spreadsheets/d/1aI9LcmVZmh_977G__U4Guz_rPRCwWZs26J_yHXbhSyY/edit?usp=sharing).
+Grading will be based on [this *HW 1 variation*](https://docs.google.com/spreadsheets/d/1RBnIZalIvBU4aLTH2O1l4T4FClYWx0_O0j05DrpY7VU/edit?usp=sharing) of the [design rubric](https://docs.google.com/spreadsheets/d/1aI9LcmVZmh_977G__U4Guz_rPRCwWZs26J_yHXbhSyY/edit?usp=sharing).

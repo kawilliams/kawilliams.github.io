@@ -11,42 +11,104 @@ permalink: /teaching/hci/assignments/hw2
 # Needfinding
 
 * Group size: Individual
+* **AI Policy**: {{ site.ai-yellow }}
 * Assignment opens: Monday, September 1
 * Due: Monday, September 8, *by 11:55 PM*. 
 
 ## Overview 
-In this assignment you will plan, develop, and execute a round of needfinding. You will present your interview plan (methodology), data gathered from your initial interviews, and the key insights and inferences you have made in a **private draft of a Medium post** submission. You will capture this analysis in an [empathy map](https://www.nngroup.com/articles/empathy-mapping/). **BE SURE TO READ THE SECTION ON [ANONYMITY](#anonymity)**.
+**Purpose**: In this assignment you will plan, develop, and execute a round of *needfinding*, the foundational qualitative research process in HCI where designers uncover latent user needs, emotional drivers, and pain points before building solutions. 
 
-## Choose Your Problem
-In this assignment, you will choose an existing aspect of the user experience related to personal health data and endeavour to understand the needs of users. This could include, e.g.:
+You will present your interview plan (methodology), data gathered from your initial interviews, and the key insights and inferences you have made in a **Google Doc** submission. You will capture this analysis in an [empathy map](https://www.nngroup.com/articles/empathy-mapping/). **BE SURE TO READ THE SECTION ON [ANONYMITY](#anonymity)**.
+
+**Why this matters (this week and beyond)**: ⚠️ Choose your problem domain wisely! You will use the user insights, empathy maps, and problem context gathered in this assignment to prototype solutions in Homework 3. Beyond this class, learning how to structure, conduct, and analyze interviews can help you host meetings with your boss, ask coworkers for help, and listen to clients/stakeholders when they hire you for a project.
+
+### What you will learn & practice:
+* Qualitative Fieldwork & Interviewing: You will design and execute semi-structured interviews that push beyond surface-level answers to uncover user motivations, emotional reactions, and lived experiences.
+
+* Ethics & Anonymity in HCI Research: You will practice recruiting participants ethically, obtaining informed consent, and protecting participant confidentiality when reporting research data.
+
+* Sensemaking & Synthesis: You will apply empathy mapping to organize raw qualitative data, identify core contradictions, tensions, and surprises, and distill insights that directly feed into user-centered product design.
+
+## Task
+Follow these step-by-step instructions to plan, conduct, and analyze your needfinding research:
+
+### Step 1: Select Your Problem Domain
+Choose an existing aspect of the user experience related to personal health data and endeavour to understand the needs of users. Examples include:
 
 * Tracking fitness goals
 * Use of biosensors e.g., for blood sugar monitoring
-* Making a therapy appointment
-* Obtaining medical imaging data
-* Getting and paying an itemized bill
-* Following up after an appointment
-* ...
+* Finding and scheduling a therapy appointment
+* Accessing and managing medical imaging data
+* Understanding and paying an itemized bill
+* Post-appointment care and follow-up routine
+* ... and more! 
 
-**Choose wisely.** You will be prototyping solutions for this same problem context in the next assignment.
+### Step 2: Formulate your Interview Plan
 
-## Requirements
+**Recruitment target**: plan to interview *at least 3 people*:
+    * Up to 1 participant can be a domain expert (e.g., a nurse, personal trainer, billing specialist).
+    * The rest must be end users (i.e., people who only use the technology, they don't participate in any aspect of development or have expert knowledge of the domain)
+    * **Restrictions**: Interview **no more than 1 Davidson student**. Avoid close family members. 
 
-1. Make a plan to interview *at least 3 people* related to your problem. The interviewees should be end users and can include up to one domain expert, as needed. The interviews can vary from short interviews, e.g., 20 minutes to long interviews, e.g., 60 minutes. Interviews can take place in-person or by Zoom.
+**Recruitment strategies**: Start early! Use public spaces (coffee shops), Nextdoor, social media snowballing, or subreddits like r/SampleSize. 
 
-2. Shape your plan.
-* Determine what your domain of interest is (describe it as well as you can & include pictures in the final report that help to illustrate it).
+**Interview Planning**: Before you contact anyone, determine what your domain of interest is (describe it as well as you can & include pictures in the final report that help to illustrate it). This will help you narrow the scope of your discussion and problem, and will make it easier to articulate to your interviewees.
+
+Then be sure to write down:
 * Who will you interview, why did you choose them, where and when will the interview take place.
-* What questions will you ask? Try to outline areas of inquiry you intend to probe. Make sure to plan some questions and *focus on “why” and “feelings.”*
+* What questions will you ask? Try to outline areas of inquiry you intend to probe. You should plan for **20-60 minute interviews**.
+* Make sure to plan some questions and *focus on “why” and “feelings”* to elicit stories. Avoid questions that can be answered with a simple yes/no -- these can lead to conversational deadends.
 
-3. Get out and interview.
-* Interview *no more than one Davidson student* - try to get participants from off campus and also avoid interviewing close family members!
-* You should get your interviewees to sign a [consent form](/forms/consent_form_for_class.pdf) ensuring their confidentiality (copy the document and modify to use it).
-* Record what, how, and why they are doing what they are doing.
-* Remember these interviewing tips in the types of things to look for and how to ask. Get stories! Refer back to our lecture notes!
-* Remember, your questions are just a guide to get you comfortable starting. Veer & pull strings to get to interesting stories and emotions.
+### Step 3: Conduct the Interviews & Manage Consent
 
-4. Unpack the needfinding data by using the [empathy map method](https://www.nngroup.com/articles/empathy-mapping/) and identify surprises, contradictions, and tensions. We recommend you have at minimum one empathy map for your most interesting interview. This will be valuable in the next assignment in making sense of your user’s point of view, brainstorming “how might we’s” and in building experience prototypes.
+**Consent First**: Before starting the interview, have each participant read and sign the [Class Consent Form](/forms/consent_form_for_class.pdf) (download, adapt, and sign or e-sign).
+
+**Execute**: Interviews can be in-person or via Zoom (20–60 minutes long).
+
+**Interview Dynamic**: Use your questions as a guide, but follow interesting tangents. Pull strings to uncover emotional reactions, workarounds, and underlying motivations.
+
+### Step 4: Protect Participant Anonymity
+
+You must strictly protect your participants' identities in your write-up:
+
+* *No Real Names*: Refer to subjects as "Participant 1 (P1)", "P2", etc.
+
+* *Strip Distinguishing Details*: Omit unique identifiers that allow someone to deduce identity (e.g., "former Davidson basketball player now in the NBA").
+
+### Step 5: Synthesize with an Empathy Map
+
+Unpack your research using the [NN/g Empathy Mapping Method]((https://www.nngroup.com/articles/empathy-mapping/)).
+
+* Create at least 1 full empathy map for your most insightful interview. This empathy map will be valuable in the next assignment in making sense of your user’s point of view, brainstorming “how might we’s” and in building experience prototypes. 
+    * **Optional**: If you feel like another interview was critical to capture all of the complexities of the problem, then make an additional map for this interview (you will not get extra points for making a second map -- the decision is up to you and how you plan on telling your story). 
+
+* Highlight key surprises, contradictions, and tensions (e.g., when what a user says contradicts what they do).
+
+### Step 6: Complete Your Write-Up & Submit
+Draft your write-up following the structure of the CSC 363 Design Document (see an [example](https://medium.com/@meideng06/needfinding-tracking-and-maintaining-fitness-goals-f7bb66f9158a) in the Hall of Fame).
+
+You can use similar headers and features in Google Docs by using [Markdown in Google Docs](https://support.google.com/docs/answer/12014036?hl=en). There's plenty of other Markdown features and shortcuts -- check out the [MD guide](https://www.markdownguide.org/extended-syntax/) and CTRL+F for the feature you're looking for (e.g., "strikethrough")
+
+#### Requirements for Write-Up
+Your write-up must include:
+1. Introduction & Motivation: Overview of your chosen problem context in health data.
+
+2. Methodology:
+
+    * Who you interviewed, why they were chosen, and how they were recruited.
+    * Where/how interviews took place (include context photos of the environment or a screenshot of Zoom).
+    * Overview of your core interview questions/topics.
+
+3. Results & Analysis:
+    * Narrative findings with direct quotes and contextual photos (no full transcripts).
+
+    * Empathy map(s) with highlighted areas of interest.
+
+    * Explicit discussion of tensions, contradictions, and surprises.
+
+4. Insights & Needs: Inferences and synthesized statements about core user needs that will inform future design.
+
+
 
 ## Finding Interview Participants
 * **If it's safe to do so where you live,** recruit people at public places (e.g., coffee shops in a downtown area). If you ask respectfully and use your judgement, many people you approach will be willing to give you their time.
@@ -62,18 +124,20 @@ This means **you should not use any names or recognizable information in your re
 
 An example of removing a name, *but keeping recognizable information* (bad!), is in cases when the information allows someone to be discovered. For example, "Participant 1 is a former Davidson College student who played basketball and now plays professionally in the NBA." Even though there is no name in the sentence, someone can deduce who this sentence is about.
 
-To further protect their anonymity, you will keep your Medium blog post as a draft. We will publish later homework and design sprints, so I want you to get familiar with writing blog-style posts and with Medium's interface. However, we do not want to publish this work, since that would require a higher level of consent form. *To send Dr. Williams your draft link, click the triple dots in the upper right corner and select "Share draft link".*
+<!-- To further protect their anonymity, you will keep your Medium blog post as a draft. We will publish later homework and design sprints, so I want you to get familiar with writing blog-style posts and with Medium's interface. However, we do not want to publish this work, since that would require a higher level of consent form. *To send Dr. Williams your draft link, click the triple dots in the upper right corner and select "Share draft link".* -->
 
-![Example showing how to share a draft on the Medium draft page. After you click the triple dots ..., then click "Share draft link."](../images/draft.png) 
+<!-- ![Example showing how to share a draft on the Medium draft page. After you click the triple dots ..., then click "Share draft link."](../images/draft.png)  -->
 
 
 ## Deliverables
-An example from the Hall of Fame is [here](https://medium.com/@meideng06/needfinding-tracking-and-maintaining-fitness-goals-f7bb66f9158a). 
+Review the checklist below before submitting your work. **Completing all of the checkboxes does not guarantee a grade of 100%!** Scroll down to [Grading](#grading) to review the rubric to see how to earn a 100%. 
 
-1. The output from this assignment should be the [design document](/teaching/hci/design-doc). Submit the link of the Medium **draft** post along with your name on Moodle. Also include signed consent forms in your Moodle submission (but **do not include these in the blog post!**). As with all design documents, it should include evidence of your design process. **You do NOT need to create a demo video for this design module.** For this assignment, I would expect a minimum of the following:
-* Introduction/motivation for the problem context you chose.
-* Needfinding methodology (include images). Make sure you say who your participants were, why they were chosen, how they were recruited, and where they were interviewed (include images). What did you ask?
-* Interview results and analysis. Pictures and quotes. Empathy map with highlighted components of what you found important/interesting. Discuss tensions, contradictions, surprises in the interview. Inferences, conclusions, or questions you might have about your results. Initial assessment of “needs” and “insights”. You should *not* include complete transcripts of the interviews.
+<input type="checkbox"> Upload a PDF of your [Design Doc](/teaching/hci/design-doc) write-up to Moodle. As with all design documents, it should include evidence (e.g., photos, sketches) of your design process. **You do NOT need to create a demo video for this design module.**
+
+<input type="checkbox">  Upload PDF copies of all signed consent forms to Moodle (do not attach consent forms to write-up).
+
+
+
 
 ### Grading
-Grading will be based on a *[variation](https://docs.google.com/spreadsheets/d/1_i_fwuccu8wWfdvdZCl6GJnptnv65l_dw0ZcPbcuQR0/edit?usp=sharing)* of the [design rubric](https://docs.google.com/spreadsheets/d/1aI9LcmVZmh_977G__U4Guz_rPRCwWZs26J_yHXbhSyY/edit?usp=sharing).
+Grading will be based on the *[HW 2 variation](https://docs.google.com/spreadsheets/d/1mG07LZLuJwtTVsHZV4Wn3YoxWDUJzdrmR46bbRHx_gw/edit?usp=sharing)* of the [design rubric](https://docs.google.com/spreadsheets/d/1aI9LcmVZmh_977G__U4Guz_rPRCwWZs26J_yHXbhSyY/edit?usp=sharing).
