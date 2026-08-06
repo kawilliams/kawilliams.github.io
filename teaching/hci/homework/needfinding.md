@@ -8,12 +8,14 @@ description: Needfinding
 permalink: /teaching/hci/assignments/hw2
 ---
 
+{% assign hw = site.data.hci_assignments | where: "id", "hw2" | first %}
+
 # Needfinding
 
 * Group size: Individual
 * **AI Policy**: {{ site.ai-yellow }}
-* Assignment opens: Monday, September 1
-* Due: Monday, September 8, *by 11:55 PM*. 
+* Assignment opens: {{ hw.opens }}
+* Due: {{ hw.due }}, *{{ hw.due_time }}*. 
 
 ## Overview 
 **Purpose**: In this assignment you will plan, develop, and execute a round of *needfinding*, the foundational qualitative research process in HCI where designers uncover latent user needs, emotional drivers, and pain points before building solutions. 

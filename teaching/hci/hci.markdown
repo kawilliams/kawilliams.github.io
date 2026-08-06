@@ -23,8 +23,7 @@ Human-computer interaction combines computer science, psychology, sociology, des
 * Lecture Slides and Recordings: <a href="https://drive.google.com/drive/folders/175iQPGanzE0GRT879TlLbKNhSHkIk8XS?usp=sharing" target="_blank">Google Drive</a> (use Davidson SSO) 
 * Design Doc guidance: [here](/teaching/hci/design-doc)
 * Discussion/Questions: Slack (contact Dr. Williams if you have not received the Slack link)
-* Office Hours: Tuesday/Thursday from 9:00-10:45 AM and 1:00-2:30 PM
-  * I am also usually available for a few minutes after class
+* Office Hours: TBD
 
 # Prerequisites and Major/Minor Requirements
 *Prerequisite*: CSC 221 - Data Structures. This course is **required** (no exceptions). 
@@ -40,7 +39,7 @@ Human-computer interaction combines computer science, psychology, sociology, des
 * Students should be able to describe and execute the steps of a user-centered design process
 
 <h2>Prototyping <img src="./images/pen-to-square.svg" width="20" height="20"> </h2>
-* Students should develop working proficiency in rapid prototyping with a variety of technologies (e.g., paper prototyping, Figma, Vega, Google Cardboard, etc.)
+* Students should develop working proficiency in rapid prototyping with a variety of technologies (e.g., paper prototyping, Figma, Vega, Google Cardboard, LLMs like Gemini and other AI tools, etc.)
 
 <h2>Research Methods <img src="./images/book.svg" width="20" height="20"></h2>
 * Students should be able to describe and execute quantitative research methods.
@@ -59,12 +58,12 @@ You will be individually responsible for some homework assignments, participatio
 | Objective | Weight | Description                     |
 |-----------|--------|---------------------------------|
 | <img src="./images/pencil.svg" width="20" height="20"><img src="./images/pen-to-square.svg" width="20" height="20"><img src="./images/book.svg" width="20" height="20">| 15%    | [Individual homework assignments](/teaching/hci/homework/homework) |
-|<img src="./images/hand.svg" width="20" height="20"><img src="./images/book.svg" width="20" height="20">| 10%     | **[Engagement and critique](/teaching/hci/engagement/)**|
+|<img src="./images/hand.svg" width="20" height="20"><img src="./images/book.svg" width="20" height="20">| 10%     | [Engagement and critique](/teaching/hci/engagement/)|
 |<img src="./images/pencil.svg" width="20" height="20"><img src="./images/pen-to-square.svg" width="20" height="20"><img src="./images/book.svg" width="20" height="20">| 40%    | [Group design sprints](/teaching/hci/design-sprints/design-sprints)         |
 |<img src="./images/pencil.svg" width="20" height="20"><img src="./images/pen-to-square.svg" width="20" height="20"><img src="./images/book.svg" width="20" height="20">| 20%    | [Final project](/teaching/hci/final-project)                   |
 |<img src="./images/book.svg" width="20" height="20">          | 15%    | [Oral exam](/teaching/hci/oral-exam)                       |
 
-Since this is only the second semester of HCI at Davidson (and we're building our own [Hall of Fame](/teaching/hci/hall-of-fame)), you can look for stand-out examples in both our [Hall of Fame](/teaching/hci/hall-of-fame) and in [Emory's HCI Hall of Fame](https://emilywall.github.io/hci/resources/hall_of_fame.html), courtesy of Dr. Emily Wall. 
+If you're looking for stand-out examples of these assignments, check out our [Hall of Fame](/teaching/hci/hall-of-fame) and in [Emory's HCI Hall of Fame](https://emilywall.github.io/hci/resources/hall_of_fame.html), courtesy of Dr. Emily Wall. 
 
 
 # Policies
@@ -73,8 +72,10 @@ Since this is only the second semester of HCI at Davidson (and we're building ou
 We will build a community of respect in this class. Part of respecting is others is valuing their time. I show respect to my students by promptly responding to emails and Slack messages sent between 8 AM and 5 PM. I show respect to my family and friends by ignoring work-related emails and messages between 5 PM and 8 AM.
 
 Arriving late to class is disrespectful to your classmates, to me, and to the learning environment. **Arriving later than 10 minutes after the start of class (8:15 AM or later) will result in an unexcused
-absence on your record.** Per college policy, a student who misses 25% or more of class meetings automatically fails the course. For a two-meeting-per-week course, this is missing 7 classes or more. 
-should there be a conflict between any class session and a religious holiday or observance, students should let the instructor know of their personal need. Religious observance warrants a legitimately excused absence. Missing class due to athletic competition is not an excused absence and does count against your total absences.
+absence on your record.** Per college policy, a student who misses 25% or more of class meetings automatically fails the course -- for a two-meeting-per-week course, missing 7 classes or more means the student receives an F for their final grade. 
+
+
+Religious observance warrants a legitimately excused absence. Should there be a conflict between any class session and a religious holiday or observance, students should let the instructor know of their personal need *before the absence occurs*.  Missing class due to athletic competition is not an excused absence and does count against your total absences.
 
 ## Accommodations for Attendance and Tardiness
 I *highly* value communication around absences and tardiness. If you know you are going to be later than 10 minutes, message me on Slack at least 1 hour before class begins. Likewise, if you communicate early
@@ -91,15 +92,17 @@ For many of you, most CS assignments that you’ve had up until this point had c
 
 **Group Work**: Group work can be challenging. As a result, in each group project, you will submit a brief assessment of you and your classmates’ work. At the end of the semester, **I may use these assessments to reweight the group portion of your grade (either positively or negatively).**
 
-**Due Date Timeliness**: All assignments are due at the start of class on the day listed in the schedule unless otherwise specified. You will have a total of 5 “free” late tokens to use for any homework assignments as needed throughout the course. Each token gets you a 24 hour extension on the assignment deadline. E.g., you can use 1 late token for HW1 and 1 for HW3, … You may use multiple tokens on one assignment, e.g. 2 tokens on HW1 for a 48 hour extension. These "free" tokens can apply *only to homework assignments and cannot be used for group projects*. These are for any cases where college-approved absences do *not* apply, and no reason must be given to use them. After the 5 “free” late tokens are used up, any late assignments will receive a 10% per day penalty. Assignments turned in one week or later past the due date will not be graded and given a 0. You do not need to notify Dr. Williams to use late tokens -- they will be automatically applied. Once you use them, you cannot switch them later in the course, so plan wisely. (For 2026) Any unused late tokens at the end of the semester will be added as 1% extra credit per unused token on the lowest homework assignment.
+### Due Date Timeliness
+All assignments are due at the start of class on the day listed in the schedule unless otherwise specified. You will have a total of 5 “free” late tokens to use for any **individual homework assignments** as needed throughout the course. Each token gets you a 24 hour extension on the assignment deadline. E.g., you can use 1 late token for HW1 and 1 for HW3, … You may use multiple tokens on one assignment, e.g. 2 tokens on HW1 for a 48 hour extension. These "free" tokens can apply *only to homework assignments and cannot be used for group projects*. These are for any cases where college-approved absences do *not* apply, and no reason must be given to use them. After the 5 “free” late tokens are used up, any late assignments will receive a 10% per day penalty. Assignments turned in one week or later past the due date will not be graded and given a 0. You do not need to notify Dr. Williams to use late tokens -- they will be automatically applied. Once you use them, you cannot switch them later in the course, so plan wisely. (For 2026) Any unused late tokens at the end of the semester will be added as 1% extra credit per unused token on the lowest homework assignment.
 
-**Regrade Policy**: You can request a re-grade of an assignment within seven days of releasing the grade by sending an email to Dr. Williams. The request should contain a written explanation of why you think that the grade is incorrect. I will look over your work again upon request.
+### Regrade Policy
+You can request a re-grade of an assignment within seven days of releasing the grade by sending an email to Dr. Williams. The request should contain a written explanation of why you think that the grade is incorrect. I will look over your work again upon request.
 
 If there is an error in my original evaluation, I will correct it. However, do not ask for a regrade or a boost simply because you do not like your grade. If your request is based on a rationale of "what's the harm" or "it's worth a try," save your (and my) energy. Baseless requests for regrades devalue all of your classmates' hard work and waste everyone's time.
 
 **Grade standards**: Your final grade will be determined based on the total points earned during the semester, using the following scale: A ≥ 93%, A− ≥ 90%, B+ ≥ 87%, B ≥ 83%, B− ≥ 80%, C+≥77%, C ≥73%, C−≥70%, D+≥67%, D ≥60%, and F <60%.
 
-## Academic honesty and AI
+## Academic Honesty and AI
 
 ### Academic Honesty
  The spirit of the Honor Code that each student pledges upon entering their first year helps engender an atmosphere of trust. Every signature helps sustain a climate of freedom and integrity. Upholding the Honor Code secures the commitment to academic honesty and social responsibility that characterizes a Davidson education. 
@@ -107,47 +110,43 @@ If there is an error in my original evaluation, I will correct it. However, do n
 Unless explicitly stated otherwise, you are expected to complete assignments on your own. It is appropriate to discuss your ideas with others to gain feedback and help with sticky problems. It is not appropriate to find an existing solution online or from your friends, modify them, and submit as your own work. If in doubt, confer with Dr. Williams. It is much easier to ask about these things than handle the consequences of a poor decision.
 
 ### AI Policy
-**Background**: Generative AI tools—software that creates new text, images, computer code, audio, video, and other content—are widely available. Well-known examples include ChatGPT, Claude, and Gemini for text and DALL•E and Midjourney for images. This policy governs all such tools, including those released during our term together and those provided by the college (i.e. Amplify Gen AI and Gemini).
+**Background**: Generative AI tools—software that creates new text, images, computer code, audio, video, and other content—are widely available. Well-known examples include ChatGPT, Claude, and Gemini for text and DALL•E and Midjourney for images. This policy governs all such tools, including those released during our term together and those provided by the college (e.g., [Google Gemini](https://gemini.google.com/app) -- you have a free, enterprise account using your Davidson email address).
 
 **AI statement**: The purpose of this class is to learn how to articulate your ideas throughout the design process, while developing a breadth of technical skills for prototyping. The valuable **human** skill that you will gain in this class is the ability to think creatively throughout the design process and to write and articulate the decisions you made. 
 
-**You may use generative AI tools in this course from time to time**. In fact, some assignments will strongly encourage use of such tools. Your college-provided accounts on Amplify (amplify.davidson.edu) and Gemini (gemini.com) will be more than sufficient for these assignments. *You may choose not to use AI tools -- this is perfectly acceptable*.
+**You may use generative AI tools in this course from time to time**. In fact, some assignments will strongly encourage use of such tools. Your college-provided account on Gemini will be more than sufficient for these assignments. *You may choose not to use AI tools -- this is perfectly acceptable*.
 
-If you do use generative AI tools on assignments in this class, you must properly document and credit the tools themselves.
-Please cite the tool according to the guidelines for citing computer software, as outlined in the [ACM style guide](https://www.acm.org/publications/policies/frequently-asked-questions).
+If you do use generative AI tools on assignments in this class, I will specify *how* you can use AI in each assignment with a red light, yellow light, green light labeling. Review below this **per assignment policy**:
+
+* **GREEN LIGHT** assignments: You may use AI as you wish in this assignment. In fact, I may even encourage you to use AI for this assignment -- see details in the assignment.
+* **YELLOW LIGHT** assignments: You may use AI for certain parts of this assignment or to polish/edit *your original, non-AI work*. Be sure to *carefully* locate the 🤖 robot icons and read to make sure you align with this policy.
+* **RED LIGHT** assignments: **YOU MAY NOT USE AI for this assignment at all. If you violate this policy, you will earn a 0 for this assignment and the evidence will be submitted to the Honor Council.**
+
+
+You can always choose to use less AI on the assignment (e.g., follow a red light policy if the assignment is a yellow light policy). Please cite the tool according to the guidelines for citing computer software, as outlined in the [ACM style guide](https://www.acm.org/publications/policies/frequently-asked-questions).
+
 
 If you choose to use generative AI tools, please remember that they are typically trained on limited datasets that may be out-of-date. Additionally, generative AI datasets are trained on pre-existing material, including copyrighted material; therefore, relying on a generative AI tool may result in plagiarism or copyright violations.
 
 Finally, keep in mind that the goal of generative AI tools is to produce content that seems to have been produced by a human, not to produce accurate or reliable content; therefore, relying on a generative AI tool may result in your submission of inaccurate content.
 It is your responsibility—not the tool’s—to assure the quality, integrity, and accuracy of work you submit in any college course.
 
-To that end, here is an incomplete list of acceptable and unacceptable uses of AI in my class. *If you have a question on whether a specific use of AI is allowed or not, you must message me on Slack and ask **before** you use AI.* Any unauthorized use of AI will be considered violations of academic integrity and will be brought before the Honor Council. Please maintain integrity, for your learning, your personal character, and academic record.
+To that end, here is an incomplete list of acceptable and unacceptable uses of AI for each red/yellow/green light. *If you have a question on whether a specific use of AI is allowed or not, you must message me on Slack and ask **before** you use AI.* Any unauthorized use of AI will be considered violations of academic integrity and will be brought before the Honor Council. Please maintain integrity, for your learning, your personal character, and academic record.
 
-**Allowed uses of AI**
-* To proofread your writing; to check grammar, rigor, and style (such as using Grammarly); to find alternative wording.
-* To generate boilerplate code; to debug error messages. You will learn a wide variety of tools in a short amount of time -- I don't expect you to become an expert on your own. You may use generative AI to assist with coding and to get you 80% of the way there on assignments. You *will* need to revise this code, since AI will produce buggy or inefficient code.
-* To verbally read the full contents of articles (so you listen to the original text, rather than read it); to *summarize* articles for *your own understanding* (not for a grade) *after* you have already read the original text. 
-* To study for the Oral Exam by prompting Gemini/Amplify/etc. to ask you interview questions about the material. I have had students use this and they audibly (out loud) rehearsed their answers in their dorm room. These students did well on the Oral Exam, not because of the AI, but because they practiced speaking their answers.
-
-**You may NOT use AI:**
-* To generate outlines for blog posts. The [Design Doc](/teaching/hci/design-doc) serves as your starting point for blog posts and we will read plenty of examples of great blog posts. I expect the content of your writing, from outline to final product, to be solely written by you (see acceptable uses in proofreading above).
-* To summarize a text or video without you reading or watching the original. The authors and creators of these works have used deliberate language and have carefully crafted their position. You will likely receive an incorrect or incomplete summary if you rely only on AI summaries. 
-* To answer questions during Kahoot sessions or to generate answers during the Oral Exam.
-
+| Assignment Policy | Allowed Behavior                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
+|-------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Green Light       | 	● To generate code; to debug error messages. You will learn a wide variety of tools in a short amount of time -- I don't expect you to become an expert on your own. AI can get you 80% of the way there on assignments, but you *will* need to revise this code, since the code will be buggy or inefficient.<br>To study for the Oral Exam by prompting Gemini/ChatGPT/etc. to ask you interview questions about the material and you verbally answer.                                                                                                                                                                                                                                                                     |
+| Yellow Light      | ● To proofread your writing; to check grammar, rigor, and style (such as using Grammarly); to find alternative wording. <br> ● To verbally read the full contents of articles (so you listen to the original text, rather than read it); to *summarize*<br> articles for *your own understanding* (not for a graded assignment) *after* you have already read the original text.                                                                                                                                                                                                                                                                                                                                                |
+| Red Light         | ● To generate outlines for blog posts. The [Design Doc](/teaching/hci/design-doc) serves as your starting point for blog posts and we will read plenty of examples of great blog posts. I expect the content of your writing, from outline to final product, to be solely written by you (see acceptable uses in proofreading above).<br> ● To summarize a text or video without you reading or watching the original. The authors and creators of these works have used deliberate language and have carefully crafted their position. You will likely receive an incorrect or incomplete summary if you rely only on AI summaries. <br> ● To answer questions during reading checks or to generate answers during the Oral Exam. |
 
 ## Accessibility, Inclusion, and Resources for Students
 **Accessibility Services**:
 The college welcomes requests for accommodations related to disability and will 
 grant those that are determined to be reasonable and maintain the integrity of 
-a program or curriculum. To make such a request or to begin a conversation about
-a possible request, please contact the Office of Academic Access and Disability 
-Resources (AADR) by emailing AADR@davidson.edu. It is best to submit accommodation 
-requests within the drop/add period; however, requests can be made at any time 
-in the semester. Please keep in mind that accommodations are not retroactive.
+a program or curriculum. To make such a request or to begin a conversation about a possible request, please contact the Office of Academic Access and Disability Resources (AADR) by emailing AADR@davidson.edu. It is best to submit accommodation requests within the drop/add period; however, requests can be made at any time in the semester. Please keep in mind that accommodations are not retroactive.
 
 **Additional Resources for Students**:
-Academic Access and Disability Resources (AADR) offers free academic coaching services
-to students. If you need help with time management, test taking, studying 
+Academic Access and Disability Resources (AADR) offers free academic coaching services to students. If you need help with time management (**or group project management**), test taking, studying 
 efficiently, or other academic strategies, a professional staff academic coach 
 or peer academic coach can meet with you once or on an as needed basis. Contact 
 AADR@davidson.edu for more information. Please also stay tuned for Peer Academic 
@@ -162,7 +161,7 @@ with a peer tutor on Moodle: [https://lib.davidson.edu/Reading](https://lib.davi
 
 *Writing*: For assistance with all stages of writing, book an appointment with a peer tutor on Moodle: [https://lib.davidson.edu/Writing](https://lib.davidson.edu/Writing).
 
-*Tech Support:* Data CATS are students who can help with data cleaning, website creation, and GitHub questions. Their primary role is data cleaning, but a few of the Data CATS staff have prior experience with website building and GitHub. Students who I personally know have expertise in these areas (since they're prior students or researchers): Kerem Atas, Patrick Grimes, Yurdanur Yolcu, Jack Schwanewede. Other Data CATS staff who may be able to help: Jordan Whitehouse (hi, Jordan!), Hakan Bora Yavuzkara, Mohamed Mostafa. **Data CATS are available in Chambers 3146 from Sunday through Thursday, with an afternoon shift from 2pm to 4pm, and an evening shift from 7pm to 9pm.**
+*Tech Support:* [Data CATS](https://davidsoncollege-datacats.github.io/DataCATS-site/) are students who can help with data cleaning, website creation, and GitHub questions. Their primary role is data cleaning, but a few of the Data CATS staff have prior experience with website building and GitHub. **Data CATS are available in Chambers 3146 from Sunday through Thursday, with an afternoon shift from 2pm to 4pm, and an evening shift from 7pm to 9pm. You can also book individual appointments with specific consultants through the [website](https://davidsoncollege-datacats.github.io/DataCATS-site/).**
 
 **Statement on Diversity and Inclusivity**
 *Adapted from Lynn Hernandez, Behavioral and Social Sciences, School of Public Health, Brown University.*
@@ -184,7 +183,7 @@ instructional team or a classmate that is particularly troubling, or causes
 discomfort or offense, I urge you to consider one of the following courses of 
 action:
 
-* Discuss the situation privately with one or more of the instructors. 
+* Discuss the situation privately with the instructor. 
 I am always open to listening to students' experiences, and want to work 
 with you to find acceptable ways to process and address the issue. All such 
 conversations will be kept confidential.
@@ -204,7 +203,12 @@ Student Counseling Center or via the Office of the Dean of Students.
 
 # Schedule
 
-All **reading** and **demos of design sprints** are due at 8:00 AM on the day of class. All **homework** and any **final deliverables for design sprints** (typically a blog post) are due at 11:55 PM to Moodle on the day listed, except when otherwise noted. For requests of extensions, please see my Due Date Timeliness policy above. 
+All **reading** and **demos of design sprints** are due at 8:00 AM on the day of class. All **homework** and any **final deliverables for design sprints** (typically a blog-like write-up) are due at 11:55 PM to Moodle on the day listed, except when otherwise noted. For requests of extensions, please see my [Due Date Timeliness](#due-date-timeliness) policy above.
+
+{% assign hw1 = site.data.hci_assignments | where: "id", "hw1" | first %}
+{% assign hw2 = site.data.hci_assignments | where: "id", "hw2" | first %}
+{% assign hw3 = site.data.hci_assignments | where: "id", "hw3" | first %}
+{% assign hw4 = site.data.hci_assignments | where: "id", "hw4" | first %}
 
 <table>
   <thead>
@@ -219,7 +223,7 @@ All **reading** and **demos of design sprints** are due at 8:00 AM on the day of
 <tbody>
   <tr>
     <td rowspan="2">1</td>
-    <td>8/25</td>
+    <td>{{ site.data.hci_schedule.w1s1 }}</td>
     <td>Intro to Human-Computer Interaction</td>
     <td> 
     <!-- <img class="reading" src="./images/book-open.svg" height="16" width="16"><a href="https://www.interaction-design.org/literature/book/the-encyclopedia-of-human-computer-interaction-2nd-ed/contextual-design"> Contextual Design, Holtzblatt & Beyer.</a> <i>(reading due by Friday)</i><br />  -->
@@ -227,8 +231,8 @@ All **reading** and **demos of design sprints** are due at 8:00 AM on the day of
     <td><a href="https://forms.gle/wgfr3YYCUwwCq6nc6">Complete the <br>course survey</a>.</td>
   </tr>
   <tr>
-    <td>8/27</td>
-    <td>Needfinding, <a href="/teaching/hci/assignments/hw1">HW 1: Good/Bad Design</a> released</td>
+    <td>{{ site.data.hci_schedule.w1s2 }}</td>
+    <td>Needfinding, <a href="{{ hw1.link }}">HW 1: Good/Bad Design</a> released</td>
     <td>
     <img class="reading" src="./images/book-open.svg" height="16" width="16"> <a href="https://hci.stanford.edu/courses/cs147/2021/wi/readings/FIELDGUIDE-Screen-DTBC-March-2015-V2.pdf">Empathy Fieldguide</a>
     <br />
@@ -244,17 +248,17 @@ All **reading** and **demos of design sprints** are due at 8:00 AM on the day of
   </tr>
   <tr>
     <td rowspan="2">2</td>
-    <td>9/1</td>
-    <td>Define, <a href="/teaching/hci/assignments/hw2">HW 2: Needfinding Exercise</a> released</td>
+    <td>{{ site.data.hci_schedule.w2s1 }}</td>
+    <td>Define, <a href="{{ hw2.link }}">HW 2: Needfinding Exercise</a> released</td>
     <td><img class="reading" src="./images/book-open.svg" height="16" width="16"> <a href="https://dl.icdst.org/pdfs/files4/4bb8d08a9b309df7d86e62ec4056ceef.pdf">Ch. 1 from <i>The Design of Everyday Things</i></a><br>
 		<img class="reading" src="./images/book-open.svg" height="16" width="16"> <a href="https://faculty.washington.edu/ajko/books/design-methods/understand">How to Understand Problems by Ko</a> (<a href="https://faculty.washington.edu/ajko/books/design-methods">homepage</a> for all of Ko's chapters)<br>
 		<img class="reading" src="./images/book-open.svg" height="16" width="16"> <a href="https://faculty.washington.edu/ajko/books/design-methods/problems">How to Define Problems by Ko</a><br>
 	  <!-- Read <img class="reading" src="./images/book-open.svg" height="16" width="16"> or watch <img class="watch" src="./images/display.svg" height="16" width="16"> something else about problem definition -->
     </td>
-    <td><a href="/teaching/hci/assignments/hw1">HW 1: Good/Bad Design</a> <b>(due BEFORE class at 8:00 AM)</b></td>
+    <td><a href="{{ hw1.link }}">HW 1: Good/Bad Design</a> <b>(due {{ hw1.due_time }})</b></td>
   </tr>
   <tr>
-    <td>9/3</td>
+    <td>{{ site.data.hci_schedule.w2s2 }}</td>
     <td>Ideation + Prototyping</td>
     <td>
       <img class="reading" src="./images/book-open.svg" height="16" width="16"> <a href="https://faculty.washington.edu/ajko/books/design-methods/creative">How to be Creative by Ko</a><br>
@@ -270,7 +274,7 @@ All **reading** and **demos of design sprints** are due at 8:00 AM on the day of
   </tr>
   <tr>
     <td rowspan="2">3</td>
-    <td>9/8</td>
+    <td>{{ site.data.hci_schedule.w3s1 }}</td>
     <td>Visual Design + Design Patterns</td>
     <td>
      <img class="watch" src="./images/display.svg" height="16" width="16"> (7 min) <a href="https://www.youtube.com/watch?v=sTi5SNgxE3U">The Universal Arts of Graphic Design</a><br>
@@ -281,12 +285,12 @@ All **reading** and **demos of design sprints** are due at 8:00 AM on the day of
 		<img class="reading" src="./images/book-open.svg" height="16" width="16"> or <img class="watch" src="./images/display.svg" height="16" width="16"> something else about visual design
     </td> -->
     <td>
-     <a href="/teaching/hci/assignments/hw2">HW 2: Needfinding Exercise</a>
+     <a href="{{ hw2.link }}">HW 2: Needfinding Exercise</a>
     </td>
   </tr>
   <tr>
-    <td>9/10</td>
-    <td><a href="/teaching/hci/design-sprints/dimensions" >Design for Dimensions Intro</a> + <br />Figma Demo + <br /> release <a href="/teaching/hci/assignments/hw3" >HW 3: Health Design</a></td> 
+    <td>{{ site.data.hci_schedule.w3s2 }}</td>
+    <td><a href="/teaching/hci/design-sprints/dimensions" >Design for Dimensions Intro</a> + <br />Figma Demo + <br /> release <a href="{{ hw3.link }}" >HW 3: Health Design</a></td> 
     <td>
     Sign up for Figma (educational account) -- see instructions on the right<br>
     <b>Then spend 45-60 minutes following along with Figma tutorial videos (see examples below):</b>
@@ -306,7 +310,7 @@ All **reading** and **demos of design sprints** are due at 8:00 AM on the day of
   </tr>
   <tr>
     <td rowspan="2">4</td>
-    <td>9/15</td>
+    <td>{{ site.data.hci_schedule.w4s1 }}</td>
     <td>Hack Day -- <a href="/teaching/hci/design-sprints/dimensions">Design for Dimensions</a></td>
     <td>	
     <img class="reading" src="./images/book-open.svg" height="16" width="16"> <a href="https://xd.adobe.com/ideas/process/user-research/putting-personas-to-work-in-ux-design/">Putting Personas to Work by Faller</a><br>
@@ -317,25 +321,25 @@ All **reading** and **demos of design sprints** are due at 8:00 AM on the day of
     </td>
   </tr>
   <tr>
-    <td>9/17</td>
+    <td>{{ site.data.hci_schedule.w4s2 }}</td>
     <td>Data Visualization</td>
     <td>
     <img class="watch" src="./images/display.svg" height="16" width="16"> (8 min) <a href="https://www.youtube.com/watch?v=AdSZJzb-aX8">The Art of Data Visualization</a><br>
 		<img class="reading" src="./images/book-open.svg" height="16" width="16"> <a href="https://medium.com/@kennelliott/39-studies-about-human-perception-in-30-minutes-4728f9e31a73">39 studies about human perception in 30 minutes</a> (read the article [~21 min read] <b>OR</b> watch the talk [23:06]: <img class="watch" src="./images/display.svg" height="16" width="16"> <a href="https://www.youtube.com/watch?v=s0J6EDvlN30">Accompanying Talk</a>)<br>
     </td>
     <td>
-    <a href="/teaching/hci/assignments/hw3">HW 3: Health Design</a>
+    <a href="{{ hw3.link }}">HW 3: Health Design</a>
     </td>
   </tr>
   <tr>
     <td rowspan="2">5</td>
-    <td>9/22</td>
+    <td>{{ site.data.hci_schedule.w5s1 }}</td>
     <td>Demo: <a href="/teaching/hci/design-sprints/dimensions">Design for Dimensions</a></td>
     <td>No prep</td>
     <td>DS: <a href="/teaching/hci/design-sprints/dimensions">Design for Dimensions</a></td>
   </tr>
   <tr>
-    <td>9/24</td>
+    <td>{{ site.data.hci_schedule.w5s2 }}</td>
     <td><a href="/teaching/hci/design-sprints/understanding">Design for Understanding</a> Intro + VIS Tool Demo</td>
     <td>
     <img class="reading" src="./images/book-open.svg" height="16" width="16"> <a href="/teaching/hci/papers/RobertsHeadleandRitsos-FiveDesignSheet.pdf">Five Design Sheet Methodology for Visualization</a> (Read the abstraction and Sections 1 and 3 -- 3 is thicc, so be sure to take time to read it carefully and review the figures)<br>
@@ -349,7 +353,7 @@ All **reading** and **demos of design sprints** are due at 8:00 AM on the day of
   </tr>
   <tr>
     <td rowspan="2">6</td>
-    <td>9/29</td>
+    <td>{{ site.data.hci_schedule.w6s1 }}</td>
     <td>Evaluation in HCI, Part 1</td>
     <td>
       <img class="reading" src="./images/book-open.svg" height="16" width="16">  <a href="https://people.cs.vt.edu/~gangwang/HCI.pdf#page=450">Research Ethics in HCI by Bruckman</a><br>
@@ -359,7 +363,7 @@ All **reading** and **demos of design sprints** are due at 8:00 AM on the day of
     <td></td>
   </tr>
   <tr>
-    <td>10/1</td>
+    <td>{{ site.data.hci_schedule.w6s2 }}</td>
     <td>Evaluation Part 2 + Hack: <a href="/teaching/hci/design-sprints/understanding">Design for Understanding</a></td>
     <td>
     <img class="reading" src="./images/book-open.svg" height="16" width="16">  <a href="https://www.nngroup.com/articles/usability-testing-101/">Usability Testing 101 by Moran</a><br>
@@ -371,7 +375,7 @@ All **reading** and **demos of design sprints** are due at 8:00 AM on the day of
   </tr>
   <tr>
     <td rowspan="2">7</td>
-    <td>10/6</td>
+    <td>{{ site.data.hci_schedule.w7s1 }}</td>
     <td>Guest Lecture: <a href="https://www.davidson.edu/people/elizabeth-smith-brigham">Liz Brigham</a>, at the Hurt Hub</td>
     <td>
     <img class="watch" src="./images/display.svg" height="16" width="16"> (60 min) <a href="https://www.youtube.com/watch?v=9kC2KmtjFIU">"Hub & Spoke | Liz Smith Brigham '04"</a><br>
@@ -385,8 +389,8 @@ All **reading** and **demos of design sprints** are due at 8:00 AM on the day of
     <td>Class will be held in the Hurt Hub. We will end at 9:15 to allow time to return to campus.</td> 
   </tr>
   <tr>
-    <td>10/8</td>
-    <td>Accessibility + Universal Design, release <a href="/teaching/hci/assignments/hw4">HW 4</a></td>
+    <td>{{ site.data.hci_schedule.w7s2 }}</td>
+    <td>Accessibility + Universal Design, release <a href="{{ hw4.link }}">HW 4</a></td>
     <td>
     <img class="watch" src="./images/display.svg" height="16" width="16"> (7 min) <a href="https://www.youtube.com/watch?v=A88E4DH2asQ">Adventures in Universal Design</a><br>
     <img class="reading" src="./images/book-open.svg" height="16" width="16"> Against Technoableism by Ashley Shew, <a href="https://drive.google.com/file/d/1EacVgq1yIadAlaOWIzWNodCoEu_96a7l/view?usp=sharing">Chapter 1</a> and <a href="https://drive.google.com/file/d/1LWPhm4fWdmHVVVUOKEuaBXTHFmoYXreu/view?usp=sharing">Chapter 4</a><br>
@@ -398,14 +402,14 @@ All **reading** and **demos of design sprints** are due at 8:00 AM on the day of
   </tr>
   <tr>
     <td rowspan="2" >8</td>
-    <td>10/13</td>
+    <td>{{ site.data.hci_schedule.w8s1 }}</td>
     <td><a href="/teaching/hci/design-sprints/understanding">Demo: Design for Understanding</a> <br>
     </td>
     <td></td>
     <td><a href="/teaching/hci/design-sprints/understanding">DS: Design for Understanding</a>	</td>
   </tr>
   <tr>
-    <td>10/15</td>
+    <td>{{ site.data.hci_schedule.w8s2 }}</td>
     <td>
     <a href="/teaching/hci/design-sprints/another-world">Design for Another World</a> Intro, Augmented + Virtual Reality
     </td>
@@ -416,24 +420,24 @@ All **reading** and **demos of design sprints** are due at 8:00 AM on the day of
 		<!-- <img class="reading" src="./images/book-open.svg" height="16" width="16"> <b>Opt:</b> <a href="https://www.theatlantic.com/technology/archive/2016/03/virtual-reality-is-just-television-for-the-computer-junkie/475632/">Dystopian Virtual Reality is Finally Here (Ian Bogost)</a> <br> -->
 	  <img class="reading" src="./images/book-open.svg" height="16" width="16"> <b>Opt:</b> <a href="https://developer.apple.com/ios/human-interface-guidelines/technologies/augmented-reality/">AR Human Interface guidelines by Apple</a>	
 		</td>
-    <td><a href="/teaching/hci/assignments/hw4">HW 4: Accessibility</a> is due on Friday</td>
+    <td><a href="{{ hw4.link }}">HW 4: Accessibility</a> is due {{ hw4.due }}</td>
   </tr>
   <tr>
     <td rowspan="2">9</td>
-    <td>10/20</td>
+    <td>{{ site.data.hci_schedule.w9s1 }}</td>
     <td>Hack: <a href="/teaching/hci/design-sprints/another-world">Design for Another World</a></td>
     <td>No prep
 		</td>
     <td></td>
   </tr>
   <tr>
-    <td>10/22</td>
+    <td>{{ site.data.hci_schedule.w9s2 }}</td>
     <td><a href="teaching/hci/oral-exam">Oral Exam</a></td>
     <td></td>
     <td></td>
   <tr>
     <td rowspan="2" >10</td>
-    <td >10/27</td>
+    <td>{{ site.data.hci_schedule.w10s1 }}</td>
     <td>Tangible + Wearable Interfaces</td>
     <td>
     	<img class="reading" src="./images/book-open.svg" height="16" width="16"> <a href="https://www.interaction-design.org/literature/book/the-glossary-of-human-computer-interaction/tangible-interaction">Tangible Interaction by Hornecker</a><br>
@@ -443,7 +447,7 @@ All **reading** and **demos of design sprints** are due at 8:00 AM on the day of
     <td></td>
   </tr>
   <tr>
-    <td>10/29</td>
+    <td>{{ site.data.hci_schedule.w10s2 }}</td>
     <td>Prototyping and partial Hack Day</td>
     <td> <img class="watch" src="./images/display.svg" height="16" width="16"> (8 min) <a href="https://www.youtube.com/watch?v=d5_h1VuwD6g">Rapid Prototyping Google Glass</a><br>
 			<img class="watch" src="./images/display.svg" height="16" width="16"> (4 min) <a href="https://www.youtube.com/watch?v=IZy7dZOGjc0">How to Design a Smart Watch</a><br>
@@ -452,13 +456,13 @@ All **reading** and **demos of design sprints** are due at 8:00 AM on the day of
   </tr>
   <tr>
     <td rowspan="2">11</td>
-    <td>11/3</td>
+    <td>{{ site.data.hci_schedule.w11s1 }}</td>
     <td>Demo: <a href="/teaching/hci/design-sprints/another-world">Design for Another World</a></td>
     <td>No prep</td>
     <td><a href="/teaching/hci/design-sprints/another-world">DS: Design for Another World</a></td>
   </tr>
   <tr>
-    <td>11/5</td>
+    <td>{{ site.data.hci_schedule.w11s2 }}</td>
     <td>Affective Computing and <a href="/teaching/hci/design-sprints/redesign">Re-design and Extend</a> Intro</td>
     <td>
     <img class="reading" src="./images/book-open.svg" height="16" width="16"><a href="https://www.interaction-design.org/literature/topics/affective-computing"> Affective Computing</a><br>
@@ -476,7 +480,7 @@ Wearable Tech to Improve Women's Health Research</a><br>
   </tr>
   <tr>
   <td rowspan="2">12</td>
-    <td>11/10</td>
+    <td>{{ site.data.hci_schedule.w12s1 }}</td>
     <td>Hack: <a href="/teaching/hci/design-sprints/redesign">Re-design and Extend</a> 
     <!--(at DACE Studio -- north basement of Chambers (flagpole side))-->
     </td>
@@ -484,7 +488,7 @@ Wearable Tech to Improve Women's Health Research</a><br>
     <td></td>
   </tr>
   <tr>
-    <td>11/12</td>
+    <td>{{ site.data.hci_schedule.w12s2 }}</td>
     <td>Interface Metaphors + Input Techniques</td>
     <td>
     <!-- <img class="reading" src="./images/book-open.svg" height="16" width="16"> <a href="http://erichorvitz.com/chi99horvitz.pdf">Principles of Mixed-Initiative User Interfaces by Horvitz</a> (Intro + Principles) <br>  -->
@@ -497,7 +501,7 @@ Wearable Tech to Improve Women's Health Research</a><br>
   </tr>
   <tr>
   <td rowspan="2">13</td>
-    <td>11/17</td>
+    <td>{{ site.data.hci_schedule.w13s1 }}</td>
     <td>Visit the Archives (8:30 AM - 9:20 AM), release of <a href="https://kawilliams.github.io/teaching/hci/design-sprints/archives">Archive Analysis assignment</a></td>
     <td>Complete this <a href="https://docs.google.com/document/d/1IKPJz1E_6wFcdmzh3I2UBjiDRhugH1k9qeaCVbw0Esk/edit?usp=sharing">Archives Prep</a> worksheet and submit it to Moodle</td>
     <!-- <td>11/17</td>
@@ -506,33 +510,33 @@ Wearable Tech to Improve Women's Health Research</a><br>
     <td>Submit your <a href="https://docs.google.com/document/d/1IKPJz1E_6wFcdmzh3I2UBjiDRhugH1k9qeaCVbw0Esk/edit?usp=sharing">Archives Prep</a> worksheet <b>by 8:20 AM (due before we visit the Archives)</b></td>
   </tr>
   <tr>
-    <td>11/19</td>
+    <td>{{ site.data.hci_schedule.w13s2 }}</td>
     <td>Hack Day: <a href="/teaching/hci/design-sprints/redesign">Re-design and Extend</a></td>
     <td><a href="/teaching/hci/design-sprints/redesign">Re-design and Extend Checkpoint</a> is due by 11:55 PM</td>
     <td></td>
   </tr>
   <tr>
   <td rowspan="2">14</td>
-    <td>11/24</td>
+    <td>{{ site.data.hci_schedule.w14s1 }}</td>
     <td>Thanksgiving break</td>
     <td></td>
     <td></td>
   </tr>
   <tr>
-    <td>11/26</td>
+    <td>{{ site.data.hci_schedule.w14s2 }}</td>
     <td>Thanksgiving break</td>
     <td></td>
     <td></td>
   </tr>
   <tr>
     <td rowspan="2" id="this_week">15</td>
-    <td>12/1</td>
+    <td>{{ site.data.hci_schedule.w15s1 }}</td>
     <td>Hack Day: <a href="/teaching/hci/design-sprints/redesign">Re-design and Extend</a></td>
     <td>No prep</td>
     <td><a href="https://kawilliams.github.io/teaching/hci/design-sprints/archives">Archives assignment due by 11:55 PM</a></td>
   </tr>
   <tr>
-    <td>12/3</td>
+    <td>{{ site.data.hci_schedule.w15s2 }}</td>
     <td>Demo Day: <a href="design-sprints/redesign">Re-design and Extend</a></td>
     <td></td>
     <td>
@@ -551,20 +555,20 @@ Wearable Tech to Improve Women's Health Research</a><br>
   </tr>
   <tr>
     <td rowspan="2">16</td>
-    <td>12/8</td>
+    <td>{{ site.data.hci_schedule.w16s1 }}</td>
     <td>No class (<b>Friday</b> schedule)</td>
     <td></td>
     <td></td>
   </tr>
   <tr>
-    <td>12/10</td>
+    <td>{{ site.data.hci_schedule.w16s2 }}</td>
     <td>No class (Reading Day)</td>
     <td></td>
     <td></td>
   </tr>
   <tr>
     <td rowspan="2">17</td>
-    <td>12/15</td>
+    <td>{{ site.data.hci_schedule.w17s1 }}</td>
     <td>Final Assessment Period <br /> <b>All work due by December 16.</b></td>
     <td></td>
     <td><a href="final-project">Final Design Portfolio</a></td>
