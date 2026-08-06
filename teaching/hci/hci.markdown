@@ -10,7 +10,7 @@ description: Human Computer Interaction
 permalink: teaching/hci/
 ---
 
-<h4><img src="./images/arrow-down-long.svg" width="24" height="24"> Jump down to the <a href="#this_week">schedule</a>, <a href="#assignments-and-responsibilities">assignments</a>, or <a href="#policies">policies</a> (including my <a href="#ai-statement">AI policy</a>).</h4>
+<h4><img src="./images/arrow-down-long.svg" width="24" height="24"> Jump down to the <a href="#this_week">schedule</a>, <a href="#assignments-and-responsibilities">assignments</a>, or <a href="#policies">policies</a> (including my <a href="#ai-policy">AI policy</a>).</h4>
 
 # About this course 
 
@@ -222,7 +222,7 @@ All **reading** and **demos of design sprints** are due at 8:00 AM on the day of
   </thead>
 <tbody>
   <tr>
-    <td rowspan="2">1</td>
+    <td rowspan="2" id="this_week">1</td>
     <td>{{ site.data.hci_schedule.w1s1 }}</td>
     <td>Intro to Human-Computer Interaction</td>
     <td> 
@@ -529,7 +529,7 @@ Wearable Tech to Improve Women's Health Research</a><br>
     <td></td>
   </tr>
   <tr>
-    <td rowspan="2" id="this_week">15</td>
+    <td rowspan="2">15</td>
     <td>{{ site.data.hci_schedule.w15s1 }}</td>
     <td>Hack Day: <a href="/teaching/hci/design-sprints/redesign">Re-design and Extend</a></td>
     <td>No prep</td>
