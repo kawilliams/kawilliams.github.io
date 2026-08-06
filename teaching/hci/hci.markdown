@@ -118,9 +118,9 @@ Unless explicitly stated otherwise, you are expected to complete assignments on 
 
 If you do use generative AI tools on assignments in this class, I will specify *how* you can use AI in each assignment with a red light, yellow light, green light labeling. Review below this **per assignment policy**:
 
-* **GREEN LIGHT** assignments: You may use AI as you wish in this assignment. In fact, I may even encourage you to use AI for this assignment -- see details in the assignment.
-* **YELLOW LIGHT** assignments: You may use AI for certain parts of this assignment or to polish/edit *your original, non-AI work*. Be sure to *carefully* locate the 🤖 robot icons and read to make sure you align with this policy.
-* **RED LIGHT** assignments: **YOU MAY NOT USE AI for this assignment at all. If you violate this policy, you will earn a 0 for this assignment and the evidence will be submitted to the Honor Council.**
+* **🟢 GREEN LIGHT** assignments: You may use AI as you wish in this assignment. In fact, I may even encourage you to use AI for this assignment -- see details in the assignment.
+* **🟡 YELLOW LIGHT** assignments: You may use AI for certain parts of this assignment or to polish/edit *your original, non-AI work*. Be sure to *carefully* locate the 🤖 robot icons and read to make sure you align with this policy.
+* **🔴 RED LIGHT** assignments: **YOU MAY NOT USE AI for this assignment at all. If you violate this policy, you will earn a 0 for this assignment and the evidence will be submitted to the Honor Council.**
 
 
 You can always choose to use less AI on the assignment (e.g., follow a red light policy if the assignment is a yellow light policy). Please cite the tool according to the guidelines for citing computer software, as outlined in the [ACM style guide](https://www.acm.org/publications/policies/frequently-asked-questions).
@@ -135,9 +135,9 @@ To that end, here is an incomplete list of acceptable and unacceptable uses of A
 
 | Assignment Policy | Allowed Behavior                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
 |-------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Green Light       | 	● To generate code; to debug error messages. You will learn a wide variety of tools in a short amount of time -- I don't expect you to become an expert on your own. AI can get you 80% of the way there on assignments, but you *will* need to revise this code, since the code will be buggy or inefficient.<br>To study for the Oral Exam by prompting Gemini/ChatGPT/etc. to ask you interview questions about the material and you verbally answer.                                                                                                                                                                                                                                                                     |
-| Yellow Light      | ● To proofread your writing; to check grammar, rigor, and style (such as using Grammarly); to find alternative wording. <br> ● To verbally read the full contents of articles (so you listen to the original text, rather than read it); to *summarize*<br> articles for *your own understanding* (not for a graded assignment) *after* you have already read the original text.                                                                                                                                                                                                                                                                                                                                                |
-| Red Light         | ● To generate outlines for blog posts. The [Design Doc](/teaching/hci/design-doc) serves as your starting point for blog posts and we will read plenty of examples of great blog posts. I expect the content of your writing, from outline to final product, to be solely written by you (see acceptable uses in proofreading above).<br> ● To summarize a text or video without you reading or watching the original. The authors and creators of these works have used deliberate language and have carefully crafted their position. You will likely receive an incorrect or incomplete summary if you rely only on AI summaries. <br> ● To answer questions during reading checks or to generate answers during the Oral Exam. |
+| 🟢 Green Light       | 	● To generate code; to debug error messages. You will learn a wide variety of tools in a short amount of time -- I don't expect you to become an expert on your own. AI can get you 80% of the way there on assignments, but you *will* need to revise this code, since the code will be buggy or inefficient.<br>To study for the Oral Exam by prompting Gemini/ChatGPT/etc. to ask you interview questions about the material and you verbally answer.                                                                                                                                                                                                                                                                     |
+| 🟡 Yellow Light      | ● To proofread your writing; to check grammar, rigor, and style (such as using Grammarly); to find alternative wording. <br> ● To verbally read the full contents of articles (so you listen to the original text, rather than read it); to *summarize*<br> articles for *your own understanding* (not for a graded assignment) *after* you have already read the original text.                                                                                                                                                                                                                                                                                                                                                |
+| 🔴 Red Light         | ● To generate outlines for blog posts. The [Design Doc](/teaching/hci/design-doc) serves as your starting point for blog posts and we will read plenty of examples of great blog posts. I expect the content of your writing, from outline to final product, to be solely written by you (see acceptable uses in proofreading above).<br> ● To summarize a text or video without you reading or watching the original. The authors and creators of these works have used deliberate language and have carefully crafted their position. You will likely receive an incorrect or incomplete summary if you rely only on AI summaries. <br> ● To answer questions during reading checks or to generate answers during the Oral Exam. |
 
 ## Accessibility, Inclusion, and Resources for Students
 **Accessibility Services**:
@@ -283,7 +283,8 @@ All **reading** and **demos of design sprints** are due at 8:00 AM on the day of
 		<!-- <img class="reading" src="./images/book-open.svg" height="16" width="16"> <b>Optional: </b><a href="https://uxdesign.cc/3-ways-to-improve-your-visual-design-skills-fa9dc8e583ff">3 ways to improve your visual design skills</a><br>
 		<img class="reading" src="./images/book-open.svg" height="16" width="16"> <b>Optional: </b> <look-this></look-this> <a href="http://ui-patterns.com">UI Design Patterns</a><br>
 		<img class="reading" src="./images/book-open.svg" height="16" width="16"> or <img class="watch" src="./images/display.svg" height="16" width="16"> something else about visual design
-    </td> -->
+     -->
+     </td>
     <td>
      <a href="{{ hw2.link }}">HW 2: Needfinding Exercise</a>
     </td>
@@ -435,6 +436,7 @@ All **reading** and **demos of design sprints** are due at 8:00 AM on the day of
     <td><a href="teaching/hci/oral-exam">Oral Exam</a></td>
     <td></td>
     <td></td>
+  </tr>
   <tr>
     <td rowspan="2" >10</td>
     <td>{{ site.data.hci_schedule.w10s1 }}</td>
@@ -468,13 +470,7 @@ All **reading** and **demos of design sprints** are due at 8:00 AM on the day of
     <img class="reading" src="./images/book-open.svg" height="16" width="16"><a href="https://www.interaction-design.org/literature/topics/affective-computing"> Affective Computing</a><br>
     <img class="video" src="./images/display.svg" height="16" width="16"><a href="https://www.media.mit.edu/groups/affective-computing/overview/"> [2:53] Watch the video midway down the page: "Affective Computing overview" by Rosalind Picard</a><br>
     <img class="video" src="./images/display.svg" height="16" width="16"><a href="https://www.youtube.com/watch?v=rzvBzbbcJ7o/"> [7:44]
-Wearable Tech to Improve Women's Health Research</a><br>
-    
-   	<!-- <img class="reading" src="./images/book-open.svg" height="16" width="16"> <a href="https://www.interaction-design.org/literature/book/the-encyclopedia-of-human-computer-interaction-2nd-ed/affective-computing">Affective Computing by Höök</a><br>
-			<img class="watch" src="./images/display.svg" height="16" width="16"> (20 min) <a href="https://www.youtube.com/watch?v=bbGP53IIMfg">The Future of Affective Computing</a><br>
-			<img class="reading" src="./images/book-open.svg" height="16" width="16"> <b>Opt:</b> <a href="https://www.technologyreview.com/s/609071/we-need-computers-with-empathy/?utm_campaign=Owned+Social&amp;utm_source=Twitter&amp;utm_medium=Owned+Social">We Need Computers with Empathy</a><br>
-			<img class="watch" src="./images/display.svg" height="16" width="16"> <b>Opt:</b> (16 min) <a href="https://www.youtube.com/watch?v=wUvmqKvZQ-0">Time for Technologies to Respect our Psychological Needs by Calvo</a><br>
-			<img class="watch" src="./images/display.svg" height="16" width="16"> <b>Opt:</b> (52 min) <a href="https://www.youtube.com/watch?v=su25HMMygaA">Emotion Technology by Picard</a>										 -->
+Wearable Tech to Improve Women's Health Research</a>
     </td>
     <td></td>
   </tr>
@@ -495,8 +491,7 @@ Wearable Tech to Improve Women's Health Research</a><br>
 		<img class="watch" src="./images/display.svg" height="16" width="16">  (8 min) <a href="https://www.youtube.com/watch?v=NcdrfacG_y4">Bill Buxton on Natural User Interfaces</a><br>
     <img class="reading" src="./images/book-open.svg" height="16" width="16">  <a href="./papers/gesture-interfaces.pdf">Gestural Interfaces: A Step Backward in Usability</a><br> 
 		<img class="reading" src="./images/book-open.svg" height="16" width="16"> <a href="https://drive.google.com/file/d/1_rq6XCXLg2JvU6YV4XJ4lNZKHai9pCtQ/view?usp=sharing">User-Defined Gestures for Surface Computing by Wobbrock et al.</a>
-    
-		<!-- <img class="reading" src="./images/book-open.svg" height="16" width="16"> <b>Opt:</b> <a href="https://www.microsoft.com/en-us/research/wp-content/uploads/2016/11/Input-Technologies-and-Techniques-HCI-Handbook-3rd-Edition.pdf">Input Technologies and Techniques by Hinckley and Wigdor</a></td> -->
+    </td>
     <td></td>
   </tr>
   <tr>
@@ -573,4 +568,11 @@ Wearable Tech to Improve Women's Health Research</a><br>
     <td></td>
     <td><a href="final-project">Final Design Portfolio</a></td>
   </tr>
+  <tr>
+    <td>{{ site.data.hci_schedule.w17s2 }}</td>
+    <td>No class (Reading Day)</td>
+    <td></td>
+    <td></td>
+  </tr>
 </tbody>
+</table>

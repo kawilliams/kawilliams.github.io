@@ -56,3 +56,51 @@
   due_short: "10/17"
   due_time: "by 11:55 PM to Moodle"
   weight: "20%"
+
+- id: ds1
+  number: 1
+  title: "Design Sprint #1: Design for Dimensions"
+  short_title: "DS #1"
+  topic: "Design for Dimensions"
+  link: /teaching/hci/design-sprints/dimensions
+  opens: "Wednesday, September 10"
+  due: "Monday, September 22"
+  due_short: "9/22"
+  due_time: "by 8:05 AM, in class"
+  weight: "10%"
+
+- id: ds2
+  number: 2
+  title: "Design Sprint #2: Design for Understanding"
+  short_title: "DS #2"
+  topic: "Design for Understanding"
+  link: /teaching/hci/design-sprints/understanding
+  opens: "Wednesday, September 10"
+  due: "Monday, September 22"
+  due_short: "9/22"
+  due_time: "by 11:55 PM to Moodle"
+  weight: "20%"
+
+- id: ds3
+  number: 3
+  title: "Design Sprint #3: Design for A New World"
+  short_title: "DS #3"
+  topic: "Design for A New World"
+  link: /teaching/hci/assignments/ds3
+  opens: "Wednesday, September 10"
+  due: "Monday, September 22"
+  due_short: "9/22"
+  due_time: "by 11:55 PM to Moodle"
+  weight: "30%"
+
+- id: ds4
+  number: 4
+  title: "Design Sprint #4: Redesign and Extend"
+  short_title: "DS #4"
+  topic: "Redesign and Extend"
+  link: /teaching/hci/assignments/ds4
+  opens: "Wednesday, September 10"
+  due: "Monday, September 22"
+  due_short: "9/22"
+  due_time: "by 11:55 PM to Moodle"
+  weight: "40%"

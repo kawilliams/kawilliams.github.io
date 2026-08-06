@@ -8,11 +8,13 @@ description: Design for Dimensions
 permalink: /teaching/hci/design-sprints/dimensions
 ---
 
+{% assign ds = site.data.hci_assignments | where: "id", "ds1" | first %}
+
 # Design for Dimensions
 
 * Group size: Teams of 3-4
-* Design sprint starts: Wednesday, September 10, in class.
-* Design sprint ends: Monday, September 22, in class (demo). [Design document](/teaching/hci/design-doc) due at *11:55 PM*. 
+* Design sprint starts: {{ ds.opens }}
+* Design sprints ends: {{ ds.due }}, {{ ds.due_time }}. [Design document](/teaching/hci/design-doc) due at *11:55 PM*.
 
 ## Overview 
 
