@@ -8,11 +8,13 @@ description: Design for Accessibility
 permalink: /teaching/hci/assignments/hw4
 ---
 
+{% assign hw = site.data.hci_assignments | where: "id", "hw4" | first %}
+
 # Design for Accessibility
 
 * Group size: **Individual**
-* Released: Wednesday, October 8
-* Due: Friday, October 17 by 11:55 PM to Moodle
+* Released: {{ hw.opens }}
+* Due: {{ hw.due }} {{ hw.due_time }}
 
 ## Choice
 You may choose to one of two tasks: (1) investigate [physical accessibility](#overview-physical-accessibility) on campus **or**, (2) investigate [digital accessibility](#overview-digital-accessibility) on websites.

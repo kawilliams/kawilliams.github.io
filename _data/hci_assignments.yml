@@ -1,0 +1,58 @@
+# Individual homework assignments for CSC 363 HCI.
+#
+# Single source of truth for due dates -- referenced from
+# teaching/hci/hci.markdown (Schedule table), teaching/hci/homework/homework.md
+# (summary table), and each teaching/hci/homework/*.md assignment page.
+#
+# due_short must match a date in _data/hci_schedule.yml (M/D) so it lines up
+# with the Schedule table's date column. To move a due date for a holiday,
+# edit `due`, `due_short`, and `opens` here -- then double check the Schedule
+# table row in hci.markdown still points at the right week/session.
+
+- id: hw1
+  number: 1
+  title: "Good/Bad Design"
+  short_title: "HW 1"
+  topic: "Human-Centered Design Process"
+  link: /teaching/hci/assignments/hw1
+  opens: "Wednesday, August 27"
+  due: "Monday, September 1"
+  due_short: "9/1"
+  due_time: "before class (8:00 AM)"
+  weight: "10%"
+
+- id: hw2
+  number: 2
+  title: "Needfinding for Health Design"
+  short_title: "HW 2"
+  topic: "Needfinding"
+  link: /teaching/hci/assignments/hw2
+  opens: "Monday, September 1"
+  due: "Monday, September 8"
+  due_short: "9/8"
+  due_time: "by 11:55 PM"
+  weight: "30%"
+
+- id: hw3
+  number: 3
+  title: "Health Design"
+  short_title: "HW 3"
+  topic: "Health Design"
+  link: /teaching/hci/assignments/hw3
+  opens: "Wednesday, September 10"
+  due: "Wednesday, September 17"
+  due_short: "9/17"
+  due_time: "by 11:55 PM"
+  weight: "40%"
+
+- id: hw4
+  number: 4
+  title: "Campus Accessibility"
+  short_title: "HW 4"
+  topic: "Accessible Design"
+  link: /teaching/hci/assignments/hw4
+  opens: "Wednesday, October 8"
+  due: "Friday, October 17"
+  due_short: "10/17"
+  due_time: "by 11:55 PM to Moodle"
+  weight: "20%"

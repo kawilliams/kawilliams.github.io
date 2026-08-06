@@ -8,11 +8,13 @@ description: Health Design
 permalink: /teaching/hci/assignments/hw3
 ---
 
+{% assign hw = site.data.hci_assignments | where: "id", "hw3" | first %}
+
 # Health Design
 
 * Group size: **Individual**
-* Assignment opens: Wednesday, September 10
-* Due: Wednesday, September 17 by 11:55 PM
+* Assignment opens: {{ hw.opens }}
+* Due: {{ hw.due }} {{ hw.due_time }}
 
 ## Overview 
 Before your first group design sprint, this individual assignment will introduce you to some aspects of the design process:

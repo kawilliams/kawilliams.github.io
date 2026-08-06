@@ -8,12 +8,14 @@ description: Good Design, Bad Design
 permalink: /teaching/hci/assignments/hw1
 ---
 
+{% assign hw = site.data.hci_assignments | where: "id", "hw1" | first %}
+
 # Good Design, Bad Design
 
 * Group size: Individual
 * **AI Policy**: {{ site.ai-red }}
-* Assignment opens: Wedneseday, August 27
-* Due: Monday, September 1 *before class (8:00 AM)*
+* Assignment opens: {{ hw.opens }}
+* Due: {{ hw.due }} *{{ hw.due_time }}*
 * **Estimated Time Spent**: 45 - 90 minutes
 * Before you start this assignment, make sure that you have already read [Learning to See](https://ia.net/know-how/learning-to-see).
 
