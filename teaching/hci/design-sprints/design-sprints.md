@@ -17,11 +17,16 @@ The core of the work in this class will fall under the broad category of group d
 
 ### Design Sprints
 
-| Title | Topic | Tech | Who | Weight | Start | Due | 
+<!-- | Title | Topic | Tech | Who | Weight | Start | Due | 
 |-------|-------|------|-----|--------|-------|-----|
 | 1. [Design for Dimensions](/teaching/hci/design-sprints/dimensions) | Visual Design + Sketching | Paper, prototyping software ([Figma](https://www.figma.com/)), HTML/CSS [(crash course here)](https://www.codecademy.com/) | Group | 10% | 9/10 | 9/22 |
 | 2. [Design for Understanding](/teaching/hci/design-sprints/understanding) | Data Visualization + Communications | [d3js](https://d3js.org/), [Vega (Web)](https://vega.github.io/) or [Vega-Lite](https://vega.github.io/vega-lite/), [Chart.js](https://www.chartjs.org/), [P5js](https://p5js.org/), [Tableau (free student license)](https://www.tableau.com/) | Group | 30% | 9/24 | 10/13 |
 | 3. [Design for Another World](/teaching/hci/design-sprints/another-world) | Virtual Reality | [Unity](https://unity.com/) or [A-Frame](https://aframe.io/) + [VR Viewers](https://arvr.google.com/cardboard/) | Group | 30% | 10/15 | 11/3 | 
 | 4. [Re-design and Extend](/teaching/hci/design-sprints/redesign) | Evaluation + Iteration | Physical prototyping (e.g., foam, cardboard) | Group | 20% | 11/10 | 12/3 | 
 | 5. [From to Mainframes to Models](/teaching/hci/design-sprints/archives) | Engage in Sources | Archival publications, current research, analysis | Group | 10% | 11/17 | 12/1
+ -->
 
+ | Title | Topic | Who | Weight | Due | 
+|-------|-------|-----|--------|-----|
+{% for ds in site.data.hci_assignments offset: 4 %}| {{ ds.number }}. [{{ ds.title }}]({{ ds.link }}) | {{ ds.topic }} | You and Your Group | {{ ds.weight }} | {{ ds.due_short }} |
+{% endfor %} 
