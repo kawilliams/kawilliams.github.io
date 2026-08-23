@@ -122,6 +122,8 @@ If you do use generative AI tools on assignments in this class, I will specify *
 * **🟡 YELLOW LIGHT** assignments: You may use AI for certain parts of this assignment or to polish/edit *your original, non-AI work*. Be sure to *carefully* locate the 🤖 robot icons and read to make sure you align with this policy.
 * **🔴 RED LIGHT** assignments: **YOU MAY NOT USE AI for this assignment at all. If you violate this policy, you will earn a 0 for this assignment and the evidence will be submitted to the Honor Council.**
 
+**Wearables**: Wearable devices with AI-integrated, such as Meta glasses, that are capable of accessing information are not allowed in this class. The only exceptions are if they are required by your AADR accommodations or if we are studying wearables in class. *During the classes we study wearables, I will ask (and encourage!) you to bring in your wearables and devices so that we can have a productive conversation.* However, these devices are prohibited otherwise. Additionally, **the college has a policy prohibiting unauthorized recording in class, and there are parameters around what students are allowed to do with AADR authorized recordings**.
+
 
 You can always choose to use less AI on the assignment (e.g., follow a red light policy if the assignment is a yellow light policy). Please cite the tool according to the guidelines for citing computer software, as outlined in the [ACM style guide](https://www.acm.org/publications/policies/frequently-asked-questions).
 
@@ -141,9 +143,8 @@ To that end, here is an incomplete list of acceptable and unacceptable uses of A
 
 ## Accessibility, Inclusion, and Resources for Students
 **Accessibility Services**:
-The college welcomes requests for accommodations related to disability and will 
-grant those that are determined to be reasonable and maintain the integrity of 
-a program or curriculum. To make such a request or to begin a conversation about a possible request, please contact the Office of Academic Access and Disability Resources (AADR) by emailing AADR@davidson.edu. It is best to submit accommodation requests within the drop/add period; however, requests can be made at any time in the semester. Please keep in mind that accommodations are not retroactive.
+The college welcomes requests for accommodations related to disability and will grant those that are determined to be reasonable and maintain the integrity of a program or curriculum. To make such a request or to begin a conversation about a possible request, please contact the Office of Academic Access and Disability Resources by emailing AADR@davidson.edu. It is best to submit accommodation requests within the drop/add period; however, requests can be made at any time in the semester. Please keep in mind that accommodations are not retroactive.
+
 
 **Additional Resources for Students**:
 Academic Access and Disability Resources (AADR) offers free academic coaching services to students. If you need help with time management (**or group project management**), test taking, studying 
