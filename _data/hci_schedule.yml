@@ -11,7 +11,7 @@ w3s1: "9/7"
 w3s2: "9/9"
 w4s1: "9/14"
 w4s2: "9/16"
-w5s1: "9/21"
+w5s1: "9/21" #Fall Break
 w5s2: "9/23"
 w6s1: "9/28"
 w6s2: "9/30"
@@ -29,11 +29,11 @@ w12s1: "11/9"
 w12s2: "11/11"
 w13s1: "11/16"
 w13s2: "11/18"
-w14s1: "11/23"
-w14s2: "11/25"
+w14s1: "11/23" #Thanksgiving break
+w14s2: "11/25" #Thanksgiving break
 w15s1: "11/30"
 w15s2: "12/2"
 w16s1: "12/7"
-w16s2: "12/9"
-w17s1: "12/13"
-w17s2: "12/15"
+w16s2: "12/9" #Reading and Reflection Day
+w17s1: "12/13" #Final Assessment Period
+w17s2: "12/15" #Final Assessment Period
