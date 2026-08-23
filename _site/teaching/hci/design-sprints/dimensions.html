@@ -25,7 +25,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="theme-color" content="#157878">
     <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
-    <link rel="stylesheet" href="/assets/css/style.css?v=4d224bd7a45927271db2b804f641b71c6736dd71">
+    <link rel="stylesheet" href="/assets/css/style.css?v=1c21aafeacf5b52044d5fe97865cf6a17f7eb8a4">
     <!-- start custom head snippets, customize with your own _includes/head-custom.html file -->
 
 <!-- Setup Google Analytics -->
@@ -58,6 +58,7 @@
 
 <ul>
   <li>Group size: Teams of 3-4</li>
+  <li><strong>AI Policy</strong>: <strong>YELLOW LIGHT</strong>: You may use AI for certain parts of this assignment or to polish/edit <em>your original, non-AI work</em>. Be sure to <em>carefully</em> locate the 🤖 robot icons and read to make sure you align with this policy.</li>
   <li>Design sprint starts: Wednesday, September 10</li>
   <li>Design sprints ends: Monday, September 22, by 8:05 AM, in class. <a href="/teaching/hci/design-doc">Design document</a> due at <em>11:55 PM</em>.</li>
 </ul>
@@ -66,99 +67,143 @@
 
 <p><strong>Before you begin</strong>: Read this entire document and consider how you might want to split up work.</p>
 
-<p>It’s time to begin the design process <em>as a team</em>. This first design sprint will build on the <em>skills</em> you developed
-during the Health Design assignment and force you to engage with three aspects of the design process. In particular, you and your group will demonstrate understanding of:</p>
+<p><strong>Purpose</strong>: The goal of this design sprint is to practice responsive and contextual UI/UX design as a collaborative team. Rather than simply shrinking or stretching a layout to fit different screens, you will redesign an existing website (Knotty and Board) tailored specifically to the unique physical, interaction, and context-of-use constraints of three distinct device dimensions for a targeted user demographic.</p>
+
+<p>In this assignment, <em>as a team</em>, you will learn and practice:</p>
+<ul>
+  <li><strong>Contextual and multi-device UI redesign</strong>: Learn to adapt digital interactions to different modalities, such as micro-interactions on a smartwatch (touch/crown) to individual desktop web browsing to spatial, multi-touch, collaborative wall displays (pen/touch).</li>
+  <li><strong>Demographic-driven design mindset</strong>: Define a specific target user group (e.g., local 50+ homeowners in Cornelius vs. undergraduate students) and restructure website information based on their unique goals and visual priorities.</li>
+  <li><strong>Rapid ideation &amp; low-to-high fidelity prototyping</strong>: Practice rapid paper sketching (ideation), paper prototyping and testing (iteration), visual style guide creation via mood boards, and interactive high-fidelity prototyping in <a href="https://www.figma.com/">Figma</a>.</li>
+  <li><strong>Design communication &amp; peer critique</strong>: Present your design rationale effectively during live in-class demos using the “<em>I like, I wish, What if</em>” framework.</li>
+</ul>
+
+<p><strong>Why this matters (this week and beyond)</strong>: This is your first opportunity in this class to work on a creative project as a group. You’ll grow skills in communication, leadership, professionalism, and teamwork (in addition to the technical skill of using Figma). Beyond this class, your careers will almost certainly involve some type of end-user, and learning how to effectively cater your product/software/words to different audiences and different screen sizes demonstrates that you know how to be flexible and account for a variety of possibilities.</p>
+
+<h2 id="task">Task</h2>
+<p>Redesign at least two pages of the Knotty and Board website:</p>
 <ol>
-  <li>Visual design</li>
-  <li>Sketching for ideation (using paper)</li>
-  <li>Prototyping tools (using <a href="https://www.figma.com/">Figma</a>)</li>
+  <li>The Homepage.</li>
+  <li>A second page directly accessible from the homepage (e.g., “Shop”, “About Us”).</li>
 </ol>
-
-<h2 id="designing-for-dimensions">Designing for Dimensions</h2>
-<p>In this design sprint, you will take an existing website and redesign it for <strong>three different devices</strong>. Dimensions, in this case, refers to different screen sizes:</p>
-<ol>
-  <li>a smart watch,</li>
-  <li>a laptop, and</li>
-  <li>a large multi-touch display (think <a href="https://www.microsoft.com/en-us/surface/business/surface-hub-3">Microsoft Surface Hub</a>)</li>
-</ol>
-
-<p><strong>Here’s the catch</strong>: you can’t just shrink or expand content to fit a different screen size. You must consider the holistic user experience of the device. The input modalities are different for a smart watch than a laptop. For instance, an Apple Watch has a <a href="https://www.youtube.com/watch?v=aPN13ULL0k4">digital crown</a>, while a laptop does not. A large wall-sized multi-touch display is often used in collaborative settings, sometimes with pen and touch, while a laptop is usually for an individual.</p>
-
-<p>Furthermore, you shouldn’t just translate the existing design for these devices. Instead, imagine that you want to create the best experience for a <em>specific user group</em>. Your group should define who that user group is. Who are they? What do they need (differently from other users), and how can you cater your design to that group? For instance, the informational needs, the designs you’d choose, and the interactions you might support would likely be very different if you were designing for people who live in Cornelius in their 50s v. Davidson College students.</p>
-
-<!-- The website: you will be re-designing something near and dear to all our hearts. In the past, I have assigned websites for Atlanta-based businesses and organizations, including Emory Computer Science department website, Dave's Cosmic Subs in Emory Village, or Atlanta's Fox Theatre. This semester, you will choose the website of a local Atlanta business. Pick an organization or business that you and your groupmates care about, but don't spend too long deciding! -->
-<p><strong>The website:</strong> you will be re-designing the <a href="https://www.knottyandboard.com/">Knotty and Board</a> website, a local home furnishings company.</p>
-
-<p>While you will not redesign the entire website, you should redesign at least <strong>two pages on the website</strong>. One of those pages must be the homepage. The other[s] must be accessible from the homepage. <strong>This means your prototypes should showcase <em>both</em> pages</strong>. Since there are 3 screen sizes, you will have 3 different prototypes that have 2 pages per prototype (e.g., for the watch you’ll show the landing page + another page, for the desktop you’ll show the landing page + another page, and for the large display you’ll show the landing page + another page).</p>
 
 <p><img src="/teaching/hci/images/two-webpages.svg" alt="Example of a webpage that has three webpages linked to it. The student has selected the homepage as one of their pages to revise, and selected &quot;shop&quot; as the second page to revise." />
 <em>An example webpage, with additional pages linked to the homepage. The additional pages are “About Us”, “Shop” and “Login”. The students selected the homepage as one of their pages and “Shop” as their second page to revise.</em></p>
 
-<h2 id="information-design">Information Design</h2>
+<p>You will create 3 distinct interactive prototypes (one for each screen size below), with each prototype showcasing both pages (<strong>6 total views</strong>):</p>
+<ul>
+  <li>Smartwatch (Micro-display, wrist interaction, quick action)</li>
+  <li>Laptop / Desktop (Individual mouse/trackpad browsing)</li>
+  <li>Large Multi-Touch Display (e.g., <a href="https://www.microsoft.com/en-us/surface/business/surface-hub-3">Microsoft Surface Hub</a>, which is collaborative, wall-sized, and uses pen/touch interactions)</li>
+</ul>
 
+<p><strong>Here’s the catch</strong>: you can’t just shrink or expand content to fit a different screen size, just like you can’t expect all users to benefit from the same user experience. You must consider the holistic user experience of the device, while balancing creating the best experience for a <em>specific user group</em>. The input modalities are different for a smart watch than a laptop. For instance, an Apple Watch has a <a href="https://www.youtube.com/watch?v=aPN13ULL0k4">digital crown</a>, while a laptop does not. A large wall-sized multi-touch display is often used in collaborative settings, sometimes with pen and touch, while a laptop is usually for an individual. Likewise, designing for empty-nesters who are in their 60s has a different set of design requirements than designing for Davidson College students.</p>
+
+<blockquote>
+  <p>This assignment will be published on <a href="https://medium.com">Medium</a> so that all group members can link to the work and so future employers can read about your project. <em>We will discuss publishing in class – if you are not comfortable publishing the work, then your group will keep the write up as an unpublished, unviewable Medium draft.</em></p>
+</blockquote>
+
+<h3 id="step-by-step-instructions">Step-by-Step Instructions</h3>
 <p><em>Collect evidence along the way! Don’t make writing your <a href="/teaching/hci/design-doc">design doc</a> more difficult than it needs to be!</em></p>
 
-<p>The first thing that you should do is establish which information should be emphasized to your specific user group. Don’t just rearrange the homepage - that was constructed for a general audience. Instead, consider which information across the entire website should be emphasized for your group. What do you think the goals of your users would be?</p>
+<p><strong>Step 1: Define Target Demographic &amp; Information Design</strong></p>
+<ol>
+  <li>
+    <p>Select a specific user demographic (who are they, what do they need, and when/why are they visiting Knotty and Board?). This decision will influence your design choices, so be sure to fully flesh out all the details of your user demographic.</p>
+  </li>
+  <li>
+    <p>Audit the current website content and re-prioritize <strong>information</strong> across both selected pages specifically for your user group. Don’t just rearrange the homepage – that was constructed for a general audience. Instead, think about the goals of your users and adjust the information/layout accordingly.</p>
+  </li>
+  <li>
+    <p>Establish a clear <strong>visual hierarchy</strong> for the <strong>information</strong> on the webpage. Refer to course notes, <a href="https://design.tutsplus.com/articles/9-information-design-tips-to-make-you-a-better-web-designer--psd-1601">9 Information Design Tips to Make You a Better Web Designer</a>, and <a href="https://www.nngroup.com/articles/top-10-enduring/">Top 10 Enduring Web-Design Mistakes</a> posted by the Nielsen Norman Group.</p>
+  </li>
+</ol>
 
-<p>The information that is most important may differ by group. Make sure that this is reflected visually in the organization of your information. Wherever possible, try to check your assumptions. You don’t have time to interview your target group, but you <em>can</em> (and should!) explore other websites to get a <em>very rough</em> sense of their priorities.</p>
-
-<p><strong>Within each page:</strong> You should similarly prioritize information <em>within</em> each page. Consider your <a href="https://99designs.com/blog/tips/6-principles-of-visual-hierarchy/">information hierarcy</a> and make sure that the most important information is visually prioritized within each page. Your decisions should be anchored in your reading and lecture notes.</p>
-
-<p>Helpful advice:</p>
-<ul>
-  <li><a href="https://design.tutsplus.com/articles/9-information-design-tips-to-make-you-a-better-web-designer--psd-1601">9 Information Design Tips to Make You a Better Web Designer</a></li>
-  <li><a href="https://www.nngroup.com/articles/top-10-enduring/">Top 10 Enduring Web-Design Mistakes</a> posted by the Nielsen Norman Group</li>
-</ul>
-
-<p><strong>Output:</strong> Use sketching as a tool to explore your designs. The goal here is to rapidly explore many different solutions with messy sketches. After you have thoroughly explored the design space (you should have at least 5 ideas for each screen), use paper to construct a cleaner paper prototype for that screen. You should have <strong>3 paper prototypes (one for each screen: watch, desktop, and display)</strong> that are the cleaned, culmination of your ideas for the two webpages (knottyandboard.com homepage + another page linked to that homepage).</p>
-<ul>
-  <li>Doing some math: There are 3 screen sizes * 2 webpages (knottyandboard.com) = 6 paper prototype pages to create.</li>
-  <li>Prior to making these 6 paper prototypes, you should have at least 5 <em>very quick and dirty</em> sketches for each page.</li>
-</ul>
+<p><strong>Step 2: Ideate and Paper Prototype (30 Sketches + 3 Paper Prototypes)</strong>
+With your target demographic and information hierarchy in mind, let’s ideate what we want the website to look like.</p>
 
 <p><img src="/teaching/hci/images/how-many-sketches.svg" alt="You will need to come up with 30 different ideas/sketches. This breaks down to 3 screen dimensions * 2 pages per screen * 5 ideas per page." />
 <em>You will need to come up with 30 different ideas/sketches. This breaks down to 3 screen dimensions * 2 pages per screen * 5 ideas per page.</em></p>
 
-<p><strong>You should test this paper prototype with other people in the class.</strong> While they likely may not represent your users (so this is typically bad practice), I want you to get in the habit of getting feedback on whatever you create. We’ll discuss user testing more in a week or two. Until then, do your best to get worthwhile feedback and change your prototype accordingly. Don’t reveal who you designed this for! Ask your users afterwards what user group they think you designed it for… Were the right? Incorporate your findings into the next iteration of your design.</p>
+<ul>
+  <li>Quick and dirty ideation: Generate 5 fast concept sketches per page per device size. <strong>You should include these sketches in your final writeup.</strong>
+    <ul>
+      <li>To save space while still showing all 30 images, I recommend making a collage or 2-D array of the images so the reader can peruse the thumbnails of each sketch.</li>
+    </ul>
+  </li>
+  <li>Clean paper prototypes: Synthesize your best ideas into 3 clean paper prototypes (covering the 2 pages for each device size = 6 total paper UI screens). <strong>You should include these paper prototypes in your final writeup.</strong>
+    <ul>
+      <li>I should see 6 webpages represented in these prototypes: 3 screen sizes * 2 webpages (knottyandboard.com) = 6 paper prototype pages to create</li>
+      <li>The paper prototypes should look more polished and detailed than the sketches. <em>If you hired a developer to build this website using your prototype, then she should be able to <strong>only</strong> reference the prototype to build the site.</em></li>
+    </ul>
+  </li>
+  <li>Classroom testing: Conduct quick informal testing with classmates using your paper prototypes. Do your best to get worthwhile feedback and change your prototype accordingly. Do not reveal your target demographic upfront — ask them after testing to guess who the design was made for and iterate based on their feedback!</li>
+</ul>
 
-<h2 id="visual-design">Visual Design</h2>
-<p>Just as the important information may differ between groups, so might the styles that they prefer. Consider how the websites that are targeted towards college students differ in their fonts, colors, and visual organization in comparison to websites that specifically target elderly users.</p>
+<p><strong>Step 3: Visual Design &amp; Mood Board</strong>
+<strong>Construct a <a href="https://creativemarket.com/blog/mood-boards-why-and-how-to-create-them">Mood Board</a></strong> (using tools like Niice.co) collecting visual references (color palettes, typography, UI components, tone) that appeal directly to your chosen demographic. Collecting examples will help you pick up on design patterns, color schemes, fonts, etc. that your chosen demographic prefers. Style preferences differ across groups: consider how the websites that are targeted towards college students differ in their fonts, colors, emoji use, and visual organization in comparison to websites that specifically target elderly users.
+    * As you search for websites or environments that are commonly visited by people in your target demographic, take pictures and then put them together in one space. I like using a website like <a href="https://niice.co/">niice.co</a>.
+    * Check our <a href="/teaching/hci/resources">design resources</a> for other tools to help.</p>
 
-<p>Being able to articulate the correct mood and/or tone for your demographic is critical. How can you do that if you’re not a professional designer? We’ll use one strategy here.</p>
+<p><strong>Define a clean style guide</strong> (colors, typography, component styles) anchoring your visual choices in course design resources. You can choose to make this a separate document for your team to reference, or simply note your style guide contents in your writeup (e.g., “From our moodboard, we decided on a range of blues for our color palette with Arial font for clarity and accents of yellow for emphasis.”).</p>
 
-<p>Create a <a href="https://creativemarket.com/blog/mood-boards-why-and-how-to-create-them">Mood Board</a>: You may not be able to design well for a particular group of people off the top of your head… but if you had enough good examples, you’d probably be able to pick up on a few ideas - design patterns, color schemes, fonts. This is exactly what a mood board is for. As you search for websites or environments that are commonly visited by people in your target demographic, take pictures and then put them together in one space. I like using a website like <a href="https://niice.co/">niice.co</a>.</p>
-
-<p>Consider the <a href="/teaching/hci/resources">design resources</a> we have posted on our website. For example, if you can extract a color or two from your design board, there are tools that you can use to uncover complementary colors.</p>
-
-<p><strong>Output:</strong> a set of colors, fonts, and general styles that you feel are appropriate for your user group. Consider explicitly putting these into your design doc to show the provenance of your stylistic decisions.</p>
-
-<h2 id="building-your-website-prototype">Building your Website Prototype</h2>
-<p>Now that you have your UI organization and style guide nailed down, it’s time to create your website for the three different devices. To create an interactive prototype, we’re going to use <a href="https://www.figma.com/">Figma</a> - a prototyping, collaboration, &amp; workflow platform. It might be a good idea to start with a tutorial.</p>
-
-<p>Figma is fantastic, but it isn’t magic. You’re still going to need to create the visuals yourself. While applications like Adobe Photoshop are likely among the most powerful tools you can use to generate screen mock-ups, I’ve even used tools as simple as PowerPoint before. Don’t let the technology get in the way of your design.</p>
-
-<p><strong>Output:</strong> The redesigned homepage + one or more other screens of your chosen website on Figma for each of the three devices.</p>
+<p><strong>Step 4: High-Fidelity Figma Prototypes</strong>
+Build <strong>3 interactive high-fidelity prototypes in <a href="https://www.figma.com/">Figma</a></strong> (one per device size). Each prototype must show the user flow between the <strong>homepage and your chosen second page</strong> (so 6 screens should be present in total).</p>
+<ul>
+  <li><a href="https://www.figma.com/">Figma</a> is a prototyping, collaboration, &amp; workflow platform. <em>You have a free pro account when you use your Davidson <code class="language-plaintext highlighter-rouge">.edu</code> email address.</em></li>
+  <li>Start with <a href="https://www.youtube.com/watch?v=jQ1sfKIl50E">this tutorial</a> to learn some basics. Feel free to search for other videos and resources – there’s plenty out there.</li>
+</ul>
 
 <p><img src="/teaching/hci/images/Demos.svg" alt="A representation of the materials needed for the demo. Your high-quality prototypes for each screen size should include a view of the homepage and a view of the other page you redesigned." /></p>
 
-<h2 id="deliverables">Deliverables</h2>
+<p><strong>Step 5: In-Class Presentation &amp; Demo DUE BY 8:05 IN CLASS</strong></p>
 <ul>
   <li>
-    <p><strong>Demo (in-class):</strong> You should have Figma links handy and ready to present in class on the day of your demo (place your demo link <a href="https://docs.google.com/document/d/1lMmdANulEzOzAnLde3e-CRgK5IxJpyahbI81wD6S5ec/edit?usp=drive_link">here</a>). Plan to spend approximately 7 minutes presenting (~3 minutes talking through your design + ~4 minutes for critique/questions). Your classmates will critique your work (using the <em>I like, I wish, What if</em> framework) and also try to guess your target demographic… despite having no previous knowledge.</p>
+    <p>Add your demo Figma links to the class outline Google Doc (link coming).</p>
   </li>
   <li>
-    <p><strong>Final deliverable (due at 11:55 PM):</strong> The output from this assignment should be the <a href="/teaching/hci/design-doc">design document</a> (one per group). An example Medium post from an Emory student is <a href="https://medium.com/@amart98/design-for-dimensions-emory-cs-department-website-makeover-6d8d7530442c">here</a> – it’s a solid enough example but I would not give it a 100%. Post the link of your design document post along with your group members’ names on our Slack channel for <code class="language-plaintext highlighter-rouge">#group-design-projects</code>. This will signal to your group members that you are turning in the design document. Then submit the link to your Medium post on Moodle (only one group member needs to submit). As with all design documents, it should include evidence of your design process. <strong>You do NOT need to create a demo video for this design sprint</strong>, although depending on the complexity of your interaction design, it may still be a good idea to communicate your design. For this assignment, I would expect a <em>minimum</em> of the following:</p>
-    <ul>
-      <li>pictures of your various sketches for all three devices</li>
-      <li>a picture of your moodboard</li>
-      <li>pictures of your final product for all three devices (more broadly, the evolution of your design should be clear)</li>
-      <li>links to your Figma prototypes</li>
-    </ul>
+    <p>Present a 3-minute demo, presenting your design rationale. We’ll then take ~4 minutes for Q&amp;A/critique.</p>
+  </li>
+  <li>
+    <p>Your peers will critique using “I like, I wish, What if” and attempt to guess your hidden target demographic!</p>
   </li>
 </ul>
 
-<p><strong>Grading:</strong> Grading will be based on the <a href="https://docs.google.com/spreadsheets/d/1aI9LcmVZmh_977G__U4Guz_rPRCwWZs26J_yHXbhSyY/edit?usp=sharing">design rubric</a>. Be sure to complete the <a href="https://forms.gle/GFQhygcpcVjDVhzy7">peer feedback forms</a> linked
-at the enf of the <a href="/teaching/hci/design-doc">design document guide</a>, which will be a large part of your grade.</p>
+<p><strong>Step 6: Write &amp; Submit Design Document DUE BY 11:59 PM TO MOODLE</strong>
+Write a collaborative team <a href="/teaching/hci/design-doc">Design Document</a> (one per group). An example Medium post from an Emory student is <a href="https://medium.com/@amart98/design-for-dimensions-emory-cs-department-website-makeover-6d8d7530442c">here</a> – it’s a solid enough example but I would not give it a 100%.</p>
+
+<p>Submission Process:</p>
+<ol>
+  <li>Post the Medium post link + all team member names to Slack #design-sprints. <strong>This shows your team members that you have turned in the assignment.</strong></li>
+  <li>Submit the Medium post link to Moodle (one submission per group).</li>
+  <li>Complete the required Peer Feedback Form.</li>
+</ol>
+
+<p>As with all design documents, it should include evidence of your design process. <strong>You do NOT need to create a demo video for this design sprint</strong>, although depending on the complexity of your interaction design, it may still be a good idea to communicate your design.</p>
+
+<h2 id="criteria-for-success">Criteria for Success</h2>
+<p>Grading is based on a <em>variation</em> of the HCI <a href="https://docs.google.com/spreadsheets/d/1aI9LcmVZmh_977G__U4Guz_rPRCwWZs26J_yHXbhSyY/edit?usp=sharing">design rubric</a> and individual peer evaluations via the <strong>Peer Feedback Form</strong>.</p>
+
+<p><strong>What High-Quality Work Looks Like:</strong></p>
+<ul>
+  <li>
+    <p><strong>Clear Demographic Alignment</strong>: Design choices (information hierarchy, UI scale, fonts, colors) clearly cater to the declared target audience rather than a generic user.</p>
+  </li>
+  <li>
+    <p><strong>True Modality Adaptation</strong>: Layouts and interaction flows take real advantage of, and respect the physical limits of, each form factor (smartwatch, desktop, and large multi-touch display).</p>
+  </li>
+</ul>
+
+<p><strong>Rigorous Evidence of Process:</strong></p>
+
+<p><input type="checkbox" /> 30 Initial Sketches: Clear photo evidence of 5 distinct ideation sketches per page per screen size.</p>
+
+<p><input type="checkbox" /> 3 Paper Prototypes: Documented paper prototypes with insights from peer testing.</p>
+
+<p><input type="checkbox" /> 1 Mood Board: Visual mood board explicitly linking colors, typography, and styling to target demographic psychology.</p>
+
+<p><input type="checkbox" /> 3 Figma Prototypes: Screenshots of your final Figma designs and the links to the interactive Figma designs. The prototypes should cover both the homepage and the secondary page across all 3 screen sizes.</p>
+
+<p><input type="checkbox" /> Comprehensive Design Document: Clear narrative outlining design evolution, user testing takeaways, and explicit design decisions.</p>
 
 
       <footer class="site-footer">

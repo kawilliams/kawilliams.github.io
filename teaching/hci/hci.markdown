@@ -221,8 +221,7 @@ All **reading** and **demos of design sprints** are due at 8:00 AM on the day of
     <th>Assignments due</th>
   </tr>
   </thead>
-<tbody>
-  <tr>
+<tbody>  <tr>
     <td rowspan="2" id="this_week">1</td>
     <td>{{ site.data.hci_schedule.w1s1 }}</td>
     <td>Intro to Human-Computer Interaction</td>
@@ -336,12 +335,19 @@ All **reading** and **demos of design sprints** are due at 8:00 AM on the day of
   <tr>
     <td rowspan="2">5</td>
     <td>{{ site.data.hci_schedule.w5s1 }}</td>
+    <td>Fall Break</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>{{ site.data.hci_schedule.w5s2 }}</td>
     <td>Demo: <a href="/teaching/hci/design-sprints/dimensions">Design for Dimensions</a></td>
     <td>No prep</td>
     <td>DS: <a href="/teaching/hci/design-sprints/dimensions">Design for Dimensions</a></td>
   </tr>
   <tr>
-    <td>{{ site.data.hci_schedule.w5s2 }}</td>
+    <td rowspan="2">6</td>
+    <td>{{ site.data.hci_schedule.w6s1 }}</td>
     <td><a href="/teaching/hci/design-sprints/understanding">Design for Understanding</a> Intro + VIS Tool Demo</td>
     <td>
     <img class="reading" src="./images/book-open.svg" height="16" width="16"> <a href="/teaching/hci/papers/RobertsHeadleandRitsos-FiveDesignSheet.pdf">Five Design Sheet Methodology for Visualization</a> (Read the abstraction and Sections 1 and 3 -- 3 is thicc, so be sure to take time to read it carefully and review the figures)<br>
@@ -354,8 +360,7 @@ All **reading** and **demos of design sprints** are due at 8:00 AM on the day of
     <td></td>
   </tr>
   <tr>
-    <td rowspan="2">6</td>
-    <td>{{ site.data.hci_schedule.w6s1 }}</td>
+    <td>{{ site.data.hci_schedule.w6s2 }}</td>
     <td>Evaluation in HCI, Part 1</td>
     <td>
       <img class="reading" src="./images/book-open.svg" height="16" width="16">  <a href="https://people.cs.vt.edu/~gangwang/HCI.pdf#page=450">Research Ethics in HCI by Bruckman</a><br>
@@ -365,7 +370,8 @@ All **reading** and **demos of design sprints** are due at 8:00 AM on the day of
     <td></td>
   </tr>
   <tr>
-    <td>{{ site.data.hci_schedule.w6s2 }}</td>
+    <td rowspan="2">7</td>
+    <td>{{ site.data.hci_schedule.w7s1 }}</td>
     <td>Evaluation Part 2 + Hack: <a href="/teaching/hci/design-sprints/understanding">Design for Understanding</a></td>
     <td>
     <img class="reading" src="./images/book-open.svg" height="16" width="16">  <a href="https://www.nngroup.com/articles/usability-testing-101/">Usability Testing 101 by Moran</a><br>
@@ -376,8 +382,7 @@ All **reading** and **demos of design sprints** are due at 8:00 AM on the day of
     <td></td>
   </tr>
   <tr>
-    <td rowspan="2">7</td>
-    <td>{{ site.data.hci_schedule.w7s1 }}</td>
+    <td>{{ site.data.hci_schedule.w7s2 }}</td>
     <td>Guest Lecture: <a href="https://www.davidson.edu/people/elizabeth-smith-brigham">Liz Brigham</a>, at the Hurt Hub</td>
     <td>
     <img class="watch" src="./images/display.svg" height="16" width="16"> (60 min) <a href="https://www.youtube.com/watch?v=9kC2KmtjFIU">"Hub & Spoke | Liz Smith Brigham '04"</a><br>
@@ -391,7 +396,8 @@ All **reading** and **demos of design sprints** are due at 8:00 AM on the day of
     <td>Class will be held in the Hurt Hub. We will end at 9:15 to allow time to return to campus.</td> 
   </tr>
   <tr>
-    <td>{{ site.data.hci_schedule.w7s2 }}</td>
+    <td rowspan="2" >8</td>
+    <td>{{ site.data.hci_schedule.w8s1 }}</td>
     <td>Accessibility + Universal Design, release <a href="{{ hw4.link }}">HW 4</a></td>
     <td>
     <img class="watch" src="./images/display.svg" height="16" width="16"> (7 min) <a href="https://www.youtube.com/watch?v=A88E4DH2asQ">Adventures in Universal Design</a><br>
@@ -403,15 +409,15 @@ All **reading** and **demos of design sprints** are due at 8:00 AM on the day of
     <td></td>
   </tr>
   <tr>
-    <td rowspan="2" >8</td>
-    <td>{{ site.data.hci_schedule.w8s1 }}</td>
+    <td>{{ site.data.hci_schedule.w8s2 }}</td>
     <td><a href="/teaching/hci/design-sprints/understanding">Demo: Design for Understanding</a> <br>
     </td>
     <td></td>
     <td><a href="/teaching/hci/design-sprints/understanding">DS: Design for Understanding</a>	</td>
   </tr>
   <tr>
-    <td>{{ site.data.hci_schedule.w8s2 }}</td>
+    <td rowspan="2">9</td>
+    <td>{{ site.data.hci_schedule.w9s1 }}</td>
     <td>
     <a href="/teaching/hci/design-sprints/another-world">Design for Another World</a> Intro, Augmented + Virtual Reality
     </td>
@@ -425,22 +431,21 @@ All **reading** and **demos of design sprints** are due at 8:00 AM on the day of
     <td><a href="{{ hw4.link }}">HW 4: Accessibility</a> is due {{ hw4.due }}</td>
   </tr>
   <tr>
-    <td rowspan="2">9</td>
-    <td>{{ site.data.hci_schedule.w9s1 }}</td>
+    <td>{{ site.data.hci_schedule.w9s2 }}</td>
     <td>Hack: <a href="/teaching/hci/design-sprints/another-world">Design for Another World</a></td>
     <td>No prep
 		</td>
     <td></td>
   </tr>
   <tr>
-    <td>{{ site.data.hci_schedule.w9s2 }}</td>
+    <td rowspan="2" >10</td>
+    <td>{{ site.data.hci_schedule.w10s1 }}</td>
     <td><a href="teaching/hci/oral-exam">Oral Exam</a></td>
     <td></td>
     <td></td>
   </tr>
   <tr>
-    <td rowspan="2" >10</td>
-    <td>{{ site.data.hci_schedule.w10s1 }}</td>
+    <td>{{ site.data.hci_schedule.w10s2 }}</td>
     <td>Tangible + Wearable Interfaces</td>
     <td>
     	<img class="reading" src="./images/book-open.svg" height="16" width="16"> <a href="https://www.interaction-design.org/literature/book/the-glossary-of-human-computer-interaction/tangible-interaction">Tangible Interaction by Hornecker</a><br>
@@ -450,7 +455,8 @@ All **reading** and **demos of design sprints** are due at 8:00 AM on the day of
     <td></td>
   </tr>
   <tr>
-    <td>{{ site.data.hci_schedule.w10s2 }}</td>
+    <td rowspan="2">11</td>
+    <td>{{ site.data.hci_schedule.w11s1 }}</td>
     <td>Prototyping and partial Hack Day</td>
     <td> <img class="watch" src="./images/display.svg" height="16" width="16"> (8 min) <a href="https://www.youtube.com/watch?v=d5_h1VuwD6g">Rapid Prototyping Google Glass</a><br>
 			<img class="watch" src="./images/display.svg" height="16" width="16"> (4 min) <a href="https://www.youtube.com/watch?v=IZy7dZOGjc0">How to Design a Smart Watch</a><br>
@@ -458,14 +464,14 @@ All **reading** and **demos of design sprints** are due at 8:00 AM on the day of
     <td></td>
   </tr>
   <tr>
-    <td rowspan="2">11</td>
-    <td>{{ site.data.hci_schedule.w11s1 }}</td>
+    <td>{{ site.data.hci_schedule.w11s2 }}</td>
     <td>Demo: <a href="/teaching/hci/design-sprints/another-world">Design for Another World</a></td>
     <td>No prep</td>
     <td><a href="/teaching/hci/design-sprints/another-world">DS: Design for Another World</a></td>
   </tr>
   <tr>
-    <td>{{ site.data.hci_schedule.w11s2 }}</td>
+  <td rowspan="2">12</td>
+    <td>{{ site.data.hci_schedule.w12s1 }}</td>
     <td>Affective Computing and <a href="/teaching/hci/design-sprints/redesign">Re-design and Extend</a> Intro</td>
     <td>
     <img class="reading" src="./images/book-open.svg" height="16" width="16"><a href="https://www.interaction-design.org/literature/topics/affective-computing"> Affective Computing</a><br>
@@ -476,8 +482,7 @@ Wearable Tech to Improve Women's Health Research</a>
     <td></td>
   </tr>
   <tr>
-  <td rowspan="2">12</td>
-    <td>{{ site.data.hci_schedule.w12s1 }}</td>
+    <td>{{ site.data.hci_schedule.w12s2 }}</td>
     <td>Hack: <a href="/teaching/hci/design-sprints/redesign">Re-design and Extend</a> 
     <!--(at DACE Studio -- north basement of Chambers (flagpole side))-->
     </td>
@@ -485,7 +490,8 @@ Wearable Tech to Improve Women's Health Research</a>
     <td></td>
   </tr>
   <tr>
-    <td>{{ site.data.hci_schedule.w12s2 }}</td>
+  <td rowspan="2">13</td>
+    <td>{{ site.data.hci_schedule.w13s1 }}</td>
     <td>Interface Metaphors + Input Techniques</td>
     <td>
     <!-- <img class="reading" src="./images/book-open.svg" height="16" width="16"> <a href="http://erichorvitz.com/chi99horvitz.pdf">Principles of Mixed-Initiative User Interfaces by Horvitz</a> (Intro + Principles) <br>  -->
@@ -496,20 +502,13 @@ Wearable Tech to Improve Women's Health Research</a>
     <td></td>
   </tr>
   <tr>
-  <td rowspan="2">13</td>
-    <td>{{ site.data.hci_schedule.w13s1 }}</td>
+    <td>{{ site.data.hci_schedule.w13s2 }}</td>
     <td>Visit the Archives (8:30 AM - 9:20 AM), release of <a href="https://kawilliams.github.io/teaching/hci/design-sprints/archives">Archive Analysis assignment</a></td>
     <td>Complete this <a href="https://docs.google.com/document/d/1IKPJz1E_6wFcdmzh3I2UBjiDRhugH1k9qeaCVbw0Esk/edit?usp=sharing">Archives Prep</a> worksheet and submit it to Moodle</td>
     <!-- <td>11/17</td>
     <td>Hack Day: <a href="/teaching/hci/design-sprints/redesign">Re-design and Extend</a></td>
     <td>No prep</td> -->
     <td>Submit your <a href="https://docs.google.com/document/d/1IKPJz1E_6wFcdmzh3I2UBjiDRhugH1k9qeaCVbw0Esk/edit?usp=sharing">Archives Prep</a> worksheet <b>by 8:20 AM (due before we visit the Archives)</b></td>
-  </tr>
-  <tr>
-    <td>{{ site.data.hci_schedule.w13s2 }}</td>
-    <td>Hack Day: <a href="/teaching/hci/design-sprints/redesign">Re-design and Extend</a></td>
-    <td><a href="/teaching/hci/design-sprints/redesign">Re-design and Extend Checkpoint</a> is due by 11:55 PM</td>
-    <td></td>
   </tr>
   <tr>
   <td rowspan="2">14</td>
@@ -528,11 +527,18 @@ Wearable Tech to Improve Women's Health Research</a>
     <td rowspan="2">15</td>
     <td>{{ site.data.hci_schedule.w15s1 }}</td>
     <td>Hack Day: <a href="/teaching/hci/design-sprints/redesign">Re-design and Extend</a></td>
+    <td><a href="/teaching/hci/design-sprints/redesign">Re-design and Extend Checkpoint</a> is due by 11:55 PM</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>{{ site.data.hci_schedule.w15s2 }}</td>
+    <td>Hack Day: <a href="/teaching/hci/design-sprints/redesign">Re-design and Extend</a></td>
     <td>No prep</td>
     <td><a href="https://kawilliams.github.io/teaching/hci/design-sprints/archives">Archives assignment due by 11:55 PM</a></td>
   </tr>
   <tr>
-    <td>{{ site.data.hci_schedule.w15s2 }}</td>
+    <td rowspan="2">16</td>
+    <td>{{ site.data.hci_schedule.w16s1 }}</td>
     <td>Demo Day: <a href="design-sprints/redesign">Re-design and Extend</a></td>
     <td></td>
     <td>
@@ -550,13 +556,6 @@ Wearable Tech to Improve Women's Health Research</a>
     </td>
   </tr>
   <tr>
-    <td rowspan="2">16</td>
-    <td>{{ site.data.hci_schedule.w16s1 }}</td>
-    <td>No class (<b>Friday</b> schedule)</td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
     <td>{{ site.data.hci_schedule.w16s2 }}</td>
     <td>No class (Reading Day)</td>
     <td></td>
@@ -565,15 +564,15 @@ Wearable Tech to Improve Women's Health Research</a>
   <tr>
     <td rowspan="2">17</td>
     <td>{{ site.data.hci_schedule.w17s1 }}</td>
-    <td>Final Assessment Period <br /> <b>All work due by December 16.</b></td>
+    <td>Final Assessment Period <br /> <b>All work due by December 15.</b></td>
     <td></td>
     <td><a href="final-project">Final Design Portfolio</a></td>
   </tr>
-  <tr>
+  <!-- <tr>
     <td>{{ site.data.hci_schedule.w17s2 }}</td>
     <td>No class (Reading Day)</td>
     <td></td>
     <td></td>
-  </tr>
+  </tr> -->
 </tbody>
 </table>

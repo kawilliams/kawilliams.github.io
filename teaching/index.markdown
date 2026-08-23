@@ -10,9 +10,9 @@ permalink: teaching/
 # Resources for my courses
 
 ## Fall 2026
-* CSC 363: Human Computer Interaction
+* [CSC 363: Human Computer Interaction](./hci/)
     * Mon/Wed 8:05-9:20 AM in Watson 247
-* CSC 121-A: Programming and Problem Solving
+* [CSC 121-A: Programming and Problem Solving](./csc121/)
     * Mon/Wed/Fri 9:30-10:20 AM in Watson 132
 * CIS Capstone
 
