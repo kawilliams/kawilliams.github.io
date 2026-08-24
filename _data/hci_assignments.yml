@@ -104,3 +104,25 @@
   due_short: "9/22"
   due_time: "by 11:55 PM to Moodle"
   weight: "40%"
+
+- id: q1
+  number: 1
+  title: "Quiz #1"
+  short_title: "Quiz #1"
+  topic: "To be announced"
+  opens: "In class, September 10"
+  due: "30 min"
+  due_short: "9/14, in class"
+  due_time: "after 30 min"
+  weight: "50%"
+
+- id: q2
+  number: 2
+  title: "Quiz #2"
+  short_title: "Quiz #2"
+  topic: "To be announced"
+  opens: "In class, October 10"
+  due: "30 min"
+  due_short: "10/21, in class"
+  due_time: "after 30 min"
+  weight: "50%"

@@ -20,7 +20,7 @@ Human-computer interaction combines computer science, psychology, sociology, des
 
 * When: Monday and Wednesday 8:05-9:20 AM
 * Where: Watson 247
-* Lecture Slides and Recordings: <a href="https://drive.google.com/drive/folders/175iQPGanzE0GRT879TlLbKNhSHkIk8XS?usp=sharing" target="_blank">Google Drive</a> (use Davidson SSO) 
+* Lecture Slides and Recordings: <a href="https://drive.google.com/drive/folders/1bHXehSUtsrnDjcKdiOAek6uARNHnfBMF?usp=sharing" target="_blank">Google Drive</a> (use Davidson SSO) 
 * Design Doc guidance: [here](/teaching/hci/design-doc)
 * Discussion/Questions: Slack (contact Dr. Williams if you have not received the Slack link)
 * Office Hours: TBD
@@ -53,12 +53,13 @@ Human-computer interaction combines computer science, psychology, sociology, des
 *Course content adapted from Emily Wall (Emory).*
 
 # Assignments and Responsibilities
-You will be individually responsible for some homework assignments, participation and critique, [oral exam](teaching/hci/oral-exam), and your final project. In addition, there will be 4 design sprints throughout the semester, completed as group projects.
+You will be individually responsible for some homework assignments, participation and critique, two quizzes, an [oral exam](/teaching/hci/oral-exam), and your final project. In addition, there will be 4 design sprints throughout the semester, completed as group projects.
 
 | Objective | Weight | Description                     |
 |-----------|--------|---------------------------------|
 | <img src="./images/pencil.svg" width="20" height="20"><img src="./images/pen-to-square.svg" width="20" height="20"><img src="./images/book.svg" width="20" height="20">| 15%    | [Individual homework assignments](/teaching/hci/homework/homework) |
 |<img src="./images/hand.svg" width="20" height="20"><img src="./images/book.svg" width="20" height="20">| 10%     | [Engagement and critique](/teaching/hci/engagement/)|
+|<img src="./images/pencil.svg" width="20" height="20"><img src="./images/pen-to-square.svg" width="20" height="20"><img src="./images/book.svg" width="20" height="20">| 10%  | [Quizzes](/teaching/hci/quizzes)|
 |<img src="./images/pencil.svg" width="20" height="20"><img src="./images/pen-to-square.svg" width="20" height="20"><img src="./images/book.svg" width="20" height="20">| 40%    | [Group design sprints](/teaching/hci/design-sprints/design-sprints)         |
 |<img src="./images/pencil.svg" width="20" height="20"><img src="./images/pen-to-square.svg" width="20" height="20"><img src="./images/book.svg" width="20" height="20">| 20%    | [Final project](/teaching/hci/final-project)                   |
 |<img src="./images/book.svg" width="20" height="20">          | 15%    | [Oral exam](/teaching/hci/oral-exam)                       |
@@ -73,7 +74,6 @@ We will build a community of respect in this class. Part of respecting is others
 
 Arriving late to class is disrespectful to your classmates, to me, and to the learning environment. **Arriving later than 10 minutes after the start of class (8:15 AM or later) will result in an unexcused
 absence on your record.** Per college policy, a student who misses 25% or more of class meetings automatically fails the course -- for a two-meeting-per-week course, missing 7 classes or more means the student receives an F for their final grade. 
-
 
 Religious observance warrants a legitimately excused absence. Should there be a conflict between any class session and a religious holiday or observance, students should let the instructor know of their personal need *before the absence occurs*.  Missing class due to athletic competition is not an excused absence and does count against your total absences.
 
@@ -93,7 +93,7 @@ For many of you, most CS assignments that you’ve had up until this point had c
 **Group Work**: Group work can be challenging. As a result, in each group project, you will submit a brief assessment of you and your classmates’ work. At the end of the semester, **I may use these assessments to reweight the group portion of your grade (either positively or negatively).**
 
 ### Due Date Timeliness
-All assignments are due at the start of class on the day listed in the schedule unless otherwise specified. You will have a total of 5 “free” late tokens to use for any **individual homework assignments** as needed throughout the course. Each token gets you a 24 hour extension on the assignment deadline. E.g., you can use 1 late token for HW1 and 1 for HW3, … You may use multiple tokens on one assignment, e.g. 2 tokens on HW1 for a 48 hour extension. These "free" tokens can apply *only to homework assignments and cannot be used for group projects*. These are for any cases where college-approved absences do *not* apply, and no reason must be given to use them. After the 5 “free” late tokens are used up, any late assignments will receive a 10% per day penalty. Assignments turned in one week or later past the due date will not be graded and given a 0. You do not need to notify Dr. Williams to use late tokens -- they will be automatically applied. Once you use them, you cannot switch them later in the course, so plan wisely. (For 2026) Any unused late tokens at the end of the semester will be added as 1% extra credit per unused token on the lowest homework assignment.
+All assignments are due at the start of class on the day listed in the schedule unless otherwise specified. You will have a total of **5 “free” late tokens** to use for any **individual homework assignments** as needed throughout the course. Each token gets you a 24 hour extension on the assignment deadline. E.g., you can use 1 late token for HW1 and 1 for HW3, … You may use multiple tokens on one assignment, e.g. 2 tokens on HW1 for a 48 hour extension. These "free" tokens can apply *only to homework assignments and cannot be used for group projects*. These are for any cases where college-approved absences do *not* apply, and no reason must be given to use them. After the 5 “free” late tokens are used up, any late assignments will receive a 10% per day penalty. Assignments turned in one week or later past the due date will not be graded and given a 0. You do not need to notify Dr. Williams to use late tokens -- they will be automatically applied. Once you use them, you cannot switch them later in the course, so plan wisely. (For 2026) Any unused late tokens at the end of the semester will be added as 1% extra credit per unused token on the lowest homework assignment.
 
 ### Regrade Policy
 You can request a re-grade of an assignment within seven days of releasing the grade by sending an email to Dr. Williams. The request should contain a written explanation of why you think that the grade is incorrect. I will look over your work again upon request.
@@ -122,7 +122,7 @@ If you do use generative AI tools on assignments in this class, I will specify *
 * **🟡 YELLOW LIGHT** assignments: You may use AI for certain parts of this assignment or to polish/edit *your original, non-AI work*. Be sure to *carefully* locate the 🤖 robot icons and read to make sure you align with this policy.
 * **🔴 RED LIGHT** assignments: **YOU MAY NOT USE AI for this assignment at all. If you violate this policy, you will earn a 0 for this assignment and the evidence will be submitted to the Honor Council.**
 
-**Wearables**: Wearable devices with AI-integrated, such as Meta glasses, that are capable of accessing information are not allowed in this class. The only exceptions are if they are required by your AADR accommodations or if we are studying wearables in class. *During the classes we study wearables, I will ask (and encourage!) you to bring in your wearables and devices so that we can have a productive conversation.* However, these devices are prohibited otherwise. Additionally, **the college has a policy prohibiting unauthorized recording in class, and there are parameters around what students are allowed to do with AADR authorized recordings**.
+**Wearables**: Wearable devices with AI-integrated, such as Meta glasses, that are capable of accessing information are not allowed in this class. Smart watches are allowed so long as you only use them as a watch (i.e., you're not texting from them, searching the internet, using AI, etc. -- checking the time is the ONLY valid use). The only exceptions are if they are required by your AADR accommodations or if we are studying wearables in class. *During the classes we study wearables, I will ask (and encourage!) you to bring in your wearables and devices so that we can have a productive conversation.* However, these devices are prohibited otherwise. Additionally, **the college has a policy prohibiting unauthorized recording in class, and there are parameters around what students are allowed to do with AADR authorized recordings**.
 
 
 You can always choose to use less AI on the assignment (e.g., follow a red light policy if the assignment is a yellow light policy). Please cite the tool according to the guidelines for citing computer software, as outlined in the [ACM style guide](https://www.acm.org/publications/policies/frequently-asked-questions).
@@ -228,7 +228,7 @@ All **reading** and **demos of design sprints** are due at 8:00 AM on the day of
     <td> 
     <!-- <img class="reading" src="./images/book-open.svg" height="16" width="16"><a href="https://www.interaction-design.org/literature/book/the-encyclopedia-of-human-computer-interaction-2nd-ed/contextual-design"> Contextual Design, Holtzblatt & Beyer.</a> <i>(reading due by Friday)</i><br />  -->
     </td>
-    <td><a href="https://forms.gle/wgfr3YYCUwwCq6nc6">Complete the <br>course survey</a>.</td>
+    <td><a href="https://forms.gle/62qi4udvyZZZZXar6">Complete the <br>course Getting to Know Me form</a>.</td>
   </tr>
   <tr>
     <td>{{ site.data.hci_schedule.w1s2 }}</td>
@@ -440,7 +440,7 @@ All **reading** and **demos of design sprints** are due at 8:00 AM on the day of
   <tr>
     <td rowspan="2" >10</td>
     <td>{{ site.data.hci_schedule.w10s1 }}</td>
-    <td><a href="teaching/hci/oral-exam">Oral Exam</a></td>
+    <td><a href="/teaching/hci/oral-exam">Oral Exam</a></td>
     <td></td>
     <td></td>
   </tr>

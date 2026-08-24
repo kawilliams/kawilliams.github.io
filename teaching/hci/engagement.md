@@ -32,25 +32,21 @@ and remind me about an upcoming absence, I am *more likely* to be flexible with 
 
 **There is no flexibility on the 25% attendance policy -- missing 7 classes or more is an automatic F in the course.** I take attendance each class period and will email warnings to any students with 4 or more absences reiterating this policy.
 
-## Engagement with the course reading materials (7 percentage points of out 10)
-
-**For current students: [question bank](https://drive.google.com/drive/folders/1IynhHsEEteqDQFZNE3wUtOQmi0LA20JO?usp=sharing) (to use to study for the midterm)**
+## Engagement with the course reading materials (3 out of 5 percentage points)
 
 I expect you to come prepared to class, having done the readings before class. I do *not* expect you
 to fully understand the readings; however, you should ask about the things you do not understand. 
-We will have a few minutes at the start of class to review the readings before we answer quiz questions
-using Kahoot. I will keep track of everyone's scores throughout the class. The students with the top 3 scores at the end of the semester will receive the full engagement score (7%). The bottom 3 students will
-receive one percentage point for engaging with the reading (1%). The students in the middle will receive 4%. *Caveat: in the event of a tie or near-tie, I will adjust this system in favor of the students (meaning, students may earn more points than advertised here).
+We will have a few minutes at the start of class to review the readings before we complete a Reading Check with pen and paper. I will grade these coarsely -- out of 6 questions, missing 1 will still result in 100%, missing 2 will result in an 80%, missing 3 or more will result in a 0%. No one remembers every detail perfectly, so this allows for some human error but ensures that no one is accidentally guessing the questions without reading and benefitting without doing the work.
 
-The remaining 3 percentage points (of your 10 percentage points toward Engagement) come from active
-participation in class (e.g., critiquing classmates, staying on task, participating in one-off activities, etc.).
+The remaining 2 percentage points (of your 5 percentage points toward Engagement) come from **active
+participation in class** (e.g., critiquing classmates, staying on task, participating in one-off activities, etc.).
 
 **Note:** If you are a student with a testing accommodation, I will reach out directly to you
-about these Kahoot quizzes.**
+about these Reading Checks.**
 
 ## Slack and online presence
-We use Slack in this class for communication, both with me and with each other. You will use your 
-Davidson Domains to host your blogs. Communicating through the internet has its own set of norms,
+We use Slack in this class for communication, both with me and with each other. You will use either  
+Davidson Domains or GitHub Pages to host your blogs. Communicating through the internet has its own set of norms,
 so I expect you to follow these guidelines:
 * I will send communication during my working hours (8:30 AM -5:30 PM on weekdays) and will not respond outside of those hours. Usually, I will respond within 24 business hours.
 * Likewise, I will respect your personal working hours and will expect a response within a similar, reasonable amount of time.

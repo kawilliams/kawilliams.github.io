@@ -21,5 +21,5 @@ sprints. Most homework assignments will be evaluated using the [design rubric](h
 
 | Title | Topic | Who | Weight | Due | 
 |-------|-------|-----|--------|-----|
-{% for hw in site.data.hci_assignments %}| {{ hw.number }}. [{{ hw.title }}]({{ hw.link }}) | {{ hw.topic }} | You | {{ hw.weight }} | {{ hw.due_short }} |
-{% endfor %} 
+{% for hw in site.data.hci_assignments limit:4 %}| {{ hw.number }}. [{{ hw.title }}]({{ hw.link }}) | {{ hw.topic }} | You | {{ hw.weight }} | {{ hw.due_short }} |
+{% endfor %}
