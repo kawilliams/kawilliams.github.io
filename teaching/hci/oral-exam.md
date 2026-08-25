@@ -12,7 +12,7 @@ permalink: teaching/hci/oral-exam
 
 # Oral Exam
 * Group size: Individual
-* Date: October 22, 2025 and October 23, 2025
+* Date: November 18, 2026 and November 19, 2026
 
 ## Overview 
 The [learning objectives](./hci.markdown#learning-objectives) for the class center upon practical skills that will help you understand and execute a user-centered design process that we apply throughout the semester. Written assignments and demos for group design sprints can shed insight on what you've learned. The oral exam will fill in one more piece of the puzzle in assessing how well you can apply what you've learned. **Think of it like an interview** -- crucial practice for the many seniors in this class.

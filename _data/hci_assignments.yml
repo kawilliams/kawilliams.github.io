@@ -15,9 +15,9 @@
   short_title: "HW 1"
   topic: "Human-Centered Design Process"
   link: /teaching/hci/assignments/hw1
-  opens: "Wednesday, August 27"
-  due: "Monday, September 1"
-  due_short: "9/1"
+  opens: "Wednesday, August 26"
+  due: "Monday, August 31"
+  due_short: "8/31 **by 8 AM**"
   due_time: "before class (8:00 AM)"
   weight: "10%"
 
@@ -27,10 +27,10 @@
   short_title: "HW 2"
   topic: "Needfinding"
   link: /teaching/hci/assignments/hw2
-  opens: "Monday, September 1"
-  due: "Monday, September 8"
-  due_short: "9/8"
-  due_time: "by 11:55 PM"
+  opens: "Monday, August 31"
+  due: "Monday, September 7"
+  due_short: "9/7"
+  due_time: "by 11:59 PM"
   weight: "30%"
 
 - id: hw3
@@ -39,10 +39,10 @@
   short_title: "HW 3"
   topic: "Health Design"
   link: /teaching/hci/assignments/hw3
-  opens: "Wednesday, September 10"
-  due: "Wednesday, September 17"
-  due_short: "9/17"
-  due_time: "by 11:55 PM"
+  opens: "Wednesday, September 9"
+  due: "Wednesday, September 16"
+  due_short: "9/16"
+  due_time: "by 11:59 PM"
   weight: "40%"
 
 - id: hw4
@@ -51,10 +51,10 @@
   short_title: "HW 4"
   topic: "Accessible Design"
   link: /teaching/hci/assignments/hw4
-  opens: "Wednesday, October 8"
-  due: "Friday, October 17"
-  due_short: "10/17"
-  due_time: "by 11:55 PM to Moodle"
+  opens: "Wednesday, October 7"
+  due: "Friday, October 16"
+  due_short: "10/16"
+  due_time: "by 11:59 PM to Moodle"
   weight: "20%"
 
 - id: ds1
@@ -63,9 +63,9 @@
   short_title: "DS #1"
   topic: "Design for Dimensions"
   link: /teaching/hci/design-sprints/dimensions
-  opens: "Wednesday, September 10"
-  due: "Monday, September 22"
-  due_short: "9/22"
+  opens: "Wednesday, September 9"
+  due: "Wednesday, September 23"
+  due_short: "9/23"
   due_time: "by 8:05 AM, in class"
   weight: "10%"
 
@@ -75,9 +75,9 @@
   short_title: "DS #2"
   topic: "Design for Understanding"
   link: /teaching/hci/design-sprints/understanding
-  opens: "Wednesday, September 10"
-  due: "Monday, September 22"
-  due_short: "9/22"
+  opens: "Monday, September 28"
+  due: "Wednesday, October 14"
+  due_short: "10/14"
   due_time: "by 11:55 PM to Moodle"
   weight: "20%"
 

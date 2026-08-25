@@ -28,5 +28,5 @@ The core of the work in this class will fall under the broad category of group d
 
  | Title | Topic | Who | Weight | Due | 
 |-------|-------|-----|--------|-----|
-{% for ds in site.data.hci_assignments offset: 4 %}| {{ ds.number }}. [{{ ds.title }}]({{ ds.link }}) | {{ ds.topic }} | You and Your Group | {{ ds.weight }} | {{ ds.due_short }} |
+{% for ds in site.data.hci_assignments offset: 4 limit: 4 %}| {{ ds.number }}. [{{ ds.title }}]({{ ds.link }}) | {{ ds.topic }} | You and Your Group | {{ ds.weight }} | {{ ds.due_short }} |
 {% endfor %} 

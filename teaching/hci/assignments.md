@@ -29,7 +29,7 @@ Most of your assignments will culminate in a [design doc](https://kawilliams.git
 |-----------|--------|---------------------------------|
 |           | 15%    | [Individual homework assignments](/teaching/hci/homework/homework) |
 |           | 5%     | [Engagement and critique](/teaching/hci/engagement/)         |
-|           | 10%     | [Quizzes](/teaching/hci/quizzes/)         |
+|           | 10%     | [Quizzes](/teaching/hci/quizzes)         |
 |           | 40%    | [Group design sprints](/teaching/hci/design-sprints/design-sprints)         |
 |           | 20%    | [Final project](/teaching/hci/final-project)                   |
 |           | 15%    | [Oral exam](/teaching/hci/oral-exam)                       |

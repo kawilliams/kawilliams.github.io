@@ -19,6 +19,8 @@ sprints. Most homework assignments will be evaluated using the [design rubric](h
 
 ### Homework Assignments
 
+**Only Homework 1 is due before class.** All other homework assignments are due to Moodle by 11:59 PM on the due date.
+
 | Title | Topic | Who | Weight | Due | 
 |-------|-------|-----|--------|-----|
 {% for hw in site.data.hci_assignments limit:4 %}| {{ hw.number }}. [{{ hw.title }}]({{ hw.link }}) | {{ hw.topic }} | You | {{ hw.weight }} | {{ hw.due_short }} |

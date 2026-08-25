@@ -312,7 +312,7 @@ All **reading** and **demos of design sprints** are due at 8:00 AM on the day of
   <tr>
     <td rowspan="2">4</td>
     <td>{{ site.data.hci_schedule.w4s1 }}</td>
-    <td>Hack Day -- <a href="/teaching/hci/design-sprints/dimensions">Design for Dimensions</a></td>
+    <td>Hack Day -- <a href="/teaching/hci/design-sprints/dimensions">Design for Dimensions</a>,<br><a href="/teaching/hci/quizzes/">Quiz 1</a></td>
     <td>	
     <img class="reading" src="./images/book-open.svg" height="16" width="16"> <a href="https://xd.adobe.com/ideas/process/user-research/putting-personas-to-work-in-ux-design/">Putting Personas to Work by Faller</a><br>
     <img class="reading" src="./images/book-open.svg" height="16" width="16"> <a href="https://www.aiga.org/resources/how-to-survive-a-critique-a-guide-to-giving-and-receiving-feedback">A Guide to Giving and Receiving Feedback by Cheng</a><br>
@@ -432,7 +432,7 @@ All **reading** and **demos of design sprints** are due at 8:00 AM on the day of
   </tr>
   <tr>
     <td>{{ site.data.hci_schedule.w9s2 }}</td>
-    <td>Hack: <a href="/teaching/hci/design-sprints/another-world">Design for Another World</a></td>
+    <td>Hack: <a href="/teaching/hci/design-sprints/another-world">Design for Another World</a>,<br><a href="/teaching/hci/quizzes/">Quiz 2</a></td>
     <td>No prep
 		</td>
     <td></td>
@@ -440,7 +440,7 @@ All **reading** and **demos of design sprints** are due at 8:00 AM on the day of
   <tr>
     <td rowspan="2" >10</td>
     <td>{{ site.data.hci_schedule.w10s1 }}</td>
-    <td><a href="/teaching/hci/oral-exam">Oral Exam</a></td>
+    <td></td>
     <td></td>
     <td></td>
   </tr>
@@ -503,12 +503,12 @@ Wearable Tech to Improve Women's Health Research</a>
   </tr>
   <tr>
     <td>{{ site.data.hci_schedule.w13s2 }}</td>
-    <td>Visit the Archives (8:30 AM - 9:20 AM), release of <a href="https://kawilliams.github.io/teaching/hci/design-sprints/archives">Archive Analysis assignment</a></td>
-    <td>Complete this <a href="https://docs.google.com/document/d/1IKPJz1E_6wFcdmzh3I2UBjiDRhugH1k9qeaCVbw0Esk/edit?usp=sharing">Archives Prep</a> worksheet and submit it to Moodle</td>
+    <td><a href="/teaching/hci/oral-exam">Oral Exam</a></td>
+    <td>No class - schedule a time to meet with Dr. Williams on Wed/Thurs</td>
     <!-- <td>11/17</td>
     <td>Hack Day: <a href="/teaching/hci/design-sprints/redesign">Re-design and Extend</a></td>
     <td>No prep</td> -->
-    <td>Submit your <a href="https://docs.google.com/document/d/1IKPJz1E_6wFcdmzh3I2UBjiDRhugH1k9qeaCVbw0Esk/edit?usp=sharing">Archives Prep</a> worksheet <b>by 8:20 AM (due before we visit the Archives)</b></td>
+    <td>Schedule a time to meet with Dr. Williams on 11/18 or 11/19</td>
   </tr>
   <tr>
   <td rowspan="2">14</td>
