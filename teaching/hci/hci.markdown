@@ -23,7 +23,7 @@ Human-computer interaction combines computer science, psychology, sociology, des
 * Lecture Slides and Recordings: <a href="https://drive.google.com/drive/folders/1bHXehSUtsrnDjcKdiOAek6uARNHnfBMF?usp=sharing" target="_blank">Google Drive</a> (use Davidson SSO) 
 * Design Doc guidance: [here](/teaching/hci/design-doc)
 * Discussion/Questions: Slack (contact Dr. Williams if you have not received the Slack link)
-* Office Hours: TBD
+* Office Hours: Mon/Tues/Wed/Thurs from 2:00-3:30 PM and Fri 10:30-11 AM. You can also request to meet outside of these hours -- please message me on Slack the day before you'd like to meet and we'll try to find a time that works.
 
 # Prerequisites and Major/Minor Requirements
 *Prerequisite*: CSC 221 - Data Structures. This course is **required** (no exceptions). 
