@@ -222,7 +222,7 @@ All **reading** and **demos of design sprints** are due at 8:00 AM on the day of
   </tr>
   </thead>
 <tbody>  <tr>
-    <td rowspan="2" id="this_week">1</td>
+    <td rowspan="2" >1</td>
     <td>{{ site.data.hci_schedule.w1s1 }}</td>
     <td>Intro to Human-Computer Interaction</td>
     <td> 
@@ -247,7 +247,7 @@ All **reading** and **demos of design sprints** are due at 8:00 AM on the day of
     <td></td>
   </tr>
   <tr>
-    <td rowspan="2">2</td>
+    <td rowspan="2" id="this_week">2</td>
     <td>{{ site.data.hci_schedule.w2s1 }}</td>
     <td>Define, <a href="{{ hw2.link }}">HW 2: Needfinding Exercise</a> released</td>
     <td><img class="reading" src="./images/book-open.svg" height="16" width="16"> <a href="https://dl.icdst.org/pdfs/files4/4bb8d08a9b309df7d86e62ec4056ceef.pdf">Ch. 1 from <i>The Design of Everyday Things</i></a><br>
