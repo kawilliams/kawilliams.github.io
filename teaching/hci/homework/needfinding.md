@@ -79,7 +79,7 @@ You must strictly protect your participants' identities in your write-up:
 
 ### Step 5: Synthesize with an Empathy Map
 
-Unpack your research using the [NN/g Empathy Mapping Method]((https://www.nngroup.com/articles/empathy-mapping/)).
+Unpack your research using the [NN/g Empathy Mapping Method](https://www.nngroup.com/articles/empathy-mapping/).
 
 * Create at least 1 full empathy map for your most insightful interview. This empathy map will be valuable in the next assignment in making sense of your user’s point of view, brainstorming “how might we’s” and in building experience prototypes. 
     * **Optional**: If you feel like another interview was critical to capture all of the complexities of the problem, then make an additional map for this interview (you will not get extra points for making a second map -- the decision is up to you and how you plan on telling your story). 
