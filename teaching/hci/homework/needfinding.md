@@ -65,7 +65,8 @@ Then be sure to write down:
 
 **Consent First**: Before starting the interview, have each participant read and sign the [Class Consent Form](/forms/consent_form_for_class.pdf) (download, adapt, and sign or e-sign).
 
-**Execute**: Interviews can be in-person or via Zoom (20–60 minutes long).
+**Execute**: Interviews can be in-person or via Zoom (20–60 minutes long). 
+    * **AI use 🤖**: **You MAY use AI to review the transcript of your interview, *so long as the interviewee consents*!** For example, you may record the interview (in person or remotely) using Zoom, then upload the transcript to an AI for it to summarize main points. 
 
 **Interview Dynamic**: Use your questions as a guide, but follow interesting tangents. Pull strings to uncover emotional reactions, workarounds, and underlying motivations.
 
@@ -88,8 +89,10 @@ Unpack your research using the [NN/g Empathy Mapping Method](https://www.nngroup
 
 ### Step 6: Complete Your Write-Up & Submit
 Draft your write-up following the structure of the CSC 363 Design Document (see an [example](https://medium.com/@meideng06/needfinding-tracking-and-maintaining-fitness-goals-f7bb66f9158a) in the Hall of Fame).
+    * **AI use 🤖**: you MAY use AI to polish your draft, after you've written ~75% of the document. Before you use AI for polishing, I expect the draft should be built from your own outline and there is enough rough content that I can fully understand the story (it's ok if the content is in bullets or partial sentences).
 
 You can use similar headers and features in Google Docs by using [Markdown in Google Docs](https://support.google.com/docs/answer/12014036?hl=en). There's plenty of other Markdown features and shortcuts -- check out the [MD guide](https://www.markdownguide.org/extended-syntax/) and CTRL+F for the feature you're looking for (e.g., "strikethrough")
+
 
 #### Requirements for Write-Up
 Your write-up must include:
