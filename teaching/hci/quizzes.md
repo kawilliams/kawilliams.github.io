@@ -22,6 +22,12 @@ How I see it working out:
 
 **Topics will be announced** closer to the date. Quizzes should take **approximately 30 minutes in-class** (Dr. Williams will coordinate with you on an individual basis if you have accommodations through AADR). 
 
+#### Quiz 1
+* Will cover the readings from Needfinding, Define, Ideation + Prototyping, and Visual Design + Design Patterns.
+* The contents of the reading checks help indicate *what topics to prioritize* but the quiz will go more in depth.
+* The quiz is supposed to help you work toward the [oral exam](https://kawilliams.github.io/teaching/hci/oral-exam), where you'll have to apply the human-centered design process. 
+* As a result, the questions will be more open-ended (they will NOT be multiple choice).
+
 ### Quizzes
 
 | Quiz | Topics | Who | Weight | Due | 
