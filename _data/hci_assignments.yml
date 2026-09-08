@@ -51,9 +51,9 @@
   short_title: "HW 4"
   topic: "Accessible Design"
   link: /teaching/hci/assignments/hw4
-  opens: "Wednesday, October 7"
-  due: "Friday, October 16"
-  due_short: "10/16"
+  opens: "Wednesday, October 14"
+  due: "Monday, October 26"
+  due_short: "10/22"
   due_time: "by 11:59 PM to Moodle"
   weight: "20%"
 
@@ -64,9 +64,9 @@
   topic: "Design for Dimensions"
   link: /teaching/hci/design-sprints/dimensions
   opens: "Wednesday, September 9"
-  due: "Wednesday, September 23"
-  due_short: "9/23"
-  due_time: "by 8:05 AM, in class"
+  due: "Wednesday, September 30"
+  due_short: "9/30"
+  due_time: "present @ 8:05 AM, in class, write-up due by 11:59 PM to Moodle"
   weight: "10%"
 
 - id: ds2
@@ -75,10 +75,10 @@
   short_title: "DS #2"
   topic: "Design for Understanding"
   link: /teaching/hci/design-sprints/understanding
-  opens: "Monday, September 28"
+  opens: "Wednesday, September 30"
   due: "Wednesday, October 14"
   due_short: "10/14"
-  due_time: "by 11:55 PM to Moodle"
+  due_time: "present @ 8:05 AM, in class, write-up due by 11:59 PM to Moodle"
   weight: "20%"
 
 - id: ds3
@@ -87,10 +87,10 @@
   short_title: "DS #3"
   topic: "Design for A New World"
   link: /teaching/hci/assignments/ds3
-  opens: "Wednesday, September 10"
-  due: "Monday, September 22"
-  due_short: "9/22"
-  due_time: "by 11:55 PM to Moodle"
+  opens: "Monday, October 19"
+  due: "Wednesday, November 4"
+  due_short: "11/4"
+  due_time: "present @ 8:05 AM, in class, write-up due by 11:59 PM to Moodle"
   weight: "30%"
 
 - id: ds4
@@ -99,10 +99,10 @@
   short_title: "DS #4"
   topic: "Redesign and Extend"
   link: /teaching/hci/assignments/ds4
-  opens: "Wednesday, September 10"
-  due: "Monday, September 22"
-  due_short: "9/22"
-  due_time: "by 11:55 PM to Moodle"
+  opens: "Wednesday, November 4"
+  due: "Monday, December 7"
+  due_short: "12/7"
+  due_time: "present @ 8:05 AM, in class, write-up due by 11:59 PM to Moodle"
   weight: "40%"
 
 - id: q1
@@ -110,7 +110,7 @@
   title: "Quiz #1"
   short_title: "Quiz #1"
   topic: "To be announced"
-  opens: "In class, September 10"
+  opens: "In class, September 14"
   due: "30 min"
   due_short: "9/14, in class"
   due_time: "after 30 min"
@@ -121,7 +121,7 @@
   title: "Quiz #2"
   short_title: "Quiz #2"
   topic: "To be announced"
-  opens: "In class, October 10"
+  opens: "In class, October 21"
   due: "30 min"
   due_short: "10/21, in class"
   due_time: "after 30 min"
