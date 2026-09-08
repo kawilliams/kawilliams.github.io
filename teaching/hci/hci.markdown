@@ -291,7 +291,7 @@ All **reading** and **demos of design sprints** are due at 8:00 AM on the day of
   </tr>
   <tr>
     <td>{{ site.data.hci_schedule.w3s2 }}</td>
-    <td><a href="/teaching/hci/design-sprints/dimensions" >Design for Dimensions Intro</a> + <br />Figma Demo + <br /> release <a href="{{ hw3.link }}" >HW 3: Health Design</a></td> 
+    <td>Figma Demo + <br /> release <a href="{{ hw3.link }}" >HW 3: Health Design</a></td> 
     <td>
     Sign up for Figma (educational account) -- see instructions on the right<br>
     <b>Then spend 45-60 minutes following along with Figma tutorial videos (see examples below):</b>
@@ -312,24 +312,23 @@ All **reading** and **demos of design sprints** are due at 8:00 AM on the day of
   <tr>
     <td rowspan="2">4</td>
     <td>{{ site.data.hci_schedule.w4s1 }}</td>
-    <td>Hack Day -- <a href="/teaching/hci/design-sprints/dimensions">Design for Dimensions</a>,<br><a href="/teaching/hci/quizzes/">Quiz 1</a></td>
+    <td><a href="/teaching/hci/quizzes/">Quiz 1</a>, <br/><a href="/teaching/hci/design-sprints/dimensions" >Design for Dimensions Intro</a> + Hack Day</td>
     <td>	
     <img class="reading" src="./images/book-open.svg" height="16" width="16"> <a href="https://xd.adobe.com/ideas/process/user-research/putting-personas-to-work-in-ux-design/">Putting Personas to Work by Faller</a><br>
     <img class="reading" src="./images/book-open.svg" height="16" width="16"> <a href="https://www.aiga.org/resources/how-to-survive-a-critique-a-guide-to-giving-and-receiving-feedback">A Guide to Giving and Receiving Feedback by Cheng</a><br>
-    <img class="reading" src="./images/book-open.svg" height="16" width="16"> <a href="/teaching/hci/groups">Tips for Working Successfully in Groups by Pausch</a>
+    <!-- <img class="reading" src="./images/book-open.svg" height="16" width="16"> <a href="/teaching/hci/groups">Tips for Working Successfully in Groups by Pausch</a> -->
     </td>
     <td>
+    The readings for today will NOT be on the quiz.
     </td>
   </tr>
   <tr>
     <td>{{ site.data.hci_schedule.w4s2 }}</td>
-    <td>Data Visualization</td>
+    <td>Discuss <i>Race After Technology</i> by Dr. Ruha Benjamin</td>
+    <td>Chapter 1</td>
     <td>
-    <img class="watch" src="./images/display.svg" height="16" width="16"> (8 min) <a href="https://www.youtube.com/watch?v=AdSZJzb-aX8">The Art of Data Visualization</a><br>
-		<img class="reading" src="./images/book-open.svg" height="16" width="16"> <a href="https://medium.com/@kennelliott/39-studies-about-human-perception-in-30-minutes-4728f9e31a73">39 studies about human perception in 30 minutes</a> (read the article [~21 min read] <b>OR</b> watch the talk [23:06]: <img class="watch" src="./images/display.svg" height="16" width="16"> <a href="https://www.youtube.com/watch?v=s0J6EDvlN30">Accompanying Talk</a>)<br>
-    </td>
-    <td>
-    <a href="{{ hw3.link }}">HW 3: Health Design</a>
+    <a href="{{ hw3.link }}">HW 3: Health Design</a><br/>
+    Attend Dr. Benjamin's talk in DFPH at 7 PM (contact Dr. Williams for alt. assignment, if needed)
     </td>
   </tr>
   <tr>
@@ -341,38 +340,41 @@ All **reading** and **demos of design sprints** are due at 8:00 AM on the day of
   </tr>
   <tr>
     <td>{{ site.data.hci_schedule.w5s2 }}</td>
-    <td>Demo: <a href="/teaching/hci/design-sprints/dimensions">Design for Dimensions</a></td>
-    <td>No prep</td>
-    <td>DS: <a href="/teaching/hci/design-sprints/dimensions">Design for Dimensions</a></td>
-  </tr>
-  <tr>
-    <td rowspan="2">6</td>
-    <td>{{ site.data.hci_schedule.w6s1 }}</td>
-    <td><a href="/teaching/hci/design-sprints/understanding">Design for Understanding</a> Intro + VIS Tool Demo</td>
+    <td>Recap RB lecture, Data Visualization</td>
     <td>
-    <img class="reading" src="./images/book-open.svg" height="16" width="16"> <a href="/teaching/hci/papers/RobertsHeadleandRitsos-FiveDesignSheet.pdf">Five Design Sheet Methodology for Visualization</a> (Read the abstraction and Sections 1 and 3 -- 3 is thicc, so be sure to take time to read it carefully and review the figures)<br>
+    <img class="watch" src="./images/display.svg" height="16" width="16"> (8 min) <a href="https://www.youtube.com/watch?v=AdSZJzb-aX8">The Art of Data Visualization</a><br>
+		<img class="reading" src="./images/book-open.svg" height="16" width="16"> <a href="https://medium.com/@kennelliott/39-studies-about-human-perception-in-30-minutes-4728f9e31a73">39 studies about human perception in 30 minutes</a> (read the article [~21 min read] <b>OR</b> watch the talk [23:06]: <img class="watch" src="./images/display.svg" height="16" width="16"> <a href="https://www.youtube.com/watch?v=s0J6EDvlN30">Accompanying Talk</a>)<br>
+        <img class="reading" src="./images/book-open.svg" height="16" width="16"> <a href="/teaching/hci/papers/RobertsHeadleandRitsos-FiveDesignSheet.pdf">Five Design Sheet Methodology for Visualization</a> (Read the abstraction and Sections 1 and 3 -- 3 is thicc, so be sure to take time to read it carefully and review the figures)<br>
     <!-- <img class="reading" src="./images/book-open.svg" height="16" width="16"> <a href="https://dl.icdst.org/pdfs/files4/4bb8d08a9b309df7d86e62ec4056ceef.pdf">Ch. 3 from <i>The Design of Everyday Things</i></a><br> -->
 		<!-- <img class="reading" src="./images/book-open.svg" height="16" width="16"> <a href="http://vis.cs.brown.edu/docs/pdf/bib/value-of-infovis.pdf">The Value of Information Visualization by Fekete et al</a><br> -->
 		<img class="reading" src="./images/book-open.svg" height="16" width="16"> <a href="https://queue.acm.org/detail.cfm?id=1805128">A Tour through the Visualization Zoo by Heer et al</a><br>
 		<!-- <img class="reading" src="./images/book-open.svg" height="16" width="16"> <b>Optional:</b>  <a href="https://www.csc2.ncsu.edu/faculty/healey/PP/index.html">Perception in Visualization by Healey</a><br> -->
-		<img class="reading" src="./images/book-open.svg" height="16" width="16"> <b>Optional:</b> <a href="http://www.dear-data.com/theproject">Dear Data</a>
+		<!-- <img class="reading" src="./images/book-open.svg" height="16" width="16"> <b>Optional:</b> <a href="http://www.dear-data.com/theproject">Dear Data</a> -->
     </td>
-    <td></td>
+    <td>
+    </td>
   </tr>
   <tr>
-    <td>{{ site.data.hci_schedule.w6s2 }}</td>
+    <td rowspan="2">6</td>
+    <td>{{ site.data.hci_schedule.w6s1 }}</td>
     <td>Evaluation in HCI, Part 1</td>
     <td>
       <img class="reading" src="./images/book-open.svg" height="16" width="16">  <a href="https://people.cs.vt.edu/~gangwang/HCI.pdf#page=450">Research Ethics in HCI by Bruckman</a><br>
 			<img class="reading" src="./images/book-open.svg" height="16" width="16">  <a href="https://dl.icdst.org/pdfs/files4/4bb8d08a9b309df7d86e62ec4056ceef.pdf">Ch. 2 from <i>The Design of Everyday Things</i></a><br>
 			<img class="reading" src="./images/book-open.svg" height="16" width="16"> <b>Optional:</b> <a href="resources#visualization-tools">Resources on Vis Tools</a> (skim the relevant websites for tutorials)
     </td>
-    <td></td>
+    <td></td> 
+  </tr>
+  <tr>
+    <td>{{ site.data.hci_schedule.w6s2 }}</td>
+    <td>Demo: <a href="/teaching/hci/design-sprints/dimensions">Design for Dimensions</a>, intro to <a href="/teaching/hci/design-sprints/understanding">Design for Understanding</a></td>
+    <td>No prep</td>
+    <td>DS: <a href="/teaching/hci/design-sprints/dimensions">Design for Dimensions</a></td>
   </tr>
   <tr>
     <td rowspan="2">7</td>
     <td>{{ site.data.hci_schedule.w7s1 }}</td>
-    <td>Evaluation Part 2 + Hack: <a href="/teaching/hci/design-sprints/understanding">Design for Understanding</a></td>
+    <td>Evaluation Part 2</td>
     <td>
     <img class="reading" src="./images/book-open.svg" height="16" width="16">  <a href="https://www.nngroup.com/articles/usability-testing-101/">Usability Testing 101 by Moran</a><br>
 		<img class="reading" src="./images/book-open.svg" height="16" width="16">  <a href="https://www.nngroup.com/articles/how-to-conduct-a-heuristic-evaluation/">How to Conduct a Heuristic Evaluation by Nielsen</a><br> 
@@ -383,9 +385,8 @@ All **reading** and **demos of design sprints** are due at 8:00 AM on the day of
   </tr>
   <tr>
     <td>{{ site.data.hci_schedule.w7s2 }}</td>
-    <td>Guest Lecture: <a href="https://www.davidson.edu/people/elizabeth-smith-brigham">Liz Brigham</a>, at the Hurt Hub</td>
+    <td>Hack: <a href="/teaching/hci/design-sprints/understanding">Design for Understanding</a></td>
     <td>
-    <img class="watch" src="./images/display.svg" height="16" width="16"> (60 min) <a href="https://www.youtube.com/watch?v=9kC2KmtjFIU">"Hub & Spoke | Liz Smith Brigham '04"</a><br>
     <img class="reading" src="./images/book-open.svg" height="16" width="16">  <a href="https://dl.icdst.org/pdfs/files4/4bb8d08a9b309df7d86e62ec4056ceef.pdf">Ch. 5 from <i>The Design of Everyday Things</i></a>
     </td>
     <!-- <img class="watch" src="./images/display.svg" height="16" width="16"> (7 min) <a href="https://www.youtube.com/watch?v=A88E4DH2asQ">Adventures in Universal Design</a><br>
@@ -393,15 +394,15 @@ All **reading** and **demos of design sprints** are due at 8:00 AM on the day of
 		<img class="reading" src="./images/book-open.svg" height="16" width="16">  <a href="http://web.mit.edu/6.813/www/sp18/classes/18-accessibility/">Accessibility</a><br>
 		<img class="reading" src="./images/book-open.svg" height="16" width="16">  <a href="https://dl.icdst.org/pdfs/files4/4bb8d08a9b309df7d86e62ec4056ceef.pdf">Ch. 5 from <i>The Design of Everyday Things</i></a>
 		</td>-->
-    <td>Class will be held in the Hurt Hub. We will end at 9:15 to allow time to return to campus.</td> 
+    <td></td> 
   </tr>
   <tr>
     <td rowspan="2" >8</td>
     <td>{{ site.data.hci_schedule.w8s1 }}</td>
-    <td>Accessibility + Universal Design, release <a href="{{ hw4.link }}">HW 4</a></td>
+    <td>Accessibility + Universal Design</td>
     <td>
     <img class="watch" src="./images/display.svg" height="16" width="16"> (7 min) <a href="https://www.youtube.com/watch?v=A88E4DH2asQ">Adventures in Universal Design</a><br>
-    <img class="reading" src="./images/book-open.svg" height="16" width="16"> Against Technoableism by Ashley Shew, <a href="https://drive.google.com/file/d/1EacVgq1yIadAlaOWIzWNodCoEu_96a7l/view?usp=sharing">Chapter 1</a> and <a href="https://drive.google.com/file/d/1LWPhm4fWdmHVVVUOKEuaBXTHFmoYXreu/view?usp=sharing">Chapter 4</a><br>
+    <img class="reading" src="./images/book-open.svg" height="16" width="16"> <i>Against Technoableism</i> by Ashley Shew, <a href="https://drive.google.com/file/d/1EacVgq1yIadAlaOWIzWNodCoEu_96a7l/view?usp=sharing">Chapter 1</a> and <a href="https://drive.google.com/file/d/1LWPhm4fWdmHVVVUOKEuaBXTHFmoYXreu/view?usp=sharing">Chapter 4</a><br>
 		<!-- <img class="reading" src="./images/book-open.svg" height="16" width="16">  <a href="http://www.cs.cmu.edu/~io/publications/10MankoffASSETS.pdf">Disability Studies as a Source of Critical Inquiry for Assistive Technology</a><br> -->
 		<img class="reading" src="./images/book-open.svg" height="16" width="16">  <a href="http://web.mit.edu/6.813/www/sp18/classes/18-accessibility/">Accessibility</a><br>
 		<!-- <img class="reading" src="./images/book-open.svg" height="16" width="16">  <a href="https://dl.icdst.org/pdfs/files4/4bb8d08a9b309df7d86e62ec4056ceef.pdf">Ch. 5 from <i>The Design of Everyday Things</i></a> -->
@@ -410,7 +411,7 @@ All **reading** and **demos of design sprints** are due at 8:00 AM on the day of
   </tr>
   <tr>
     <td>{{ site.data.hci_schedule.w8s2 }}</td>
-    <td><a href="/teaching/hci/design-sprints/understanding">Demo: Design for Understanding</a> <br>
+    <td><a href="/teaching/hci/design-sprints/understanding">Demo: Design for Understanding</a>, release <a href="{{ hw4.link }}">HW 4</a> <br>
     </td>
     <td></td>
     <td><a href="/teaching/hci/design-sprints/understanding">DS: Design for Understanding</a>	</td>
@@ -428,11 +429,11 @@ All **reading** and **demos of design sprints** are due at 8:00 AM on the day of
 		<!-- <img class="reading" src="./images/book-open.svg" height="16" width="16"> <b>Opt:</b> <a href="https://www.theatlantic.com/technology/archive/2016/03/virtual-reality-is-just-television-for-the-computer-junkie/475632/">Dystopian Virtual Reality is Finally Here (Ian Bogost)</a> <br> -->
 	  <img class="reading" src="./images/book-open.svg" height="16" width="16"> <b>Opt:</b> <a href="https://developer.apple.com/ios/human-interface-guidelines/technologies/augmented-reality/">AR Human Interface guidelines by Apple</a>	
 		</td>
-    <td><a href="{{ hw4.link }}">HW 4: Accessibility</a> is due {{ hw4.due }}</td>
+    <td></td>
   </tr>
   <tr>
     <td>{{ site.data.hci_schedule.w9s2 }}</td>
-    <td>Hack: <a href="/teaching/hci/design-sprints/another-world">Design for Another World</a>,<br><a href="/teaching/hci/quizzes/">Quiz 2</a></td>
+    <td><a href="/teaching/hci/quizzes/">Quiz 2</a>, <br/>Hack: <a href="/teaching/hci/design-sprints/another-world">Design for Another World</a></td>
     <td>No prep
 		</td>
     <td></td>
@@ -440,39 +441,30 @@ All **reading** and **demos of design sprints** are due at 8:00 AM on the day of
   <tr>
     <td rowspan="2" >10</td>
     <td>{{ site.data.hci_schedule.w10s1 }}</td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>Tangible + Wearable Interfaces</td>
+    <td>
+    <img class="reading" src="./images/book-open.svg" height="16" width="16"> <a href="https://www.interaction-design.org/literature/book/the-glossary-of-human-computer-interaction/tangible-interaction">Tangible Interaction by Hornecker</a><br>
+			<img class="watch" src="./images/display.svg" height="16" width="16"> (13 min) <a href="https://www.youtube.com/watch?v=u8tnYt30L-A">How Wearable Technology Will Change Our Lives by Tudela</a><br>
+			<img class="reading" src="./images/book-open.svg" height="16" width="16"> <a href="https://dl.icdst.org/pdfs/files4/4bb8d08a9b309df7d86e62ec4056ceef.pdf">Ch. 7 from <i>The Design of Everyday Things</i></a>
+    </td>
+    <td><a href="{{ hw4.link }}">HW 4: Accessibility</a> is due {{ hw4.due }}</td>
   </tr>
   <tr>
     <td>{{ site.data.hci_schedule.w10s2 }}</td>
-    <td>Tangible + Wearable Interfaces</td>
+    <td>Prototyping</td>
     <td>
-    	<img class="reading" src="./images/book-open.svg" height="16" width="16"> <a href="https://www.interaction-design.org/literature/book/the-glossary-of-human-computer-interaction/tangible-interaction">Tangible Interaction by Hornecker</a><br>
-			<img class="watch" src="./images/display.svg" height="16" width="16"> (13 min) <a href="https://www.youtube.com/watch?v=u8tnYt30L-A">How Wearable Technology Will Change Our Lives by Tudela</a><br>
-			<img class="reading" src="./images/book-open.svg" height="16" width="16"> <a href="https://dl.icdst.org/pdfs/files4/4bb8d08a9b309df7d86e62ec4056ceef.pdf">Ch. 7 from <i>The Design of Everyday Things</i></a>
+    <img class="watch" src="./images/display.svg" height="16" width="16"> (8 min) <a href="https://www.youtube.com/watch?v=d5_h1VuwD6g">Rapid Prototyping Google Glass</a><br>
+			<img class="watch" src="./images/display.svg" height="16" width="16"> (4 min) <a href="https://www.youtube.com/watch?v=IZy7dZOGjc0">How to Design a Smart Watch</a><br>
+			<img class="watch" src="./images/display.svg" height="16" width="16"> (15 min) <a href="https://www.youtube.com/watch?v=Oee8VfjR1CE">Prototyping and Model Making</a>
+      <img class="watch" src="./images/display.svg" height="16" width="16" >
+      <a href="https://www.youtube.com/watch?v=JMjozqJS44M"> (8 minutes) Rapid Prototyping: Sketching by Google for Startups</a>
     </td>
     <td></td>
   </tr>
   <tr>
     <td rowspan="2">11</td>
     <td>{{ site.data.hci_schedule.w11s1 }}</td>
-    <td>Prototyping and partial Hack Day</td>
-    <td> <img class="watch" src="./images/display.svg" height="16" width="16"> (8 min) <a href="https://www.youtube.com/watch?v=d5_h1VuwD6g">Rapid Prototyping Google Glass</a><br>
-			<img class="watch" src="./images/display.svg" height="16" width="16"> (4 min) <a href="https://www.youtube.com/watch?v=IZy7dZOGjc0">How to Design a Smart Watch</a><br>
-			<img class="watch" src="./images/display.svg" height="16" width="16"> (15 min) <a href="https://www.youtube.com/watch?v=Oee8VfjR1CE">Prototyping and Model Making</a></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>{{ site.data.hci_schedule.w11s2 }}</td>
-    <td>Demo: <a href="/teaching/hci/design-sprints/another-world">Design for Another World</a></td>
-    <td>No prep</td>
-    <td><a href="/teaching/hci/design-sprints/another-world">DS: Design for Another World</a></td>
-  </tr>
-  <tr>
-  <td rowspan="2">12</td>
-    <td>{{ site.data.hci_schedule.w12s1 }}</td>
-    <td>Affective Computing and <a href="/teaching/hci/design-sprints/redesign">Re-design and Extend</a> Intro</td>
+    <td>Affective Computing and partial Hack Day for <a href="/teaching/hci/design-sprints/another-world">Design for Another World</a></td>
     <td>
     <img class="reading" src="./images/book-open.svg" height="16" width="16"><a href="https://www.interaction-design.org/literature/topics/affective-computing"> Affective Computing</a><br>
     <img class="video" src="./images/display.svg" height="16" width="16"><a href="https://www.media.mit.edu/groups/affective-computing/overview/"> [2:53] Watch the video midway down the page: "Affective Computing overview" by Rosalind Picard</a><br>
@@ -482,11 +474,24 @@ Wearable Tech to Improve Women's Health Research</a>
     <td></td>
   </tr>
   <tr>
+    <td>{{ site.data.hci_schedule.w11s2 }}</td>
+    <td>Demo: <a href="/teaching/hci/design-sprints/another-world">Design for Another World</a> and <a href="/teaching/hci/design-sprints/redesign">Re-design and Extend</a> Intro</td>
+    <td>No prep</td>
+    <td><a href="/teaching/hci/design-sprints/another-world">DS: Design for Another World</a></td>
+  </tr>
+  <tr>
+  <td rowspan="2">12</td>
+    <td>{{ site.data.hci_schedule.w12s1 }}</td>
+    <td>Hack: <a href="/teaching/hci/design-sprints/redesign">Re-design and Extend</a> Intro</td>
+    <td>No prep, besides work on DS 4</td>
+    <td></td>
+  </tr>
+  <tr>
     <td>{{ site.data.hci_schedule.w12s2 }}</td>
-    <td>Hack: <a href="/teaching/hci/design-sprints/redesign">Re-design and Extend</a> 
+    <td>Optional Hack: <a href="/teaching/hci/design-sprints/redesign">Re-design and Extend</a> 
     <!--(at DACE Studio -- north basement of Chambers (flagpole side))-->
     </td>
-    <td><img class="watch" src="./images/display.svg" height="16" width="16" ><a href="https://www.youtube.com/watch?v=JMjozqJS44M"> (8 minutes) Rapid Prototyping: Sketching by Google for Startups</a></td>
+    <td>No prep, besides work on DS 4</td>
     <td></td>
   </tr>
   <tr>
@@ -534,7 +539,7 @@ Wearable Tech to Improve Women's Health Research</a>
     <td>{{ site.data.hci_schedule.w15s2 }}</td>
     <td>Hack Day: <a href="/teaching/hci/design-sprints/redesign">Re-design and Extend</a></td>
     <td>No prep</td>
-    <td><a href="https://kawilliams.github.io/teaching/hci/design-sprints/archives">Archives assignment due by 11:55 PM</a></td>
+    <td></td>
   </tr>
   <tr>
     <td rowspan="2">16</td>
