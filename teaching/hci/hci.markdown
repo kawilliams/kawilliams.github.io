@@ -324,11 +324,13 @@ All **reading** and **demos of design sprints** are due at 8:00 AM on the day of
   </tr>
   <tr>
     <td>{{ site.data.hci_schedule.w4s2 }}</td>
-    <td>Discuss <i>Race After Technology</i> by Dr. Ruha Benjamin</td>
-    <td>Chapter ?, TBD</td>
+    <td>Data Visualization</td>
     <td>
-    <a href="{{ hw3.link }}">HW 3: Health Design is due {{ hw3.due }}</a><br/>
-    <b>9/17 (Thurs):</b> Attend Dr. Benjamin's talk in DFPH at 7 PM (contact Dr. Williams for alt. assignment, if needed)
+    <img class="watch" src="./images/display.svg" height="16" width="16"> (8 min) <a href="https://www.youtube.com/watch?v=AdSZJzb-aX8">The Art of Data Visualization</a><br>
+		<img class="reading" src="./images/book-open.svg" height="16" width="16"> <a href="https://medium.com/@kennelliott/39-studies-about-human-perception-in-30-minutes-4728f9e31a73">39 studies about human perception in 30 minutes</a> (read the article [~21 min read] <b>OR</b> watch the talk [23:06]: <img class="watch" src="./images/display.svg" height="16" width="16"> <a href="https://www.youtube.com/watch?v=s0J6EDvlN30">Accompanying Talk</a>)<br>
+    </td>
+    <td>
+    <a href="{{ hw3.link }}">HW 3: Health Design</a>
     </td>
   </tr>
   <tr>
