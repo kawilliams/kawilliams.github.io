@@ -325,9 +325,9 @@ All **reading** and **demos of design sprints** are due at 8:00 AM on the day of
   <tr>
     <td>{{ site.data.hci_schedule.w4s2 }}</td>
     <td>Discuss <i>Race After Technology</i> by Dr. Ruha Benjamin</td>
-    <td>Chapter 1</td>
+    <td>Chapter ?, TBD</td>
     <td>
-    <a href="{{ hw3.link }}">HW 3: Health Design</a><br/>
+    <a href="{{ hw3.link }}">HW 3: Health Design is due {{ hw3.due }}</a><br/>
     <b>9/17 (Thurs):</b> Attend Dr. Benjamin's talk in DFPH at 7 PM (contact Dr. Williams for alt. assignment, if needed)
     </td>
   </tr>
