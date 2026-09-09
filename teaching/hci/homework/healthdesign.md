@@ -13,7 +13,7 @@ permalink: /teaching/hci/assignments/hw3
 # Health Design
 
 * Group size: **Individual**
-* **AI Policy**: {{ site.ai-yellow }}
+* **AI Policy**: {{ site.ai-red }}. The only time you can use AI is in Step 5 (see below).
 * Assignment opens: {{ hw.opens }}
 * Due: {{ hw.due }}, *{{ hw.due_time }}*. 
 
@@ -41,7 +41,7 @@ You will present your problem synthesis, problem definition, and sketches you ha
 Follow these instructions to convert your [needfinding](./needfinding.md) insights into a tested paper prototype (being sure to record the process in a design doc):
 
 ### Step 1: Define the problem scope (POV and HMW)
-1. Create a ["Point of View" (POV)](https://public-media.interaction-design.org/pdf/Point-Of-View.pdf) statement, remembering the three key statements
+1. Create a ["Point of View" (POV)](https://public-media.interaction-design.org/pdf/Point-Of-View.pdf) statement, remembering the three key statements:
     * We met ...<the **user** from the empathy map>
     * We realized ...<the user **needs** XYZ>
     * It would be game-changing to ...<an **insight** from your synthesis of your data>
@@ -54,7 +54,7 @@ Follow these instructions to convert your [needfinding](./needfinding.md) insigh
 
 ### Step 2: Information Design and Rapid Ideation (15+ sketches)
 
-Explore potential UI layouts across **at least 3 distinct screens/aspects** of the user experience (e.g., dashboard, activity logging screen, recap screen).
+Explore potential UI layouts across **at least 3 distinct screens/aspects** of the user experience (e.g., dashboard, activity logging screen, recap screen). 
 
 * Ideation math: generate at least **5 distinct, messy concept sketches per screen/aspect**. 
     * 3 screens/aspects x 5 concepts each = **15 total sketches** minimum
@@ -65,7 +65,7 @@ Explore potential UI layouts across **at least 3 distinct screens/aspects** of t
 
 ### Step 3: Construct and Test a Clean Paper Prototype
 
-1. **Build a cleaner paper prototype**: Select your best ideas from Step 2 and build a refined paper prototype **for each of the screens** for testing (~30 minutes total to draw all 3 screens). You should have 3 sketched screens for the user to review (we will add more in a second).
+1. **Build a cleaner paper prototype**: Select your best ideas from Step 2 and build a refined paper prototype **for each of the screens** for testing (~30 minutes total to draw all 3 screens). You should have 3 sketched screens for the user to review (we will add more in a second). 
 
 2. **Include design options**: Include another design variation for at least two of the screens so that the students testing your designs can see two options for a given screen. 
     * Prototype math: 3 sketched screens + 2 alternative designs for two of the screens = 5 total prototype sketches
@@ -81,7 +81,7 @@ Explore potential UI layouts across **at least 3 distinct screens/aspects** of t
 Design an ideal, systematic evaluation plan assuming time and resource constraints were removed. Describe in a few paragraphs how you would evaluate your solution's long-term success with actual target users (beyond classmates). Don't fret too much on this part. We will learn more formal techniques in the coming weeks, so use this opportunity to be creative with your evaluation design -- but be systematic!
 
 ### Step 5: Write and Submit Your Design Document
-Document your process in a **Google Doc** structured around the [CSC 363 Design Document Guide](https://kawilliams.github.io/teaching/hci/design-doc). Submit the Google Doc as a PDF or .doc to Moodle.
+Document your process in a **Google Doc** structured around the [CSC 363 Design Document Guide](https://kawilliams.github.io/teaching/hci/design-doc). Submit the Google Doc as a PDF or .doc to Moodle. 🤖 **AI Policy**: You may use AI to lightly edit your draft, meaning you need to write/type all of the content, but you can use AI to help you reword sections or to act as an editor.
 
 #### Required Desing Doc Content for HW 3
 Review the checklist below before submitting your work. **Completing all of the checkboxes does not guarantee a grade of 100%!** Scroll down to [Grading](#grading) to review the rubric to see how to earn a 100%. 
