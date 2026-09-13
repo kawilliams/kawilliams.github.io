@@ -83,14 +83,14 @@ Design an ideal, systematic evaluation plan assuming time and resource constrain
 ### Step 5: Write and Submit Your Design Document
 Document your process in a **Google Doc** structured around the [CSC 363 Design Document Guide](https://kawilliams.github.io/teaching/hci/design-doc). Submit the Google Doc as a PDF or .doc to Moodle. 🤖 **AI Policy**: You may use AI to lightly edit your draft, meaning you need to write/type all of the content, but you can use AI to help you reword sections or to act as an editor.
 
-#### Required Desing Doc Content for HW 3
+#### Required Design Doc Content for HW 3
 Review the checklist below before submitting your work. **Completing all of the checkboxes does not guarantee a grade of 100%!** Scroll down to [Grading](#grading) to review the rubric to see how to earn a 100%. 
 
-<input type="checkbox"> Problem Context & Synthesis: Clear description of the problem, including your exact POV statement and HMW questions, tied explicitly to HW2 findings.
-<input type="checkbox"> Clear photos of all 15+ rapid ideation sketches showing design exploration.
-<input type="checkbox"> Photos of your refined paper prototype (including alternative screen options, for a total of >= 5 prototypes of screens) demonstrating how early sketches evolved into the tested version.
-<input type="checkbox"> Classroom Evaluation Summary: Detailed narrative of the 3 testing sessions, including photos/setting images, participant feedback, and explicit changes you plan to make based on user input. 
-<input type="checkbox"> Future Evaluation Plan: A creative yet systematic plan for evaluating the design with non-classmate target users under ideal resources.
+<input type="checkbox"> Problem Context & Synthesis: Clear description of the problem, including your exact POV statement and HMW questions, tied explicitly to HW2 findings. <br/>
+<input type="checkbox"> Clear photos of all 15+ rapid ideation sketches showing design exploration.<br/>
+<input type="checkbox"> Photos of your refined paper prototype (including alternative screen options, for a total of >= 5 prototypes of screens) demonstrating how early sketches evolved into the tested version.<br/>
+<input type="checkbox"> Classroom Evaluation Summary: Detailed narrative of the 3 testing sessions, including photos/setting images, participant feedback, and explicit changes you plan to make based on user input. <br/>
+<input type="checkbox"> Future Evaluation Plan: A creative yet systematic plan for evaluating the design with non-classmate target users under ideal resources.<br/>
 
 ### Grading
 Grading will be based on the HW 3 variation of the [design rubric](https://docs.google.com/spreadsheets/d/1aI9LcmVZmh_977G__U4Guz_rPRCwWZs26J_yHXbhSyY/edit?usp=sharing).
