@@ -334,7 +334,7 @@ All **reading** and **demos of design sprints** are due at 8:00 AM on the day of
     </td>
     <td>
     <a href="{{ hw3.link }}">HW 3: Health Design is due {{ hw3.due }}</a><br/>
-    <b>9/17 (Thurs):</b> Attend Dr. Benjamin's talk in DFPH at 7 PM (contact Dr. Williams for alt. assignment, if needed)
+    <b>9/17 (Thurs):</b> Attend Dr. Benjamin's talk and [take notes](https://docs.google.com/document/d/1UCJ53QkXdVVgT8Sc1bOSMVCN97wisML3x7LXa1BYBgo/edit?usp=sharing) in DFPH at 7 PM (contact Dr. Williams for alt. assignment, if needed)
     </td>
   </tr>
   <tr>
