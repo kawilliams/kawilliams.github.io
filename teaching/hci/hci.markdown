@@ -273,7 +273,7 @@ All **reading** and **demos of design sprints** are due at 8:00 AM on the day of
     </td>
   </tr>
   <tr>
-    <td rowspan="2" id="this_week">3</td>
+    <td rowspan="2">3</td>
     <td>{{ site.data.hci_schedule.w3s1 }}</td>
     <td>Visual Design + Design Patterns</td>
     <td>
@@ -310,7 +310,7 @@ All **reading** and **demos of design sprints** are due at 8:00 AM on the day of
     </td>
   </tr>
   <tr>
-    <td rowspan="2">4</td>
+    <td rowspan="2" id="this_week">4</td>
     <td>{{ site.data.hci_schedule.w4s1 }}</td>
     <td><a href="/teaching/hci/quizzes/">Quiz 1</a>, <br/><a href="/teaching/hci/design-sprints/dimensions" >Design for Dimensions Intro</a> + Hack Day</td>
     <td>	
@@ -324,21 +324,25 @@ All **reading** and **demos of design sprints** are due at 8:00 AM on the day of
   </tr>
   <tr>
     <td>{{ site.data.hci_schedule.w4s2 }}</td>
-    <td>Data Visualization</td>
+    <td>Discuss works of Dr. Ruha Benjamin</td>
     <td>
-    <img class="watch" src="./images/display.svg" height="16" width="16"> (8 min) <a href="https://www.youtube.com/watch?v=AdSZJzb-aX8">The Art of Data Visualization</a><br>
-		<img class="reading" src="./images/book-open.svg" height="16" width="16"> <a href="https://medium.com/@kennelliott/39-studies-about-human-perception-in-30-minutes-4728f9e31a73">39 studies about human perception in 30 minutes</a> (read the article [~21 min read] <b>OR</b> watch the talk [23:06]: <img class="watch" src="./images/display.svg" height="16" width="16"> <a href="https://www.youtube.com/watch?v=s0J6EDvlN30">Accompanying Talk</a>)<br>
+    <i>As you read, take your usual notes, but also note lines or sections that evoke emotions in you.</i><br/>
+    <img class="reading" src="./images/book-open.svg" height="16" width="16"> <a href="https://www.ias.edu/ideas/race-after-technology">Race After Technology: Shining Light on the New Jim Code</a> by Ruha Benjamin<br/>
+    <img class="reading" src="./images/book-open.svg" height="16" width="16"> <a href="https://ssir.org/articles/entry/disrupting_the_gospel_of_tech_solutionism_to_build_tech_justice">Disrupting the Gospel of Tech Solutionism to Build Tech Justice</a> by Greta Byrum & Ruha Benjamin
+    <!--<img class="watch" src="./images/display.svg" height="16" width="16"> (8 min) <a href="https://www.youtube.com/watch?v=AdSZJzb-aX8">The Art of Data Visualization</a><br>
+		<img class="reading" src="./images/book-open.svg" height="16" width="16"> <a href="https://medium.com/@kennelliott/39-studies-about-human-perception-in-30-minutes-4728f9e31a73">39 studies about human perception in 30 minutes</a> (read the article [~21 min read] <b>OR</b> watch the talk [23:06]: <img class="watch" src="./images/display.svg" height="16" width="16"> <a href="https://www.youtube.com/watch?v=s0J6EDvlN30">Accompanying Talk</a>)<br> -->
     </td>
     <td>
-    <a href="{{ hw3.link }}">HW 3: Health Design</a>
+    <a href="{{ hw3.link }}">HW 3: Health Design is due {{ hw3.due }}</a><br/>
+    <b>9/17 (Thurs):</b> Attend Dr. Benjamin's talk in DFPH at 7 PM (contact Dr. Williams for alt. assignment, if needed)
     </td>
   </tr>
   <tr>
     <td rowspan="2">5</td>
     <td>{{ site.data.hci_schedule.w5s1 }}</td>
     <td>Fall Break</td>
-    <td></td>
-    <td></td>
+    <td>Fall Break</td>
+    <td>Fall Break/td>
   </tr>
   <tr>
     <td>{{ site.data.hci_schedule.w5s2 }}</td>
