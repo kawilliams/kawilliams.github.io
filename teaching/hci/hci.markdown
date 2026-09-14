@@ -324,7 +324,7 @@ All **reading** and **demos of design sprints** are due at 8:00 AM on the day of
   </tr>
   <tr>
     <td>{{ site.data.hci_schedule.w4s2 }}</td>
-    <td>Discuss works of Dr. Ruha Benjamin</td>
+    <td>Discuss works of Dr. Ruha Benjamin, 20 min to Hack on DS 1</td>
     <td>
     <i>As you read, take your usual notes, but also note lines or sections that evoke emotions in you.</i><br/>
     <img class="reading" src="./images/book-open.svg" height="16" width="16"> <a href="https://www.ias.edu/ideas/race-after-technology">Race After Technology: Shining Light on the New Jim Code</a> by Ruha Benjamin<br/>
@@ -334,7 +334,7 @@ All **reading** and **demos of design sprints** are due at 8:00 AM on the day of
     </td>
     <td>
     <a href="{{ hw3.link }}">HW 3: Health Design is due {{ hw3.due }}</a><br/>
-    <b>9/17 (Thurs):</b> Attend Dr. Benjamin's talk and [take notes](https://docs.google.com/document/d/1UCJ53QkXdVVgT8Sc1bOSMVCN97wisML3x7LXa1BYBgo/edit?usp=sharing) in DFPH at 7 PM (contact Dr. Williams for alt. assignment, if needed)
+    <b>9/17 (Thurs):</b> Attend Dr. Benjamin's talk and <a href="https://docs.google.com/document/d/1UCJ53QkXdVVgT8Sc1bOSMVCN97wisML3x7LXa1BYBgo/edit?usp=sharing">take notes</a> in DFPH at 7 PM (contact Dr. Williams for alt. assignment, if needed)
     </td>
   </tr>
   <tr>
