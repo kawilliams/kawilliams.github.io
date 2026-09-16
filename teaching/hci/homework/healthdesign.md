@@ -15,7 +15,7 @@ permalink: /teaching/hci/assignments/hw3
 * Group size: **Individual**
 * **AI Policy**: {{ site.ai-red }}. The only time you can use AI is in Step 5 (see below).
 * Assignment opens: {{ hw.opens }}
-* Due: {{ hw.due }}, *{{ hw.due_time }}*. 
+* Due: <s>{{ hw.due }}</s> <b>extended to Sunday, Sept 20</b>, *{{ hw.due_time }}*. 
 
 ## Overview 
 

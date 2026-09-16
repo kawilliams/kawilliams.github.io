@@ -333,7 +333,7 @@ All **reading** and **demos of design sprints** are due at 8:00 AM on the day of
 		<img class="reading" src="./images/book-open.svg" height="16" width="16"> <a href="https://medium.com/@kennelliott/39-studies-about-human-perception-in-30-minutes-4728f9e31a73">39 studies about human perception in 30 minutes</a> (read the article [~21 min read] <b>OR</b> watch the talk [23:06]: <img class="watch" src="./images/display.svg" height="16" width="16"> <a href="https://www.youtube.com/watch?v=s0J6EDvlN30">Accompanying Talk</a>)<br> -->
     </td>
     <td>
-    <a href="{{ hw3.link }}">HW 3: Health Design is due {{ hw3.due }}</a><br/>
+    <a href="{{ hw3.link }}">HW 3: Health Design is due <s>{{ hw3.due }}</s></a> <b>extended to Sunday, Sept 20</b><br/>
     <b>9/17 (Thurs):</b> Attend Dr. Benjamin's talk and <a href="https://docs.google.com/document/d/1UCJ53QkXdVVgT8Sc1bOSMVCN97wisML3x7LXa1BYBgo/edit?usp=sharing">take notes</a> in DFPH at 7 PM (contact Dr. Williams for alt. assignment, if needed)
     </td>
   </tr>
@@ -342,7 +342,7 @@ All **reading** and **demos of design sprints** are due at 8:00 AM on the day of
     <td>{{ site.data.hci_schedule.w5s1 }}</td>
     <td>Fall Break</td>
     <td>Fall Break</td>
-    <td>Fall Break/td>
+    <td>Fall Break</td>
   </tr>
   <tr>
     <td>{{ site.data.hci_schedule.w5s2 }}</td>
