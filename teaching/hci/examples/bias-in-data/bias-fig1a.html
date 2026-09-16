@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<meta charset="UTF-8">
+<title>Bias Visualization</title>
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<link rel="stylesheet" href="style/fig1-style.css">
+
+<!-- d3-regression to calculate line of best fit -->
+<script src="https://unpkg.com/d3-regression@1.3.9/dist/d3-regression.min.js"></script> 
+
+<!-- Import the d3 library -->
+<script src="https://d3js.org/d3.v6.min.js"></script>
+
+<!-- Script to create fig1A, written by Katy Williams -->
+<script src="script/fig1A.js"></script>
+
+<body>
+	<p><a href="https://github.com/kawilliams/bias-visualizations">Link to repo</a></p>
+
+<div id="visHoriz" class="visHoriz" style="width: 600px;">
+<svg id="fig1AHoriz"></svg>
+<p><a href="./data/figure1a_replicate_request.csv">Download dataset</a></p>
+</div>
+<div id="visVert" class="visVert" style="width: 600px;">
+<svg id="fig1AVert"></svg>
+<p><a href="./data/figure1a_replicate_request.csv">Download dataset</a></p>
+</div>
+
+</body>
+</html>

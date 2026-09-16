@@ -1,0 +1,47 @@
+/*.svg-container {
+	display: inline-block;
+    position: relative;
+    width: 100%;
+    padding-bottom: 100%;
+    vertical-align: top;
+    overflow: hidden;
+}
+
+.svg-content {
+    display: inline-block;
+    position: absolute;
+    top: 0;
+    left: 0;
+}*/
+
+
+#nextButton {
+	fill: lightsteelblue;
+	stroke: none;
+	rx: 5;
+
+}
+
+.svgtext {
+	font-family: Arial, sans-serif;
+	font-size: 12pt;
+}
+
+.commentary {
+    fill: #3a3b3c;
+}
+
+.toptext {
+    fill: #3a3b3c;
+}
+
+.caption {
+    fill: #3a3b3c;
+}
+
+/*text.labelClass {
+    font-size: 4px;
+}
+text.label {
+	font-size: 4px;
+}*/
