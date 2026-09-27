@@ -310,7 +310,7 @@ All **reading** and **demos of design sprints** are due at 8:00 AM on the day of
     </td>
   </tr>
   <tr>
-    <td rowspan="2" id="this_week">4</td>
+    <td rowspan="2" >4</td>
     <td>{{ site.data.hci_schedule.w4s1 }}</td>
     <td><a href="/teaching/hci/quizzes/">Quiz 1</a>, <br/><a href="/teaching/hci/design-sprints/dimensions" >Design for Dimensions Intro</a> + Hack Day</td>
     <td>	
@@ -361,7 +361,7 @@ All **reading** and **demos of design sprints** are due at 8:00 AM on the day of
     </td>
   </tr>
   <tr>
-    <td rowspan="2">6</td>
+    <td rowspan="2" id="this_week">6</td>
     <td>{{ site.data.hci_schedule.w6s1 }}</td>
     <td>Evaluation in HCI, Part 1</td>
     <td>
