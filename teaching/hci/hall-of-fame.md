@@ -35,6 +35,8 @@ permalink: /teaching/hci/hall-of-fame
 * Assorted students: [Slides of Good/Bad Design](https://docs.google.com/presentation/d/1_azEkhNANypysKkWe6Lyg-6c3SOy41YAq5U0Z6CUrC8/edit?usp=sharing) (Fall 2024)
 
 ## HW 2: Needfinding
+* Lucy Budde, "Needfinding: Understanding Sleep Beyond the ‘Sleep Score"
+* Bosisso Charles Takougnadi (TBC), "Homework 2: Need Finding -- Patient understanding of Health care data sharing" and privacy
 * Ellora Devulapally, "Needfinding: How Can We Better Assist Caregivers?<!--(https://medium.com/@ellora03/c3351ce76411) -->" (Fall 2025)
 * Kyle Hoffman, "Needfinding: Scheduling Healthcare Appointments <!--(https://medium.com/@kyhoffman/cf1937385051)-->" (Fall 2025)
 * Tyler Thompson, "Needfinding: Tracking Fitness Goals and Metrics through Wearables <!--(https://medium.com/@thompsontyler607/8451082de032)-->" (Fall 2025)
