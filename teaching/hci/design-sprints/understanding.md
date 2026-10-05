@@ -7,7 +7,7 @@ title: Design Sprint 2
 description: Design for Understanding
 permalink: /teaching/hci/design-sprints/understanding
 ---
-{% assign ds = site.data.hci_assignments | where: "id", "ds1" | first %}
+{% assign ds = site.data.hci_assignments | where: "id", "ds2" | first %}
 
 # Design for Understanding
 

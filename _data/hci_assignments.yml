@@ -75,7 +75,7 @@
   short_title: "DS #2"
   topic: "Design for Understanding"
   link: /teaching/hci/design-sprints/understanding
-  opens: "Wednesday, September 30"
+  opens: "Monday, October 5"
   due: "Wednesday, October 14"
   due_short: "10/14"
   due_time: "present @ 8:05 AM, in class, write-up due by 11:59 PM to Moodle"
@@ -86,7 +86,7 @@
   title: "Design Sprint #3: Design for A New World"
   short_title: "DS #3"
   topic: "Design for A New World"
-  link: /teaching/hci/assignments/ds3
+  link: /teaching/hci/design-sprints/another-world
   opens: "Monday, October 19"
   due: "Wednesday, November 4"
   due_short: "11/4"
@@ -98,7 +98,7 @@
   title: "Design Sprint #4: Redesign and Extend"
   short_title: "DS #4"
   topic: "Redesign and Extend"
-  link: /teaching/hci/assignments/ds4
+  link: /teaching/hci/design-sprints/redesign
   opens: "Wednesday, November 4"
   due: "Monday, December 7"
   due_short: "12/7"

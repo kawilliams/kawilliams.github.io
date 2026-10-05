@@ -8,11 +8,14 @@ description: Design for Another World
 permalink: /teaching/hci/design-sprints/another-world
 ---
 
+{% assign ds = site.data.hci_assignments | where: "id", "ds3" | first %}
+
 # Design for Another World
 
 * Group size: Teams of 3-4
-* Design sprint starts: Wednesday, October 15, in class.
-* Design sprint ends: Monday, November 3, in class (demo). [Design document](/teaching/hci/design-doc) due at *11:55 PM*. 
+* **AI Policy**: {{ site.ai-yellow }}
+* Design sprint starts: {{ ds.opens }}
+* Design sprints ends: {{ ds.due }}, {{ ds.due_time }}. [Design document](/teaching/hci/design-doc) due at *11:59 PM*.
 
 ## Overview 
 
