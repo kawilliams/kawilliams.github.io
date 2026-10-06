@@ -31,7 +31,7 @@ In this assignment, *as a team*, you will learn and practice:
     * **Persuasive lens:** In this framing, your goal is to design a compelling, narrative-driven, or interactive story. What will have the most long-lasting impact on users? What will they *remember*?
         * Since you’ll be working in teams of four (4) for this project, I recommend that you split your team into pairs, with each pair tackling one lens (*analyze* versus *persuade*). However, depending on your design, you may choose to allocate your resources in the way you see best.
     
-* **The Five Design-Sheet (FdS) Methodology**: Practice a structured, paper-first visualization ideation framework to create a divergence of ideas and to explore layouts, interactions, and data encodings before coding.
+* **The Five Design-Sheet (FdS) Methodology**: Practice a structured, paper-first visualization ideation framework to create a divergence of ideas and to explore layouts, interactions, and data encodings for both visualizations before coding.
 
 * **Web-based Interactive Implementation**: Develop web-based interactive visualizations using technologies appropriate for your team's skill level (e.g., Vega-Lite, D3.js, P5.js, Chart.js, Tableau Public)
 * **Technical Tradeoff Analysis and Critique**: Document the tensions between envisioned interactive features and technical implementation constraints, evaluating the tradeoffs between analytical clarity and persuasive storytelling.
@@ -46,7 +46,7 @@ Your team will select **one rich dataset** (defined below) and create **two dist
 1. **The Analytical Dashboard**: At least 3 linked/distinct charts focused on clarity and multi-perspective exploration.
 2. **The Persuasive Story/Visualization**: At least 3 charts OR a sophisticated narrative/scrollytelling/multimodal experience focused on impact.
 
-    **Recommended Team Allocation**: Split your team into pairs, with one pair focusing on the Analytical Dashboard and the other on the Persuasive Story. However, *the final design document and FdS process must represent the whole team's efforts*.
+    **Recommended Team Allocation**: Split your team into pairs, with one pair focusing on the Analytical Dashboard and the other on the Persuasive Story. However, *the final design document and FdS processes must represent the whole team's efforts*.
 
 ### Step-by-Step Instructions
 #### Step 1: Select and Audit Your Dataset
@@ -59,11 +59,11 @@ Select a clean or semi-clean dataset from repuatable repositories such as [CORGI
 You will need to **describe your dataset** in your write-up, including any **data cleaning you performed**, and **anomalies** you discovered.
 
 #### Step 2: Ideate using the Five Design Sheet (FdS) Framework
-Walk through all 5 stages of the [five design-sheet](/teaching/hci/papers/RobertsHeadleandRitsos-FiveDesignSheet.pdf) methodology as a team before writing code:
-* **Sheet 1**: Brainstorming and quick ideation
-* **Sheets 2, 3, 4**: Intial layout, encoding, and interaction designs for alternative concepts
-* **Sheet 5**: Realization sheet (the finalized design plan)
-* *Note*: Your team needs **1 set of 5 sheets** total for the project. Be sure to get feedback from classmates during this phase!
+Walk through all 5 stages of the [five design-sheet](/teaching/hci/papers/RobertsHeadleandRitsos-FiveDesignSheet.pdf) methodology as a team **for both visualizations** before writing code:
+* **Sheet 1**: Brainstorming and quick ideation (Dr. W, 2026: I recommend all group members work together on this page)
+* **Sheets 2, 3, 4**: Intial layout, encoding, and interaction designs for alternative concepts (Dr. W, 2026: I recommend each person in the group does one of these pages)
+* **Sheet 5**: Realization sheet (the finalized design plan) (Dr. W, 2026: I recommend all group members work together on this page)
+* *Note*: Your team needs **2 sets of 5 sheets** total for the project -- one for the analytical and one for the persuasive visualization. Try to get feedback from classmates or other students during this phase!
 
 **AI Policy 🤖:** You *may NOT* use AI assistants to assist with brainstorming, ideating, or sketching. All of these ideas should be your own. The reason for this is to build your creative muscles and to stretch your design thinking.
 
@@ -96,7 +96,7 @@ Draft a collaborative team [Design Document](/teaching/hci/design-doc) as a Medi
     &emsp;&emsp;<input type="checkbox"> Reflective Critique: Briefly comment on whether the AI output was useful or if it produced design assumptions that your team had to correct.<br/>
 
 <input type="checkbox"> <b>Dataset description</b>: Details on dataset origin, data cleaning steps, anomalies, and how data attributes mapped to visual channels<br/>
-<input type="checkbox"> <b>FdS documentation</b>: Images of all 5 sheets with narrative explanation of your ideation process<br/>
+<input type="checkbox"> <b>FdS documentation</b>: Images of all 10 sheets (5 for analytical, 5 for persuasive) with narrative explanation of your ideation process<br/>
 <input type="checkbox"> <b>Analytical visualization write-Up</b>: Embedded screenshots and analysis of your 3+ chart dashboard experience<br/>
 <input type="checkbox"> <b>Persuasive visualization write-Up</b>: Embedded screenshots and narrative explanation of your persuasive/storytelling design choices<br/>
 <input type="checkbox"> <b>Interactive web links</b>: Direct, clickable links to both live web-hosted implementations (or repository links)<br/>
@@ -118,7 +118,7 @@ Grading is based on the [Design Sprint #2 variation](https://docs.google.com/spr
 
 **Perceptually-grounded visual encodings**: Data channels (color, position, size, shape) are chosen intentionally based on data types (nominal, ordinal, quantitative) rather than arbitrary aesthetic choices.
 
-**Rigorous FdS process evidence**: Clear photos and explanations of all 5 Design Sheets demonstrating genuine ideation before coding.
+**Rigorous FdS process evidence**: Clear photos and explanations of all 5 Design Sheets for both visualizations, demonstrating genuine ideation before coding.
 
 **Functional interactivity & clear demo**: Web-hosted links allow smooth user interaction, and the embedded demo video clearly showcases interactive features, transitions, or audio.
 
