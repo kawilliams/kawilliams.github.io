@@ -250,7 +250,7 @@ All **reading** and **demos of design sprints** are due at 8:00 AM on the day of
     <td rowspan="2">2</td>
     <td>{{ site.data.hci_schedule.w2s1 }}</td>
     <td>Define, <a href="{{ hw2.link }}">HW 2: Needfinding Exercise</a> released</td>
-    <td><img class="reading" src="./images/book-open.svg" height="16" width="16"> <a href="https://dl.icdst.org/pdfs/files4/4bb8d08a9b309df7d86e62ec4056ceef.pdf">Ch. 1 from <i>The Design of Everyday Things</i></a><br>
+    <td><img class="reading" src="./images/book-open.svg" height="16" width="16"> <a href="https://drive.google.com/file/d/1nQvmNzbUI3KnNwkuFJlBy6Q8O51kJqxu/view?usp=sharing">Ch. 1 from <i>The Design of Everyday Things</i></a><br>
 		<img class="reading" src="./images/book-open.svg" height="16" width="16"> <a href="https://faculty.washington.edu/ajko/books/design-methods/understand">How to Understand Problems by Ko</a> (<a href="https://faculty.washington.edu/ajko/books/design-methods">homepage</a> for all of Ko's chapters)<br>
 		<img class="reading" src="./images/book-open.svg" height="16" width="16"> <a href="https://faculty.washington.edu/ajko/books/design-methods/problems">How to Define Problems by Ko</a><br>
 	  <!-- Read <img class="reading" src="./images/book-open.svg" height="16" width="16"> or watch <img class="watch" src="./images/display.svg" height="16" width="16"> something else about problem definition -->
@@ -366,7 +366,7 @@ All **reading** and **demos of design sprints** are due at 8:00 AM on the day of
     <td>Evaluation in HCI, Part 1</td>
     <td>
       <img class="reading" src="./images/book-open.svg" height="16" width="16">  <a href="https://people.cs.vt.edu/~gangwang/HCI.pdf#page=450">Research Ethics in HCI by Bruckman (p 450-469 in the PDF)</a><br>
-			<img class="reading" src="./images/book-open.svg" height="16" width="16">  <a href="https://dl.icdst.org/pdfs/files4/4bb8d08a9b309df7d86e62ec4056ceef.pdf">Ch. 2 from <i>The Design of Everyday Things</i></a><br>
+			<img class="reading" src="./images/book-open.svg" height="16" width="16">  <a href="https://drive.google.com/file/d/1nQvmNzbUI3KnNwkuFJlBy6Q8O51kJqxu/view?usp=sharing">Ch. 2 from <i>The Design of Everyday Things</i></a><br>
 			<img class="reading" src="./images/book-open.svg" height="16" width="16"> <b>Optional:</b> <a href="resources#visualization-tools">Resources on Vis Tools</a> (skim the relevant websites for tutorials)
     </td>
     <td></td> 
@@ -393,7 +393,7 @@ All **reading** and **demos of design sprints** are due at 8:00 AM on the day of
     <td>{{ site.data.hci_schedule.w7s2 }}</td>
     <td>Hack: <a href="/teaching/hci/design-sprints/understanding">Design for Understanding</a></td>
     <td>
-    <img class="reading" src="./images/book-open.svg" height="16" width="16">  <a href="https://dl.icdst.org/pdfs/files4/4bb8d08a9b309df7d86e62ec4056ceef.pdf">Ch. 5 from <i>The Design of Everyday Things</i></a>
+    <img class="reading" src="./images/book-open.svg" height="16" width="16">  <a href="https://drive.google.com/file/d/1nQvmNzbUI3KnNwkuFJlBy6Q8O51kJqxu/view?usp=sharing">Ch. 5 from <i>The Design of Everyday Things</i></a>
     </td>
     <!-- <img class="watch" src="./images/display.svg" height="16" width="16"> (7 min) <a href="https://www.youtube.com/watch?v=A88E4DH2asQ">Adventures in Universal Design</a><br>
 		<img class="reading" src="./images/book-open.svg" height="16" width="16">  <a href="http://www.cs.cmu.edu/~io/publications/10MankoffASSETS.pdf">Disability Studies as a Source of Critical Inquiry for Assistive Technology</a><br>
@@ -451,7 +451,7 @@ All **reading** and **demos of design sprints** are due at 8:00 AM on the day of
     <td>
     <img class="reading" src="./images/book-open.svg" height="16" width="16"> <a href="https://www.interaction-design.org/literature/book/the-glossary-of-human-computer-interaction/tangible-interaction">Tangible Interaction by Hornecker</a><br>
 			<img class="watch" src="./images/display.svg" height="16" width="16"> (13 min) <a href="https://www.youtube.com/watch?v=u8tnYt30L-A">How Wearable Technology Will Change Our Lives by Tudela</a><br>
-			<img class="reading" src="./images/book-open.svg" height="16" width="16"> <a href="https://dl.icdst.org/pdfs/files4/4bb8d08a9b309df7d86e62ec4056ceef.pdf">Ch. 7 from <i>The Design of Everyday Things</i></a>
+			<img class="reading" src="./images/book-open.svg" height="16" width="16"> <a href="https://drive.google.com/file/d/1nQvmNzbUI3KnNwkuFJlBy6Q8O51kJqxu/view?usp=sharing">Ch. 7 from <i>The Design of Everyday Things</i></a>
     </td>
     <td><a href="{{ hw4.link }}">HW 4: Accessibility</a> is due {{ hw4.due }}</td>
   </tr>
