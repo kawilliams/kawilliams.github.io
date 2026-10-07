@@ -411,6 +411,9 @@ All **reading** and **demos of design sprints** are due at 8:00 AM on the day of
     <img class="reading" src="./images/book-open.svg" height="16" width="16"> <i>Against Technoableism</i> by Ashley Shew, <a href="https://drive.google.com/file/d/1EacVgq1yIadAlaOWIzWNodCoEu_96a7l/view?usp=sharing">Chapter 1</a> and <a href="https://drive.google.com/file/d/1LWPhm4fWdmHVVVUOKEuaBXTHFmoYXreu/view?usp=sharing">Chapter 4</a><br>
 		<!-- <img class="reading" src="./images/book-open.svg" height="16" width="16">  <a href="http://www.cs.cmu.edu/~io/publications/10MankoffASSETS.pdf">Disability Studies as a Source of Critical Inquiry for Assistive Technology</a><br> -->
 		<img class="reading" src="./images/book-open.svg" height="16" width="16">  <a href="http://web.mit.edu/6.813/www/sp18/classes/18-accessibility/">Accessibility</a><br>
+    <img class="reading" src="./images/book-open.svg" height="16" width="16">  <a href="https://docs.google.com/document/d/1GX0I5aTvwNAUYNYE-TcmqATZKZI6Wwg3tBvyNBmEAEs/edit?usp=sharing">Follow the instructions to set up VS Code and Live Server</a><br>
+    <img class="reading" src="./images/book-open.svg" height="16" width="16">  <a href="https://docs.google.com/document/d/1KaGkkT48gdmrYGdKsB2_xj01UAR827Pnx7XQiIBBctQ/edit?usp=sharing">Code along with this assignment for 1 hour [NOT FOR A GRADE]</a><br>
+   
 		<!-- <img class="reading" src="./images/book-open.svg" height="16" width="16">  <a href="https://dl.icdst.org/pdfs/files4/4bb8d08a9b309df7d86e62ec4056ceef.pdf">Ch. 5 from <i>The Design of Everyday Things</i></a> -->
     </td>
     <td></td>
