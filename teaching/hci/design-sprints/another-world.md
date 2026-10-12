@@ -35,14 +35,14 @@ You can view some previous [Hall of Fame examples](../hall-of-fame.md) from our 
 
 **VR Viewers:** I have purchased several [Google Cardboard](https://www.youtube.com/watch?v=SxAj2lyX4oU) viewers for us to use. If you haven't used this before, you essentially can insert your phone into a low-cost VR viewer. It uses a binocular viewing port (two separate lenses) that can simulate depth in a virtual scene. Strapped to your face, the viewer uses your phone's gyroscope to track your movements and allow you to move around a scene. To use it, visit your VR scene in the web browser on your phone, then insert your phone in the viewer. Check out some of the [apps that have been developed for Google Cardboard](https://play.google.com/store/search?q=cardboard+apps&c=apps&hl=en_US&pli=1) for some ideas of what is possible.
 
-**Unity:** [Unity](https://unity.com/) is a development platform and game engine for AR and VR. It relies primarily on coding in C#. Find [resources](https://learn.unity.com/) on the web to get started.
+**Unity:** [Unity](https://unity.com/) is a development platform and game engine for AR and VR. It relies primarily on coding in C#. Find [resources](https://learn.unity.com/) on the web to get started. **If you have taken Computer Graphics and have experience programming in Unity, you may try this option.** Otherwise, read about A-Frame (below).
 
 **A-Frame:** [A-Frame](https://aframe.io/) is a simple, web-based design platform that uses HTML to create VR scenes. In addition, a companion website - [Glitch](https://glitch.com/) - provides a fantastic web-based development environment that will allow you to see your code + output simultaneously. Although the building blocks of A-Frame are basic, don’t underestimate its powerful potential. This is a good option if you prefer a "coding-lite" approach. Before you start, check out all of the [interesting work](https://aframe.io/blog/) people in the A-Frame community are up to. You need not use A-Frame. If your group is familiar with an alternative (Unity, etc.), feel free to use that instead.
 
 
 ## Deliverables
 
-* As always: Your group's design reflection as a blog post on Medium. **You WILL need a demo video.** Follow the guidelines in the [Design Doc](/teaching/hci/design-doc) explanation
+* As always: Your group's design reflection as a **blog post on Medium**. **You WILL need a demo video.** Follow the guidelines in the [Design Doc](/teaching/hci/design-doc) explanation
 * Your VR experience should be publicly accessible so that others can visit it (if approved by all group members). **If it's public, then you need to include this link in your design doc.** It’s fine if this is a link from Glitch (which is probably the easiest place to develop your work).
     * The VR experience link may break over time or the libraries used may get out of date. **This is why we make a video: the video link should stay stable over time.** Also, it's more likely that a reader's browser would support a video than a graphics-intensive VR environment.
 * One group member should submit the Medium link on Moodle. *Be sure to notify all of your group members once you have submitted the post!*
