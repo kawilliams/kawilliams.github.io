@@ -496,7 +496,7 @@ Wearable Tech to Improve Women's Health Research</a>
   </tr>
   <tr>
     <td>{{ site.data.hci_schedule.w12s2 }}</td>
-    <td>Optional Hack: <a href="/teaching/hci/design-sprints/redesign">Re-design and Extend</a> 
+    <td>Optional Hack: <a href="/teaching/hci/design-sprints/redesign">Re-design and Extend</a> or writing lesson
     <!--(at DACE Studio -- north basement of Chambers (flagpole side))-->
     </td>
     <td>No prep, besides work on DS 4</td>
