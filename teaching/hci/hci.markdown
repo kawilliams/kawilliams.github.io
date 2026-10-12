@@ -378,7 +378,7 @@ All **reading** and **demos of design sprints** are due at 8:00 AM on the day of
     <td>DS: <a href="/teaching/hci/design-sprints/dimensions">Design for Dimensions</a></td>
   </tr>
   <tr>
-    <td rowspan="2" id="this_week">7</td>
+    <td rowspan="2">7</td>
     <td>{{ site.data.hci_schedule.w7s1 }}</td>
     <td>Evaluation Part 2</td>
     <td>
@@ -403,7 +403,7 @@ All **reading** and **demos of design sprints** are due at 8:00 AM on the day of
     <td></td> 
   </tr>
   <tr>
-    <td rowspan="2" >8</td>
+    <td rowspan="2" id="this_week">8</td>
     <td>{{ site.data.hci_schedule.w8s1 }}</td>
     <td>Accessibility + Universal Design</td>
     <td>
