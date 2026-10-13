@@ -96,9 +96,9 @@ After your time using the keyboard, your blog post should include:
 
 **Given what you have learned about web accessibility, I *will* be evaluating your blog post for accessible features**:
 
-* **Physical Accessibility**: This means that your map design needs to be accessible to people with varying colorblindness and needs to zoom well. All images need to have captions and alt text. 
+* **Physical Accessibility**: This means that your map design needs to be accessible to people with varying colorblindness and needs to zoom well. All images need to have captions and alt text. **In a Google Doc, right click on your uploaded image and click "Alt text"**.
 
-* **Digital Accessbility**: This means that URLs should be included as hyperlinks and annotations on your screenshots need to accommodate varying colorblindness. All images need to have captions and alt text. 
+* **Digital Accessbility**: This means that URLs should be included as hyperlinks and annotations on your screenshots need to accommodate varying colorblindness. All images need to have captions and alt text. **In a Google Doc, right click on your uploaded image and click "Alt text"**.
 
 **🤖 AI policy:** You *may* use AI to help with this work. However, you are responsible for the correctness of the output. I also expect a sentence or two describing this process: what did you prompt? What was correct and what needed fixing?
 
@@ -124,7 +124,7 @@ Your document must include:
 
 ### Criteria for Success and Grading
 
-Grading will be based on a *variation* of the [design rubric](https://docs.google.com/spreadsheets/d/1aI9LcmVZmh_977G__U4Guz_rPRCwWZs26J_yHXbhSyY/edit?usp=sharing).
+Grading will be based on *this variation* of the [design rubric](https://docs.google.com/spreadsheets/d/1U7l12fZNOxmRihshelqOiU62DoX5_WJFZt_hyX3d8Tw/edit?usp=sharing).
 
 #### What High-Quality Work Looks Like
 <input type="checkbox"> <b>Following audit constraints</b>: Demonstration of genuine, thoughtful engagement with the full audit period (24 hours for physical; 4 hours for digital) without cutting corners.<br/>
