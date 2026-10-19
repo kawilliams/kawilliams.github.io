@@ -403,7 +403,7 @@ All **reading** and **demos of design sprints** are due at 8:00 AM on the day of
     <td></td> 
   </tr>
   <tr>
-    <td rowspan="2" id="this_week">8</td>
+    <td rowspan="2">8</td>
     <td>{{ site.data.hci_schedule.w8s1 }}</td>
     <td>Accessibility + Universal Design</td>
     <td>
@@ -425,7 +425,7 @@ All **reading** and **demos of design sprints** are due at 8:00 AM on the day of
     <td><a href="/teaching/hci/design-sprints/understanding">DS: Design for Understanding</a>	</td>
   </tr>
   <tr>
-    <td rowspan="2">9</td>
+    <td rowspan="2" id="this_week">9</td>
     <td>{{ site.data.hci_schedule.w9s1 }}</td>
     <td>
     <a href="/teaching/hci/design-sprints/another-world">Design for Another World</a> Intro, Augmented + Virtual Reality
