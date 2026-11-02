@@ -449,7 +449,7 @@ All **reading** and **demos of design sprints** are due at 8:00 AM on the day of
     <td></td>
   </tr>
   <tr>
-    <td rowspan="2" id="this_week">10</td>
+    <td rowspan="2">10</td>
     <td>{{ site.data.hci_schedule.w10s1 }}</td>
     <td>Tangible + Wearable Interfaces</td>
     <td>
@@ -472,12 +472,12 @@ All **reading** and **demos of design sprints** are due at 8:00 AM on the day of
     <td></td>
   </tr>
   <tr>
-    <td rowspan="2">11</td>
+    <td rowspan="2" id="this_week">11</td>
     <td>{{ site.data.hci_schedule.w11s1 }}</td>
     <td>Affective Computing and partial Hack Day for <a href="/teaching/hci/design-sprints/another-world">Design for Another World</a></td>
     <td>
     <img class="reading" src="./images/book-open.svg" height="16" width="16"><a href="https://www.interaction-design.org/literature/topics/affective-computing"> Affective Computing</a><br>
-    <img class="video" src="./images/display.svg" height="16" width="16"><a href="https://www.media.mit.edu/groups/affective-computing/overview/"> [2:53] Watch the video midway down the page: "Affective Computing overview" by Rosalind Picard</a><br>
+    <img class="video" src="./images/display.svg" height="16" width="16"><a href="https://www.youtube.com/watch?v=5xF0VkB9k88"> [3:51] "Affective Computing overview" by Rosalind Picard</a><br>
     <img class="video" src="./images/display.svg" height="16" width="16"><a href="https://www.youtube.com/watch?v=rzvBzbbcJ7o/"> [7:44]
 Wearable Tech to Improve Women's Health Research</a>
     </td>
