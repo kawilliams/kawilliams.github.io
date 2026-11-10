@@ -472,7 +472,7 @@ All **reading** and **demos of design sprints** are due at 8:00 AM on the day of
     <td></td>
   </tr>
   <tr>
-    <td rowspan="2" id="this_week">11</td>
+    <td rowspan="2">11</td>
     <td>{{ site.data.hci_schedule.w11s1 }}</td>
     <td>Affective Computing and partial Hack Day for <a href="/teaching/hci/design-sprints/another-world">Design for Another World</a></td>
     <td>
@@ -490,7 +490,7 @@ Wearable Tech to Improve Women's Health Research</a>
     <td><a href="/teaching/hci/design-sprints/another-world">DS: Design for Another World</a></td>
   </tr>
   <tr>
-  <td rowspan="2">12</td>
+  <td rowspan="2" id="this_week">12</td>
     <td>{{ site.data.hci_schedule.w12s1 }}</td>
     <td>Hack: <a href="/teaching/hci/design-sprints/redesign">Re-design and Extend</a> Intro</td>
     <td>No prep, besides work on DS 4</td>
@@ -523,7 +523,8 @@ Wearable Tech to Improve Women's Health Research</a>
     <!-- <td>11/17</td>
     <td>Hack Day: <a href="/teaching/hci/design-sprints/redesign">Re-design and Extend</a></td>
     <td>No prep</td> -->
-    <td>Schedule a time to meet with Dr. Williams on 11/18 or 11/19</td>
+    <td>Schedule a time to meet with Dr. Williams on 11/18 or 11/19 <br>
+    <a href="/teaching/hci/design-sprints/redesign">Re-design and Extend Checkpoint</a> is due Friday 11/20 by 11:59 PM</td>
   </tr>
   <tr>
   <td rowspan="2">14</td>
@@ -542,7 +543,7 @@ Wearable Tech to Improve Women's Health Research</a>
     <td rowspan="2">15</td>
     <td>{{ site.data.hci_schedule.w15s1 }}</td>
     <td>Hack Day: <a href="/teaching/hci/design-sprints/redesign">Re-design and Extend</a></td>
-    <td><a href="/teaching/hci/design-sprints/redesign">Re-design and Extend Checkpoint</a> is due by 11:55 PM</td>
+    <td></td>
     <td></td>
   </tr>
   <tr>
