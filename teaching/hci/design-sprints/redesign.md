@@ -50,6 +50,16 @@ You need **3 design options for each page** so that you can gain useful feedback
 
 **TOTAL MOODBOARDS: 2 (one per parlor)**
 
+#### Accessibility within your designs
+Given that *everyone* likes ice cream, we should include aspects of **universal design** in your sketches and final prototypes. Since these are webpages, refer to guidance from WCAG and [class notes](https://drive.google.com/drive/folders/1NYsHqqTq45qhAaeVb7YOKqyE0YQZ4VVN?usp=drive_link) and [class HTML activity](https://docs.google.com/document/d/1KaGkkT48gdmrYGdKsB2_xj01UAR827Pnx7XQiIBBctQ/edit?usp=sharing).
+
+Things I'll be looking for (an incomplete list):
+* font size: are fonts large enough?
+* color choices: are color choices made with accessibility in mind? *This is important if there's information being conveyed only through color (e.g., green means in-stock, red means out of stock). However, if the color is only used for aesthetics, this is generally fine.*
+* information hierarchy: is the sketch/prototype laid out in a way such that the information importance is clear?
+
+
+
 ### User Feedback
 You should show your sketches to 4-5 people. One person should be from this class, the remaining people can be students, staff, faculty, or town residents.
 
@@ -63,9 +73,13 @@ Synthesize the feedback from your users into actionable points that your group w
 
 You should build **high-fidelity prototypes** of these websites. You can choose to use Figma to do this, or choose other tools like [Canva](https://www.canva.com/) or even PowerPoint. The websites should also be **interactive** in some way -- at minimum, I expect to be able to click a button on one page to be taken to a different page.
 
-**IN PROGRESS**
+**TOTAL NUMBER OF FIGMA PAGES: 3 web pages * 2 ice cream parlors = 6 pages**
 
-# OLD ASSIGNMENT
+### Evaluation
+You will need to test your designs with real users, with a goal in mind. Given that you have 2 ice cream parlors and several pages per ice cream parlor, you should think about what kinds of questions you want to ask. 
+
+
+# STOP (WORK IN PROGRESS, OLD ASSIGNMENT IS BELOW)
 
 ### Evaluate
 
