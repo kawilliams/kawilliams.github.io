@@ -9,8 +9,8 @@ permalink: /teaching/hci/design-sprints/redesign
 ---
 
 # Re-design and Extend
-
-* Group size: Teams of 3-4
+* Group size: **Teams of 3-4**
+* **AI Policy**: {{ site.ai-yellow }}.
 * Design sprint starts: Monday, November 9, in class. *Thanksgiving break is in this timeframe, don't be misled by the due date.*
 * **Design sprint checkpoint: Friday, November 20 by 11:59 PM (due to Moodle)**.
 * Design sprint **ends**: Monday, December 7 in class (demo). Design document due at *11:59 PM*. 
@@ -25,6 +25,8 @@ Start by picking two ice cream parlors. With your groups, review their website a
 
 I encourage you to visit the stores in person (and try some ice cream!). Like we saw with Carburritos, it's hard to fully capture the vibe of a place using only a website. Check out these stores and what it's like. Who shows up? What do people often buy? How is the customer service?
 
+**🤖 AI Policy** RED: you should not use AI for this task. Given how small some of these businesses are, it will likely pull false information. Instead, look at their websites and visit their stores. 
+
 ### Comparison and Personas
 
 Now directly compare the two locations, using the information gained from the Background step. By "compare," you should present both ice cream stores in their best light, describing any commonalities that they share but highlighting the differences that make each store unique. *Remember, if you're designing/building a website for a company, they want you to build something that draws in customers.*
@@ -32,6 +34,8 @@ Now directly compare the two locations, using the information gained from the Ba
 With this knowledge, create **two personas, one per ice cream parlor.** Be sure to include the usual level of detail about your personas, then **include a short scenario for why that person is now at that ice cream parlor.**
 
 Your personas and scenarios should inform your designs in your next steps so make sure they are robust and you and your teammates have removed any ambiguity.
+
+**🤖 AI Policy** RED: Designing these personas and scenarios yourselves will better help you internalize the needs of your users. Using AI and just reading the information won't let it really sink in.
 
 ### Sketching and Mood Boards
 
@@ -50,6 +54,8 @@ You need **3 design options for each page** so that you can gain useful feedback
 
 **TOTAL MOODBOARDS: 2 (one per parlor)**
 
+**🤖 AI Policy** YELLOW: You can use AI to assist with the moodboards, since those are often digital. However, the sketches should be pencil-and-paper sketches (with no AI assistance) so that you are actively deciding where each element goes on the page.
+
 #### Accessibility within your designs
 Given that *everyone* likes ice cream, we should include aspects of **universal design** in your sketches and final prototypes. Since these are webpages, refer to guidance from WCAG and [class notes](https://drive.google.com/drive/folders/1NYsHqqTq45qhAaeVb7YOKqyE0YQZ4VVN?usp=drive_link) and [class HTML activity](https://docs.google.com/document/d/1KaGkkT48gdmrYGdKsB2_xj01UAR827Pnx7XQiIBBctQ/edit?usp=sharing).
 
@@ -58,12 +64,15 @@ Things I'll be looking for (an incomplete list):
 * color choices: are color choices made with accessibility in mind? *This is important if there's information being conveyed only through color (e.g., green means in-stock, red means out of stock). However, if the color is only used for aesthetics, this is generally fine.*
 * information hierarchy: is the sketch/prototype laid out in a way such that the information importance is clear?
 
+**🤖 AI Policy** YELLOW: You can use AI to check the accessibility of your designs and to help you check how well you align with the advice in the WCAG.
 
 
 ### User Feedback
 You should show your sketches to 4-5 people. One person should be from this class, the remaining people can be students, staff, faculty, or town residents.
 
 For each session, be sure to give the user some context about the project and what you're hoping to learn from them. Be mindful of alternating which ice cream parlor is shown first to your participants so that one isn't biased over the other. Take notes of what they liked, didn't like, and found confusing to use for design improvements later.
+
+**🤖 AI Policy** RED: These should be real people and your real notes. If you want a note-taker, have two people present for the feedback session (one guiding, one note-taking). 
 
 ### Synthesis and Design
 
@@ -74,6 +83,8 @@ Synthesize the feedback from your users into actionable points that your group w
 You should build **high-fidelity prototypes** of these websites. You can choose to use Figma to do this, or choose other tools like [Canva](https://www.canva.com/) or even PowerPoint. The websites should also be **interactive** in some way -- at minimum, I expect to be able to click a button on one page to be taken to a different page.
 
 **TOTAL NUMBER OF FIGMA PAGES: 3 web pages * 2 ice cream parlors = 6 pages**
+
+**🤖 AI Policy** GREEN: You can use AI to build the high-fidelity prototypes, *bearing in mind* the viceral reaction that users can have when it's AI slop/done poorly. Always keep functionality and taste at the forefront. If you choose not to use AI, be sure to describe your process. If you choose to use AI, be sure to note what tools you used and describe your process.
 
 ### Evaluation
 You will need to test your designs with real users, with a goal in mind. Given that you have 2 ice cream parlors and several pages per ice cream parlor, you should think about what kinds of evaluation you want to conduct. **It is up to you to craft your evaluation -- the evaluation type, contents/questions, and number of participants are all decisions that you and your group need to make.** *When in doubt, run your evaluation ideas by me.*
@@ -99,13 +110,14 @@ By this point in the semester, your group should be able to make informed and ca
 
 **AT BARE MINIMUM, your work should be evaluated by at least 4 people not in your group and needs to ask about 1 accessibility feature (broadly speaking).**
 
+**🤖 AI Policy** RED (for the evaluations): These should be real people and your real notes. If you want a note-taker, have two people present for the feedback session (one guiding, one note-taking). 
 
 
 ### Reflect and Conclude
 
 Reflect on the feedback you received. What might you change, if you had more time? What was confusing for your users? What could be improved?
 
-
+**🤖 AI Policy** YELLOW: For all of the blog post writing, you should put your thoughts down into an initial draft. You may use AI to polish and edit as you see fit.
 
 
 ## Deliverables
