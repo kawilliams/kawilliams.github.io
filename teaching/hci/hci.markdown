@@ -490,7 +490,7 @@ Wearable Tech to Improve Women's Health Research</a>
     <td><a href="/teaching/hci/design-sprints/another-world">DS: Design for Another World</a></td>
   </tr>
   <tr>
-  <td rowspan="2" id="this_week">12</td>
+  <td rowspan="2">12</td>
     <td>{{ site.data.hci_schedule.w12s1 }}</td>
     <td>Hack: <a href="/teaching/hci/design-sprints/redesign">Re-design and Extend</a> Intro</td>
     <td>No prep, besides work on DS 4</td>
@@ -505,7 +505,7 @@ Wearable Tech to Improve Women's Health Research</a>
     <td></td>
   </tr>
   <tr>
-  <td rowspan="2">13</td>
+  <td rowspan="2" id="this_week">13</td>
     <td>{{ site.data.hci_schedule.w13s1 }}</td>
     <td>Interface Metaphors + Input Techniques</td>
     <td>
@@ -518,13 +518,13 @@ Wearable Tech to Improve Women's Health Research</a>
   </tr>
   <tr>
     <td>{{ site.data.hci_schedule.w13s2 }}</td>
-    <td><a href="/teaching/hci/oral-exam">Oral Exam</a></td>
-    <td>No class - schedule a time to meet with Dr. Williams on Wed/Thurs</td>
+    <td><b>Regular class: Hack for <a href="/teaching/hci/design-sprints/redesign">DS #4: Re-design and Extend</a></b></td>
+    <td><b>There IS CLASS today</b>, oral exam is moved to after break</td>
     <!-- <td>11/17</td>
     <td>Hack Day: <a href="/teaching/hci/design-sprints/redesign">Re-design and Extend</a></td>
     <td>No prep</td> -->
-    <td>Schedule a time to meet with Dr. Williams on 11/18 or 11/19 <br>
-    <a href="/teaching/hci/design-sprints/redesign">Re-design and Extend Checkpoint</a> is due Friday 11/20 by 11:59 PM</td>
+    <td>
+    <a href="/teaching/hci/design-sprints/redesign">Re-design and Extend Checkpoint</a> is due <b>Friday 11/20</b> by 11:59 PM</td>
   </tr>
   <tr>
   <td rowspan="2">14</td>
@@ -542,8 +542,8 @@ Wearable Tech to Improve Women's Health Research</a>
   <tr>
     <td rowspan="2">15</td>
     <td>{{ site.data.hci_schedule.w15s1 }}</td>
-    <td>Hack Day: <a href="/teaching/hci/design-sprints/redesign">Re-design and Extend</a></td>
-    <td></td>
+    <td><a href="/teaching/hci/oral-exam">Oral Exam</a></td>
+    <td><b>NO CLASS today -- schedule a time for your oral exam with Dr. W</b></td>
     <td></td>
   </tr>
   <tr>
