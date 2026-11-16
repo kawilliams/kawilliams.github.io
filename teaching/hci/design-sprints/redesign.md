@@ -117,7 +117,17 @@ Reflect on the feedback you received. What might you change, if you had more tim
     * Three sketches of your website ideas (I expect to see 2 or more distinct ideas, with the third sketch fleshing out the idea that you plan to execute)
     * An initial attempt at a moodboard for each ice cream parlor
 
-### Final Deliverables
+### Final Deliverable: Demo is due in-class on Mon, Dec 7, blog post is due by 11:59 PM that night
+
+For the final blog post, you will need:
+* everything from the checkpoint
+* a discussion of all of your sketches and moodboards
+* a note of how you kept accessibility in mind throughout your designs
+* a recap of the user feedback from your sketches/mood boards
+* a synthesis of the user feedback and how that impacts your plans for your Figma/high-fidelity prototypes
+* a reflection about what you learned from the process and what you would change if you had more time.
+
+### Submission information
 * As always: Your group's design reflection as a blog post on Medium. **You WILL need a demo video that explains your design choices, since the visual identity is so core to this assignment. Specifically, you should point out any features or design choices you made that were either related to the identity of the ice cream parlor or were feedback from your users.** 
     <!-- * [If applicable] Your VR experience should be publicly accessible so that others can visit it. **Include this link in your design doc.**  -->
 * Submit the link of each blog post along with the names of your group members to Moodle.
