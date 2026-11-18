@@ -126,3 +126,14 @@
   due_short: "10/21, in class"
   due_time: "after 30 min"
   weight: "50%"
+
+- id: oe
+  number: 1
+  title: "Oral Exam"
+  short_title: "Oral Exam"
+  topic: "To be announced in class"
+  opens: "By appointment, Nov. 30 and Dec. 1"
+  due: "30 min"
+  due_short: "11/30, by appt."
+  due_time: "after 30 min"
+  weight: "15%"

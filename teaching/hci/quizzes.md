@@ -32,5 +32,5 @@ How I see it working out:
 
 | Quiz | Topics | Who | Weight | Due | 
 |-------|-------|-----|--------|-----|
-{% for hw in site.data.hci_assignments offset:8 %}| {{ hw.number }}. {{ hw.title }} | {{ hw.topic }} | You | {{ hw.weight }} | {{ hw.due_short }} |
+{% for hw in site.data.hci_assignments offset:8 limit:2 %}| {{ hw.number }}. {{ hw.title }} | {{ hw.topic }} | You | {{ hw.weight }} | {{ hw.due_short }} |
 {% endfor %}
