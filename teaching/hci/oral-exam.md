@@ -28,7 +28,7 @@ We will have one oral exam that will serve as the midterm grade. Sign up for a t
 
 ## Format
 
-An oral exam will function like an interview. You will sign up for a time slot during the oral exam period during which you and I will meet. The oral exam will be a ~15 minute conversation and will typically consist of just a few (1-3) questions that can range from theory to applying those theories. This is your opportunity to demonstrate how you can apply the things you have learned throughout the semester, in a way not dissimilar from what you might be asked about in an interview for a job role as a UX designer or UX researcher. I may ask follow-up questions based on your responses or provide additional prompts and hints.
+An oral exam will function like an interview. You will sign up for a 20-minute time slot during the oral exam period during which you and I will meet. The oral exam will be a ~15 minute conversation and will typically consist of just a few (1-3) questions that can range from theory to applying those theories. This is your opportunity to demonstrate how you can apply the things you have learned throughout the semester, in a way not dissimilar from what you might be asked about in an interview for a job role as a UX designer or UX researcher. I may ask follow-up questions based on your responses or provide additional prompts and hints.
 
 ## Grading
 
